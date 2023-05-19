@@ -18,7 +18,7 @@ def generate_heading() -> None:
     README_GENERATOR.new_line(f"> Last Updated {now} UTC+5 (Asia/Ashgabat)")
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
-        "A daily updated summary of the most frequent types of security"
+        "An hourly updated summary of the most frequent types of security"
         " incidents currently being reported from different sources."
     )
     README_GENERATOR.new_line()
@@ -27,6 +27,16 @@ def generate_heading() -> None:
         " [here](./docs/README.md)."
     )
     README_GENERATOR.new_line()
+    README_GENERATOR.new_line(
+        "This is a fork of an awesome project [CyberOwl by karimhabush](https://github.com/karimhabush/cyberowl)."
+        " I want to adapt it for my own non-commercial needs."
+        " Moreover, to train my programming skills and contribute to the community."
+        " I will appreciate any feedback!"
+    )
+    README_GENERATOR.new_line()
+    README_GENERATOR.new_line(
+        "Sincerely, little owlet Nuryagdy Muhyyev! :purple_heart:"
+    )
     README_GENERATOR.new_line("---")
 
 
