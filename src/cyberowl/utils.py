@@ -1,5 +1,6 @@
 import os
 from datetime import datetime, timezone
+import pytz
 
 from mdtemplate import MDTemplate
 from settings import README_GENERATOR
@@ -10,10 +11,11 @@ def generate_heading() -> None:
     """
     Generates the heading of the readme file.
     """
-    now = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M:%S")
+    agTZ = pytz.timezone("Asia/Ashgabat")
+    now = datetime.now(agTZ).strftime("%d/%m/%Y %H:%M:%S")
     README_GENERATOR.new_line("<div id='top'></div>")
-    README_GENERATOR.new_header(level=1, text="CyberOwl")
-    README_GENERATOR.new_line(f"> Last Updated {now} UTC")
+    README_GENERATOR.new_header(level=1, text="OwlEyes")
+    README_GENERATOR.new_line(f"> Last Updated {now} UTC+5 (Asia/Ashgabat)")
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
         "A daily updated summary of the most frequent types of security"
@@ -33,11 +35,13 @@ def generate_table_of_content() -> None:
     Generates the table of content.
     """
     README_GENERATOR.generate_table(CYBEROWL_SOURCES)
+    """
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
         "> Suggest a source by opening an [issue]"
         "(https://github.com/karimhabush/cyberowl/issues)! :raised_hands:"
     )
+    """
 
 
 def generate_alerts_for_readme(source, alerts: list) -> None:
