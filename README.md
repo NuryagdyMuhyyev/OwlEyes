@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/05/2023 07:40:48 UTC
+ > Last Updated 19/05/2023 07:47:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,22 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/09/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 09, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0389/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2023|
+ |[Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2023|
+ |[Multiples vulnérabilités dans TrendMicro Apex One et Apex Central](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One et Apex Central. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 17 mai 2023|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 17 mai 2023|
+ |[Multiples vulnérabilités dans les produits VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
+ |[Multiples vulnérabilités dans TrendMicro Mobile Security (entreprise)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -55,50 +71,6 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230517)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 17 May 2023|
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Safari, tvOS, iOS and iPadOS information disclosure (CVE-2023-32402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Apple Safari, tvOS, iOS and iPadOS code execution (CVE-2023-32373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Apple iOS and iPadOS security bypass (CVE-2023-32411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Apple Safari, iOS and iPadOS security bypass (CVE-2023-32409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Apple Safari, iOS and iPadOS information disclosure (CVE-2023-28204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Apple iOS and iPadOS security bypass (CVE-2023-32388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Bumsys cross-site request forgery (CVE-2023-2552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282" class="noirorange"><b>Linux kernel</b>: privilege escalation via __efi_rt_asm_wrapper()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282)|An attacker can bypass restrictions of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via View Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via View Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Chooser-Field-Server-Side-Request-Forgery-41280" class="noirorange"><b>Drupal File Chooser Field</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-File-Chooser-Field-Server-Side-Request-Forgery-41280)|An attacker can trigger a Server-Side Request Forgery of Drupal File Chooser Field, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-two-vulnerabilities-41279" class="noirorange"><b>Qt</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Qt-two-vulnerabilities-41279)|An attacker can use several vulnerabilities of Qt...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-Space-Handling-41277" class="noirorange"><b>Python urllib</b>: ingress filtrering bypass via Space Handling</a>](https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-Space-Handling-41277)|An attacker can bypass filtering rules of Python urllib, via Space Handling, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-six-vulnerabilities-41275" class="noirorange"><b>Chrome</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-six-vulnerabilities-41275)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-lsi-execute-script-41274" class="noirorange"><b>QEMU</b>: denial of service via lsi_execute_script()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-lsi-execute-script-41274)|An attacker, in a guest system, can cause a fatal error of QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-five-vulnerabilities-41273" class="noirorange"><b>WordPress Core</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-five-vulnerabilities-41273)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-memory-corruption-via-POST-after-PUT-41271" class="noirorange"><b>cURL</b>: memory corruption via POST-after-PUT</a>](https://vigilance.fr/vulnerability/cURL-memory-corruption-via-POST-after-PUT-41271)|An attacker can trigger a memory corruption of cURL, via POST-after-PUT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-IDN-Wildcard-Match-41270" class="noirorange"><b>cURL</b>: ingress filtrering bypass via IDN Wildcard Match</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-IDN-Wildcard-Match-41270)|An attacker can bypass filtering rules of cURL, via IDN Wildcard Match, in order to send malicious data...|Visit link for details|
  
 
 # EU-CERT
@@ -118,20 +90,48 @@
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0389/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2023|
- |[Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2023|
- |[Multiples vulnérabilités dans TrendMicro Apex One et Apex Central](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One et Apex Central. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 17 mai 2023|
- |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 17 mai 2023|
- |[Multiples vulnérabilités dans les produits VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
- |[Multiples vulnérabilités dans TrendMicro Mobile Security (entreprise)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[code-projects Bus Dispatch and Information System SQL injection (CVE-2023-2773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[Apple tvOS, iOS and iPadOS buffer overflow (CVE-2023-32384)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Apple Safari, tvOS, iOS and iPadOS information disclosure (CVE-2023-32423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Apple Safari, tvOS, iOS and iPadOS information disclosure (CVE-2023-32402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Apple Safari, tvOS, iOS and iPadOS code execution (CVE-2023-32373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Apple iOS and iPadOS security bypass (CVE-2023-32411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Apple Safari, iOS and iPadOS security bypass (CVE-2023-32409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282" class="noirorange"><b>Linux kernel</b>: privilege escalation via __efi_rt_asm_wrapper()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282)|An attacker can bypass restrictions of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via View Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via View Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Chooser-Field-Server-Side-Request-Forgery-41280" class="noirorange"><b>Drupal File Chooser Field</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-File-Chooser-Field-Server-Side-Request-Forgery-41280)|An attacker can trigger a Server-Side Request Forgery of Drupal File Chooser Field, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-two-vulnerabilities-41279" class="noirorange"><b>Qt</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Qt-two-vulnerabilities-41279)|An attacker can use several vulnerabilities of Qt...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-Space-Handling-41277" class="noirorange"><b>Python urllib</b>: ingress filtrering bypass via Space Handling</a>](https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-Space-Handling-41277)|An attacker can bypass filtering rules of Python urllib, via Space Handling, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-six-vulnerabilities-41275" class="noirorange"><b>Chrome</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-six-vulnerabilities-41275)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-lsi-execute-script-41274" class="noirorange"><b>QEMU</b>: denial of service via lsi_execute_script()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-lsi-execute-script-41274)|An attacker, in a guest system, can cause a fatal error of QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-five-vulnerabilities-41273" class="noirorange"><b>WordPress Core</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-five-vulnerabilities-41273)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-memory-corruption-via-POST-after-PUT-41271" class="noirorange"><b>cURL</b>: memory corruption via POST-after-PUT</a>](https://vigilance.fr/vulnerability/cURL-memory-corruption-via-POST-after-PUT-41271)|An attacker can trigger a memory corruption of cURL, via POST-after-PUT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-IDN-Wildcard-Match-41270" class="noirorange"><b>cURL</b>: ingress filtrering bypass via IDN Wildcard Match</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-IDN-Wildcard-Match-41270)|An attacker can bypass filtering rules of cURL, via IDN Wildcard Match, in order to send malicious data...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Setup Memory Leak Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-703/)|Visit link for details|2023-05-17|
  
 
 # MA-CERT
