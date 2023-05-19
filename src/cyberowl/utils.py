@@ -35,7 +35,7 @@ def generate_heading() -> None:
     )
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
-        "Sincerely, little owlet Nuryagdy Muhyyev! :purple_heart:"
+        "Sincerely, Kotosov Nuryagdy Muhyyev! :purple_heart:"
     )
     README_GENERATOR.new_line()
     README_GENERATOR.new_line("---")
