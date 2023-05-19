@@ -1,6 +1,6 @@
 import os
 from datetime import datetime, timezone
-import pytz
+from dateutil import tz
 
 from mdtemplate import MDTemplate
 from settings import README_GENERATOR
@@ -11,7 +11,7 @@ def generate_heading() -> None:
     """
     Generates the heading of the readme file.
     """
-    agTZ = pytz.timezone("Asia/Ashgabat")
+    agTZ = tz.gettz("Asia/Ashgabat")
     now = datetime.now(agTZ).strftime("%d/%m/%Y %H:%M:%S")
     README_GENERATOR.new_line("<div id='top'></div>")
     README_GENERATOR.new_header(level=1, text="OwlEyes")
