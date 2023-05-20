@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/05/2023 06:21:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/05/2023 07:32:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,22 @@
  |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
  |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
  |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/05/09/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|May 09, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ |[Vulnérabilité dans IBM Sterling Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0397/)|Une vulnérabilité a été découverte dans IBM Sterling Connect. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de |Publié le 19 mai 2023|
  
 
 # HK-CERT
@@ -106,36 +122,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via View Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via View Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
- |[Vulnérabilité dans IBM Sterling Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0397/)|Une vulnérabilité a été découverte dans IBM Sterling Connect. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de |Publié le 19 mai 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -168,4 +154,18 @@
  |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
  |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
  |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
