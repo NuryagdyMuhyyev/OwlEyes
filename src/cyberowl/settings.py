@@ -3,14 +3,15 @@ Scrapy settings file.
 """
 from mdtemplate import MDTemplate
 
-BOT_NAME = "cyberowl"
+BOT_NAME = "owleyes"
 
 SPIDER_MODULES = ["spiders"]
 NEWSPIDER_MODULE = "spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = "cyberowl (+https://github.com/karimhabush/cyberowl)"
+# USER_AGENT = "cyberowl (+https://github.com/karimhabush/cyberowl)"
+USER_AGENT = "owleyes"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

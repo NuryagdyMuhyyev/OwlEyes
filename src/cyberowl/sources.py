@@ -3,7 +3,7 @@
 """
 
 CYBEROWL_SOURCES = [
-    ["CyberOwl Sources", "Description"],
+    ["OwlEyes Sources", "Description"],
     [
         "[US-CERT](#us-cert-arrow_heading_up)",
         "United States Computer Emergency and Readiness Team.",
@@ -48,5 +48,9 @@ CYBEROWL_SOURCES = [
     [
         "[EU-CERT](#eu-cert-arrow_heading_up)",
         "European Union Agency for Cybersecurity.",
+    ],
+    [
+        "[LINUX-SEC](#linux-sec-arrow_heading_up)",
+        "Linux.org Linux Security Announcements (Automated).",
     ],
 ]
