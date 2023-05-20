@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/05/2023 17:29:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/05/2023 18:18:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,6 +27,22 @@
  |[CA-CCS](#ca-ccs-arrow_heading_up)|Canadian Centre for Cyber Security.|
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
+ |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
+ |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
+ |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
+ |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/05/09/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|May 09, 2023|
+ 
 
 # LINUX-SEC
 
@@ -59,22 +75,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de |Publié le 19 mai 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
- |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
- |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
- |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
- |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/05/09/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|May 09, 2023|
  
 
 # HK-CERT
@@ -154,23 +154,6 @@
  |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
- |[41981905/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4198190523-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produits susmentionnés. Trois de ces vulnérabilités identifiées par « CVE-2023-32409 », « CVE-2023-28204 » et CVE-2023-32373 sont des « Zero-days...|19 mai 2023|
- |[41971805/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4197180523-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|18 mai 2023|
- |[41961805/23 - Mise à jour de sécurité pour le CMS WordPress](https://www.dgssi.gov.ma//fr/content/4196180523-mise-jour-de-securite-pour-le-cms-wordpress.html)|WordPress annonce la correction de plusieurs vulnérabilités affectant son CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code indirectement, de contourner les mesures de sécurité...|18 mai 2023|
- |[41951805/23 - Vulnérabilités critiques affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4195180523-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Certaines de ces vulnérabilités sont activement exploitées et elles peuvent permettreà un attaquant distant d’exécuter...|18 mai 2023|
- |[41941705/23 - Un nouveau Ransomware-as-a-Service "MichaelKors" cible VMware ESXi](https://www.dgssi.gov.ma//fr/content/4194170523-un-nouveau-ransomware-service-michaelkors-cible-vmware-esxi.html)|Des nouvelles compagnes d’attaques ciblent activement les systèmes VMware ESXi dans le monde entier à l'aide de nouveaux ransomwares. En effet, un nouveau programme ransomware-as-a-service (RaaS) nommé "MichaelKors" a été...|17 mai 2023|
- |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
- |[41921605/23 - Vulnérabilités dans Trend Micro Mobile Security (entreprise)](https://www.dgssi.gov.ma//fr/content/4192160523-vulnerabilites-dans-trend-micro-mobile-security-entreprise.html)|Plusieurs vulnérabilités ont été corrigées dans Trend Micro Mobile Security (entreprise). L’exploitation de ces failles pourrait permettre à un attaquant distant d’exécuter du code arbitraire à distance, de contourner la politique de...|16 mai 2023|
- |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
- |[41901505/23 - Exploitation active d'une vulnérabilité critique dans PaperCut MF (Multifonction)](https://www.dgssi.gov.ma//fr/content/4190150523-exploitation-active-d-une-vulnerabilite-critique-dans-papercut-mf-multifonction-et-ng-nouvelle-generation.html)|Des rapports font état de l'exploitation active d'une vulnérabilité critique (CVE-2023-27350) dans PaperCut MF (Multifunction) et NG (Next Generation). PaperCut MF et NG sont des solutions de gestion d'impression utilisées...|15 mai 2023|
- |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,4 +169,21 @@
  |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
  |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
  |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ |[41981905/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4198190523-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produits susmentionnés. Trois de ces vulnérabilités identifiées par « CVE-2023-32409 », « CVE-2023-28204 » et CVE-2023-32373 sont des « Zero-days...|19 mai 2023|
+ |[41971805/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4197180523-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|18 mai 2023|
+ |[41961805/23 - Mise à jour de sécurité pour le CMS WordPress](https://www.dgssi.gov.ma//fr/content/4196180523-mise-jour-de-securite-pour-le-cms-wordpress.html)|WordPress annonce la correction de plusieurs vulnérabilités affectant son CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code indirectement, de contourner les mesures de sécurité...|18 mai 2023|
+ |[41951805/23 - Vulnérabilités critiques affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4195180523-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Certaines de ces vulnérabilités sont activement exploitées et elles peuvent permettreà un attaquant distant d’exécuter...|18 mai 2023|
+ |[41941705/23 - Un nouveau Ransomware-as-a-Service "MichaelKors" cible VMware ESXi](https://www.dgssi.gov.ma//fr/content/4194170523-un-nouveau-ransomware-service-michaelkors-cible-vmware-esxi.html)|Des nouvelles compagnes d’attaques ciblent activement les systèmes VMware ESXi dans le monde entier à l'aide de nouveaux ransomwares. En effet, un nouveau programme ransomware-as-a-service (RaaS) nommé "MichaelKors" a été...|17 mai 2023|
+ |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
+ |[41921605/23 - Vulnérabilités dans Trend Micro Mobile Security (entreprise)](https://www.dgssi.gov.ma//fr/content/4192160523-vulnerabilites-dans-trend-micro-mobile-security-entreprise.html)|Plusieurs vulnérabilités ont été corrigées dans Trend Micro Mobile Security (entreprise). L’exploitation de ces failles pourrait permettre à un attaquant distant d’exécuter du code arbitraire à distance, de contourner la politique de...|16 mai 2023|
+ |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
+ |[41901505/23 - Exploitation active d'une vulnérabilité critique dans PaperCut MF (Multifonction)](https://www.dgssi.gov.ma//fr/content/4190150523-exploitation-active-d-une-vulnerabilite-critique-dans-papercut-mf-multifonction-et-ng-nouvelle-generation.html)|Des rapports font état de l'exploitation active d'une vulnérabilité critique (CVE-2023-27350) dans PaperCut MF (Multifunction) et NG (Next Generation). PaperCut MF et NG sont des solutions de gestion d'impression utilisées...|15 mai 2023|
+ |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
  
