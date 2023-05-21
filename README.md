@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/05/2023 22:13:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/05/2023 23:19:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -77,6 +77,33 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[T&D and ESPEC MIC data logger products cross-site scripting (CVE-2023-22654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products privilege escalation (CVE-2023-27388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products security bypass (CVE-2023-23545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products cross-site request forgery (CVE-2023-27387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[SourceCode and Projects Bus Dispatch and Information System SQL injection (CVE-2023-2773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[Brother iPrint&Scan App for Android information disclosure (CVE-2023-28369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ |[Qrio Smart Lock Q-SL2 security bypass (CVE-2023-25946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -91,19 +118,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de |Publié le 19 mai 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[T&D and ESPEC MIC data logger products cross-site scripting (CVE-2023-22654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products privilege escalation (CVE-2023-27388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products security bypass (CVE-2023-23545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products cross-site request forgery (CVE-2023-27387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[SourceCode and Projects Bus Dispatch and Information System SQL injection (CVE-2023-2773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[Brother iPrint&Scan App for Android information disclosure (CVE-2023-28369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
- |[Qrio Smart Lock Q-SL2 security bypass (CVE-2023-25946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2023|
  
 
 # OBS-Vigilance
@@ -121,20 +135,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282" class="noirorange"><b>Linux kernel</b>: privilege escalation via __efi_rt_asm_wrapper()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-efi-rt-asm-wrapper-41282)|An attacker can bypass restrictions of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via View Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-View-Parameter-41281)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via View Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
 
 # EU-CERT
