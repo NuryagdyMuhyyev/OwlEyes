@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/05/2023 12:16:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/05/2023 13:21:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -110,6 +110,36 @@
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Vyper security bypass (CVE-2023-32675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products cross-site scripting (CVE-2023-22654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products privilege escalation (CVE-2023-27388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products security bypass (CVE-2023-23545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ |[T&D and ESPEC MIC data logger products cross-site request forgery (CVE-2023-27387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295" class="noirorange"><b>WordPress Core</b>: ingress filtrering bypass via User-generated Data Shortcodes</a>](https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295)|An attacker can bypass filtering rules of WordPress Core, via User-generated Data Shortcodes, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities via ksmbd</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289)|An attacker can use several vulnerabilities of the Linux kernel, via ksmbd...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via seg6_genl_sethmac()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via LZWDecode()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via LZWDecode(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Power9-Power10-privilege-escalation-via-PowerVM-41286" class="noirorange"><b>IBM Power9  Power10</b>: privilege escalation via PowerVM</a>](https://vigilance.fr/vulnerability/IBM-Power9-Power10-privilege-escalation-via-PowerVM-41286)|An attacker, in a guest system, can bypass restrictions of IBM Power9  Power10, via PowerVM, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nispor-vulnerability-41285" class="noirorange"><b>nispor</b>: vulnerability</a>](https://vigilance.fr/vulnerability/nispor-vulnerability-41285)|A vulnerability of nispor was announced...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -127,19 +157,6 @@
  |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Vyper security bypass (CVE-2023-32675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products cross-site scripting (CVE-2023-22654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products privilege escalation (CVE-2023-27388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products security bypass (CVE-2023-23545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- |[T&D and ESPEC MIC data logger products cross-site request forgery (CVE-2023-27387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -152,23 +169,6 @@
  |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
  |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
  |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities via ksmbd</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289)|An attacker can use several vulnerabilities of the Linux kernel, via ksmbd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via seg6_genl_sethmac()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via LZWDecode()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via LZWDecode(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Power9-Power10-privilege-escalation-via-PowerVM-41286" class="noirorange"><b>IBM Power9  Power10</b>: privilege escalation via PowerVM</a>](https://vigilance.fr/vulnerability/IBM-Power9-Power10-privilege-escalation-via-PowerVM-41286)|An attacker, in a guest system, can bypass restrictions of IBM Power9  Power10, via PowerVM, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nispor-vulnerability-41285" class="noirorange"><b>nispor</b>: vulnerability</a>](https://vigilance.fr/vulnerability/nispor-vulnerability-41285)|A vulnerability of nispor was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284" class="noirorange"><b>Kitty</b>: code execution via Application/x-sh Mime Type</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284)|An attacker can use a vulnerability of Kitty, via Application/x-sh Mime Type, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  
 
 # CA-CCS
