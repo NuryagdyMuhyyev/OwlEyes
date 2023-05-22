@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/05/2023 03:15:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/05/2023 04:16:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
+ |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
+ |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
+ |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -43,22 +59,6 @@
  |[USN-6089-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6089-1-linux-kernel-oem-vulnerability.45083/)|Visit link for details.|May 18, 2023|
  |[DSA-5405 libapache2-mod-auth-openidc - security update](https://www.linux.org/threads/dsa-5405-libapache2-mod-auth-openidc-security-update.45082/)|Visit link for details.|May 18, 2023|
  |[USN-6088-1: runC vulnerabilities](https://www.linux.org/threads/usn-6088-1-runc-vulnerabilities.45078/)|Visit link for details.|May 18, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
- |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
- |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
- |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
  
 
 # CERT-FR
@@ -77,19 +77,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[Ellucian Ethos Identity cross-site scripting (CVE-2023-2822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Class Scheduling System SQL injection (CVE-2023-2823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Dental Clinic Appointment Reservation System cross-site scripting (CVE-2023-2824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-22689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -104,6 +91,19 @@
  |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230517)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 17 May 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[Ellucian Ethos Identity cross-site scripting (CVE-2023-2822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Class Scheduling System SQL injection (CVE-2023-2823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Dental Clinic Appointment Reservation System cross-site scripting (CVE-2023-2824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-22689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
  
 
 # EU-CERT
@@ -123,20 +123,6 @@
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -152,6 +138,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-285)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-285)|Visit link for details|2023-05-19|
+ |[Apple security advisory (AV23-284)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-284)|Visit link for details|2023-05-19|
+ |[[Control systems] Hitachi Energy security advisory (AV23-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-283)|Visit link for details|2023-05-19|
+ |[[Control systems] Johnson Controls security advisory (AV23-282)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-282)|Visit link for details|2023-05-19|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-281)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-281)|Visit link for details|2023-05-19|
+ |[[Control systems] Carlo Gavazzi security advisory (AV23-280)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-carlo-gavazzi-security-advisory-av23-280)|Visit link for details|2023-05-19|
+ |[AV23-279 Mitel security advisory](https://www.cyber.gc.ca/en/alerts-advisories/av23-279-mitel-security-advisory)|Visit link for details|2023-05-18|
+ |[Cisco security advisory (AV23-278)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-278)|Visit link for details|2023-05-17|
+ |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
+ |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
+ |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
  
 
 # MA-CERT
@@ -171,19 +174,8 @@
  |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV23-285)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-285)|Visit link for details|2023-05-19|
- |[Apple security advisory (AV23-284)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-284)|Visit link for details|2023-05-19|
- |[[Control systems] Hitachi Energy security advisory (AV23-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-283)|Visit link for details|2023-05-19|
- |[[Control systems] Johnson Controls security advisory (AV23-282)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-282)|Visit link for details|2023-05-19|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-281)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-281)|Visit link for details|2023-05-19|
- |[[Control systems] Carlo Gavazzi security advisory (AV23-280)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-carlo-gavazzi-security-advisory-av23-280)|Visit link for details|2023-05-19|
- |[AV23-279 Mitel security advisory](https://www.cyber.gc.ca/en/alerts-advisories/av23-279-mitel-security-advisory)|Visit link for details|2023-05-18|
- |[Cisco security advisory (AV23-278)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-278)|Visit link for details|2023-05-17|
- |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
- |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
- |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
  
