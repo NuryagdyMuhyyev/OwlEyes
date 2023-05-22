@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/05/2023 16:13:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/05/2023 17:32:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -90,6 +90,23 @@
  |[T&D and ESPEC MIC data logger products cross-site request forgery (CVE-2023-27387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 19, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295" class="noirorange"><b>WordPress Core</b>: ingress filtrering bypass via User-generated Data Shortcodes</a>](https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295)|An attacker can bypass filtering rules of WordPress Core, via User-generated Data Shortcodes, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities via ksmbd</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289)|An attacker can use several vulnerabilities of the Linux kernel, via ksmbd...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -104,23 +121,6 @@
  |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230517)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 17 May 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295" class="noirorange"><b>WordPress Core</b>: ingress filtrering bypass via User-generated Data Shortcodes</a>](https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295)|An attacker can bypass filtering rules of WordPress Core, via User-generated Data Shortcodes, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities via ksmbd</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-ksmbd-41289)|An attacker can use several vulnerabilities of the Linux kernel, via ksmbd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via seg6_genl_sethmac()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-seg6-genl-sethmac-41288)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via LZWDecode()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-LZWDecode-41287)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via LZWDecode(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -140,18 +140,21 @@
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ |[Microsoft Edge security advisory (AV23-285)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-285)|Visit link for details|2023-05-19|
+ |[Apple security advisory (AV23-284)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-284)|Visit link for details|2023-05-19|
+ |[[Control systems] Hitachi Energy security advisory (AV23-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-283)|Visit link for details|2023-05-19|
+ |[[Control systems] Johnson Controls security advisory (AV23-282)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-282)|Visit link for details|2023-05-19|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-281)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-281)|Visit link for details|2023-05-19|
+ |[[Control systems] Carlo Gavazzi security advisory (AV23-280)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-carlo-gavazzi-security-advisory-av23-280)|Visit link for details|2023-05-19|
+ |[AV23-279 Mitel security advisory](https://www.cyber.gc.ca/en/alerts-advisories/av23-279-mitel-security-advisory)|Visit link for details|2023-05-18|
+ |[Cisco security advisory (AV23-278)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-278)|Visit link for details|2023-05-17|
+ |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
+ |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
+ |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
  
 
 # MA-CERT
@@ -171,19 +174,16 @@
  |[41901505/23 - Exploitation active d'une vulnérabilité critique dans PaperCut MF (Multifonction)](https://www.dgssi.gov.ma//fr/content/4190150523-exploitation-active-d-une-vulnerabilite-critique-dans-papercut-mf-multifonction-et-ng-nouvelle-generation.html)|Des rapports font état de l'exploitation active d'une vulnérabilité critique (CVE-2023-27350) dans PaperCut MF (Multifunction) et NG (Next Generation). PaperCut MF et NG sont des solutions de gestion d'impression utilisées...|15 mai 2023|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV23-285)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-285)|Visit link for details|2023-05-19|
- |[Apple security advisory (AV23-284)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-284)|Visit link for details|2023-05-19|
- |[[Control systems] Hitachi Energy security advisory (AV23-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-283)|Visit link for details|2023-05-19|
- |[[Control systems] Johnson Controls security advisory (AV23-282)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-282)|Visit link for details|2023-05-19|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-281)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-281)|Visit link for details|2023-05-19|
- |[[Control systems] Carlo Gavazzi security advisory (AV23-280)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-carlo-gavazzi-security-advisory-av23-280)|Visit link for details|2023-05-19|
- |[AV23-279 Mitel security advisory](https://www.cyber.gc.ca/en/alerts-advisories/av23-279-mitel-security-advisory)|Visit link for details|2023-05-18|
- |[Cisco security advisory (AV23-278)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-278)|Visit link for details|2023-05-17|
- |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
- |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
- |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
