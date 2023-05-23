@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/05/2023 18:21:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/05/2023 19:15:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[USN-6091-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6091-1-linux-kernel-vulnerabilities.45085/)|Visit link for details.|May 18, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0404/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 mai 2023|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/)|Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ |[Vulnérabilité dans IBM Sterling Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0397/)|Une vulnérabilité a été découverte dans IBM Sterling Connect. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -61,17 +77,21 @@
  |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[GaanaGawaan search SQL Injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[c-ares weak security (CVE-2023-31147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[c-ares weak security (CVE-2023-31130)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[c-ares weak security (CVE-2023-31124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[c-ares denial of service (CVE-2023-32067)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[Apache InLong code execution (CVE-2023-31058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308" class="noirorange"><b>pfSense Development Snapshots</b>: denial of service via Oversized IPv6 Packets</a>](https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308)|An attacker can cause a fatal error of pfSense Development Snapshots, via Oversized IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305" class="noirorange"><b>Linux kernel</b>: reuse after free via bq24190_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bq24190_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302" class="noirorange"><b>Qt</b>: denial of service via QtSv::QSvgFon::m_unitsPerEm()</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302)|An attacker can cause a fatal error of Qt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301" class="noirorange"><b>Flask</b>: information disclosure via Caching</a>](https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301)|An attacker can bypass access restrictions to data of Flask, via Caching, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -90,51 +110,17 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0404/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 mai 2023|
- |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/)|Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
- |[Vulnérabilité dans IBM Sterling Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0397/)|Une vulnérabilité a été découverte dans IBM Sterling Connect. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305" class="noirorange"><b>Linux kernel</b>: reuse after free via bq24190_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bq24190_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302" class="noirorange"><b>Qt</b>: denial of service via QtSv::QSvgFon::m_unitsPerEm()</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302)|An attacker can cause a fatal error of Qt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301" class="noirorange"><b>Flask</b>: information disclosure via Caching</a>](https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301)|An attacker can bypass access restrictions to data of Flask, via Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295" class="noirorange"><b>WordPress Core</b>: ingress filtrering bypass via User-generated Data Shortcodes</a>](https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295)|An attacker can bypass filtering rules of WordPress Core, via User-generated Data Shortcodes, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
+ |[GaanaGawaan search SQL Injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[c-ares weak security (CVE-2023-31147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[c-ares weak security (CVE-2023-31130)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[c-ares weak security (CVE-2023-31124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[c-ares denial of service (CVE-2023-32067)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[IBM PowerVM Hypervisor denial of service (CVE-2023-30440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
  
 
 # EU-CERT
@@ -186,4 +172,10 @@
  |[HPE security advisory (AV23-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-277)|Visit link for details|2023-05-17|
  |[[Control systems] ABB security advisory (AV23-276)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-276)|Visit link for details|2023-05-17|
  |[Google Chrome security advisory (AV23-275)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-275)|Visit link for details|2023-05-16|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
