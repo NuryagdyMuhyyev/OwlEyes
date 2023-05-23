@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/05/2023 04:16:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/05/2023 06:23:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -48,6 +48,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
+ |[USN-6095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6095-1-linux-kernel-vulnerabilities.45147/)|Visit link for details.|May 23, 2023|
+ |[USN-6094-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6094-1-linux-kernel-vulnerabilities.45146/)|Visit link for details.|May 23, 2023|
  |[USN-6093-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6093-1-linux-kernel-bluefield-vulnerabilities.45138/)|Visit link for details.|May 22, 2023|
  |[USN-5900-2: tar vulnerability](https://www.linux.org/threads/usn-5900-2-tar-vulnerability.45137/)|Visit link for details.|May 22, 2023|
  |[DSA-5408 libwebp - security update](https://www.linux.org/threads/dsa-5408-libwebp-security-update.45131/)|Visit link for details.|May 22, 2023|
@@ -56,9 +59,19 @@
  |[USN-6092-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6092-1-linux-kernel-azure-vulnerabilities.45086/)|Visit link for details.|May 18, 2023|
  |[USN-6091-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6091-1-linux-kernel-vulnerabilities.45085/)|Visit link for details.|May 18, 2023|
  |[USN-6090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6090-1-linux-kernel-vulnerabilities.45084/)|Visit link for details.|May 18, 2023|
- |[USN-6089-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6089-1-linux-kernel-oem-vulnerability.45083/)|Visit link for details.|May 18, 2023|
- |[DSA-5405 libapache2-mod-auth-openidc - security update](https://www.linux.org/threads/dsa-5405-libapache2-mod-auth-openidc-security-update.45082/)|Visit link for details.|May 18, 2023|
- |[USN-6088-1: runC vulnerabilities](https://www.linux.org/threads/usn-6088-1-runc-vulnerabilities.45078/)|Visit link for details.|May 18, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
+ |[Ellucian Ethos Identity cross-site scripting (CVE-2023-2822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Class Scheduling System SQL injection (CVE-2023-2823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Dental Clinic Appointment Reservation System cross-site scripting (CVE-2023-2824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-22689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
+ |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
  
 
 # CERT-FR
@@ -93,19 +106,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230517)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 17 May 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Tomcat denial of service (CVE-2023-28709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- |[Ellucian Ethos Identity cross-site scripting (CVE-2023-2822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Class Scheduling System SQL injection (CVE-2023-2823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Dental Clinic Appointment Reservation System cross-site scripting (CVE-2023-2824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-22689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Zulip information disclosure (CVE-2023-32677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- |[Zulip information disclosure (CVE-2023-28623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -121,6 +121,20 @@
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
 
 # OBS-Vigilance
@@ -172,10 +186,4 @@
  |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
  |[41921605/23 - Vulnérabilités dans Trend Micro Mobile Security (entreprise)](https://www.dgssi.gov.ma//fr/content/4192160523-vulnerabilites-dans-trend-micro-mobile-security-entreprise.html)|Plusieurs vulnérabilités ont été corrigées dans Trend Micro Mobile Security (entreprise). L’exploitation de ces failles pourrait permettre à un attaquant distant d’exécuter du code arbitraire à distance, de contourner la politique de...|16 mai 2023|
  |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
