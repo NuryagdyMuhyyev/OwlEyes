@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/05/2023 16:13:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/05/2023 17:33:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
- |[USN-6095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6095-1-linux-kernel-vulnerabilities.45147/)|Visit link for details.|May 23, 2023|
- |[USN-6094-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6094-1-linux-kernel-vulnerabilities.45146/)|Visit link for details.|May 23, 2023|
- |[USN-6093-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6093-1-linux-kernel-bluefield-vulnerabilities.45138/)|Visit link for details.|May 22, 2023|
- |[USN-5900-2: tar vulnerability](https://www.linux.org/threads/usn-5900-2-tar-vulnerability.45137/)|Visit link for details.|May 22, 2023|
- |[DSA-5408 libwebp - security update](https://www.linux.org/threads/dsa-5408-libwebp-security-update.45131/)|Visit link for details.|May 22, 2023|
- |[DSA-5407 cups-filters - security update](https://www.linux.org/threads/dsa-5407-cups-filters-security-update.45130/)|Visit link for details.|May 22, 2023|
- |[DSA-5406 texlive-bin - security update](https://www.linux.org/threads/dsa-5406-texlive-bin-security-update.45106/)|Visit link for details.|May 20, 2023|
- |[USN-6092-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6092-1-linux-kernel-azure-vulnerabilities.45086/)|Visit link for details.|May 18, 2023|
- |[USN-6091-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6091-1-linux-kernel-vulnerabilities.45085/)|Visit link for details.|May 18, 2023|
- |[USN-6090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6090-1-linux-kernel-vulnerabilities.45084/)|Visit link for details.|May 18, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -59,6 +42,23 @@
  |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
  |[CISA and FBI Release Joint Advisory in Response to Active Exploitation of PaperCut Vulnerability](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-and-fbi-release-joint-advisory-response-active-exploitation-papercut-vulnerability)|Visit link for details.|May 11, 2023|
  |[Microsoft Releases May 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/05/09/microsoft-releases-may-2023-security-updates)|Visit link for details.|May 09, 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6099-1: ncurses vulnerabilities](https://www.linux.org/threads/usn-6099-1-ncurses-vulnerabilities.45155/)|Visit link for details.|May 23, 2023|
+ |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
+ |[USN-6095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6095-1-linux-kernel-vulnerabilities.45147/)|Visit link for details.|May 23, 2023|
+ |[USN-6094-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6094-1-linux-kernel-vulnerabilities.45146/)|Visit link for details.|May 23, 2023|
+ |[USN-6093-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6093-1-linux-kernel-bluefield-vulnerabilities.45138/)|Visit link for details.|May 22, 2023|
+ |[USN-5900-2: tar vulnerability](https://www.linux.org/threads/usn-5900-2-tar-vulnerability.45137/)|Visit link for details.|May 22, 2023|
+ |[DSA-5408 libwebp - security update](https://www.linux.org/threads/dsa-5408-libwebp-security-update.45131/)|Visit link for details.|May 22, 2023|
+ |[DSA-5407 cups-filters - security update](https://www.linux.org/threads/dsa-5407-cups-filters-security-update.45130/)|Visit link for details.|May 22, 2023|
+ |[DSA-5406 texlive-bin - security update](https://www.linux.org/threads/dsa-5406-texlive-bin-security-update.45106/)|Visit link for details.|May 20, 2023|
+ |[USN-6092-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6092-1-linux-kernel-azure-vulnerabilities.45086/)|Visit link for details.|May 18, 2023|
+ |[USN-6091-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6091-1-linux-kernel-vulnerabilities.45085/)|Visit link for details.|May 18, 2023|
  
 
 # CERT-FR
@@ -106,6 +106,20 @@
  |[Apache InLong code execution (CVE-2023-31058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -138,20 +152,6 @@
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
  
 
 # MA-CERT
