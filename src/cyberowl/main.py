@@ -12,6 +12,7 @@ from spiders.vigilance_spider import VigilanceSpider
 from spiders.vuldb_spider import VulDBSpider
 from spiders.zdi_spider import ZDISpider
 from spiders.linux_spider import LinuxSpider
+from spiders.cert_sante import SanteSpider
 from utils import generate_heading, generate_table_of_content, write_to_readme
 
 
@@ -37,7 +38,8 @@ def main():
         HKCERTSpider,
         CaCCSSpider,
         EUCERTSpider,
-        LinuxSpider
+        LinuxSpider,
+        SanteSpider,
     ]
 
     for spider in spiders_cls:
