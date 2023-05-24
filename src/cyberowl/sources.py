@@ -53,4 +53,10 @@ CYBEROWL_SOURCES = [
         "[LINUX-SEC](#linux-sec-arrow_heading_up)",
         "Linux.org Linux Security Announcements (Automated).",
     ],
+    [
+        "[CERT-SANTE](#cert-sante-arrow_heading_up)",
+        "CERT Santé supports all health and social care establishments in responding to incidents."
+        "CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks."
+        "CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).",
+    ],
 ]
