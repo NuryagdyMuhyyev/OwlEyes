@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/05/2023 16:13:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/05/2023 16:22:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-5996-2: Libloius vulnerabilities](https://www.linux.org/threads/usn-5996-2-libloius-vulnerabilities.45174/)|Visit link for details.|May 23, 2023|
+ |[USN-6098-1: Jhead vulnerabilities](https://www.linux.org/threads/usn-6098-1-jhead-vulnerabilities.45171/)|Visit link for details.|May 23, 2023|
+ |[USN-6088-2: runC vulnerabilities](https://www.linux.org/threads/usn-6088-2-runc-vulnerabilities.45170/)|Visit link for details.|May 23, 2023|
+ |[USN-6042-2: Cloud-init regression](https://www.linux.org/threads/usn-6042-2-cloud-init-regression.45169/)|Visit link for details.|May 23, 2023|
+ |[USN-5725-2: Go vulnerability](https://www.linux.org/threads/usn-5725-2-go-vulnerability.45168/)|Visit link for details.|May 23, 2023|
+ |[USN-6073-9: os-brick regression](https://www.linux.org/threads/usn-6073-9-os-brick-regression.45167/)|Visit link for details.|May 23, 2023|
+ |[USN-6073-8: Nova regression](https://www.linux.org/threads/usn-6073-8-nova-regression.45166/)|Visit link for details.|May 23, 2023|
+ |[USN-6073-7: Glance_store regression](https://www.linux.org/threads/usn-6073-7-glance_store-regression.45165/)|Visit link for details.|May 23, 2023|
+ |[USN-6073-6: Cinder regression](https://www.linux.org/threads/usn-6073-6-cinder-regression.45164/)|Visit link for details.|May 23, 2023|
+ |[USN-6099-1: ncurses vulnerabilities](https://www.linux.org/threads/usn-6099-1-ncurses-vulnerabilities.45155/)|Visit link for details.|May 23, 2023|
+ |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -44,21 +61,34 @@
  |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-5996-2: Libloius vulnerabilities](https://www.linux.org/threads/usn-5996-2-libloius-vulnerabilities.45174/)|Visit link for details.|May 23, 2023|
- |[USN-6098-1: Jhead vulnerabilities](https://www.linux.org/threads/usn-6098-1-jhead-vulnerabilities.45171/)|Visit link for details.|May 23, 2023|
- |[USN-6088-2: runC vulnerabilities](https://www.linux.org/threads/usn-6088-2-runc-vulnerabilities.45170/)|Visit link for details.|May 23, 2023|
- |[USN-6042-2: Cloud-init regression](https://www.linux.org/threads/usn-6042-2-cloud-init-regression.45169/)|Visit link for details.|May 23, 2023|
- |[USN-5725-2: Go vulnerability](https://www.linux.org/threads/usn-5725-2-go-vulnerability.45168/)|Visit link for details.|May 23, 2023|
- |[USN-6073-9: os-brick regression](https://www.linux.org/threads/usn-6073-9-os-brick-regression.45167/)|Visit link for details.|May 23, 2023|
- |[USN-6073-8: Nova regression](https://www.linux.org/threads/usn-6073-8-nova-regression.45166/)|Visit link for details.|May 23, 2023|
- |[USN-6073-7: Glance_store regression](https://www.linux.org/threads/usn-6073-7-glance_store-regression.45165/)|Visit link for details.|May 23, 2023|
- |[USN-6073-6: Cinder regression](https://www.linux.org/threads/usn-6073-6-cinder-regression.45164/)|Visit link for details.|May 23, 2023|
- |[USN-6099-1: ncurses vulnerabilities](https://www.linux.org/threads/usn-6099-1-ncurses-vulnerabilities.45155/)|Visit link for details.|May 23, 2023|
- |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Apple iTunes for Windows privilege escalation (CVE-2023-32353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Apple iTunes for Windows privilege escalation (CVE-2023-32351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Horner Automation Cscape code execution (CVE-2023-32539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel MiVoice - CVE-2023-31457](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-31457-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Mitel MiVoice - CVE-2023-32748](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-32748-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Linux - CVE-2023-32250](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-32250-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Apple - CVE-2023-32373](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32373-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Google Chrome - CVE-2023-2721](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2721-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Apple - CVE-2023-32409](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32409-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Apple - CVE-2023-32412](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32412-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Cisco - CVE-2023-20159](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20159-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Cisco - CVE-2023-20160](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20160-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Apple - CVE-2023-32419](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32419-2023-05-22)|Visit link for details.|22/05/2023|
+ |[WordPress - CVE-2023-32243](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-32243-2023-05-12)|Visit link for details.|22/05/2023|
  
 
 # CERT-FR
@@ -77,17 +107,21 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Apple iTunes for Windows privilege escalation (CVE-2023-32353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Apple iTunes for Windows privilege escalation (CVE-2023-32351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Horner Automation Cscape code execution (CVE-2023-32539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 30/05/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317)|A vulnerability of OpenSSL will be unveiled on 30/05/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316" class="noirorange"><b>DokuWiki</b>: Cross Site Scripting via RSS Syntax</a>](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316)|An attacker can trigger a Cross Site Scripting of DokuWiki, via RSS Syntax, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314" class="noirorange"><b>Vim</b>: NULL pointer dereference via get_register()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314)|An attacker can force a NULL pointer to be dereferenced on Vim, via get_register(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveSectionType()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311" class="noirorange"><b>Jhead</b>: out-of-bounds memory reading via ProcessCanonMakerNoteDir()</a>](https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311)|An attacker can force a read at an invalid memory address of Jhead, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310" class="noirorange"><b>Jhead</b>: buffer overflow via ReadJpegSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310)|An attacker can trigger a buffer overflow of Jhead, via ReadJpegSections(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308" class="noirorange"><b>pfSense Development Snapshots</b>: denial of service via Oversized IPv6 Packets</a>](https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308)|An attacker can cause a fatal error of pfSense Development Snapshots, via Oversized IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -107,22 +141,6 @@
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
- |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -140,21 +158,20 @@
  |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 30/05/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317)|A vulnerability of OpenSSL will be unveiled on 30/05/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316" class="noirorange"><b>DokuWiki</b>: Cross Site Scripting via RSS Syntax</a>](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316)|An attacker can trigger a Cross Site Scripting of DokuWiki, via RSS Syntax, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314" class="noirorange"><b>Vim</b>: NULL pointer dereference via get_register()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314)|An attacker can force a NULL pointer to be dereferenced on Vim, via get_register(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveSectionType()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311" class="noirorange"><b>Jhead</b>: out-of-bounds memory reading via ProcessCanonMakerNoteDir()</a>](https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311)|An attacker can force a read at an invalid memory address of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310" class="noirorange"><b>Jhead</b>: buffer overflow via ReadJpegSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310)|An attacker can trigger a buffer overflow of Jhead, via ReadJpegSections(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308" class="noirorange"><b>pfSense Development Snapshots</b>: denial of service via Oversized IPv6 Packets</a>](https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308)|An attacker can cause a fatal error of pfSense Development Snapshots, via Oversized IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
+ |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  
 
 # ZERODAYINITIATIVE
