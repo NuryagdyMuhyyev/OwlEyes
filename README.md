@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/05/2023 08:18:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/05/2023 09:19:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
- |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -59,6 +43,22 @@
  |[USN-6073-6: Cinder regression](https://www.linux.org/threads/usn-6073-6-cinder-regression.45164/)|Visit link for details.|May 23, 2023|
  |[USN-6099-1: ncurses vulnerabilities](https://www.linux.org/threads/usn-6099-1-ncurses-vulnerabilities.45155/)|Visit link for details.|May 23, 2023|
  |[USN-6096-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6096-1-linux-kernel-vulnerabilities.45148/)|Visit link for details.|May 23, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
+ |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
  
 
 # HK-CERT
@@ -77,50 +77,6 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab Community and Enterprise Edition directory traversal (CVE-2023-2825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Apache RocketMQ command execution (CVE-2023-33246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[VMware NSX-T cross-site scripting (CVE-2023-20868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Hitachi Ops Center Analyzer cross-site scripting (CVE-2023-30469)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Mitsubishi Electric MELSEC iQ-F Series buffer overflow (CVE-2023-1424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[GaanaGawaan search SQL Injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[c-ares weak security (CVE-2023-31147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308" class="noirorange"><b>pfSense Development Snapshots</b>: denial of service via Oversized IPv6 Packets</a>](https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308)|An attacker can cause a fatal error of pfSense Development Snapshots, via Oversized IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305" class="noirorange"><b>Linux kernel</b>: reuse after free via bq24190_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bq24190_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302" class="noirorange"><b>Qt</b>: denial of service via QtSv::QSvgFon::m_unitsPerEm()</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302)|An attacker can cause a fatal error of Qt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301" class="noirorange"><b>Flask</b>: information disclosure via Caching</a>](https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301)|An attacker can bypass access restrictions to data of Flask, via Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -135,6 +91,19 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mai 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Horner Automation Cscape buffer overflow (CVE-2023-29503)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[GitLab Community and Enterprise Edition directory traversal (CVE-2023-2825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Apache RocketMQ command execution (CVE-2023-33246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[VMware NSX-T cross-site scripting (CVE-2023-20868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Hitachi Ops Center Analyzer cross-site scripting (CVE-2023-30469)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Mitsubishi Electric MELSEC iQ-F Series buffer overflow (CVE-2023-1424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[GaanaGawaan search SQL Injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
  
 
 # EU-CERT
@@ -152,6 +121,37 @@
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
+ |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
+ |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
+ |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308" class="noirorange"><b>pfSense Development Snapshots</b>: denial of service via Oversized IPv6 Packets</a>](https://vigilance.fr/vulnerability/pfSense-Development-Snapshots-denial-of-service-via-Oversized-IPv6-Packets-41308)|An attacker can cause a fatal error of pfSense Development Snapshots, via Oversized IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-41307)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305" class="noirorange"><b>Linux kernel</b>: reuse after free via bq24190_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bq24190_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302" class="noirorange"><b>Qt</b>: denial of service via QtSv::QSvgFon::m_unitsPerEm()</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302)|An attacker can cause a fatal error of Qt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301" class="noirorange"><b>Flask</b>: information disclosure via Caching</a>](https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301)|An attacker can bypass access restrictions to data of Flask, via Caching, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReplaceXmpValue()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReplaceXmpValue-41298)|An attacker can trigger a buffer overflow of ImageMagick, via ReplaceXmpValue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297" class="noirorange"><b>Linux kernel</b>: reuse after free via dump_schedule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dump-schedule-41297)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dump_schedule(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
