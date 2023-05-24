@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/05/2023 22:14:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/05/2023 23:20:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
- |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6098-1: Jhead vulnerabilities](https://www.linux.org/threads/usn-6098-1-jhead-vulnerabilities.45171/)|Visit link for details.|May 23, 2023|
  |[USN-6088-2: runC vulnerabilities](https://www.linux.org/threads/usn-6088-2-runc-vulnerabilities.45170/)|Visit link for details.|May 23, 2023|
  |[USN-6042-2: Cloud-init regression](https://www.linux.org/threads/usn-6042-2-cloud-init-regression.45169/)|Visit link for details.|May 23, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 16, 2023|
+ |[CISA and Partners Release BianLian Ransomware Cybersecurity Advisory](https://www.cisa.gov/news-events/alerts/2023/05/16/cisa-and-partners-release-bianlian-ransomware-cybersecurity-advisory)|Visit link for details.|May 16, 2023|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/12/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 12, 2023|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
  
 
 # CERT-FR
@@ -112,6 +112,36 @@
  |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
+ |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
+ |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
+ |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
+ |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
+ |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
+ |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
+ |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
+ |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Theme Park Ticketing System SQL injection (CVE-2023-2865)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2023|
+ |[NETGEAR device buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Apple iTunes for Windows privilege escalation (CVE-2023-32353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[Apple iTunes for Windows privilege escalation (CVE-2023-32351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -145,48 +175,18 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note: The Cisco PSIRT is aware that proof-...|Release Date: 18 May 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR device buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Apple iTunes for Windows privilege escalation (CVE-2023-32353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[Apple iTunes for Windows privilege escalation (CVE-2023-32351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
- |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
- |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
- |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
- |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
- |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
- |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
- |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
- |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
- |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Canon imageCLASS MF743Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-711/)|Visit link for details|2023-05-19|
- |[(0Day) (Pwn2Own) Mikrotik RouterOS RADVD Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-710/)|Visit link for details|2023-05-17|
- |[(Pwn2Own) Prosys OPC UA Simulation Server Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-709/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-708/)|Visit link for details|2023-05-17|
- |[Linux Kernel vmwgfx Driver Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-707/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-706/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-705/)|Visit link for details|2023-05-17|
- |[Linux Kernel ksmbd Session User Object Race Condition Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-704/)|Visit link for details|2023-05-17|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-726/)|Visit link for details|2023-05-24|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-725/)|Visit link for details|2023-05-24|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-724/)|Visit link for details|2023-05-24|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-723/)|Visit link for details|2023-05-24|
+ |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-722/)|Visit link for details|2023-05-24|
+ |[Moxa MXsecurity Series Restricted Shell Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-721/)|Visit link for details|2023-05-24|
+ |[Moxa MXsecurity Series Hardcoded JWT Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-720/)|Visit link for details|2023-05-24|
+ |[D-Link D-View showUser Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-719/)|Visit link for details|2023-05-24|
  
 
 # CA-CCS
