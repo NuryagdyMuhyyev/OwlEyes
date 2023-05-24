@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/05/2023 18:20:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/05/2023 19:15:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/11/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|May 11, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel MiVoice - CVE-2023-31457](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-31457-2023-05-23)|Visit link for details.|23/05/2023|
- |[Mitel MiVoice - CVE-2023-32748](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-32748-2023-05-23)|Visit link for details.|23/05/2023|
- |[Linux - CVE-2023-32250](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-32250-2023-05-23)|Visit link for details.|23/05/2023|
- |[Apple - CVE-2023-32373](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32373-2023-05-23)|Visit link for details.|23/05/2023|
- |[Google Chrome - CVE-2023-2721](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2721-2023-05-23)|Visit link for details.|23/05/2023|
- |[Apple - CVE-2023-32409](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32409-2023-05-22)|Visit link for details.|22/05/2023|
- |[Apple - CVE-2023-32412](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32412-2023-05-22)|Visit link for details.|22/05/2023|
- |[Cisco - CVE-2023-20159](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20159-2023-05-22)|Visit link for details.|22/05/2023|
- |[Cisco - CVE-2023-20160](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20160-2023-05-22)|Visit link for details.|22/05/2023|
- |[Apple - CVE-2023-32419](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32419-2023-05-22)|Visit link for details.|22/05/2023|
- |[WordPress - CVE-2023-32243](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-32243-2023-05-12)|Visit link for details.|22/05/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0404/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 mai 2023|
- |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/)|Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +89,39 @@
  |[Apple iTunes for Windows privilege escalation (CVE-2023-32351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
  |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
  |[NETGEAR devices unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
+ |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0404/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 mai 2023|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/)|Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
+ |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel MiVoice - CVE-2023-31457](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-31457-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Mitel MiVoice - CVE-2023-32748](https://www.cyberveille-sante.gouv.fr/alertes/mitel-mivoice-cve-2023-32748-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Linux - CVE-2023-32250](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-32250-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Apple - CVE-2023-32373](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32373-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Google Chrome - CVE-2023-2721](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2721-2023-05-23)|Visit link for details.|23/05/2023|
+ |[Apple - CVE-2023-32409](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32409-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Apple - CVE-2023-32412](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32412-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Cisco - CVE-2023-20159](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20159-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Cisco - CVE-2023-20160](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20160-2023-05-22)|Visit link for details.|22/05/2023|
+ |[Apple - CVE-2023-32419](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32419-2023-05-22)|Visit link for details.|22/05/2023|
+ |[WordPress - CVE-2023-32243](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-32243-2023-05-12)|Visit link for details.|22/05/2023|
  
 
 # EU-CERT
