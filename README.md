@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/05/2023 00:12:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/05/2023 01:16:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
- |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
- |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +46,22 @@
  |[USN-6105-1: ca-certificates update](https://www.linux.org/threads/usn-6105-1-ca-certificates-update.45189/)|Visit link for details.|May 24, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
+ |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
+ |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,35 +76,6 @@
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
  |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
  |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
- |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[SC Export Customers module for PrestaShop SQL injection (CVE-2023-33278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[SC Fix My Prestashop module for PrestaShop SQL injection (CVE-2023-33279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[SC Quick Accounting module for PrestaShop SQL injection (CVE-2023-33280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[Ceppatron SQL injection (CVE-2023-2851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  
 
 # CERT-SANTE
@@ -124,18 +95,20 @@
  |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
- |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
+ |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
+ |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
  
 
 # OBS-Vigilance
@@ -153,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[SC Export Customers module for PrestaShop SQL injection (CVE-2023-33278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[SC Fix My Prestashop module for PrestaShop SQL injection (CVE-2023-33279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[SC Quick Accounting module for PrestaShop SQL injection (CVE-2023-33280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[Ceppatron SQL injection (CVE-2023-2851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  
 
 # EU-CERT
@@ -187,6 +173,20 @@
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
+ |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
  
 
 # CA-CCS
