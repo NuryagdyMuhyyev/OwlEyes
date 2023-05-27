@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/05/2023 09:19:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/05/2023 10:14:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,19 +111,6 @@
  |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[SC Export Customers module for PrestaShop SQL injection (CVE-2023-33278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[SC Fix My Prestashop module for PrestaShop SQL injection (CVE-2023-33279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[SC Quick Accounting module for PrestaShop SQL injection (CVE-2023-33280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[Ceppatron SQL injection (CVE-2023-2851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -141,21 +128,17 @@
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344" class="noirorange"><b>Stormshield Endpoint Security</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344)|An attacker can use several vulnerabilities of Stormshield Endpoint Security...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343" class="noirorange"><b>GPAC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343)|An attacker can use several vulnerabilities of GPAC...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342" class="noirorange"><b>OpenBSD</b>: double free via SSL_clear()</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342)|An attacker can force a double memory free of OpenBSD, via SSL_clear(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via Attachments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341)|An attacker can bypass access restrictions to data of Atlassian Confluence Server, via Attachments, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340" class="noirorange"><b>Dell PowerPath</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340)|An attacker can use several vulnerabilities of Dell PowerPath...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
+ |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[SC Export Customers module for PrestaShop SQL injection (CVE-2023-33278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[SC Fix My Prestashop module for PrestaShop SQL injection (CVE-2023-33279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[SC Quick Accounting module for PrestaShop SQL injection (CVE-2023-33280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[Ceppatron SQL injection (CVE-2023-2851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -187,6 +170,23 @@
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344" class="noirorange"><b>Stormshield Endpoint Security</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344)|An attacker can use several vulnerabilities of Stormshield Endpoint Security...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343" class="noirorange"><b>GPAC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343)|An attacker can use several vulnerabilities of GPAC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342" class="noirorange"><b>OpenBSD</b>: double free via SSL_clear()</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342)|An attacker can force a double memory free of OpenBSD, via SSL_clear(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via Attachments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341)|An attacker can bypass access restrictions to data of Atlassian Confluence Server, via Attachments, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340" class="noirorange"><b>Dell PowerPath</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340)|An attacker can use several vulnerabilities of Dell PowerPath...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
  
 
 # CA-CCS
