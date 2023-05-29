@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/05/2023 22:14:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/05/2023 23:19:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,6 +79,22 @@
  |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
+ |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
+ |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,6 +109,36 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
  |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20230518)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, spoofing, remote code execution, data manipulation and cross-site scripting on the targeted system.|Release Date: 18 May 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESS REC Agent Server Edition for multiple platforms directory traversal (CVE-2023-28382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[WP EasyPay Plugin for WordPress cross-site request forgery (CVE-2022-47177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[Performance Lab Plugin for WordPress cross-site request forgery (CVE-2022-47174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[Simple Share Buttons Adder Plugin for WordPress cross-site request forgery (CVE-2022-47178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353" class="noirorange"><b>Apache Cassandra</b>: code execution via FQL/Audit Logs</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353)|An attacker can use a vulnerability of Apache Cassandra, via FQL/Audit Logs, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352" class="noirorange"><b>Keycloak</b>: read-write access via Untrusted Certificate</a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352)|An attacker can bypass access restrictions of Keycloak, via Untrusted Certificate, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f2fs_write_end_io()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350" class="noirorange"><b>Bottles</b>: code execution via YAML</a>](https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350)|An attacker can use a vulnerability of Bottles, via YAML, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting via Email Viewer</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, via Email Viewer, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # EU-CERT
@@ -128,17 +158,18 @@
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESS REC Agent Server Edition for multiple platforms directory traversal (CVE-2023-28382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Apache Airflow CNCF Kubernetes Provider code execution (CVE-2023-33234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Yanknote code execution (CVE-2023-31874)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Quicklancer SQL injection (CVE-2023-25439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[WP EasyPay Plugin for WordPress cross-site request forgery (CVE-2022-47177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[Performance Lab Plugin for WordPress cross-site request forgery (CVE-2022-47174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- |[Simple Share Buttons Adder Plugin for WordPress cross-site request forgery (CVE-2022-47178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
+ |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
+ |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
  
 
 # MA-CERT
@@ -156,37 +187,6 @@
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
- |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353" class="noirorange"><b>Apache Cassandra</b>: code execution via FQL/Audit Logs</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353)|An attacker can use a vulnerability of Apache Cassandra, via FQL/Audit Logs, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352" class="noirorange"><b>Keycloak</b>: read-write access via Untrusted Certificate</a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352)|An attacker can bypass access restrictions of Keycloak, via Untrusted Certificate, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f2fs_write_end_io()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350" class="noirorange"><b>Bottles</b>: code execution via YAML</a>](https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350)|An attacker can use a vulnerability of Bottles, via YAML, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting via Email Viewer</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, via Email Viewer, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CA-CCS
