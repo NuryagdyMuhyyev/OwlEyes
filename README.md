@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/05/2023 04:17:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/05/2023 06:26:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5415 libreoffice - security update](https://www.linux.org/threads/dsa-5415-libreoffice-security-update.45247/)|Visit link for details.|May 29, 2023|
  |[DSA-5414 docker-registry - security update](https://www.linux.org/threads/dsa-5414-docker-registry-security-update.45240/)|Visit link for details.|May 28, 2023|
  |[DSA-5412 libraw - security update](https://www.linux.org/threads/dsa-5412-libraw-security-update.45239/)|Visit link for details.|May 28, 2023|
  |[DSA-5413 sniproxy - security update](https://www.linux.org/threads/dsa-5413-sniproxy-security-update.45231/)|Visit link for details.|May 27, 2023|
@@ -43,7 +44,6 @@
  |[USN-6100-1: HTML::StripScripts vulnerability](https://www.linux.org/threads/usn-6100-1-html-stripscripts-vulnerability.45198/)|Visit link for details.|May 25, 2023|
  |[USN-6105-2: ca-certificates update](https://www.linux.org/threads/usn-6105-2-ca-certificates-update.45196/)|Visit link for details.|May 24, 2023|
  |[DSA-5410 sofia-sip - security update](https://www.linux.org/threads/dsa-5410-sofia-sip-security-update.45195/)|Visit link for details.|May 24, 2023|
- |[DSA-5409 libssh - security update](https://www.linux.org/threads/dsa-5409-libssh-security-update.45194/)|Visit link for details.|May 24, 2023|
  
 
 # US-CERT
@@ -60,6 +60,56 @@
  |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
+ |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
+ |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
+ |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344" class="noirorange"><b>Stormshield Endpoint Security</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344)|An attacker can use several vulnerabilities of Stormshield Endpoint Security...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343" class="noirorange"><b>GPAC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343)|An attacker can use several vulnerabilities of GPAC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342" class="noirorange"><b>OpenBSD</b>: double free via SSL_clear()</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342)|An attacker can force a double memory free of OpenBSD, via SSL_clear(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via Attachments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341)|An attacker can bypass access restrictions to data of Atlassian Confluence Server, via Attachments, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340" class="noirorange"><b>Dell PowerPath</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340)|An attacker can use several vulnerabilities of Dell PowerPath...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -89,70 +139,6 @@
  |[TIBCO EBX Add-ons directory traversal (CVE-2023-26216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  |[WFTPD information disclosure (CVE-2023-33263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  |[SC Export Customers module for PrestaShop SQL injection (CVE-2023-33278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
- |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
- |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
- |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
- |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
- |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344" class="noirorange"><b>Stormshield Endpoint Security</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-two-vulnerabilities-41344)|An attacker can use several vulnerabilities of Stormshield Endpoint Security...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343" class="noirorange"><b>GPAC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GPAC-multiple-vulnerabilities-41343)|An attacker can use several vulnerabilities of GPAC...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342" class="noirorange"><b>OpenBSD</b>: double free via SSL_clear()</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-SSL-clear-41342)|An attacker can force a double memory free of OpenBSD, via SSL_clear(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via Attachments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341)|An attacker can bypass access restrictions to data of Atlassian Confluence Server, via Attachments, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340" class="noirorange"><b>Dell PowerPath</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340)|An attacker can use several vulnerabilities of Dell PowerPath...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -187,6 +173,20 @@
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
+ |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
  
 
 # CA-CCS
