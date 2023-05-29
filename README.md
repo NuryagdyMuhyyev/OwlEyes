@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2023 00:13:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2023 01:17:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6112-1: Perl vulnerability](https://www.linux.org/threads/usn-6112-1-perl-vulnerability.45265/)|Visit link for details.|May 29, 2023|
+ |[USN-6111-1: Flask vulnerability](https://www.linux.org/threads/usn-6111-1-flask-vulnerability.45260/)|Visit link for details.|May 29, 2023|
+ |[USN-6005-2: Sudo vulnerabilities](https://www.linux.org/threads/usn-6005-2-sudo-vulnerabilities.45259/)|Visit link for details.|May 29, 2023|
+ |[USN-6110-1: Jhead vulnerabilities](https://www.linux.org/threads/usn-6110-1-jhead-vulnerabilities.45256/)|Visit link for details.|May 29, 2023|
+ |[USN-6097-1: Linux PTP vulnerability](https://www.linux.org/threads/usn-6097-1-linux-ptp-vulnerability.45255/)|Visit link for details.|May 29, 2023|
+ |[DSA-5415 libreoffice - security update](https://www.linux.org/threads/dsa-5415-libreoffice-security-update.45247/)|Visit link for details.|May 29, 2023|
+ |[DSA-5414 docker-registry - security update](https://www.linux.org/threads/dsa-5414-docker-registry-security-update.45240/)|Visit link for details.|May 28, 2023|
+ |[DSA-5412 libraw - security update](https://www.linux.org/threads/dsa-5412-libraw-security-update.45239/)|Visit link for details.|May 28, 2023|
+ |[DSA-5413 sniproxy - security update](https://www.linux.org/threads/dsa-5413-sniproxy-security-update.45231/)|Visit link for details.|May 27, 2023|
+ |[DSA-5411 gpac - security update](https://www.linux.org/threads/dsa-5411-gpac-security-update.45230/)|Visit link for details.|May 27, 2023|
+ |[USN-6109-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6109-1-linux-kernel-raspberry-pi-vulnerabilities.45212/)|Visit link for details.|May 25, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,21 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6111-1: Flask vulnerability](https://www.linux.org/threads/usn-6111-1-flask-vulnerability.45260/)|Visit link for details.|May 29, 2023|
- |[USN-6005-2: Sudo vulnerabilities](https://www.linux.org/threads/usn-6005-2-sudo-vulnerabilities.45259/)|Visit link for details.|May 29, 2023|
- |[USN-6110-1: Jhead vulnerabilities](https://www.linux.org/threads/usn-6110-1-jhead-vulnerabilities.45256/)|Visit link for details.|May 29, 2023|
- |[USN-6097-1: Linux PTP vulnerability](https://www.linux.org/threads/usn-6097-1-linux-ptp-vulnerability.45255/)|Visit link for details.|May 29, 2023|
- |[DSA-5415 libreoffice - security update](https://www.linux.org/threads/dsa-5415-libreoffice-security-update.45247/)|Visit link for details.|May 29, 2023|
- |[DSA-5414 docker-registry - security update](https://www.linux.org/threads/dsa-5414-docker-registry-security-update.45240/)|Visit link for details.|May 28, 2023|
- |[DSA-5412 libraw - security update](https://www.linux.org/threads/dsa-5412-libraw-security-update.45239/)|Visit link for details.|May 28, 2023|
- |[DSA-5413 sniproxy - security update](https://www.linux.org/threads/dsa-5413-sniproxy-security-update.45231/)|Visit link for details.|May 27, 2023|
- |[DSA-5411 gpac - security update](https://www.linux.org/threads/dsa-5411-gpac-security-update.45230/)|Visit link for details.|May 27, 2023|
- |[USN-6109-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6109-1-linux-kernel-raspberry-pi-vulnerabilities.45212/)|Visit link for details.|May 25, 2023|
- |[USN-6054-2: Django vulnerability](https://www.linux.org/threads/usn-6054-2-django-vulnerability.45206/)|Visit link for details.|May 25, 2023|
+ |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
+ |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
  
 
 # HK-CERT
@@ -91,23 +108,6 @@
  |[Simple Share Buttons Adder Plugin for WordPress cross-site request forgery (CVE-2022-47178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 25, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
- |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
- |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
- |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
- |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -122,6 +122,20 @@
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
  |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
  |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
+ |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
  
 
 # OBS-Vigilance
@@ -141,23 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
- |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
- |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
- |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
- |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
- |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
- |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
- |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
- |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
- |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
- |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -175,6 +172,23 @@
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
+ |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
+ |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
+ |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
+ |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
+ |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
+ |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
+ |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
+ |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
+ |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
+ |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,10 +204,4 @@
  |[[Control systems] Horner Automation security advisory (AV23-289)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av23-289)|Visit link for details|2023-05-23|
  |[Dell security advisory (AV23-288)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-288)|Visit link for details|2023-05-23|
  |[Ubuntu security advisory (AV23-287)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-287)|Visit link for details|2023-05-23|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
