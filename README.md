@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2023 17:35:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2023 18:19:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -118,10 +102,10 @@
  |[Integration for Contact Form 7 and Zoho CRM, Bigin Plugin for WordPress cross-site request forgery (CVE-2023-25976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
  |[WP-Matomo Integration Plugin for WordPress cross-site scripting (CVE-2023-33211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
  |[JetFormBuilder Plugin for WordPress cross-site request forgery (CVE-2023-33212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
+ |[WooCommerce Comments Plugin for WordPress cross-site scripting (CVE-2023-33216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
  |[One Rank Math SEO PRO Plugin for WordPress cross-site scripting (CVE-2023-32800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
- |[Novelist Plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
- |[Upload File Type Settings Plugin for WordPress cross-site scripting (CVE-2023-25781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[FixBD Educare Plugin for WordPress cross-site request forgery (CVE-2023-25971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Novelist Plugin for WordPress cross-site scripting (CVE-2023-32958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  
 
 # OBS-Vigilance
@@ -158,21 +142,34 @@
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
-# CA-CCS
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV23-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-296)|Visit link for details|2023-05-29|
- |[Dell security advisory (AV23-295)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-295)|Visit link for details|2023-05-29|
- |[[Control systems] Moxa security advisory (AV23-294)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av23-294)|Visit link for details|2023-05-25|
- |[People's Republic of China state-sponsored cyber actor living off the land to evade detection - Joint cybersecurity advisory](https://www.cyber.gc.ca/en/alerts-advisories/peoples-republic-china-state-sponsored-cyber-actor-living-land-evade-detection-joint-cybersecurity-advisory)|Visit link for details|2023-05-24|
- |[GitLab security advisory (AV23-293)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-293)|Visit link for details|2023-05-24|
- |[Apple security advisory (AV23-292)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-292)|Visit link for details|2023-05-23|
- |[[Control systems] Hitachi Energy security advisory (AV23-291)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-291)|Visit link for details|2023-05-23|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-290)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-290)|Visit link for details|2023-05-23|
- |[[Control systems] Horner Automation security advisory (AV23-289)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av23-289)|Visit link for details|2023-05-23|
- |[Dell security advisory (AV23-288)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-288)|Visit link for details|2023-05-23|
- |[Ubuntu security advisory (AV23-287)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-287)|Visit link for details|2023-05-23|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
+ |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
+ |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
+ |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
+ |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
  
 
 # MA-CERT
@@ -192,8 +189,19 @@
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV23-298)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-298)|Visit link for details|2023-05-30|
+ |[IBM security advisory (AV23-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-296)|Visit link for details|2023-05-29|
+ |[Dell security advisory (AV23-295)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-295)|Visit link for details|2023-05-29|
+ |[[Control systems] Moxa security advisory (AV23-294)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av23-294)|Visit link for details|2023-05-25|
+ |[People's Republic of China state-sponsored cyber actor living off the land to evade detection - Joint cybersecurity advisory](https://www.cyber.gc.ca/en/alerts-advisories/peoples-republic-china-state-sponsored-cyber-actor-living-land-evade-detection-joint-cybersecurity-advisory)|Visit link for details|2023-05-24|
+ |[GitLab security advisory (AV23-293)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-293)|Visit link for details|2023-05-24|
+ |[Apple security advisory (AV23-292)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-292)|Visit link for details|2023-05-23|
+ |[[Control systems] Hitachi Energy security advisory (AV23-291)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-291)|Visit link for details|2023-05-23|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-290)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-290)|Visit link for details|2023-05-23|
+ |[[Control systems] Horner Automation security advisory (AV23-289)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av23-289)|Visit link for details|2023-05-23|
+ |[Dell security advisory (AV23-288)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-288)|Visit link for details|2023-05-23|
  
