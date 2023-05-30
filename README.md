@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2023 11:20:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2023 12:15:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
- |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
- |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
- |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
- |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
- |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
- |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -115,30 +98,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Novelist Plugin for WordPress cross-site scripting (CVE-2023-32958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
+ |[Better Notifications for WP Plugin for WordPress cross-site request forgery (CVE-2023-32964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  |[Resize at Upload Plus Plugin for WordPress cross-site request forgery (CVE-2023-25467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  |[Rus-To-Lat Plugin for WordPress cross-site request forgery (CVE-2023-25470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  |[All In One Schema Rich Snippets Plugin for WordPress cross-site request forgery (CVE-2023-25058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  |[For the visually impaired Plugin for WordPress cross-site request forgery (CVE-2023-25038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[WP Clean Up Plugin for WordPress cross-site request forgery (CVE-2023-25034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[WP Social Bookmarking Light Plugin for WordPress cross-site request forgery (CVE-2023-25029)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
  
 
-# EU-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
- |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
- |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
- |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
- |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
- |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
- |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
- |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
- |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
- |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
+ |[Microsoft - CVE-2021-43207](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43207-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-36955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-36955-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2021-43226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2021-43226-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Microsoft - CVE-2022-24481](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-24481-2023-05-26)|Visit link for details.|26/05/2023|
+ |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
+ |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32169](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32169-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-32165](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32165-2023-05-25)|Visit link for details.|25/05/2023|
+ |[Barracuda - CVE-2023-2868](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-2868-2023-05-25)|Visit link for details.|25/05/2023|
+ |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
  
 
 # ZERODAYINITIATIVE
@@ -159,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
@@ -169,7 +153,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting via Email Viewer</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-via-Email-Viewer-41347)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, via Email Viewer, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346" class="noirorange"><b>RainLoop Webmail</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/RainLoop-Webmail-Cross-Site-Scripting-41346)|An attacker can trigger a Cross Site Scripting of RainLoop Webmail, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
+ |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
+ |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
+ |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
+ |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
+ |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
+ |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
+ |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
+ |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
 # MA-CERT
