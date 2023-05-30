@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2023 13:21:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2023 14:16:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
- |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
- |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,49 +46,20 @@
  |[DSA-5411 gpac - security update](https://www.linux.org/threads/dsa-5411-gpac-security-update.45230/)|Visit link for details.|May 27, 2023|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[One Rank Math SEO PRO Plugin for WordPress cross-site scripting (CVE-2023-32800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
- |[Novelist Plugin for WordPress cross-site scripting (CVE-2023-32958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
- |[Better Notifications for WP Plugin for WordPress cross-site request forgery (CVE-2023-32964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Resize at Upload Plus Plugin for WordPress cross-site request forgery (CVE-2023-25467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[Rus-To-Lat Plugin for WordPress cross-site request forgery (CVE-2023-25470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[All In One Schema Rich Snippets Plugin for WordPress cross-site request forgery (CVE-2023-25058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
+ |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
+ |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/18/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|May 18, 2023|
  
 
 # CERT-SANTE
@@ -124,6 +79,51 @@
  |[D-Link - CVE-2023-31814](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-31814-2023-05-24)|Visit link for details.|24/05/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
+ |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
+ |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
+ |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-05...| Release Date: 11 May 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Integration for Contact Form 7 and Zoho CRM, Bigin Plugin for WordPress cross-site request forgery (CVE-2023-25976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[One Rank Math SEO PRO Plugin for WordPress cross-site scripting (CVE-2023-32800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
+ |[Novelist Plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2023|
+ |[Better Notifications for WP Plugin for WordPress cross-site request forgery (CVE-2023-32964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Resize at Upload Plus Plugin for WordPress cross-site request forgery (CVE-2023-25467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[Rus-To-Lat Plugin for WordPress cross-site request forgery (CVE-2023-25470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ |[All In One Schema Rich Snippets Plugin for WordPress cross-site request forgery (CVE-2023-25058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,23 +136,6 @@
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
  |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
  |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358" class="noirorange"><b>Clearswift SECURE Email Gateway</b>: information disclosure via Login Attempts Different Messages</a>](https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358)|An attacker can bypass access restrictions to data of Clearswift SECURE Email Gateway, via Login Attempts Different Messages, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353" class="noirorange"><b>Apache Cassandra</b>: code execution via FQL/Audit Logs</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353)|An attacker can use a vulnerability of Apache Cassandra, via FQL/Audit Logs, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352" class="noirorange"><b>Keycloak</b>: read-write access via Untrusted Certificate</a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352)|An attacker can bypass access restrictions of Keycloak, via Untrusted Certificate, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f2fs_write_end_io()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350" class="noirorange"><b>Bottles</b>: code execution via YAML</a>](https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350)|An attacker can use a vulnerability of Bottles, via YAML, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
  
 
 # EU-CERT
@@ -170,6 +153,23 @@
  |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358" class="noirorange"><b>Clearswift SECURE Email Gateway</b>: information disclosure via Login Attempts Different Messages</a>](https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358)|An attacker can bypass access restrictions to data of Clearswift SECURE Email Gateway, via Login Attempts Different Messages, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353" class="noirorange"><b>Apache Cassandra</b>: code execution via FQL/Audit Logs</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353)|An attacker can use a vulnerability of Apache Cassandra, via FQL/Audit Logs, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352" class="noirorange"><b>Keycloak</b>: read-write access via Untrusted Certificate</a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352)|An attacker can bypass access restrictions of Keycloak, via Untrusted Certificate, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f2fs_write_end_io()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350" class="noirorange"><b>Bottles</b>: code execution via YAML</a>](https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350)|An attacker can use a vulnerability of Bottles, via YAML, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
  
 
 # MA-CERT
