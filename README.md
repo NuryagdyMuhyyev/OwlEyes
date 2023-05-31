@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/05/2023 10:15:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/05/2023 11:22:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
- |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
- |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6119-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6119-1-openssl-vulnerabilities.45283/)|Visit link for details.|May 30, 2023|
  |[USN-6118-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6118-1-linux-kernel-oracle-vulnerabilities.45276/)|Visit link for details.|May 30, 2023|
  |[USN-6115-1: TeX Live vulnerability](https://www.linux.org/threads/usn-6115-1-tex-live-vulnerability.45274/)|Visit link for details.|May 30, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
+ |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
+ |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 19, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,53 @@
  |[TP-Link - CVE-2023-31701](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31701-2023-05-26)|Visit link for details.|26/05/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pydio server-side request forgery (CVE-2023-32750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome Extensions security bypass (CVE-2023-2941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome Downloads security bypass (CVE-2023-2940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome Installer security bypass (CVE-2023-2939)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome Picture In Picture security bypass (CVE-2023-2938)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome V8 code execution (CVE-2023-2936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Google Chrome V8 code execution (CVE-2023-2935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365" class="noirorange"><b>Ubuntu</b>: denial of service via Kernel Shiftfs Inode Locking</a>](https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365)|An attacker can cause a fatal error of Ubuntu, via Kernel Shiftfs Inode Locking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364" class="noirorange"><b>libaom</b>: buffer overflow via extend_frame_highbd()</a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363" class="noirorange"><b>Nanopb</b>: reuse after free via Message Decoding</a>](https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363)|An attacker can force the reuse of a freed memory area of Nanopb, via Message Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362" class="noirorange"><b>Nanopb</b>: memory leak via Static Submessage Dynamic Field</a>](https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362)|An attacker can create a memory leak of Nanopb, via Static Submessage Dynamic Field, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361" class="noirorange"><b>Joomla Core</b>: user access via MFA Brute Force</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361)|An attacker can bypass restrictions of Joomla Core, via MFA Brute Force, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via MFA Selection</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360)|An attacker can trigger a Cross Site Scripting of Joomla Core, via MFA Selection, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358" class="noirorange"><b>Clearswift SECURE Email Gateway</b>: information disclosure via Login Attempts Different Messages</a>](https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358)|An attacker can bypass access restrictions to data of Clearswift SECURE Email Gateway, via Login Attempts Different Messages, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
+ |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
+ |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
+ |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
+ |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
+ |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
+ |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
+ |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
+ |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
+ |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
+ |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,36 +175,6 @@
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Pydio server-side request forgery (CVE-2023-32750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome Extensions security bypass (CVE-2023-2941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome Downloads security bypass (CVE-2023-2940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome Installer security bypass (CVE-2023-2939)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome Picture In Picture security bypass (CVE-2023-2938)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome V8 code execution (CVE-2023-2936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Google Chrome V8 code execution (CVE-2023-2935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365" class="noirorange"><b>Ubuntu</b>: denial of service via Kernel Shiftfs Inode Locking</a>](https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365)|An attacker can cause a fatal error of Ubuntu, via Kernel Shiftfs Inode Locking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364" class="noirorange"><b>libaom</b>: buffer overflow via extend_frame_highbd()</a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363" class="noirorange"><b>Nanopb</b>: reuse after free via Message Decoding</a>](https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363)|An attacker can force the reuse of a freed memory area of Nanopb, via Message Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362" class="noirorange"><b>Nanopb</b>: memory leak via Static Submessage Dynamic Field</a>](https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362)|An attacker can create a memory leak of Nanopb, via Static Submessage Dynamic Field, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361" class="noirorange"><b>Joomla Core</b>: user access via MFA Brute Force</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361)|An attacker can bypass restrictions of Joomla Core, via MFA Brute Force, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via MFA Selection</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360)|An attacker can trigger a Cross Site Scripting of Joomla Core, via MFA Selection, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358" class="noirorange"><b>Clearswift SECURE Email Gateway</b>: information disclosure via Login Attempts Different Messages</a>](https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358)|An attacker can bypass access restrictions to data of Clearswift SECURE Email Gateway, via Login Attempts Different Messages, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveUnknownSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -187,21 +204,4 @@
  |[Apple security advisory (AV23-292)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-292)|Visit link for details|2023-05-23|
  |[[Control systems] Hitachi Energy security advisory (AV23-291)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-291)|Visit link for details|2023-05-23|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-290)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-290)|Visit link for details|2023-05-23|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
- |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
- |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
- |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
- |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
- |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
- |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
- |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
- |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
- |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
- |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
  
