@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/06/2023 00:12:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/06/2023 01:16:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
- |[USN-6125-1: snapd vulnerability](https://www.linux.org/threads/usn-6125-1-snapd-vulnerability.45296/)|Visit link for details.|May 31, 2023|
- |[DSA-5416 connman - security update](https://www.linux.org/threads/dsa-5416-connman-security-update.45295/)|Visit link for details.|May 31, 2023|
- |[USN-6124-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6124-1-linux-kernel-oem-vulnerabilities.45289/)|Visit link for details.|May 30, 2023|
- |[USN-6123-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6123-1-linux-kernel-oem-vulnerabilities.45288/)|Visit link for details.|May 30, 2023|
- |[USN-6122-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6122-1-linux-kernel-oem-vulnerabilities.45287/)|Visit link for details.|May 30, 2023|
- |[USN-6121-1: Nanopb vulnerabilities](https://www.linux.org/threads/usn-6121-1-nanopb-vulnerabilities.45286/)|Visit link for details.|May 30, 2023|
- |[USN-6120-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6120-1-spidermonkey-vulnerabilities.45285/)|Visit link for details.|May 30, 2023|
- |[USN-6117-1: Apache Batik vulnerabilities](https://www.linux.org/threads/usn-6117-1-apache-batik-vulnerabilities.45284/)|Visit link for details.|May 30, 2023|
- |[USN-6119-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6119-1-openssl-vulnerabilities.45283/)|Visit link for details.|May 30, 2023|
- |[USN-6118-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6118-1-linux-kernel-oracle-vulnerabilities.45276/)|Visit link for details.|May 30, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,33 +45,21 @@
  |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service,  remote code execution and data manipulation on the targeted system.|Release Date: 31 May 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023|
- |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WeKan cross-site scripting (CVE-2023-28485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Image Optimizer by 10web plugin for WordPress directory traversal (CVE-2023-2117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Faronics Insight information disclosure (CVE-2023-28344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight information disclosure (CVE-2023-28345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight security bypass (CVE-2023-28346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight cross-site scripting (CVE-2023-28347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight man-in-the-middle (CVE-2023-28348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
+ |[USN-6125-1: snapd vulnerability](https://www.linux.org/threads/usn-6125-1-snapd-vulnerability.45296/)|Visit link for details.|May 31, 2023|
+ |[DSA-5416 connman - security update](https://www.linux.org/threads/dsa-5416-connman-security-update.45295/)|Visit link for details.|May 31, 2023|
+ |[USN-6124-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6124-1-linux-kernel-oem-vulnerabilities.45289/)|Visit link for details.|May 30, 2023|
+ |[USN-6123-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6123-1-linux-kernel-oem-vulnerabilities.45288/)|Visit link for details.|May 30, 2023|
+ |[USN-6122-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6122-1-linux-kernel-oem-vulnerabilities.45287/)|Visit link for details.|May 30, 2023|
+ |[USN-6121-1: Nanopb vulnerabilities](https://www.linux.org/threads/usn-6121-1-nanopb-vulnerabilities.45286/)|Visit link for details.|May 30, 2023|
+ |[USN-6120-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6120-1-spidermonkey-vulnerabilities.45285/)|Visit link for details.|May 30, 2023|
+ |[USN-6117-1: Apache Batik vulnerabilities](https://www.linux.org/threads/usn-6117-1-apache-batik-vulnerabilities.45284/)|Visit link for details.|May 30, 2023|
+ |[USN-6119-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6119-1-openssl-vulnerabilities.45283/)|Visit link for details.|May 30, 2023|
+ |[USN-6118-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6118-1-linux-kernel-oracle-vulnerabilities.45276/)|Visit link for details.|May 30, 2023|
  
 
 # CERT-FR
@@ -107,6 +78,19 @@
  |[Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance.|Publié le 30 mai 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WeKan cross-site scripting (CVE-2023-28485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[Image Optimizer by 10web plugin for WordPress directory traversal (CVE-2023-2117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[Faronics Insight information disclosure (CVE-2023-28344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Faronics Insight information disclosure (CVE-2023-28345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Faronics Insight security bypass (CVE-2023-28346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Faronics Insight cross-site scripting (CVE-2023-28347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ |[Faronics Insight man-in-the-middle (CVE-2023-28348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -122,6 +106,22 @@
  |[OpenEMR - CVE-2023-2948](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2948-2023-05-30)|Visit link for details.|30/05/2023|
  |[OpenEMR - CVE-2023-2949](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2949-2023-05-30)|Visit link for details.|30/05/2023|
  |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|30/05/2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service,  remote code execution and data manipulation on the targeted system.|Release Date: 31 May 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023|
+ |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
  
 
 # ZERODAYINITIATIVE
@@ -155,23 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42113105/23 - Vulnérabilité dans plusieurs produits VMware](https://www.dgssi.gov.ma//fr/content/4211310523-vulnerabilite-dans-plusieurs-produits-vmware.html)|Une vulnérabilité a été corrigée dans les produits VMware susmentionnés. L’exploitation de cette faille peut permettre à un attaquant non authentifié de rediriger une victime vers un domaine contrôlé par l'attaquant en raison d'...|31 mai 2023|
- |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
- |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
- |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
- |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
- |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
- |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
- |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
- |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
- |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
- |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
  |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42113105/23 - Vulnérabilité dans plusieurs produits VMware](https://www.dgssi.gov.ma//fr/content/4211310523-vulnerabilite-dans-plusieurs-produits-vmware.html)|Une vulnérabilité a été corrigée dans les produits VMware susmentionnés. L’exploitation de cette faille peut permettre à un attaquant non authentifié de rediriger une victime vers un domaine contrôlé par l'attaquant en raison d'...|31 mai 2023|
+ |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
+ |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
+ |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
+ |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
+ |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
+ |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
+ |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
+ |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
+ |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
+ |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  
 
 # CA-CCS
