@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/06/2023 04:16:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/06/2023 07:03:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,26 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
- |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
- |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
- |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6127-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6127-1-linux-kernel-vulnerabilities.45306/)|Visit link for details.|Jun 1, 2023|
+ |[DSA-5417 openssl - security update](https://www.linux.org/threads/dsa-5417-openssl-security-update.45305/)|Visit link for details.|Jun 1, 2023|
  |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
  |[USN-6125-1: snapd vulnerability](https://www.linux.org/threads/usn-6125-1-snapd-vulnerability.45296/)|Visit link for details.|May 31, 2023|
  |[DSA-5416 connman - security update](https://www.linux.org/threads/dsa-5416-connman-security-update.45295/)|Visit link for details.|May 31, 2023|
@@ -58,8 +44,6 @@
  |[USN-6121-1: Nanopb vulnerabilities](https://www.linux.org/threads/usn-6121-1-nanopb-vulnerabilities.45286/)|Visit link for details.|May 30, 2023|
  |[USN-6120-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6120-1-spidermonkey-vulnerabilities.45285/)|Visit link for details.|May 30, 2023|
  |[USN-6117-1: Apache Batik vulnerabilities](https://www.linux.org/threads/usn-6117-1-apache-batik-vulnerabilities.45284/)|Visit link for details.|May 30, 2023|
- |[USN-6119-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6119-1-openssl-vulnerabilities.45283/)|Visit link for details.|May 30, 2023|
- |[USN-6118-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6118-1-linux-kernel-oracle-vulnerabilities.45276/)|Visit link for details.|May 30, 2023|
  
 
 # CERT-FR
@@ -76,6 +60,22 @@
  |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance.|Publié le 30 mai 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
+ |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
+ |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ |[CISA and Partners Update the #StopRansomware Guide, Developed through the Joint Ransomware Task Force (JRTF)](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf)|Visit link for details.|May 23, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 22, 2023|
+ |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
  
 
 # CERT-SANTE
@@ -95,23 +95,6 @@
  |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|30/05/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381" class="noirorange"><b>Bitcoin Core</b>: overload via Debug Mode Inventory-to-send Queue</a>](https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381)|An attacker can trigger an overload of Bitcoin Core, via Debug Mode Inventory-to-send Queue, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380" class="noirorange"><b>Broadcom Content Analysis</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380)|An attacker can use several vulnerabilities of Broadcom Content Analysis...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via virPCIVirtualFunction()</a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378" class="noirorange"><b>GraphQL Java</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378)|An attacker can cause a fatal error of GraphQL Java, via Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377)|An attacker can trigger a Cross Site Scripting of Drupal AddToAny Share Buttons, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376)|An attacker can bypass access restrictions to data of Drupal AddToAny Share Buttons, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375" class="noirorange"><b>Drupal Consent Popup</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375)|An attacker can trigger a Cross Site Scripting of Drupal Consent Popup, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374" class="noirorange"><b>Drupal Iubenda Integration</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374)|An attacker can trigger a Cross Site Scripting of Drupal Iubenda Integration, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372" class="noirorange"><b>ImageMagick</b>: code execution via Video Options Command Injection</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372)|An attacker can use a vulnerability of ImageMagick, via Video Options Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -126,19 +109,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023|
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 19 May 2023|
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CONPROSYS HMI System information disclosure (CVE-2023-28713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[WeKan cross-site scripting (CVE-2023-28485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Image Optimizer by 10web plugin for WordPress directory traversal (CVE-2023-2117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Faronics Insight information disclosure (CVE-2023-28344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight information disclosure (CVE-2023-28345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight security bypass (CVE-2023-28346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
- |[Faronics Insight cross-site scripting (CVE-2023-28347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2023|
  
 
 # EU-CERT
@@ -158,18 +128,48 @@
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381" class="noirorange"><b>Bitcoin Core</b>: overload via Debug Mode Inventory-to-send Queue</a>](https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381)|An attacker can trigger an overload of Bitcoin Core, via Debug Mode Inventory-to-send Queue, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380" class="noirorange"><b>Broadcom Content Analysis</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380)|An attacker can use several vulnerabilities of Broadcom Content Analysis...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via virPCIVirtualFunction()</a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378" class="noirorange"><b>GraphQL Java</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378)|An attacker can cause a fatal error of GraphQL Java, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377)|An attacker can trigger a Cross Site Scripting of Drupal AddToAny Share Buttons, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376)|An attacker can bypass access restrictions to data of Drupal AddToAny Share Buttons, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375" class="noirorange"><b>Drupal Consent Popup</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375)|An attacker can trigger a Cross Site Scripting of Drupal Consent Popup, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374" class="noirorange"><b>Drupal Iubenda Integration</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374)|An attacker can trigger a Cross Site Scripting of Drupal Iubenda Integration, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372" class="noirorange"><b>ImageMagick</b>: code execution via Video Options Command Injection</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372)|An attacker can use a vulnerability of ImageMagick, via Video Options Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CONPROSYS HMI System denial of service (CVE-2023-2758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System SQL injection (CVE-2023-29154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System server-side request forgery (CVE-2023-28824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System cross-site scripting (CVE-2023-28651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System security bypass (CVE-2023-28657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System security bypass (CVE-2023-28399)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[CONPROSYS HMI System information disclosure (CVE-2023-28713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Wacom Drivers for Windows Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-742/)|Visit link for details|2023-05-26|
- |[(0Day) Wacom Drivers for Windows Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-741/)|Visit link for details|2023-05-26|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-740/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-739/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-738/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-737/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Highlight Annotation noView Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-736/)|Visit link for details|2023-05-25|
- |[Adobe Acrobat Reader DC Annotation Highlight popupOpen Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-735/)|Visit link for details|2023-05-25|
+ |[Unified Automation UaGateway NodeManagerOpcUa Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-780/)|Visit link for details|2023-05-31|
+ |[Unified Automation UaGateway AddServer XML Injection Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-779/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server OpenSecureChannel Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-778/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Use-After-Free Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-777/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-776/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-775/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Samsung Galaxy S22 McsWebViewActivity Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-774/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Samsung Galaxy S22 InstantPlaysDeepLink Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-773/)|Visit link for details|2023-05-31|
  
 
 # MA-CERT
