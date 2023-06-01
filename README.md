@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/06/2023 02:14:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/06/2023 03:15:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,6 +111,19 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service on the targeted system. [Updated on 2023-05-19] Updated System / Technologies affected.| Release Date: 11 May 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HID Global SAFE denial of service (CVE-2023-2904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Train Station Ticketing System SQL injection (CVE-2023-3003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[JetBrains TeamCity security bypass (CVE-2023-34218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[JetBrains TeamCity security bypass (CVE-2023-34219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[JetBrains TeamCity cross-site scripting (CVE-2023-34220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[Simple Chat System SQL injection (CVE-2023-3004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ |[JetBrains TeamCity cross-site scripting (CVE-2023-34221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -128,34 +141,18 @@
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Train Station Ticketing System SQL injection (CVE-2023-3003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[JetBrains TeamCity security bypass (CVE-2023-34218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[JetBrains TeamCity security bypass (CVE-2023-34219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[JetBrains TeamCity cross-site scripting (CVE-2023-34220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Simple Chat System SQL injection (CVE-2023-3004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[JetBrains TeamCity cross-site scripting (CVE-2023-34221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[JetBrains TeamCity cross-site scripting (CVE-2023-34222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42130106/2023 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/421301062023-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures de sécurité ou d’injecter du code...|01 juin 2023|
- |[42150106/23 - Vulnérabilités dans Intel HDMI Firmware](https://www.dgssi.gov.ma//fr/content/4215010623-vulnerabilites-dans-intel-hdmi-firmware.html)|Intel a publié un avis de sécurité pour corriger deux vulnérabilités affectant Intel HDMI Firmware. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la...|01 juin 2023|
- |[42120106/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4212010623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|01 juin 2023|
- |[42140106/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4214010623-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|01 juin 2023|
- |[42113105/23 - Vulnérabilité dans plusieurs produits VMware](https://www.dgssi.gov.ma//fr/content/4211310523-vulnerabilite-dans-plusieurs-produits-vmware.html)|Une vulnérabilité a été corrigée dans les produits VMware susmentionnés. L’exploitation de cette faille peut permettre à un attaquant non authentifié de rediriger une victime vers un domaine contrôlé par l'attaquant en raison d'...|31 mai 2023|
- |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
- |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
- |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
- |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
- |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
- |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
+ |[Unified Automation UaGateway NodeManagerOpcUa Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-780/)|Visit link for details|2023-05-31|
+ |[Unified Automation UaGateway AddServer XML Injection Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-779/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Prosys OPC UA Simulation Server OpenSecureChannel Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-778/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Use-After-Free Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-777/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-776/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-775/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Samsung Galaxy S22 McsWebViewActivity Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-774/)|Visit link for details|2023-05-31|
+ |[(Pwn2Own) Samsung Galaxy S22 InstantPlaysDeepLink Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-773/)|Visit link for details|2023-05-31|
  
 
 # OBS-Vigilance
@@ -175,18 +172,21 @@
  |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via virPCIVirtualFunction()</a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Unified Automation UaGateway NodeManagerOpcUa Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-780/)|Visit link for details|2023-05-31|
- |[Unified Automation UaGateway AddServer XML Injection Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-779/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Prosys OPC UA Simulation Server OpenSecureChannel Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-778/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Use-After-Free Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-777/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-776/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Unified Automation UaGateway OPC UA Server Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-775/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Samsung Galaxy S22 McsWebViewActivity Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-774/)|Visit link for details|2023-05-31|
- |[(Pwn2Own) Samsung Galaxy S22 InstantPlaysDeepLink Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-773/)|Visit link for details|2023-05-31|
+ |[42130106/2023 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/421301062023-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures de sécurité ou d’injecter du code...|01 juin 2023|
+ |[42150106/23 - Vulnérabilités dans Intel HDMI Firmware](https://www.dgssi.gov.ma//fr/content/4215010623-vulnerabilites-dans-intel-hdmi-firmware.html)|Intel a publié un avis de sécurité pour corriger deux vulnérabilités affectant Intel HDMI Firmware. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la...|01 juin 2023|
+ |[42120106/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4212010623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|01 juin 2023|
+ |[42140106/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4214010623-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|01 juin 2023|
+ |[42113105/23 - Vulnérabilité dans plusieurs produits VMware](https://www.dgssi.gov.ma//fr/content/4211310523-vulnerabilite-dans-plusieurs-produits-vmware.html)|Une vulnérabilité a été corrigée dans les produits VMware susmentionnés. L’exploitation de cette faille peut permettre à un attaquant non authentifié de rediriger une victime vers un domaine contrôlé par l'attaquant en raison d'...|31 mai 2023|
+ |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
+ |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
+ |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
+ |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
+ |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
+ |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
  
 
 # CA-CCS
