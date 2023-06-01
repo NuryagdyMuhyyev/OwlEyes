@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/06/2023 17:34:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/06/2023 18:20:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6127-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6127-1-linux-kernel-vulnerabilities.45306/)|Visit link for details.|Jun 1, 2023|
- |[DSA-5417 openssl - security update](https://www.linux.org/threads/dsa-5417-openssl-security-update.45305/)|Visit link for details.|Jun 1, 2023|
- |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
- |[USN-6125-1: snapd vulnerability](https://www.linux.org/threads/usn-6125-1-snapd-vulnerability.45296/)|Visit link for details.|May 31, 2023|
- |[DSA-5416 connman - security update](https://www.linux.org/threads/dsa-5416-connman-security-update.45295/)|Visit link for details.|May 31, 2023|
- |[USN-6124-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6124-1-linux-kernel-oem-vulnerabilities.45289/)|Visit link for details.|May 30, 2023|
- |[USN-6123-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6123-1-linux-kernel-oem-vulnerabilities.45288/)|Visit link for details.|May 30, 2023|
- |[USN-6122-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6122-1-linux-kernel-oem-vulnerabilities.45287/)|Visit link for details.|May 30, 2023|
- |[USN-6121-1: Nanopb vulnerabilities](https://www.linux.org/threads/usn-6121-1-nanopb-vulnerabilities.45286/)|Visit link for details.|May 30, 2023|
- |[USN-6120-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6120-1-spidermonkey-vulnerabilities.45285/)|Visit link for details.|May 30, 2023|
- |[USN-6117-1: Apache Batik vulnerabilities](https://www.linux.org/threads/usn-6117-1-apache-batik-vulnerabilities.45284/)|Visit link for details.|May 30, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[Cisco Releases Security Advisory for Small Business Series Switches](https://www.cisa.gov/news-events/alerts/2023/05/19/cisco-releases-security-advisory-small-business-series-switches)|Visit link for details.|May 19, 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2023-27988](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27988-2023-05-31)|Visit link for details.|31/05/2023|
- |[WordPress - CVE-2023-0329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-0329-2023-05-31)|Visit link for details.|31/05/2023|
- |[WordPress - CVE-2023-28782](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-28782-2023-05-31)|Visit link for details.|31/05/2023|
- |[Google Chrome - CVE-2023-2936](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2936-2023-05-31)|Visit link for details.|31/05/2023|
- |[Google Chrome - CVE-2023-2935](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2935-2023-05-31)|Visit link for details.|31/05/2023|
- |[GitLab - CVE-2023-2825](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2825-2023-05-24)|Visit link for details.|31/05/2023|
- |[NagVis - CVE-2022-46945](https://www.cyberveille-sante.gouv.fr/alertes/nagvis-cve-2022-46945-2023-05-30)|Visit link for details.|30/05/2023|
- |[OpenEMR - CVE-2023-2942](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2942-2023-05-30)|Visit link for details.|30/05/2023|
- |[OpenEMR - CVE-2023-2948](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2948-2023-05-30)|Visit link for details.|30/05/2023|
- |[OpenEMR - CVE-2023-2949](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2949-2023-05-30)|Visit link for details.|30/05/2023|
- |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|30/05/2023|
+ |[USN-6127-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6127-1-linux-kernel-vulnerabilities.45306/)|Visit link for details.|Jun 1, 2023|
+ |[DSA-5417 openssl - security update](https://www.linux.org/threads/dsa-5417-openssl-security-update.45305/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
+ |[USN-6125-1: snapd vulnerability](https://www.linux.org/threads/usn-6125-1-snapd-vulnerability.45296/)|Visit link for details.|May 31, 2023|
+ |[DSA-5416 connman - security update](https://www.linux.org/threads/dsa-5416-connman-security-update.45295/)|Visit link for details.|May 31, 2023|
+ |[USN-6124-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6124-1-linux-kernel-oem-vulnerabilities.45289/)|Visit link for details.|May 30, 2023|
+ |[USN-6123-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6123-1-linux-kernel-oem-vulnerabilities.45288/)|Visit link for details.|May 30, 2023|
+ |[USN-6122-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6122-1-linux-kernel-oem-vulnerabilities.45287/)|Visit link for details.|May 30, 2023|
+ |[USN-6121-1: Nanopb vulnerabilities](https://www.linux.org/threads/usn-6121-1-nanopb-vulnerabilities.45286/)|Visit link for details.|May 30, 2023|
+ |[USN-6120-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6120-1-spidermonkey-vulnerabilities.45285/)|Visit link for details.|May 30, 2023|
+ |[USN-6117-1: Apache Batik vulnerabilities](https://www.linux.org/threads/usn-6117-1-apache-batik-vulnerabilities.45284/)|Visit link for details.|May 30, 2023|
  
 
 # HK-CERT
@@ -122,6 +105,23 @@
  |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance.|Publié le 30 mai 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2023-27988](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27988-2023-05-31)|Visit link for details.|31/05/2023|
+ |[WordPress - CVE-2023-0329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-0329-2023-05-31)|Visit link for details.|31/05/2023|
+ |[WordPress - CVE-2023-28782](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-28782-2023-05-31)|Visit link for details.|31/05/2023|
+ |[Google Chrome - CVE-2023-2936](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2936-2023-05-31)|Visit link for details.|31/05/2023|
+ |[Google Chrome - CVE-2023-2935](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2935-2023-05-31)|Visit link for details.|31/05/2023|
+ |[GitLab - CVE-2023-2825](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2825-2023-05-24)|Visit link for details.|31/05/2023|
+ |[NagVis - CVE-2022-46945](https://www.cyberveille-sante.gouv.fr/alertes/nagvis-cve-2022-46945-2023-05-30)|Visit link for details.|30/05/2023|
+ |[OpenEMR - CVE-2023-2942](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2942-2023-05-30)|Visit link for details.|30/05/2023|
+ |[OpenEMR - CVE-2023-2948](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2948-2023-05-30)|Visit link for details.|30/05/2023|
+ |[OpenEMR - CVE-2023-2949](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2949-2023-05-30)|Visit link for details.|30/05/2023|
+ |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|30/05/2023|
  
 
 # ZERODAYINITIATIVE
