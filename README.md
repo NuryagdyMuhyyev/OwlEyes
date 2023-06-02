@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/06/2023 14:16:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/06/2023 15:17:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[USN-6126-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6126-1-libvirt-vulnerabilities.45301/)|Visit link for details.|May 31, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Intel HDMI Firmware Update Tool](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Axis OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans Axis OS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache CXF - CVE-2022-46364](https://www.cyberveille-sante.gouv.fr/alertes/apache-cxf-cve-2022-46364-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Dell - CVE-2023-25539](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-25539-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Google Chrome - CVE-2023-2929](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2929-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Google Chrome - CVE-2023-2930](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2930-2023-06-01)|Visit link for details.|01/06/2023|
+ |[D-Link - CVE-2023-33735](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33735-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Zyxel - CVE-2023-27988](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27988-2023-05-31)|Visit link for details.|31/05/2023|
+ |[WordPress - CVE-2023-0329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-0329-2023-05-31)|Visit link for details.|31/05/2023|
+ |[WordPress - CVE-2023-28782](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-28782-2023-05-31)|Visit link for details.|31/05/2023|
+ |[Google Chrome - CVE-2023-2936](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2936-2023-05-31)|Visit link for details.|31/05/2023|
+ |[Google Chrome - CVE-2023-2935](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2935-2023-05-31)|Visit link for details.|31/05/2023|
+ |[GitLab - CVE-2023-2825](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2825-2023-05-24)|Visit link for details.|31/05/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,77 +115,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Advantech WebAccss/SCADA code execution (CVE-2023-32628)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Advantech WebAccss/SCADA code execution (CVE-2023-22450)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Advantech WebAccss/SCADA code execution (CVE-2023-32540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[STARFACE PBX security bypass (CVE-2023-33243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[Runsystem Jiyu Kukan Toku-Toku coupon App man-in-the-middle (CVE-2023-29501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[OpenPrinting CUPS denial of service (CVE-2023-32324)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[HID Global SAFE denial of service (CVE-2023-2904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Fatek Automation FvDesigner code execution (CVE-2023-34273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Fatek Automation FvDesigner code execution (CVE-2023-34272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- |[Fatek Automation FvDesigner code execution (CVE-2023-34271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache CXF - CVE-2022-46364](https://www.cyberveille-sante.gouv.fr/alertes/apache-cxf-cve-2022-46364-2023-06-01)|Visit link for details.|01/06/2023|
- |[Dell - CVE-2023-25539](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-25539-2023-06-01)|Visit link for details.|01/06/2023|
- |[Google Chrome - CVE-2023-2929](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2929-2023-06-01)|Visit link for details.|01/06/2023|
- |[Google Chrome - CVE-2023-2930](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2930-2023-06-01)|Visit link for details.|01/06/2023|
- |[D-Link - CVE-2023-33735](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33735-2023-06-01)|Visit link for details.|01/06/2023|
- |[Zyxel - CVE-2023-27988](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27988-2023-05-31)|Visit link for details.|31/05/2023|
- |[WordPress - CVE-2023-0329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-0329-2023-05-31)|Visit link for details.|31/05/2023|
- |[WordPress - CVE-2023-28782](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-28782-2023-05-31)|Visit link for details.|31/05/2023|
- |[Google Chrome - CVE-2023-2936](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2936-2023-05-31)|Visit link for details.|31/05/2023|
- |[Google Chrome - CVE-2023-2935](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2935-2023-05-31)|Visit link for details.|31/05/2023|
- |[GitLab - CVE-2023-2825](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2825-2023-05-24)|Visit link for details.|31/05/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Intel HDMI Firmware Update Tool](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Axis OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans Axis OS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via /services/indexing/preview</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399" class="noirorange"><b>Splunk App for Lookup File Editing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399)|An attacker can trigger a Cross Site Scripting of Splunk App for Lookup File Editing, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397" class="noirorange"><b>Splunk App for Lookup File Editing</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397)|An attacker can traverse directories of Splunk App for Lookup File Editing, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396" class="noirorange"><b>Splunk App for Stream</b>: privilege escalation via streamfwd</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396)|An attacker can bypass restrictions of Splunk App for Stream, via streamfwd, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395" class="noirorange"><b>Splunk Enterprise</b>: file write via /var/log/splunk/web_service.log</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Dashboard View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Dashboard View, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Hashed Default Password</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Hashed Default Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392" class="noirorange"><b>Splunk Enterprise</b>: header injection via Rest SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392)|An attacker can add new headers on Splunk Enterprise, via Rest SPL Command, in order to alter the service behavior...|Visit link for details|
  
 
 # EU-CERT
@@ -189,6 +158,20 @@
  |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[IBM security advisory (AV23-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-296)|Visit link for details|2023-05-29|
  |[Dell security advisory (AV23-295)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-295)|Visit link for details|2023-05-29|
  |[[Control systems] Moxa security advisory (AV23-294)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av23-294)|Visit link for details|2023-05-25|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via /services/indexing/preview</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399" class="noirorange"><b>Splunk App for Lookup File Editing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399)|An attacker can trigger a Cross Site Scripting of Splunk App for Lookup File Editing, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397" class="noirorange"><b>Splunk App for Lookup File Editing</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397)|An attacker can traverse directories of Splunk App for Lookup File Editing, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396" class="noirorange"><b>Splunk App for Stream</b>: privilege escalation via streamfwd</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396)|An attacker can bypass restrictions of Splunk App for Stream, via streamfwd, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395" class="noirorange"><b>Splunk Enterprise</b>: file write via /var/log/splunk/web_service.log</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Dashboard View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Dashboard View, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Hashed Default Password</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Hashed Default Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392" class="noirorange"><b>Splunk Enterprise</b>: header injection via Rest SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392)|An attacker can add new headers on Splunk Enterprise, via Rest SPL Command, in order to alter the service behavior...|Visit link for details|
  
