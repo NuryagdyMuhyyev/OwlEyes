@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/06/2023 10:14:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/06/2023 11:20:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/01/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jun 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
- |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
- |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +46,22 @@
  |[DSA-5417 openssl - security update](https://www.linux.org/threads/dsa-5417-openssl-security-update.45305/)|Visit link for details.|Jun 1, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/01/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jun 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 30, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 26, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 25, 2023|
+ |[CISA Warns of Hurricane/Typhoon-Related Scams](https://www.cisa.gov/news-events/alerts/2023/05/25/cisa-warns-hurricanetyphoon-related-scams)|Visit link for details.|May 25, 2023|
+ |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -73,6 +73,39 @@
  |[Splunk Enterprise and Splunk Cloud Platform information disclosure (CVE-2023-32710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[Splunk Enterprise cross-site scripting (CVE-2023-32711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  |[Splunk Enterprise security bypass (CVE-2023-32712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Cassandra - CVE-2023-30601](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2023-30601-2023-06-02)|Visit link for details.|02/06/2023|
+ |[LibreOffice - CVE-2023-0950](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-0950-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Symantec - CVE-2023-23952](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23952-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Symantec - CVE-2023-23953](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23953-2023-06-02)|Visit link for details.|02/06/2023|
+ |[VIPRE - CVE-2023-32175](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2023-32175-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|02/06/2023|
+ |[Apache CXF - CVE-2022-46364](https://www.cyberveille-sante.gouv.fr/alertes/apache-cxf-cve-2022-46364-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Dell - CVE-2023-25539](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-25539-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Google Chrome - CVE-2023-2929](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2929-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Google Chrome - CVE-2023-2930](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2930-2023-06-01)|Visit link for details.|01/06/2023|
+ |[D-Link - CVE-2023-33735](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33735-2023-06-01)|Visit link for details.|01/06/2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service,  remote code execution and data manipulation on the targeted system.|Release Date: 31 May 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023 |
+ |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023 |
  
 
 # CERT-FR
@@ -91,21 +124,18 @@
  |[Multiples vulnérabilités dans Intel HDMI Firmware Update Tool](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Cassandra - CVE-2023-30601](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2023-30601-2023-06-02)|Visit link for details.|02/06/2023|
- |[LibreOffice - CVE-2023-0950](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-0950-2023-06-02)|Visit link for details.|02/06/2023|
- |[Symantec - CVE-2023-23952](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23952-2023-06-02)|Visit link for details.|02/06/2023|
- |[Symantec - CVE-2023-23953](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23953-2023-06-02)|Visit link for details.|02/06/2023|
- |[VIPRE - CVE-2023-32175](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2023-32175-2023-06-02)|Visit link for details.|02/06/2023|
- |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|02/06/2023|
- |[Apache CXF - CVE-2022-46364](https://www.cyberveille-sante.gouv.fr/alertes/apache-cxf-cve-2022-46364-2023-06-01)|Visit link for details.|01/06/2023|
- |[Dell - CVE-2023-25539](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-25539-2023-06-01)|Visit link for details.|01/06/2023|
- |[Google Chrome - CVE-2023-2929](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2929-2023-06-01)|Visit link for details.|01/06/2023|
- |[Google Chrome - CVE-2023-2930](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-2930-2023-06-01)|Visit link for details.|01/06/2023|
- |[D-Link - CVE-2023-33735](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33735-2023-06-01)|Visit link for details.|01/06/2023|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
  
 
 # OBS-Vigilance
@@ -159,22 +189,6 @@
  |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service,  remote code execution and data manipulation on the targeted system.|Release Date: 31 May 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-05-08] Updated Solutions...| Release Date: 2 May 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230530)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 30 May 2023 |
- |[GitLab Information Disclosure Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-information-disclosure-vulnerabilities_20230525)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 25 May 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230523)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 23 May 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2023-...|Release Date: 19 May 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023 |
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[IBM security advisory (AV23-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-296)|Visit link for details|2023-05-29|
  |[Dell security advisory (AV23-295)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-295)|Visit link for details|2023-05-29|
  |[[Control systems] Moxa security advisory (AV23-294)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av23-294)|Visit link for details|2023-05-25|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
  
