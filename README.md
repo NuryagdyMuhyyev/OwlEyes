@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/06/2023 10:15:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/06/2023 11:19:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5418 chromium - security update](https://www.linux.org/threads/dsa-5418-chromium-security-update.45355/)|Visit link for details.|Jun 4, 2023|
- |[USN-6135-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6135-1-linux-kernel-azure-cvm-vulnerabilities.45336/)|Visit link for details.|Jun 2, 2023|
- |[USN-6134-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6134-1-linux-kernel-intel-iotg-vulnerabilities.45328/)|Visit link for details.|Jun 2, 2023|
- |[USN-6133-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6133-1-linux-kernel-intel-iotg-vulnerabilities.45327/)|Visit link for details.|Jun 2, 2023|
- |[USN-6132-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6132-1-linux-kernel-vulnerabilities.45325/)|Visit link for details.|Jun 1, 2023|
- |[USN-6131-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6131-1-linux-kernel-vulnerabilities.45324/)|Visit link for details.|Jun 1, 2023|
- |[USN-6130-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6130-1-linux-kernel-vulnerabilities.45323/)|Visit link for details.|Jun 1, 2023|
- |[USN-6128-2: CUPS vulnerability](https://www.linux.org/threads/usn-6128-2-cups-vulnerability.45317/)|Visit link for details.|Jun 1, 2023|
- |[USN-6129-1: Avahi vulnerability](https://www.linux.org/threads/usn-6129-1-avahi-vulnerability.45316/)|Visit link for details.|Jun 1, 2023|
- |[USN-6128-1: CUPS vulnerability](https://www.linux.org/threads/usn-6128-1-cups-vulnerability.45315/)|Visit link for details.|Jun 1, 2023|
- |[USN-6127-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6127-1-linux-kernel-vulnerabilities.45306/)|Visit link for details.|Jun 1, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,17 +45,37 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 23, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0431/)|Une vulnérabilité a été découverte dans |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0430/)|De multiples vulnérabilités ont été découvertes dans dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0429/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Intel HDMI Firmware Update Tool](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5418 chromium - security update](https://www.linux.org/threads/dsa-5418-chromium-security-update.45355/)|Visit link for details.|Jun 4, 2023|
+ |[USN-6135-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6135-1-linux-kernel-azure-cvm-vulnerabilities.45336/)|Visit link for details.|Jun 2, 2023|
+ |[USN-6134-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6134-1-linux-kernel-intel-iotg-vulnerabilities.45328/)|Visit link for details.|Jun 2, 2023|
+ |[USN-6133-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6133-1-linux-kernel-intel-iotg-vulnerabilities.45327/)|Visit link for details.|Jun 2, 2023|
+ |[USN-6132-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6132-1-linux-kernel-vulnerabilities.45325/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6131-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6131-1-linux-kernel-vulnerabilities.45324/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6130-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6130-1-linux-kernel-vulnerabilities.45323/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6128-2: CUPS vulnerability](https://www.linux.org/threads/usn-6128-2-cups-vulnerability.45317/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6129-1: Avahi vulnerability](https://www.linux.org/threads/usn-6129-1-avahi-vulnerability.45316/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6128-1: CUPS vulnerability](https://www.linux.org/threads/usn-6128-1-cups-vulnerability.45315/)|Visit link for details.|Jun 1, 2023|
+ |[USN-6127-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6127-1-linux-kernel-vulnerabilities.45306/)|Visit link for details.|Jun 1, 2023|
  
 
 # CERT-SANTE
@@ -108,6 +111,33 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230519)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system.|Release Date: 19 May 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -125,34 +155,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Dashboard View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Dashboard View, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0431/)|Une vulnérabilité a été découverte dans |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0430/)|De multiples vulnérabilités ont été découvertes dans dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0429/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
- |[Multiples vulnérabilités dans Intel HDMI Firmware Update Tool](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
+ |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
+ |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
+ |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
+ |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
+ |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
+ |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
+ |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
+ |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[IBM security advisory (AV23-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-296)|Visit link for details|2023-05-29|
  |[Dell security advisory (AV23-295)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-295)|Visit link for details|2023-05-29|
  |[[Control systems] Moxa security advisory (AV23-294)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av23-294)|Visit link for details|2023-05-25|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
- |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
- |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
- |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
- |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
- |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
- |[2023-026: Critical Vulnerability in a Cisco Product](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-026.pdf)|On May 3, 2023, Cisco released an advisory to address a critical vulnerability in the web-based management system of the Cisco SPA112 2-Port Phone Adapters. The vulnerability is tracked as "CVE-2023-20126" and has a CVSS score of 9.8.|Friday, May 05, 2023 02:39:00 PM CEST|
- |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
- |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
- |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
  
