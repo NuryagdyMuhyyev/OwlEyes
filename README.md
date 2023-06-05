@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/06/2023 21:21:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/06/2023 22:14:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[CISA and Partners Release Cybersecurity Advisory Guidance detailing PRC state-sponsored actors evading detection by “Living off the Land”](https://www.cisa.gov/news-events/alerts/2023/05/24/cisa-and-partners-release-cybersecurity-advisory-guidance-detailing-prc-state-sponsored-actors)|Visit link for details.|May 24, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Vulnérabilité dans Moxa CN2600 Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0433/)|Une vulnérabilité a été découverte dans|Publié le 5 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0432/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 5 juin 2023|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0431/)|Une vulnérabilité a été découverte dans |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0430/)|De multiples vulnérabilités ont été découvertes dans dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0429/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 2 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|05/06/2023|
- |[Microsoft - CVE-2023-33143](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33143-2023-06-05)|Visit link for details.|05/06/2023|
- |[D-Link - CVE-2023-34282](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34282-2023-06-05)|Visit link for details.|05/06/2023|
- |[D-Link - CVE-2023-34274](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34274-2023-06-05)|Visit link for details.|05/06/2023|
- |[Dell - CVE-2023-28066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28066-2023-06-05)|Visit link for details.|05/06/2023|
- |[Apache Cassandra - CVE-2023-30601](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2023-30601-2023-06-02)|Visit link for details.|02/06/2023|
- |[LibreOffice - CVE-2023-0950](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-0950-2023-06-02)|Visit link for details.|02/06/2023|
- |[Symantec - CVE-2023-23952](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23952-2023-06-02)|Visit link for details.|02/06/2023|
- |[Symantec - CVE-2023-23953](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23953-2023-06-02)|Visit link for details.|02/06/2023|
- |[VIPRE - CVE-2023-32175](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2023-32175-2023-06-02)|Visit link for details.|02/06/2023|
- |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|02/06/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,6 +91,37 @@
  |[Mitsubishi Electric MELSEC iQ-R file upload (CVE-2023-2063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|05/06/2023|
+ |[Microsoft - CVE-2023-33143](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33143-2023-06-05)|Visit link for details.|05/06/2023|
+ |[D-Link - CVE-2023-34282](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34282-2023-06-05)|Visit link for details.|05/06/2023|
+ |[D-Link - CVE-2023-34274](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34274-2023-06-05)|Visit link for details.|05/06/2023|
+ |[Dell - CVE-2023-28066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28066-2023-06-05)|Visit link for details.|05/06/2023|
+ |[Apache Cassandra - CVE-2023-30601](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2023-30601-2023-06-02)|Visit link for details.|02/06/2023|
+ |[LibreOffice - CVE-2023-0950](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-0950-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Symantec - CVE-2023-23952](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23952-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Symantec - CVE-2023-23953](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2023-23953-2023-06-02)|Visit link for details.|02/06/2023|
+ |[VIPRE - CVE-2023-32175](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2023-32175-2023-06-02)|Visit link for details.|02/06/2023|
+ |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|02/06/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
+ |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -141,6 +139,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Vulnérabilité dans Moxa CN2600 Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0433/)|Une vulnérabilité a été découverte dans|Publié le 5 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0432/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 5 juin 2023|
+ |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0431/)|Une vulnérabilité a été découverte dans |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0430/)|De multiples vulnérabilités ont été découvertes dans dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0429/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 2 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 1 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0426/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 juin 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,20 +170,6 @@
  |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
  |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
  |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-817/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-816/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-815/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-814/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-813/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
- |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
  
 
 # MA-CERT
