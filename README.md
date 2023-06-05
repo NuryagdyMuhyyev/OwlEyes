@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/06/2023 07:51:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/06/2023 08:19:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,19 +111,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230511)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 11 May 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Aspera buffer overflow (CVE-2023-27285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2023|
- |[IBM Aspera information disclosure (CVE-2023-22862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2023|
- |[Mitsubishi Electric MELSEC iQ-R file upload (CVE-2023-2063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Mitsubishi Electric MELSEC iQ-R information disclosure (CVE-2023-2062)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Mitsubishi Electric MELSEC iQ-R default account (CVE-2023-2061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Mitsubishi Electric MELSEC iQ-R information disclosure (CVE-2023-2060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- |[Delta Electronics CNCSoft-B buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -139,6 +126,36 @@
  |[2023-025: Critical vulnerabilities in PaperCut](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-025.pdf)|A new security advisory has been issued concerning two critical vulnerabilities in PaperCut MF/NG, which are actively being exploited in the wild. The vulnerabilities allow unauthenticated remote code execution and information disclosure. PaperCut users are strongly urged to update their software immediately to mitigate these risks.|Thursday, April 20, 2023 03:15:00 PM CEST|
  |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
  |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[erofs-utils buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2023|
+ |[IBM Aspera buffer overflow (CVE-2023-27285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2023|
+ |[IBM Aspera information disclosure (CVE-2023-22862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2023|
+ |[Mitsubishi Electric MELSEC iQ-R file upload (CVE-2023-2063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Mitsubishi Electric MELSEC iQ-R information disclosure (CVE-2023-2062)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Mitsubishi Electric MELSEC iQ-R default account (CVE-2023-2061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ |[Mitsubishi Electric MELSEC iQ-R information disclosure (CVE-2023-2060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 1, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Proxy-Authorization-Headers-41408" class="noirorange"><b>Requests</b>: information disclosure via Proxy-Authorization Headers</a>](https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Proxy-Authorization-Headers-41408)|An attacker can bypass access restrictions to data of Requests, via Proxy-Authorization Headers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nbconvert-Cross-Site-Scripting-41407" class="noirorange"><b>nbconvert</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/nbconvert-Cross-Site-Scripting-41407)|An attacker can trigger a Cross Site Scripting of nbconvert, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via stun_parse_attr_error_code()</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405)|An attacker can trigger a buffer overflow of Sofia-SIP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via /services/indexing/preview</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399" class="noirorange"><b>Splunk App for Lookup File Editing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399)|An attacker can trigger a Cross Site Scripting of Splunk App for Lookup File Editing, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397" class="noirorange"><b>Splunk App for Lookup File Editing</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397)|An attacker can traverse directories of Splunk App for Lookup File Editing, in order to read or write a file outside the service root path...|Visit link for details|
  
 
 # MA-CERT
@@ -170,23 +187,6 @@
  |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-812/)|Visit link for details|2023-06-01|
  |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-811/)|Visit link for details|2023-06-01|
  |[Delta Electronics CNCSoft-B DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-810/)|Visit link for details|2023-06-01|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via stun_parse_attr_error_code()</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405)|An attacker can trigger a buffer overflow of Sofia-SIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via /services/indexing/preview</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399" class="noirorange"><b>Splunk App for Lookup File Editing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399)|An attacker can trigger a Cross Site Scripting of Splunk App for Lookup File Editing, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397" class="noirorange"><b>Splunk App for Lookup File Editing</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397)|An attacker can traverse directories of Splunk App for Lookup File Editing, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396" class="noirorange"><b>Splunk App for Stream</b>: privilege escalation via streamfwd</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396)|An attacker can bypass restrictions of Splunk App for Stream, via streamfwd, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395" class="noirorange"><b>Splunk Enterprise</b>: file write via /var/log/splunk/web_service.log</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Dashboard View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Dashboard View, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CA-CCS
