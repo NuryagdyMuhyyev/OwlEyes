@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/06/2023 00:13:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/06/2023 01:17:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6134-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6134-1-linux-kernel-intel-iotg-vulnerabilities.45328/)|Visit link for details.|Jun 2, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2023-3079](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3079-2023-06-06)|Visit link for details.|06/06/2023|
+ |[OpenEMR - CVE-2023-2950](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2950-2023-06-06)|Visit link for details.|06/06/2023|
+ |[OpenEMR - CVE-2023-2946](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2946-2023-06-06)|Visit link for details.|06/06/2023|
+ |[OpenEMR - CVE-2023-2943](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2943-2023-06-06)|Visit link for details.|06/06/2023|
+ |[Linux - CVE-2023-3111](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3111-2023-06-06)|Visit link for details.|06/06/2023|
+ |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|06/06/2023|
+ |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|06/06/2023|
+ |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|05/06/2023|
+ |[Microsoft - CVE-2023-33143](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33143-2023-06-05)|Visit link for details.|05/06/2023|
+ |[D-Link - CVE-2023-34282](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34282-2023-06-05)|Visit link for details.|05/06/2023|
+ |[D-Link - CVE-2023-34274](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34274-2023-06-05)|Visit link for details.|05/06/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -89,23 +106,6 @@
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2022-48444)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 6, 2023|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2022-48445)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 6, 2023|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2022-48446)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 6, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2023-3079](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3079-2023-06-06)|Visit link for details.|06/06/2023|
- |[OpenEMR - CVE-2023-2950](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2950-2023-06-06)|Visit link for details.|06/06/2023|
- |[OpenEMR - CVE-2023-2946](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2946-2023-06-06)|Visit link for details.|06/06/2023|
- |[OpenEMR - CVE-2023-2943](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2943-2023-06-06)|Visit link for details.|06/06/2023|
- |[Linux - CVE-2023-3111](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3111-2023-06-06)|Visit link for details.|06/06/2023|
- |[Zyxel - CVE-2023-33009](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33009-2023-05-25)|Visit link for details.|06/06/2023|
- |[Zyxel - CVE-2023-33010](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33010-2023-05-25)|Visit link for details.|06/06/2023|
- |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|05/06/2023|
- |[Microsoft - CVE-2023-33143](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33143-2023-06-05)|Visit link for details.|05/06/2023|
- |[D-Link - CVE-2023-34282](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34282-2023-06-05)|Visit link for details.|05/06/2023|
- |[D-Link - CVE-2023-34274](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-34274-2023-06-05)|Visit link for details.|05/06/2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-two-vulnerabilities-41421" class="noirorange"><b>Grafana</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-two-vulnerabilities-41421)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419)|An attacker can use several vulnerabilities of Android...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418" class="noirorange"><b>Linux kernel</b>: reuse after free via prepare_to_relocate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
@@ -152,7 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413" class="noirorange"><b>FRRouting</b>: denial of service via bgp_attr_psid_sub()</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412" class="noirorange"><b>FRRouting</b>: denial of service via bgp_capability_llgr()</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411" class="noirorange"><b>ArcSight Logger</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411)|An attacker can use several vulnerabilities of ArcSight Logger...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  
 
 # EU-CERT
@@ -193,6 +193,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Android security advisory – June 2023 Monthly Rollup (AV23-314)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2023-monthly-rollup-av23-314)|Visit link for details|2023-06-06|
+ |[Mozilla security advisory (AV23-313)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-313)|Visit link for details|2023-06-06|
  |[[Control systems] ABB security advisory (AV23-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-312)|Visit link for details|2023-06-06|
  |[HPE security advisory (AV23-311)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-311)|Visit link for details|2023-06-06|
  |[Google Chrome security advisory (AV23-310)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-310)|Visit link for details|2023-06-06|
@@ -202,6 +204,4 @@
  |[IBM security advisory (AV23-306)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-306)|Visit link for details|2023-06-05|
  |[Dell security advisory (AV23-305)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-305)|Visit link for details|2023-06-05|
  |[[Control systems] HID Global security advisory (AV23-304)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hid-global-security-advisory-av23-304)|Visit link for details|2023-06-01|
- |[MOVEit Transfer security advisory (AV23-303)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-303)|Visit link for details|2023-06-01|
- |[[Control systems] ABB security advisory (AV23-302)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-302)|Visit link for details|2023-06-01|
  
