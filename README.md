@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/06/2023 11:21:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/06/2023 12:15:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/07/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Jun 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 07, 2023|
+ |[CISA and FBI Release #StopRansomware: CL0P Ransomware Gang Exploits MOVEit Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-and-fbi-release-stopransomware-cl0p-ransomware-gang-exploits-moveit-vulnerability)|Visit link for details.|Jun 07, 2023|
+ |[CISA and Partners Release Joint Guide to Securing Remote Access Software](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-and-partners-release-joint-guide-securing-remote-access-software)|Visit link for details.|Jun 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 05, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/01/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jun 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,37 +62,20 @@
  |[USN-6139-1: Python vulnerability](https://www.linux.org/threads/usn-6139-1-python-vulnerability.45375/)|Visit link for details.|Jun 5, 2023|
  
 
-# US-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/07/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Jun 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 07, 2023|
- |[CISA and FBI Release #StopRansomware: CL0P Ransomware Gang Exploits MOVEit Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-and-fbi-release-stopransomware-cl0p-ransomware-gang-exploits-moveit-vulnerability)|Visit link for details.|Jun 07, 2023|
- |[CISA and Partners Release Joint Guide to Securing Remote Access Software](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-and-partners-release-joint-guide-securing-remote-access-software)|Visit link for details.|Jun 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 05, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/01/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jun 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 31, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[UNIX - CVE-2023-24805](https://www.cyberveille-sante.gouv.fr/alertes/unix-cve-2023-24805-2023-06-07)|Visit link for details.|07/06/2023|
- |[GitLab - CVE-2023-2442](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2442-2023-06-07)|Visit link for details.|07/06/2023|
- |[Trend Micro - CVE-2023-34144](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-34144-2023-06-07)|Visit link for details.|07/06/2023|
- |[Mozilla Firefox - CVE-2023-34417](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34417-2023-06-07)|Visit link for details.|07/06/2023|
- |[Mozilla Firefox - CVE-2023-34416](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34416-2023-06-07)|Visit link for details.|07/06/2023|
- |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|07/06/2023|
- |[Google Chrome - CVE-2023-3079](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3079-2023-06-06)|Visit link for details.|07/06/2023|
- |[OpenEMR - CVE-2023-2950](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2950-2023-06-06)|Visit link for details.|06/06/2023|
- |[OpenEMR - CVE-2023-2946](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2946-2023-06-06)|Visit link for details.|06/06/2023|
- |[OpenEMR - CVE-2023-2943](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2943-2023-06-06)|Visit link for details.|06/06/2023|
- |[Linux - CVE-2023-3111](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3111-2023-06-06)|Visit link for details.|06/06/2023|
+ |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 8 Jun 2023 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, elevation of privilege, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 7 Jun 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-0266...|Release Date: 7 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230606)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Jun 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230606)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 6 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
  
 
 # CERT-FR
@@ -108,22 +107,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 8 Jun 2023 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, elevation of privilege, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 7 Jun 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-0266...|Release Date: 7 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230606)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Jun 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230606)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 6 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +122,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419)|An attacker can use several vulnerabilities of Android...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418" class="noirorange"><b>Linux kernel</b>: reuse after free via prepare_to_relocate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[UNIX - CVE-2023-24805](https://www.cyberveille-sante.gouv.fr/alertes/unix-cve-2023-24805-2023-06-07)|Visit link for details.|07/06/2023|
+ |[GitLab - CVE-2023-2442](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2442-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Trend Micro - CVE-2023-34144](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-34144-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Mozilla Firefox - CVE-2023-34417](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34417-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Mozilla Firefox - CVE-2023-34416](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34416-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|07/06/2023|
+ |[Google Chrome - CVE-2023-3079](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3079-2023-06-06)|Visit link for details.|07/06/2023|
+ |[OpenEMR - CVE-2023-2950](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2950-2023-06-06)|Visit link for details.|06/06/2023|
+ |[OpenEMR - CVE-2023-2946](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2946-2023-06-06)|Visit link for details.|06/06/2023|
+ |[OpenEMR - CVE-2023-2943](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2023-2943-2023-06-06)|Visit link for details.|06/06/2023|
+ |[Linux - CVE-2023-3111](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3111-2023-06-06)|Visit link for details.|06/06/2023|
  
 
 # ZERODAYINITIATIVE
