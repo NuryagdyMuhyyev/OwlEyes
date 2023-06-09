@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/06/2023 02:14:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/06/2023 03:15:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,33 +62,20 @@
  |[USN-6028-2: libxml2 vulnerabilities](https://www.linux.org/threads/usn-6028-2-libxml2-vulnerabilities.45398/)|Visit link for details.|Jun 7, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ASUS RT-AX3000 information disclosure (CVE-2023-31195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
- |[Fuji Electric V-Server buffer overflow (CVE-2023-32538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
- |[Lost and Found Information System SQL injection (CVE-2023-3176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Lost and Found Information System SQL injection (CVE-2023-3177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Samsung Galaxy S22 McsWebViewActivity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[NETGEAR RAX30 code execution (CVE-2023-34285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Sensormatic Electronics Illustra Pro Gen 4 information disclosure (CVE-2023-0954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
+ |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 8 Jun 2023 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, elevation of privilege, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 7 Jun 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-0266...|Release Date: 7 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230606)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Jun 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230606)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 6 Jun 2023 |
  
 
 # CERT-SANTE
@@ -108,37 +95,33 @@
  |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|08/06/2023|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via cardos_have_verifyrc_package()</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431" class="noirorange"><b>Wireshark</b>: buffer overflow via MSMMS</a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431)|An attacker can trigger a buffer overflow of Wireshark, via MSMMS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430" class="noirorange"><b>dbus</b>: assertion error via Privileged Monitoring Connection</a>](https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430)|An attacker can force an assertion error of dbus, via Privileged Monitoring Connection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;Presence</b>: denial of service</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428)|An attacker can cause a fatal error of Cisco Unified Communications Manager IM|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via Administrative XML Web Service API</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via Administrative XML Web Service API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
- |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 8 Jun 2023 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, elevation of privilege, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 7 Jun 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230607)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-0266...|Release Date: 7 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230606)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Jun 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230606)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 6 Jun 2023 |
+ |[ASUS RT-AX3000 information disclosure (CVE-2023-31195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
+ |[Fuji Electric V-Server buffer overflow (CVE-2023-32538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
+ |[Lost and Found Information System SQL injection (CVE-2023-3176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Lost and Found Information System SQL injection (CVE-2023-3177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Sourcecodester Life Insurance Management System cross-site scripting (CVE-2023-3165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Samsung Galaxy S22 McsWebViewActivity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[NETGEAR RAX30 code execution (CVE-2023-34285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
  
 
 # EU-CERT
@@ -156,6 +139,37 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
  |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via cardos_have_verifyrc_package()</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431" class="noirorange"><b>Wireshark</b>: buffer overflow via MSMMS</a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431)|An attacker can trigger a buffer overflow of Wireshark, via MSMMS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430" class="noirorange"><b>dbus</b>: assertion error via Privileged Monitoring Connection</a>](https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430)|An attacker can force an assertion error of dbus, via Privileged Monitoring Connection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;Presence</b>: denial of service</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428)|An attacker can cause a fatal error of Cisco Unified Communications Manager IM|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via Administrative XML Web Service API</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via Administrative XML Web Service API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
  
 
 # MA-CERT
@@ -190,10 +204,4 @@
  |[Android security advisory – June 2023 Monthly Rollup (AV23-314)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2023-monthly-rollup-av23-314)|Visit link for details|2023-06-06|
  |[Mozilla security advisory (AV23-313)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-313)|Visit link for details|2023-06-06|
  |[[Control systems] ABB security advisory (AV23-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-312)|Visit link for details|2023-06-06|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
