@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/06/2023 16:13:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/06/2023 17:32:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,17 +62,21 @@
  |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Sensormatic Electronics Illustra Pro Gen 4 information disclosure (CVE-2023-0954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Fuji Electric V-Server buffer overflow (CVE-2023-31239)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Sante DICOM Viewer Pro information disclosure (CVE-2023-34294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Sante DICOM Viewer Pro code execution (CVE-2023-34297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
+ |[VMware - CVE-2023-20888](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20888-2023-06-08)|Visit link for details.|08/06/2023|
+ |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|08/06/2023|
+ |[Cisco - CVE-2023-20006](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20006-2023-06-08)|Visit link for details.|08/06/2023|
+ |[TP-Link - CVE-2023-33537](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-33537-2023-06-08)|Visit link for details.|08/06/2023|
+ |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|08/06/2023|
+ |[UNIX - CVE-2023-24805](https://www.cyberveille-sante.gouv.fr/alertes/unix-cve-2023-24805-2023-06-07)|Visit link for details.|07/06/2023|
+ |[GitLab - CVE-2023-2442](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2442-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Trend Micro - CVE-2023-34144](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-34144-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Mozilla Firefox - CVE-2023-34417](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34417-2023-06-07)|Visit link for details.|07/06/2023|
+ |[Mozilla Firefox - CVE-2023-34416](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34416-2023-06-07)|Visit link for details.|07/06/2023|
  
 
 # HK-CERT
@@ -91,68 +95,17 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230606)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 6 Jun 2023 |
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0439/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0438/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0437/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0436/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
- |[VMware - CVE-2023-20888](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20888-2023-06-08)|Visit link for details.|08/06/2023|
- |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|08/06/2023|
- |[Cisco - CVE-2023-20006](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20006-2023-06-08)|Visit link for details.|08/06/2023|
- |[TP-Link - CVE-2023-33537](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-33537-2023-06-08)|Visit link for details.|08/06/2023|
- |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|08/06/2023|
- |[UNIX - CVE-2023-24805](https://www.cyberveille-sante.gouv.fr/alertes/unix-cve-2023-24805-2023-06-07)|Visit link for details.|07/06/2023|
- |[GitLab - CVE-2023-2442](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-2442-2023-06-07)|Visit link for details.|07/06/2023|
- |[Trend Micro - CVE-2023-34144](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-34144-2023-06-07)|Visit link for details.|07/06/2023|
- |[Mozilla Firefox - CVE-2023-34417](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34417-2023-06-07)|Visit link for details.|07/06/2023|
- |[Mozilla Firefox - CVE-2023-34416](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-34416-2023-06-07)|Visit link for details.|07/06/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
- |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
- |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
- |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
- |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
- |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
- |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
- |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
- |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ |[Sensormatic Electronics Illustra Pro Gen 4 information disclosure (CVE-2023-0954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Atlas Copco Power Focus 6000 information disclosure (CVE-2023-1897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Fuji Electric V-Server buffer overflow (CVE-2023-31239)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Sante DICOM Viewer Pro information disclosure (CVE-2023-34294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Sante DICOM Viewer Pro code execution (CVE-2023-34297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
  
 
 # OBS-Vigilance
@@ -172,21 +125,51 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
  
 
-# MA-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[42260806/23 - Vulnérabilités dans plusieurs produits Zyxel](https://www.dgssi.gov.ma//fr/content/4226080623-vulnerabilites-dans-plusieurs-produits-zyxel.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Zyxel susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de causer un déni de service.|08 juin 2023|
- |[42230806/23 - Vulnérabilités dans IBM Security Guardium](https://www.dgssi.gov.ma//fr/content/4223080623-vulnerabilites-dans-ibm-security-guardium.html)|IBM a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de IBM Security Guardium. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de réussir une élévation...|08 juin 2023|
- |[42220806/23 - Vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.dgssi.gov.ma//fr/content/4222080623-vulnerabilites-dans-mozilla-firefox-et-firefox-esr.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Firefox ESR. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code...|08 juin 2023|
- |[42250806/23 - Vulnérabilités critiques affectant VMware Aria Operations Networks](https://www.dgssi.gov.ma//fr/content/4225080623-vulnerabilites-critiques-affectant-vmware-aria-operations-networks.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware Aria Operations. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter des commandes ou d’accéder à des données...|08 juin 2023|
- |[42240806/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4224080623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilité peut permettreà un attaquant d’injecter du code dans une page d’élever ses...|08 juin 2023|
- |[42200706/23- Vulnérabilité affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4220070623-vulnerabilite-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilitéaffectant le navigateur Google Chrome. Selon Google l’exploit de cette vulnérabilité existe et peut permettre àun attaquant d’accéder à des...|07 juin 2023|
- |[42190706/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4219070623-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Une de ces vulnérabilités, identifiée par«CVE-2022-22706 » est activementexploitée.L'exploitation de ces...|07 juin 2023|
- |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
- |[42180606/23 - Vulnérabilité dans Moxa CN2600 Series ](https://www.dgssi.gov.ma//fr/content/4218060623-vulnerabilite-dans-moxa-cn2600-series.html)|Moxa a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Moxa CN2600 Series. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des données et de...|06 juin 2023|
- |[42170506/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4217050623-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou de causer un...|05 juin 2023|
- |[42160206/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4216020623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" dans MOVEit Transfer, un logiciel de transfert de fichiers. Cette vulnérabilité est activement exploitée. L'...|02 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
+ |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0439/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 7 juin 2023|
+ |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0438/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juin 2023|
+ |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0437/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 juin 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0436/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
+ |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
+ |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
+ |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
+ |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
+ |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
+ |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
+ |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
+ |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
  
 
 # CA-CCS
@@ -204,4 +187,21 @@
  |[Mozilla security advisory (AV23-313)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-313)|Visit link for details|2023-06-06|
  |[[Control systems] ABB security advisory (AV23-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-312)|Visit link for details|2023-06-06|
  |[HPE security advisory (AV23-311)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-311)|Visit link for details|2023-06-06|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42260806/23 - Vulnérabilités dans plusieurs produits Zyxel](https://www.dgssi.gov.ma//fr/content/4226080623-vulnerabilites-dans-plusieurs-produits-zyxel.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Zyxel susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de causer un déni de service.|08 juin 2023|
+ |[42230806/23 - Vulnérabilités dans IBM Security Guardium](https://www.dgssi.gov.ma//fr/content/4223080623-vulnerabilites-dans-ibm-security-guardium.html)|IBM a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de IBM Security Guardium. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de réussir une élévation...|08 juin 2023|
+ |[42220806/23 - Vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.dgssi.gov.ma//fr/content/4222080623-vulnerabilites-dans-mozilla-firefox-et-firefox-esr.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Firefox ESR. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code...|08 juin 2023|
+ |[42250806/23 - Vulnérabilités critiques affectant VMware Aria Operations Networks](https://www.dgssi.gov.ma//fr/content/4225080623-vulnerabilites-critiques-affectant-vmware-aria-operations-networks.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware Aria Operations. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter des commandes ou d’accéder à des données...|08 juin 2023|
+ |[42240806/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4224080623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilité peut permettreà un attaquant d’injecter du code dans une page d’élever ses...|08 juin 2023|
+ |[42200706/23- Vulnérabilité affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4220070623-vulnerabilite-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilitéaffectant le navigateur Google Chrome. Selon Google l’exploit de cette vulnérabilité existe et peut permettre àun attaquant d’accéder à des...|07 juin 2023|
+ |[42190706/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4219070623-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Une de ces vulnérabilités, identifiée par«CVE-2022-22706 » est activementexploitée.L'exploitation de ces...|07 juin 2023|
+ |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
+ |[42180606/23 - Vulnérabilité dans Moxa CN2600 Series ](https://www.dgssi.gov.ma//fr/content/4218060623-vulnerabilite-dans-moxa-cn2600-series.html)|Moxa a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Moxa CN2600 Series. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des données et de...|06 juin 2023|
+ |[42170506/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4217050623-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou de causer un...|05 juin 2023|
+ |[42160206/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4216020623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" dans MOVEit Transfer, un logiciel de transfert de fichiers. Cette vulnérabilité est activement exploitée. L'...|02 juin 2023|
  
