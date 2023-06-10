@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/06/2023 08:16:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/06/2023 09:19:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
+ |[VMware Releases Security Update for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/06/08/vmware-releases-security-update-aria-operations-networks)|Visit link for details.|Jun 08, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/07/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Jun 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 07, 2023|
+ |[CISA and FBI Release #StopRansomware: CL0P Ransomware Gang Exploits MOVEit Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-and-fbi-release-stopransomware-cl0p-ransomware-gang-exploits-moveit-vulnerability)|Visit link for details.|Jun 07, 2023|
+ |[CISA and Partners Release Joint Guide to Securing Remote Access Software](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-and-partners-release-joint-guide-securing-remote-access-software)|Visit link for details.|Jun 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 05, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
+ 
 
 # LINUX-SEC
 
@@ -62,22 +78,6 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
- |[VMware Releases Security Update for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/06/08/vmware-releases-security-update-aria-operations-networks)|Visit link for details.|Jun 08, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/07/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Jun 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 07, 2023|
- |[CISA and FBI Release #StopRansomware: CL0P Ransomware Gang Exploits MOVEit Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-and-fbi-release-stopransomware-cl0p-ransomware-gang-exploits-moveit-vulnerability)|Visit link for details.|Jun 07, 2023|
- |[CISA and Partners Release Joint Guide to Securing Remote Access Software](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-and-partners-release-joint-guide-securing-remote-access-software)|Visit link for details.|Jun 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 05, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2023/06/01/progress-software-releases-security-advisory-moveit-transfer)|Visit link for details.|Jun 01, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,23 +93,6 @@
  |[Cisco - CVE-2023-20006](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20006-2023-06-08)|Visit link for details.|08/06/2023|
  |[TP-Link - CVE-2023-33537](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-33537-2023-06-08)|Visit link for details.|08/06/2023|
  |[Progress MOVEit - CVE-2023-34362](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-34362-2023-06-05)|Visit link for details.|08/06/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via cardos_have_verifyrc_package()</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431" class="noirorange"><b>Wireshark</b>: buffer overflow via MSMMS</a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431)|An attacker can trigger a buffer overflow of Wireshark, via MSMMS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430" class="noirorange"><b>dbus</b>: assertion error via Privileged Monitoring Connection</a>](https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430)|An attacker can force an assertion error of dbus, via Privileged Monitoring Connection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;Presence</b>: denial of service</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428)|An attacker can cause a fatal error of Cisco Unified Communications Manager IM|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via Administrative XML Web Service API</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via Administrative XML Web Service API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -136,9 +119,26 @@
  |[Wi-Fi AP UNIT command execution (CVE-2023-31198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
  |[ASUS RT-AX3000 information disclosure (CVE-2023-31195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
  |[Fuji Electric V-Server buffer overflow (CVE-2023-32538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 9, 2023|
- |[Thruk directory traversal (CVE-2023-34096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Planet Technologies WDRT-1800AX Router privilege escalation (CVE-2023-33553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
- |[Lost and Found Information System SQL injection (CVE-2023-3176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Snowflake Go Snowflake Driver command execution (CVE-2023-34231)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Snowflake Connector for .NET command execution (CVE-2023-34230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ |[Bytedeco JavaCPP Presets command execution (CVE-2023-34112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 8, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via cardos_have_verifyrc_package()</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431" class="noirorange"><b>Wireshark</b>: buffer overflow via MSMMS</a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-MSMMS-41431)|An attacker can trigger a buffer overflow of Wireshark, via MSMMS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430" class="noirorange"><b>dbus</b>: assertion error via Privileged Monitoring Connection</a>](https://vigilance.fr/vulnerability/dbus-assertion-error-via-Privileged-Monitoring-Connection-41430)|An attacker can force an assertion error of dbus, via Privileged Monitoring Connection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;Presence</b>: denial of service</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-denial-of-service-41428)|An attacker can cause a fatal error of Cisco Unified Communications Manager IM|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via Administrative XML Web Service API</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via Administrative XML Web Service API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
  
 
 # MA-CERT
@@ -156,23 +156,6 @@
  |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
  |[42180606/23 - Vulnérabilité dans Moxa CN2600 Series ](https://www.dgssi.gov.ma//fr/content/4218060623-vulnerabilite-dans-moxa-cn2600-series.html)|Moxa a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Moxa CN2600 Series. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des données et de...|06 juin 2023|
  |[42170506/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4217050623-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou de causer un...|05 juin 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[MOVEit Transfer security advisory (AV23-322)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-322-0)|Visit link for details|2023-06-09|
- |[[Control systems] Atlas Copco security advisory (AV23-321)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-atlas-copco-security-advisory-av23-321)|Visit link for details|2023-06-08|
- |[[Control systems] Sensormatic Electronics security advisory (AV23-320)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-320)|Visit link for details|2023-06-08|
- |[Cisco security advisory (AV23-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-319)|Visit link for details|2023-06-07|
- |[Microsoft Edge security advisory (AV23-318)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-318)|Visit link for details|2023-06-07|
- |[VMware security advisory (AV23-317)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-317)|Visit link for details|2023-06-07|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-316)|Visit link for details|2023-06-07|
- |[[Control systems] Delta Electronics security advisory (AV23-315)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-315)|Visit link for details|2023-06-07|
- |[Android security advisory – June 2023 Monthly Rollup (AV23-314)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2023-monthly-rollup-av23-314)|Visit link for details|2023-06-06|
- |[Mozilla security advisory (AV23-313)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-313)|Visit link for details|2023-06-06|
- |[[Control systems] ABB security advisory (AV23-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-312)|Visit link for details|2023-06-06|
  
 
 # ZERODAYINITIATIVE
@@ -204,4 +187,21 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
  |[2023-027: Critical Vulnerability in Wordpress Plugins](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-027.pdf)|A reflected XSS vulnerability has been discovered in the Advanced Custom Fields (ACF) and Advanced Custom Fields Pro WordPress plugins (versions 6.1.5 and below). This vulnerability allows unauthenticated users to potentially escalate privileges on a WordPress site by tricking a privileged user into visiting a maliciously crafted URL. The issue has been fixed in version 6.1.6, and has been assigned CVE-2023-30777.|Monday, May 08, 2023 03:04:49 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MOVEit Transfer security advisory (AV23-322)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-322-0)|Visit link for details|2023-06-09|
+ |[[Control systems] Atlas Copco security advisory (AV23-321)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-atlas-copco-security-advisory-av23-321)|Visit link for details|2023-06-08|
+ |[[Control systems] Sensormatic Electronics security advisory (AV23-320)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-320)|Visit link for details|2023-06-08|
+ |[Cisco security advisory (AV23-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-319)|Visit link for details|2023-06-07|
+ |[Microsoft Edge security advisory (AV23-318)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-318)|Visit link for details|2023-06-07|
+ |[VMware security advisory (AV23-317)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-317)|Visit link for details|2023-06-07|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-316)|Visit link for details|2023-06-07|
+ |[[Control systems] Delta Electronics security advisory (AV23-315)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-315)|Visit link for details|2023-06-07|
+ |[Android security advisory – June 2023 Monthly Rollup (AV23-314)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2023-monthly-rollup-av23-314)|Visit link for details|2023-06-06|
+ |[Mozilla security advisory (AV23-313)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-313)|Visit link for details|2023-06-06|
+ |[[Control systems] ABB security advisory (AV23-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-312)|Visit link for details|2023-06-06|
  
