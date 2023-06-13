@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2023 23:20:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/06/2023 00:13:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
- |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
- |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
- |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
- |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
- |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
- |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
- |[DSA-5423 thunderbird - security update](https://www.linux.org/threads/dsa-5423-thunderbird-security-update.45453/)|Visit link for details.|Jun 12, 2023|
- |[DSA-5422 jupyter-core - security update](https://www.linux.org/threads/dsa-5422-jupyter-core-security-update.45433/)|Visit link for details.|Jun 9, 2023|
- |[USN-6152-1: Linux kernel (GKE) regression](https://www.linux.org/threads/usn-6152-1-linux-kernel-gke-regression.45425/)|Visit link for details.|Jun 9, 2023|
- |[USN-6151-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6151-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45424/)|Visit link for details.|Jun 9, 2023|
- 
 
 # US-CERT
 
@@ -76,6 +59,23 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6158-1: Node Fetch vulnerability](https://www.linux.org/threads/usn-6158-1-node-fetch-vulnerability.45476/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
+ |[DSA-5423 thunderbird - security update](https://www.linux.org/threads/dsa-5423-thunderbird-security-update.45453/)|Visit link for details.|Jun 12, 2023|
+ |[DSA-5422 jupyter-core - security update](https://www.linux.org/threads/dsa-5422-jupyter-core-security-update.45433/)|Visit link for details.|Jun 9, 2023|
  
 
 # CERT-SANTE
@@ -115,13 +115,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome V8 code execution (CVE-2023-3216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Google Chrome WebRTC code execution (CVE-2023-3215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Google Chrome Autofill payments code execution (CVE-2023-3214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[VMware Tools security bypass (CVE-2023-20867)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Siemens SICAM A8000 CP-8031 and SIEMENS SICAM A8000 CP-8050 brute force (CVE-2023-33921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[AMI BMC information disclosure (CVE-2023-34344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[AMI BMC directory traversal (CVE-2023-34345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Doorkeeper gem for Ruby security bypass (CVE-2023-34246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[GeoServer code execution (CVE-2023-35042)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[JetBrains YouTrack denial of service (CVE-2023-35053)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[JetBrains YouTrack cross-site scripting (CVE-2023-35054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Microsoft .NET and Visual Studio code execution (CVE-2023-33126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Microsoft .NET and Visual Studio privilege escalation (CVE-2023-32032)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: privilege escalation via VDA Applications</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479)|An attacker can bypass restrictions of Citrix Virtual Apps and Desktops, via VDA Applications, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-ca-en50221-c-41478" class="noirorange"><b>Linux kernel</b>: reuse after free via dvb_ca_en50221.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-ca-en50221-c-41478)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dvb_ca_en50221.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ttusb-dec-exit-dvb-41477" class="noirorange"><b>Linux kernel</b>: memory leak via ttusb_dec_exit_dvb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ttusb-dec-exit-dvb-41477)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  
 
 # EU-CERT
@@ -141,23 +158,6 @@
  |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: privilege escalation via VDA Applications</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479)|An attacker can bypass restrictions of Citrix Virtual Apps and Desktops, via VDA Applications, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-ca-en50221-c-41478" class="noirorange"><b>Linux kernel</b>: reuse after free via dvb_ca_en50221.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-ca-en50221-c-41478)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dvb_ca_en50221.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ttusb-dec-exit-dvb-41477" class="noirorange"><b>Linux kernel</b>: memory leak via ttusb_dec_exit_dvb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ttusb-dec-exit-dvb-41477)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-net-c-41476" class="noirorange"><b>Linux kernel</b>: reuse after free via dvb_net.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-net-c-41476)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dvb_net.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-frontend-c-41475" class="noirorange"><b>Linux kernel</b>: reuse after free via dvb_frontend.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-frontend-c-41475)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dvb_frontend.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-register-device-41474" class="noirorange"><b>Linux kernel</b>: reuse after free via dvb_register_device()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dvb-register-device-41474)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tornado-open-redirect-41473" class="noirorange"><b>Tornado</b>: open redirect</a>](https://vigilance.fr/vulnerability/Tornado-open-redirect-41473)|An attacker can deceive the user of Tornado, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-X509LDAPCertStoreSpi-41471" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: information disclosure via X509LDAPCertStoreSpi</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-X509LDAPCertStoreSpi-41471)|An attacker can bypass access restrictions to data of Bouncy Castle Java Cryptography Extension, via |Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +170,6 @@
  |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
  |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix security advisory (AV23-329)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-329)|Visit link for details|2023-06-13|
- |[[Control systems] Schneider Electric security advisory (AV23-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-328)|Visit link for details|2023-06-13|
- |[[Control systems] ABB security advisory (AV23-327)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-327)|Visit link for details|2023-06-13|
- |[SAP security advisory – June 2023 monthly rollup (AV23-326)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2023-monthly-rollup-av23-326)|Visit link for details|2023-06-13|
- |[Dell security advisory (AV23-325)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-325)|Visit link for details|2023-06-12|
- |[IBM security advisory (AV23-324)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-324)|Visit link for details|2023-06-12|
- |[Ubuntu security advisory (AV23-323)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-323)|Visit link for details|2023-06-12|
- |[Vulnerability impacting FortiGate/FortiOS (CVE-2023-27997)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-fortigatefortios-cve-2023-27997)|Visit link for details|2023-06-12|
- |[MOVEit Transfer security advisory (AV23-322)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-322-0)|Visit link for details|2023-06-09|
- |[[Control systems] Atlas Copco security advisory (AV23-321)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-atlas-copco-security-advisory-av23-321)|Visit link for details|2023-06-08|
- |[[Control systems] Sensormatic Electronics security advisory (AV23-320)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-320)|Visit link for details|2023-06-08|
  
 
 # MA-CERT
@@ -204,4 +187,21 @@
  |[42200706/23- Vulnérabilité affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4220070623-vulnerabilite-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilitéaffectant le navigateur Google Chrome. Selon Google l’exploit de cette vulnérabilité existe et peut permettre àun attaquant d’accéder à des...|07 juin 2023|
  |[42190706/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4219070623-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Une de ces vulnérabilités, identifiée par«CVE-2022-22706 » est activementexploitée.L'exploitation de ces...|07 juin 2023|
  |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV23-331)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-331)|Visit link for details|2023-06-13|
+ |[Fortinet security advisory (AV23-330)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-330)|Visit link for details|2023-06-13|
+ |[Vulnerability impacting FortiGate/FortiOS (CVE-2023-27997) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-fortigatefortios-cve-2023-27997)|Visit link for details|2023-06-13|
+ |[Citrix security advisory (AV23-329)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-329)|Visit link for details|2023-06-13|
+ |[[Control systems] Schneider Electric security advisory (AV23-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-328)|Visit link for details|2023-06-13|
+ |[[Control systems] ABB security advisory (AV23-327)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-327)|Visit link for details|2023-06-13|
+ |[SAP security advisory – June 2023 monthly rollup (AV23-326)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2023-monthly-rollup-av23-326)|Visit link for details|2023-06-13|
+ |[Dell security advisory (AV23-325)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-325)|Visit link for details|2023-06-12|
+ |[IBM security advisory (AV23-324)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-324)|Visit link for details|2023-06-12|
+ |[Ubuntu security advisory (AV23-323)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-323)|Visit link for details|2023-06-12|
+ |[MOVEit Transfer security advisory (AV23-322)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-322-0)|Visit link for details|2023-06-09|
  
