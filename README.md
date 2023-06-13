@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2023 11:21:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2023 12:15:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -60,22 +76,6 @@
  |[D-Link - CVE-2023-33781](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33781-2023-06-09)|Visit link for details.|09/06/2023|
  |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|09/06/2023|
  |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  
 
 # HK-CERT
@@ -98,6 +98,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
  |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
  |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
  |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
@@ -108,20 +109,19 @@
  |[DSA-5422 jupyter-core - security update](https://www.linux.org/threads/dsa-5422-jupyter-core-security-update.45433/)|Visit link for details.|Jun 9, 2023|
  |[USN-6152-1: Linux kernel (GKE) regression](https://www.linux.org/threads/usn-6152-1-linux-kernel-gke-regression.45425/)|Visit link for details.|Jun 9, 2023|
  |[USN-6151-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6151-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45424/)|Visit link for details.|Jun 9, 2023|
- |[USN-6150-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6150-1-linux-kernel-vulnerabilities.45423/)|Visit link for details.|Jun 9, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet FortiOS and FortiProxy information disclosure (CVE-2023-26207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS code execution (CVE-2023-29181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS denial of service (CVE-2023-29180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  |[Fortinet FortiOS denial of service (CVE-2023-29179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  |[Fortinet FortiOS, FortiProxy and FortiSwitchManager directory traversal (CVE-2022-42474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  |[Fortinet FortiADC and FortiADC Manager code execution (CVE-2023-26210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  |[Fortinet FortiADC command execution (CVE-2023-28000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiClientWindows and FortiConverter code execution (CVE-2023-33877)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiManager and FortiAnalyzer server-side request forgery (CVE-2023-25609)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiNAC information disclosure (CVE-2022-39946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  
 
 # EU-CERT
