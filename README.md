@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2023 18:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2023 19:15:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,36 @@
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JetBrains YouTrack cross-site scripting (CVE-2023-35054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiSIEM security bypass (CVE-2022-42478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Apache NiFi code execution (CVE-2023-34212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Apache NiFi code execution (CVE-2023-34468)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS and FortiProxy information disclosure (CVE-2023-26207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS code execution (CVE-2023-29181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS denial of service (CVE-2023-29180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
+ |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
+ |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
+ |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
+ |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
+ |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
+ |[SanteSoft - CVE-2023-34296](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34296-2023-06-09)|Visit link for details.|09/06/2023|
+ |[SanteSoft - CVE-2023-34295](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34295-2023-06-09)|Visit link for details.|09/06/2023|
+ |[D-Link - CVE-2023-33781](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33781-2023-06-09)|Visit link for details.|09/06/2023|
+ |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|09/06/2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -94,34 +124,18 @@
  |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiSIEM security bypass (CVE-2022-42478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Apache NiFi code execution (CVE-2023-34212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Apache NiFi code execution (CVE-2023-34468)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS and FortiProxy information disclosure (CVE-2023-26207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS code execution (CVE-2023-29181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS denial of service (CVE-2023-29180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS denial of service (CVE-2023-29179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|12/06/2023|
- |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
- |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
- |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
- |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
- |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
- |[SanteSoft - CVE-2023-34296](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34296-2023-06-09)|Visit link for details.|09/06/2023|
- |[SanteSoft - CVE-2023-34295](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34295-2023-06-09)|Visit link for details.|09/06/2023|
- |[D-Link - CVE-2023-33781](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33781-2023-06-09)|Visit link for details.|09/06/2023|
- |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|09/06/2023|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
  
 
 # OBS-Vigilance
@@ -145,7 +159,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated.|Monday, June 12, 2023 11:21:47 AM CEST|
+ |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
  |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
  |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
@@ -190,10 +204,4 @@
  |[Microsoft Edge security advisory (AV23-318)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-318)|Visit link for details|2023-06-07|
  |[VMware security advisory (AV23-317)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-317)|Visit link for details|2023-06-07|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-316)|Visit link for details|2023-06-07|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
