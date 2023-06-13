@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2023 12:15:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2023 13:20:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
+ |[DSA-5423 thunderbird - security update](https://www.linux.org/threads/dsa-5423-thunderbird-security-update.45453/)|Visit link for details.|Jun 12, 2023|
+ |[DSA-5422 jupyter-core - security update](https://www.linux.org/threads/dsa-5422-jupyter-core-security-update.45433/)|Visit link for details.|Jun 9, 2023|
+ |[USN-6152-1: Linux kernel (GKE) regression](https://www.linux.org/threads/usn-6152-1-linux-kernel-gke-regression.45425/)|Visit link for details.|Jun 9, 2023|
+ |[USN-6151-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6151-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45424/)|Visit link for details.|Jun 9, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,22 +60,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 05, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 02, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
- |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  
 
 # CERT-SANTE
@@ -78,6 +79,22 @@
  |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|08/06/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,34 +111,21 @@
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230607)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-3079 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 7 Jun 2023 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
- |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
- |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
- |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
- |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
- |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
- |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
- |[DSA-5423 thunderbird - security update](https://www.linux.org/threads/dsa-5423-thunderbird-security-update.45453/)|Visit link for details.|Jun 12, 2023|
- |[DSA-5422 jupyter-core - security update](https://www.linux.org/threads/dsa-5422-jupyter-core-security-update.45433/)|Visit link for details.|Jun 9, 2023|
- |[USN-6152-1: Linux kernel (GKE) regression](https://www.linux.org/threads/usn-6152-1-linux-kernel-gke-regression.45425/)|Visit link for details.|Jun 9, 2023|
- |[USN-6151-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6151-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45424/)|Visit link for details.|Jun 9, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and FortiProxy information disclosure (CVE-2023-26207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS code execution (CVE-2023-29181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS denial of service (CVE-2023-29180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS denial of service (CVE-2023-29179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiOS, FortiProxy and FortiSwitchManager directory traversal (CVE-2022-42474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiADC and FortiADC Manager code execution (CVE-2023-26210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
- |[Fortinet FortiADC command execution (CVE-2023-28000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-information-disclosure-via-User-Credential-Insufficiently-Random-41446" class="noirorange"><b>Synology DSM</b>: information disclosure via User Credential Insufficiently Random</a>](https://vigilance.fr/vulnerability/Synology-DSM-information-disclosure-via-User-Credential-Insufficiently-Random-41446)|An attacker can bypass access restrictions to data of Synology DSM, via User Credential Insufficiently Random, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-file-read-write-via-Backup-Management-Search-Path-41445" class="noirorange"><b>Synology DSM</b>: file read/write via Backup Management Search Path</a>](https://vigilance.fr/vulnerability/Synology-DSM-file-read-write-via-Backup-Management-Search-Path-41445)|An attacker can bypass access restrictions of Synology DSM, via Backup Management Search Path, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442" class="noirorange"><b>XMLTooling</b>: information disclosure via KeyInfo</a>](https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442)|An attacker can bypass access restrictions to data of XMLTooling, via KeyInfo, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441" class="noirorange"><b>Linux kernel</b>: reuse after free via r592_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441)|An attacker can force the reuse of a freed memory area of the Linux kernel, via r592_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Configuration Fields</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440)|An attacker can trigger a Cross Site Scripting of TeamPass, via Configuration Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Folder Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439)|An attacker can trigger a Cross Site Scripting of TeamPass, via Folder Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438" class="noirorange"><b>jQuery MiniColors</b>: Cross Site Scripting via Color Names</a>](https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438)|An attacker can trigger a Cross Site Scripting of jQuery MiniColors, via Color Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Auth Events</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437)|An attacker can bypass access restrictions to data of Matrix Synapse, via Auth Events, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
  
 
 # EU-CERT
@@ -141,35 +145,17 @@
  |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442" class="noirorange"><b>XMLTooling</b>: information disclosure via KeyInfo</a>](https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442)|An attacker can bypass access restrictions to data of XMLTooling, via KeyInfo, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441" class="noirorange"><b>Linux kernel</b>: reuse after free via r592_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441)|An attacker can force the reuse of a freed memory area of the Linux kernel, via r592_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Configuration Fields</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440)|An attacker can trigger a Cross Site Scripting of TeamPass, via Configuration Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Folder Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439)|An attacker can trigger a Cross Site Scripting of TeamPass, via Folder Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438" class="noirorange"><b>jQuery MiniColors</b>: Cross Site Scripting via Color Names</a>](https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438)|An attacker can trigger a Cross Site Scripting of jQuery MiniColors, via Color Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Auth Events</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437)|An attacker can bypass access restrictions to data of Matrix Synapse, via Auth Events, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via cardos_have_verifyrc_package()</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
+ |[Apache NiFi code execution (CVE-2023-34212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Apache NiFi code execution (CVE-2023-34468)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS and FortiProxy information disclosure (CVE-2023-26207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS code execution (CVE-2023-29181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS denial of service (CVE-2023-29180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS denial of service (CVE-2023-29179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
+ |[Fortinet FortiOS, FortiProxy and FortiSwitchManager directory traversal (CVE-2022-42474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2023|
  
 
 # MA-CERT
@@ -204,4 +190,10 @@
  |[Microsoft Edge security advisory (AV23-318)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-318)|Visit link for details|2023-06-07|
  |[VMware security advisory (AV23-317)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-317)|Visit link for details|2023-06-07|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-316)|Visit link for details|2023-06-07|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
