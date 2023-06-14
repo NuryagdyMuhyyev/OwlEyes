@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/06/2023 18:20:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/06/2023 19:15:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
+ |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
+ |[VMware Releases Security Update for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/06/08/vmware-releases-security-update-aria-operations-networks)|Visit link for details.|Jun 08, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,37 @@
  |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
- |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
- |[VMware Releases Security Update for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/06/08/vmware-releases-security-update-aria-operations-networks)|Visit link for details.|Jun 08, 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0464/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0463/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0462/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0461/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0460/)|Une vulnérabilité a été corrigée dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 juin 2023|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0457/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0456/)|De multiples vulnérabilités ont été découvertes dans Apache Struts 2. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 juin 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-29181](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29181-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-26210](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26210-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2022-42478](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42478-2023-06-13)|Visit link for details.|13/06/2023|
+ |[SAP - CVE-2023-33991](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33991-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
+ |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
+ |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
+ |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
+ |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
+ |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
  
 
 # HK-CERT
@@ -91,70 +124,6 @@
  |[Zoom clients cross-site scripting (CVE-2023-28599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0453/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 juin 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0451/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-29181](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29181-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-26210](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26210-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2022-42478](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42478-2023-06-13)|Visit link for details.|13/06/2023|
- |[SAP - CVE-2023-33991](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33991-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
- |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
- |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
- |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
- |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
- |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491" class="noirorange"><b>TeamViewer Remote</b>: privilege escalation via Basic Local Device Settings</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491)|An attacker can bypass restrictions of TeamViewer Remote, via Basic Local Device Settings, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489" class="noirorange"><b>Linux kernel</b>: information disclosure via AmpereOne Cache Speculation</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489)|An attacker can bypass access restrictions to data of the Linux kernel, via AmpereOne Cache Speculation, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488" class="noirorange"><b>Intel I915 Graphics Drivers For Linux</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488)|An attacker can trigger a buffer overflow of Intel I915 Graphics Drivers For Linux, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,6 +141,23 @@
  |[2023-028: Microsoft May 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-028.pdf)|Microsoft has released its May 2023 Patch Tuesday security updates, addressing a total of 38 vulnerabilities, including three zero-day vulnerabilities, and six Critical vulnerabilities that allow remote code execution.|Wednesday, May 10, 2023 07:40:19 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 21/06/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493)|A vulnerability of ISC BIND will be unveiled on 21/06/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491" class="noirorange"><b>TeamViewer Remote</b>: privilege escalation via Basic Local Device Settings</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491)|An attacker can bypass restrictions of TeamViewer Remote, via Basic Local Device Settings, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489" class="noirorange"><b>Linux kernel</b>: information disclosure via AmpereOne Cache Speculation</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489)|An attacker can bypass access restrictions to data of the Linux kernel, via AmpereOne Cache Speculation, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488" class="noirorange"><b>Intel I915 Graphics Drivers For Linux</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488)|An attacker can trigger a buffer overflow of Intel I915 Graphics Drivers For Linux, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[42270906/23 - Vulnérabilitéscritiquesaffectant le plugin «Directorist» pour WordPress](https://www.dgssi.gov.ma//fr/content/4227090623-vulnerabilites-critiques-affectant-le-plugin-directorist-pour-wordpress.html)|WordPressannonce la correction de deux vulnérabilités critiques affectant le plugin« Directorist». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges ou demodifier des données.|09 juin 2023|
  |[42260806/23 - Vulnérabilités dans plusieurs produits Zyxel](https://www.dgssi.gov.ma//fr/content/4226080623-vulnerabilites-dans-plusieurs-produits-zyxel.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Zyxel susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de causer un déni de service.|08 juin 2023|
  |[42230806/23 - Vulnérabilités dans IBM Security Guardium](https://www.dgssi.gov.ma//fr/content/4223080623-vulnerabilites-dans-ibm-security-guardium.html)|IBM a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de IBM Security Guardium. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de réussir une élévation...|08 juin 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
  
 
 # CA-CCS
