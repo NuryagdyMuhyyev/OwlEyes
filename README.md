@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/06/2023 11:21:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/06/2023 12:15:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
- |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
- |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
- |[USN-6158-1: Node Fetch vulnerability](https://www.linux.org/threads/usn-6158-1-node-fetch-vulnerability.45476/)|Visit link for details.|Jun 13, 2023|
- |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
- |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
- |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
- |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
- |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
- |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
- |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,37 +45,21 @@
  |[VMware Releases Security Update for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/06/08/vmware-releases-security-update-aria-operations-networks)|Visit link for details.|Jun 08, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0453/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 juin 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0451/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SAP - CVE-2023-33991](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33991-2023-06-13)|Visit link for details.|13/06/2023|
- |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-29181](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29181-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-26210](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26210-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2022-42478](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42478-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
- |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
- |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
- |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
- |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
- |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
+ |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6158-1: Node Fetch vulnerability](https://www.linux.org/threads/usn-6158-1-node-fetch-vulnerability.45476/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6143-2: Firefox regressions](https://www.linux.org/threads/usn-6143-2-firefox-regressions.45469/)|Visit link for details.|Jun 13, 2023|
+ |[USN-6148-1: SNI Proxy vulnerability](https://www.linux.org/threads/usn-6148-1-sni-proxy-vulnerability.45463/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6157-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6157-1-glusterfs-vulnerability.45462/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6156-1: SSSD vulnerability](https://www.linux.org/threads/usn-6156-1-sssd-vulnerability.45458/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6155-1: Requests vulnerability](https://www.linux.org/threads/usn-6155-1-requests-vulnerability.45457/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6154-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6154-1-vim-vulnerabilities.45456/)|Visit link for details.|Jun 12, 2023|
+ |[USN-6153-1: Jupyter Core vulnerability](https://www.linux.org/threads/usn-6153-1-jupyter-core-vulnerability.45454/)|Visit link for details.|Jun 12, 2023|
  
 
 # HK-CERT
@@ -115,13 +82,46 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiple Lenovo products privilege escalation (CVE-2023-2993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Multiple Lenovo products denial of service (CVE-2023-2992)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Siemens Teamcenter Visualization and JT2Go code execution (CVE-2023-33124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Siemens Teamcenter Visualization and JT2Go code execution (CVE-2023-33123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Siemens Teamcenter Visualization and JT2Go information disclosure (CVE-2023-33122)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Siemens Teamcenter Visualization and JT2Go denial of service (CVE-2023-33121)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Rockwell Automation FactoryTalk Services Platform information disclosure (CVE-2023-2639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Rockwell Automation FactoryTalk Services Platform security bypass (CVE-2023-2638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Rockwell Automation FactoryTalk Services Platform default account (CVE-2023-2637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Rockwell Automation FactoryTalk Transaction Manager denial of service (CVE-2023-2778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2023-33991](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33991-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-29181](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29181-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-26210](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26210-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2022-42478](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42478-2023-06-13)|Visit link for details.|13/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
+ |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|12/06/2023|
+ |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|12/06/2023|
+ |[SanteSoft - CVE-2023-34297](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-34297-2023-06-12)|Visit link for details.|12/06/2023|
+ |[D-Link - CVE-2023-33782](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-33782-2023-06-12)|Visit link for details.|12/06/2023|
+ |[WordPress Metform Elementor Contact Form Builder - CVE-2023-0721](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-metform-elementor-contact-form-builder-cve-2023-0721-2023-06-09)|Visit link for details.|09/06/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0453/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 juin 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0451/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juin 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489" class="noirorange"><b>Linux kernel</b>: information disclosure via AmpereOne Cache Speculation</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489)|An attacker can bypass access restrictions to data of the Linux kernel, via AmpereOne Cache Speculation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488" class="noirorange"><b>Intel I915 Graphics Drivers For Linux</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Intel-I915-Graphics-Drivers-For-Linux-buffer-overflow-41488)|An attacker can trigger a buffer overflow of Intel I915 Graphics Drivers For Linux, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -152,7 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: privilege escalation via VDA Applications</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-via-VDA-Applications-41479)|An attacker can bypass restrictions of Citrix Virtual Apps and Desktops, via VDA Applications, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
