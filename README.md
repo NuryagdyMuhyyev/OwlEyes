@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/06/2023 02:14:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/06/2023 03:15:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -44,6 +44,22 @@
  |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
  |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
  |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
+ |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
+ |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
 # US-CERT
@@ -129,22 +145,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
- |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
- |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,13 +166,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[HotelDruid SQL injection (CVE-2023-33817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Siemens SIMATIC products and SINAUT Software weak security (CVE-2023-28829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Schneider Electric IGSS Dashboard code execution (CVE-2023-3001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[PyBB SQL injection (CVE-2023-34249)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[HotelDruid cross-site scripting (CVE-2023-34537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[SATOS Mobile SQL injection (CVE-2023-35064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Chatwork Desktop Application code execution (CVE-2023-32546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Apache Traffic Server information disclosure (CVE-2023-33933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Apache Traffic Server information disclosure (CVE-2022-47184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  
 
 # ZERODAYINITIATIVE
