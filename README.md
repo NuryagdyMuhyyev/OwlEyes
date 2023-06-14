@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/06/2023 21:22:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/06/2023 22:15:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,51 @@
  |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
+ |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
+ |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
+ |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
+ |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Traffic Server information disclosure (CVE-2023-33933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Apache Traffic Server information disclosure (CVE-2022-47184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Faceted Search Components extension cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[ipandlanguageredirect Extension for TYPO3 SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Apache Traffic Server denial of service (CVE-2023-30631)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Microsoft Edge (Chromium-based) information disclosure (CVE-2023-33145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Canto Extension extension for TYPO3 server-side request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,20 +124,18 @@
  |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
  
 
-# US-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
- |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
- |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 08, 2023|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
  
 
 # OBS-Vigilance
@@ -112,19 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Traffic Server information disclosure (CVE-2023-33933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Apache Traffic Server information disclosure (CVE-2022-47184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Faceted Search Components extension cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[ipandlanguageredirect Extension for TYPO3 SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Apache Traffic Server denial of service (CVE-2023-30631)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Microsoft Edge (Chromium-based) information disclosure (CVE-2023-33145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Canto Extension extension for TYPO3 server-side request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -142,22 +172,6 @@
  |[42270906/23 - Vulnérabilitéscritiquesaffectant le plugin «Directorist» pour WordPress](https://www.dgssi.gov.ma//fr/content/4227090623-vulnerabilites-critiques-affectant-le-plugin-directorist-pour-wordpress.html)|WordPressannonce la correction de deux vulnérabilités critiques affectant le plugin« Directorist». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges ou demodifier des données.|09 juin 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
- |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
- |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -173,20 +187,6 @@
  |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-850/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 do_reboot Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-849/)|Visit link for details|2023-06-08|
  
 
 # CA-CCS
