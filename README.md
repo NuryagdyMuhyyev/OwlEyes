@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/06/2023 20:17:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/06/2023 21:21:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,43 +29,13 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6155-2: Requests vulnerability](https://www.linux.org/threads/usn-6155-2-requests-vulnerability.45508/)|Visit link for details.|Jun 15, 2023|
- |[USN-6166-1: libcap2 vulnerabilities](https://www.linux.org/threads/usn-6166-1-libcap2-vulnerabilities.45499/)|Visit link for details.|Jun 14, 2023|
- |[USN-6165-1: GLib vulnerabilities](https://www.linux.org/threads/usn-6165-1-glib-vulnerabilities.45498/)|Visit link for details.|Jun 14, 2023|
- |[USN-6164-1: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-1-c-ares-vulnerabilities.45497/)|Visit link for details.|Jun 14, 2023|
- |[USN-6163-1: pano13 vulnerabilities](https://www.linux.org/threads/usn-6163-1-pano13-vulnerabilities.45496/)|Visit link for details.|Jun 14, 2023|
- |[USN-6162-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6162-1-linux-kernel-intel-iotg-vulnerabilities.45495/)|Visit link for details.|Jun 14, 2023|
- |[DSA-5426 owslib - security update](https://www.linux.org/threads/dsa-5426-owslib-security-update.45494/)|Visit link for details.|Jun 14, 2023|
- |[DSA-5425 php8.2 - security update](https://www.linux.org/threads/dsa-5425-php8-2-security-update.45489/)|Visit link for details.|Jun 14, 2023|
- |[DSA-5424 php7.4 - security update](https://www.linux.org/threads/dsa-5424-php7-4-security-update.45488/)|Visit link for details.|Jun 14, 2023|
- |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
- |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0464/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0463/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0462/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0461/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0460/)|Une vulnérabilité a été corrigée dans |Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 juin 2023|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 juin 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
+ |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
  |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
  |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
  |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
@@ -73,26 +43,6 @@
  |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
  |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
- |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|14/06/2023|
- |[Chrome - CVE-2023-3214](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3214-2023-06-14)|Visit link for details.|14/06/2023|
- |[Alaris Infusion Central - CVE-2022-47376](https://www.cyberveille-sante.gouv.fr/alertes/alaris-infusion-central-cve-2022-47376-2023-06-14)|Visit link for details.|14/06/2023|
- |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-29181](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29181-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-26210](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26210-2023-06-13)|Visit link for details.|13/06/2023|
- |[SAP - CVE-2023-33991](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33991-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2022-42478](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42478-2023-06-13)|Visit link for details.|13/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
  
 
 # HK-CERT
@@ -111,6 +61,23 @@
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5427 webkit2gtk - security update](https://www.linux.org/threads/dsa-5427-webkit2gtk-security-update.45510/)|Visit link for details.|Jun 15, 2023|
+ |[USN-6155-2: Requests vulnerability](https://www.linux.org/threads/usn-6155-2-requests-vulnerability.45508/)|Visit link for details.|Jun 15, 2023|
+ |[USN-6166-1: libcap2 vulnerabilities](https://www.linux.org/threads/usn-6166-1-libcap2-vulnerabilities.45499/)|Visit link for details.|Jun 14, 2023|
+ |[USN-6165-1: GLib vulnerabilities](https://www.linux.org/threads/usn-6165-1-glib-vulnerabilities.45498/)|Visit link for details.|Jun 14, 2023|
+ |[USN-6164-1: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-1-c-ares-vulnerabilities.45497/)|Visit link for details.|Jun 14, 2023|
+ |[USN-6163-1: pano13 vulnerabilities](https://www.linux.org/threads/usn-6163-1-pano13-vulnerabilities.45496/)|Visit link for details.|Jun 14, 2023|
+ |[USN-6162-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6162-1-linux-kernel-intel-iotg-vulnerabilities.45495/)|Visit link for details.|Jun 14, 2023|
+ |[DSA-5426 owslib - security update](https://www.linux.org/threads/dsa-5426-owslib-security-update.45494/)|Visit link for details.|Jun 14, 2023|
+ |[DSA-5425 php8.2 - security update](https://www.linux.org/threads/dsa-5425-php8-2-security-update.45489/)|Visit link for details.|Jun 14, 2023|
+ |[DSA-5424 php7.4 - security update](https://www.linux.org/threads/dsa-5424-php7-4-security-update.45488/)|Visit link for details.|Jun 14, 2023|
+ |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,6 +89,39 @@
  |[MStore API plugin for WordPress cross-site request forgery (CVE-2023-3203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[MStore API plugin for WordPress cross-site request forgery (CVE-2023-3200)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[MStore API plugin for WordPress cross-site request forgery (CVE-2023-3198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
+ |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0464/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0463/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0462/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0461/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0460/)|Une vulnérabilité a été corrigée dans |Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 juin 2023|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 juin 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Chrome - CVE-2023-3214](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3214-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Alaris Infusion Central - CVE-2022-47376](https://www.cyberveille-sante.gouv.fr/alertes/alaris-infusion-central-cve-2022-47376-2023-06-14)|Visit link for details.|14/06/2023|
  
 
 # OBS-Vigilance
@@ -158,20 +158,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[42361406/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4236140623-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|14 juin 2023|
  |[42351406/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4235140623-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 juin 2023|
  |[42331406/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4233140623-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|14 juin 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  
 
 # CA-CCS
