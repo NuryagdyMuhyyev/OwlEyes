@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/06/2023 08:17:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/06/2023 09:19:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
- |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
- |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
- |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
  |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
  |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
+ |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
+ |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
+ |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
  
 
 # CERT-FR
@@ -111,21 +111,21 @@
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
-# MA-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[42381406/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4238140623-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|14 juin 2023|
- |[42341406/23 - Vulnérabilités dans Microsoft Edge(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4234140623-vulnerabilites-dans-microsoft-edgepatch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et de...|14 juin 2023|
- |[42371406/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4237140623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter...|14 juin 2023|
- |[42361406/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4236140623-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|14 juin 2023|
- |[42351406/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4235140623-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 juin 2023|
- |[42331406/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4233140623-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|14 juin 2023|
- |[42321406/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4232140623-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|14 juin 2023|
- |[42311406/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4231140623-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|14 juin 2023|
- |[42381206/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4238120623-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|12 juin 2023|
- |[42281206/23 - Vulnérabilité critique affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4228120623-vulnerabilite-critique-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant...|12 juin 2023|
- |[42270906/23 - Vulnérabilitéscritiquesaffectant le plugin «Directorist» pour WordPress](https://www.dgssi.gov.ma//fr/content/4227090623-vulnerabilites-critiques-affectant-le-plugin-directorist-pour-wordpress.html)|WordPressannonce la correction de deux vulnérabilités critiques affectant le plugin« Directorist». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges ou demodifier des données.|09 juin 2023|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498" class="noirorange"><b>Kubernetes</b>: read-write access via Bypassing Enforce Mountable Secrets Policy</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498)|An attacker can bypass access restrictions of Kubernetes, via Bypassing Enforce Mountable Secrets Policy, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497" class="noirorange"><b>libcap</b>: integer overflow via _libcap_strdup()</a>](https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497)|An attacker can trigger an integer overflow of libcap, via _libcap_strdup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496" class="noirorange"><b>libcap</b>: denial of service via __real_pthread_create()</a>](https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496)|An attacker can cause a fatal error of libcap, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495" class="noirorange"><b>GLib</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495)|An attacker can use several vulnerabilities of GLib...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494" class="noirorange"><b>Drupal Office Hours</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494)|An attacker can trigger a Cross Site Scripting of Drupal Office Hours, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 21/06/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493)|A vulnerability of ISC BIND will be unveiled on 21/06/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491" class="noirorange"><b>TeamViewer Remote</b>: privilege escalation via Basic Local Device Settings</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491)|An attacker can bypass restrictions of TeamViewer Remote, via Basic Local Device Settings, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489" class="noirorange"><b>Linux kernel</b>: information disclosure via AmpereOne Cache Speculation</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489)|An attacker can bypass access restrictions to data of the Linux kernel, via AmpereOne Cache Speculation, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -145,23 +145,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498" class="noirorange"><b>Kubernetes</b>: read-write access via Bypassing Enforce Mountable Secrets Policy</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498)|An attacker can bypass access restrictions of Kubernetes, via Bypassing Enforce Mountable Secrets Policy, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497" class="noirorange"><b>libcap</b>: integer overflow via _libcap_strdup()</a>](https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497)|An attacker can trigger an integer overflow of libcap, via _libcap_strdup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496" class="noirorange"><b>libcap</b>: denial of service via __real_pthread_create()</a>](https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496)|An attacker can cause a fatal error of libcap, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495" class="noirorange"><b>GLib</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495)|An attacker can use several vulnerabilities of GLib...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494" class="noirorange"><b>Drupal Office Hours</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494)|An attacker can trigger a Cross Site Scripting of Drupal Office Hours, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 21/06/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493)|A vulnerability of ISC BIND will be unveiled on 21/06/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41492)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491" class="noirorange"><b>TeamViewer Remote</b>: privilege escalation via Basic Local Device Settings</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-privilege-escalation-via-Basic-Local-Device-Settings-41491)|An attacker can bypass restrictions of TeamViewer Remote, via Basic Local Device Settings, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41490)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489" class="noirorange"><b>Linux kernel</b>: information disclosure via AmpereOne Cache Speculation</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-AmpereOne-Cache-Speculation-41489)|An attacker can bypass access restrictions to data of the Linux kernel, via AmpereOne Cache Speculation, in order to read sensitive information...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -173,6 +156,37 @@
  |[HotelDruid SQL injection (CVE-2023-33817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Siemens SIMATIC products and SINAUT Software weak security (CVE-2023-28829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
  |[Schneider Electric IGSS Dashboard code execution (CVE-2023-3001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42381406/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4238140623-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|14 juin 2023|
+ |[42341406/23 - Vulnérabilités dans Microsoft Edge(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4234140623-vulnerabilites-dans-microsoft-edgepatch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et de...|14 juin 2023|
+ |[42371406/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4237140623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter...|14 juin 2023|
+ |[42361406/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4236140623-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|14 juin 2023|
+ |[42351406/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4235140623-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 juin 2023|
+ |[42331406/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4233140623-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|14 juin 2023|
+ |[42321406/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4232140623-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|14 juin 2023|
+ |[42311406/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4231140623-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|14 juin 2023|
+ |[42381206/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4238120623-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|12 juin 2023|
+ |[42281206/23 - Vulnérabilité critique affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4228120623-vulnerabilite-critique-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant...|12 juin 2023|
+ |[42270906/23 - Vulnérabilitéscritiquesaffectant le plugin «Directorist» pour WordPress](https://www.dgssi.gov.ma//fr/content/4227090623-vulnerabilites-critiques-affectant-le-plugin-directorist-pour-wordpress.html)|WordPressannonce la correction de deux vulnérabilités critiques affectant le plugin« Directorist». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges ou demodifier des données.|09 juin 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  
 
 # CA-CCS
@@ -190,18 +204,4 @@
  |[Fortinet security advisory (AV23-330)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-330)|Visit link for details|2023-06-13|
  |[Vulnerability impacting FortiGate/FortiOS (CVE-2023-27997) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-fortigatefortios-cve-2023-27997)|Visit link for details|2023-06-13|
  |[Citrix security advisory (AV23-329)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-329)|Visit link for details|2023-06-13|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  
