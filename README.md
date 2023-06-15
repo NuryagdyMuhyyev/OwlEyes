@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/06/2023 14:16:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/06/2023 15:19:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
- |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
- |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
- |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6161-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6161-1-net-vulnerabilities.45480/)|Visit link for details.|Jun 13, 2023|
  |[USN-6160-1: GNU binutils vulnerability](https://www.linux.org/threads/usn-6160-1-gnu-binutils-vulnerability.45479/)|Visit link for details.|Jun 13, 2023|
  |[USN-6159-1: Tornado vulnerability](https://www.linux.org/threads/usn-6159-1-tornado-vulnerability.45477/)|Visit link for details.|Jun 13, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
+ |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
+ |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
+ |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 13, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/06/12/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jun 12, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,19 @@
  |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|13/06/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks GlobalProtect App for Windows privilege escalation (CVE-2023-0009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ricoh Printer Driver Packager NX code execution (CVE-2023-30759)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
+ |[TMT Lockcell security bypass (CVE-2023-3050)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[TMT Lockcell file upload (CVE-2023-3049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[TMT Lockcell security bypass (CVE-2023-3048)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[TMT Lockcell SQL injection (CVE-2023-3047)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ |[Redirect After Login plugin for WordPress cross-site scripting (CVE-2023-27624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,23 +124,14 @@
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ricoh Printer Driver Packager NX code execution (CVE-2023-30759)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- |[Cyberus Key plugin for WordPress cross-site scripting (CVE-2023-28620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Redirect After Login plugin for WordPress cross-site scripting (CVE-2023-27624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Discourse security bypass (CVE-2023-32061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Discourse information disclosure (CVE-2023-31142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Were Open plugin for WordPress cross-site scripting (CVE-2023-25964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- |[Protected Posts Logout Button plugin for WordPress cross-site scripting (CVE-2023-25978)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510" class="noirorange"><b>Rekor</b>: denial of service via Malformed Entry</a>](https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510)|An attacker can cause a fatal error of Rekor, via Malformed Entry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509" class="noirorange"><b>Pulse Secure Client</b>: privilege escalation via Path File Operations</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509)|An attacker can bypass restrictions of Pulse Secure Client, via Path File Operations, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesBytes()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506" class="noirorange"><b>LibTIFF</b>: reuse after free via read_buff</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506)|An attacker can force the reuse of a freed memory area of LibTIFF, via read_buff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504" class="noirorange"><b>Kubernetes</b>: read-write access via ImagePolicyWebhook Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504)|An attacker can bypass access restrictions of Kubernetes, via ImagePolicyWebhook Bypass, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503" class="noirorange"><b>Kubernetes</b>: read-write access via Seccomp Profile Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503)|An attacker can bypass access restrictions of Kubernetes, via Seccomp Profile Bypass, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501" class="noirorange"><b>Qt</b>: Man-in-the-Middle via Chain Root</a>](https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501)|An attacker can act as a Man-in-the-Middle on Qt, via Chain Root, in order to read or write data in the session...|Visit link for details|
@@ -135,24 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498" class="noirorange"><b>Kubernetes</b>: read-write access via Bypassing Enforce Mountable Secrets Policy</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498)|An attacker can bypass access restrictions of Kubernetes, via Bypassing Enforce Mountable Secrets Policy, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497" class="noirorange"><b>libcap</b>: integer overflow via _libcap_strdup()</a>](https://vigilance.fr/vulnerability/libcap-integer-overflow-via-libcap-strdup-41497)|An attacker can trigger an integer overflow of libcap, via _libcap_strdup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496" class="noirorange"><b>libcap</b>: denial of service via __real_pthread_create()</a>](https://vigilance.fr/vulnerability/libcap-denial-of-service-via-real-pthread-create-41496)|An attacker can cause a fatal error of libcap, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495" class="noirorange"><b>GLib</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GLib-five-vulnerabilities-41495)|An attacker can use several vulnerabilities of GLib...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494" class="noirorange"><b>Drupal Office Hours</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Office-Hours-Cross-Site-Scripting-41494)|An attacker can trigger a Cross Site Scripting of Drupal Office Hours, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 21/06/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-21-06-2023-41493)|A vulnerability of ISC BIND will be unveiled on 21/06/2023...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
- |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
- |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
- |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  
 
 # EU-CERT
@@ -170,6 +156,20 @@
  |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Pulse Secure Client SetupService Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-858/)|Visit link for details|2023-06-14|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-857/)|Visit link for details|2023-05-24|
+ |[Sante DICOM Viewer Pro JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-856/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-855/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-854/)|Visit link for details|2023-06-08|
+ |[Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-853/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 account_mgr Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-852/)|Visit link for details|2023-06-08|
+ |[(Pwn2Own) Western Digital MyCloud PR4100 RESTSDK Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-851/)|Visit link for details|2023-06-08|
  
 
 # MA-CERT
