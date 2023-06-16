@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/06/2023 04:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/06/2023 06:39:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
  |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
  |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
  |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
@@ -59,7 +60,6 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
  |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
- |[CISA Issues BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-issues-bod-23-02-mitigating-risk-internet-exposed-management-interfaces)|Visit link for details.|Jun 13, 2023|
  
 
 # CERT-SANTE
@@ -77,66 +77,6 @@
  |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|14/06/2023|
  |[Chrome - CVE-2023-3214](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3214-2023-06-14)|Visit link for details.|14/06/2023|
  |[Alaris Infusion Central - CVE-2022-47376](https://www.cyberveille-sante.gouv.fr/alertes/alaris-infusion-central-cve-2022-47376-2023-06-14)|Visit link for details.|14/06/2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
- |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
- |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tang information disclosure (CVE-2023-1672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Palo Alto Networks GlobalProtect App for Windows privilege escalation (CVE-2023-0009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Grav code execution (CVE-2023-34251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- |[Grav code execution (CVE-2023-34252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- |[Grav code execution (CVE-2023-34253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- |[Jenkins weekly and LTS POST security bypass (CVE-2023-35141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- |[Office Hours module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-879/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-878/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-877/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-876/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-875/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-874/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-873/)|Visit link for details|2023-06-15|
- |[(0Day) Ashlar-Vellum Cobalt Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-872/)|Visit link for details|2023-06-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510" class="noirorange"><b>Rekor</b>: denial of service via Malformed Entry</a>](https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510)|An attacker can cause a fatal error of Rekor, via Malformed Entry, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509" class="noirorange"><b>Pulse Secure Client</b>: privilege escalation via Path File Operations</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509)|An attacker can bypass restrictions of Pulse Secure Client, via Path File Operations, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesBytes()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506" class="noirorange"><b>LibTIFF</b>: reuse after free via read_buff</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506)|An attacker can force the reuse of a freed memory area of LibTIFF, via read_buff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504" class="noirorange"><b>Kubernetes</b>: read-write access via ImagePolicyWebhook Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504)|An attacker can bypass access restrictions of Kubernetes, via ImagePolicyWebhook Bypass, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503" class="noirorange"><b>Kubernetes</b>: read-write access via Seccomp Profile Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503)|An attacker can bypass access restrictions of Kubernetes, via Seccomp Profile Bypass, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501" class="noirorange"><b>Qt</b>: Man-in-the-Middle via Chain Root</a>](https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501)|An attacker can act as a Man-in-the-Middle on Qt, via Chain Root, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Request-Forgery-via-Escaped-Values-POST-Request-41500" class="noirorange"><b>Jenkins Core</b>: Cross Site Request Forgery via Escaped Values POST Request</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Request-Forgery-via-Escaped-Values-POST-Request-41500)|An attacker can trigger a Cross Site Request Forgery of Jenkins Core, via Escaped Values POST Request, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498" class="noirorange"><b>Kubernetes</b>: read-write access via Bypassing Enforce Mountable Secrets Policy</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498)|An attacker can bypass access restrictions of Kubernetes, via Bypassing Enforce Mountable Secrets Policy, in order to read or alter data...|Visit link for details|
  
 
 # CERT-FR
@@ -170,6 +110,66 @@
  |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress MOVEit Transfer privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Tang information disclosure (CVE-2023-1672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Palo Alto Networks GlobalProtect App for Windows privilege escalation (CVE-2023-0009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Common Printing Dialog Backends buffer overflow (CVE-2023-34095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
+ |[Contiki-NG buffer overflow (CVE-2023-34101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
+ |[Grav code execution (CVE-2023-34251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
+ |[Grav code execution (CVE-2023-34252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassElevation of PrivilegeInformation Disclosure Exchange Server Medium RiskRemote Code Execution Microsoft Dynamics Low...|Release Date: 14 Jun 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
+ |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
+ |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510" class="noirorange"><b>Rekor</b>: denial of service via Malformed Entry</a>](https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510)|An attacker can cause a fatal error of Rekor, via Malformed Entry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509" class="noirorange"><b>Pulse Secure Client</b>: privilege escalation via Path File Operations</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509)|An attacker can bypass restrictions of Pulse Secure Client, via Path File Operations, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesBytes()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506" class="noirorange"><b>LibTIFF</b>: reuse after free via read_buff</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-read-buff-41506)|An attacker can force the reuse of a freed memory area of LibTIFF, via read_buff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504" class="noirorange"><b>Kubernetes</b>: read-write access via ImagePolicyWebhook Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-ImagePolicyWebhook-Bypass-41504)|An attacker can bypass access restrictions of Kubernetes, via ImagePolicyWebhook Bypass, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503" class="noirorange"><b>Kubernetes</b>: read-write access via Seccomp Profile Bypass</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Seccomp-Profile-Bypass-41503)|An attacker can bypass access restrictions of Kubernetes, via Seccomp Profile Bypass, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501" class="noirorange"><b>Qt</b>: Man-in-the-Middle via Chain Root</a>](https://vigilance.fr/vulnerability/Qt-Man-in-the-Middle-via-Chain-Root-41501)|An attacker can act as a Man-in-the-Middle on Qt, via Chain Root, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Request-Forgery-via-Escaped-Values-POST-Request-41500" class="noirorange"><b>Jenkins Core</b>: Cross Site Request Forgery via Escaped Values POST Request</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Request-Forgery-via-Escaped-Values-POST-Request-41500)|An attacker can trigger a Cross Site Request Forgery of Jenkins Core, via Escaped Values POST Request, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-41499)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498" class="noirorange"><b>Kubernetes</b>: read-write access via Bypassing Enforce Mountable Secrets Policy</a>](https://vigilance.fr/vulnerability/Kubernetes-read-write-access-via-Bypassing-Enforce-Mountable-Secrets-Policy-41498)|An attacker can bypass access restrictions of Kubernetes, via Bypassing Enforce Mountable Secrets Policy, in order to read or alter data...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-879/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-878/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-877/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-876/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-875/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-874/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-873/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-872/)|Visit link for details|2023-06-15|
  
 
 # MA-CERT
