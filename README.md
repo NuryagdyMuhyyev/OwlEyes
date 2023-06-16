@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/06/2023 18:20:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/06/2023 19:15:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,19 @@
  |[Alaris Infusion Central - CVE-2022-47376](https://www.cyberveille-sante.gouv.fr/alertes/alaris-infusion-central-cve-2022-47376-2023-06-14)|Visit link for details.|14/06/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft OLE DB code execution (CVE-2023-32028)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Microsoft ODBC and OLE DB code execution (CVE-2023-29349)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[X.Org libX11 denial of service (CVE-2023-3138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Advantech WebAccess/SCADA command execution (CVE-2023-1437)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[SUBNET PowerSYSTEM Center cross-site scripting (CVE-2023-32659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[SUBNET PowerSYSTEM Center denial of service (CVE-2023-29158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-0010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,36 +122,6 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
  |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft ODBC and OLE DB code execution (CVE-2023-29349)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[X.Org libX11 denial of service (CVE-2023-3138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Advantech WebAccess/SCADA command execution (CVE-2023-1437)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[SUBNET PowerSYSTEM Center cross-site scripting (CVE-2023-32659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[SUBNET PowerSYSTEM Center denial of service (CVE-2023-29158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-0010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Progress MOVEit Transfer privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510" class="noirorange"><b>Rekor</b>: denial of service via Malformed Entry</a>](https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510)|An attacker can cause a fatal error of Rekor, via Malformed Entry, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509" class="noirorange"><b>Pulse Secure Client</b>: privilege escalation via Path File Operations</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509)|An attacker can bypass restrictions of Pulse Secure Client, via Path File Operations, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesBytes()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
 # EU-CERT
@@ -175,6 +158,37 @@
  |[42351406/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4235140623-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 juin 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510" class="noirorange"><b>Rekor</b>: denial of service via Malformed Entry</a>](https://vigilance.fr/vulnerability/Rekor-denial-of-service-via-Malformed-Entry-41510)|An attacker can cause a fatal error of Rekor, via Malformed Entry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509" class="noirorange"><b>Pulse Secure Client</b>: privilege escalation via Path File Operations</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Client-privilege-escalation-via-Path-File-Operations-41509)|An attacker can bypass restrictions of Pulse Secure Client, via Path File Operations, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesBytes()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesBytes-41507)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-879/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt AR File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-878/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-877/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-876/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-875/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt XE File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-874/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-873/)|Visit link for details|2023-06-15|
+ |[(0Day) Ashlar-Vellum Cobalt Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-872/)|Visit link for details|2023-06-15|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,10 +204,4 @@
  |[Adobe security advisory (AV23-334)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-334)|Visit link for details|2023-06-14|
  |[Microsoft security advisory – June 2023 monthly rollup (AV23-333)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2023-monthly-rollup-av23-333)|Visit link for details|2023-06-14|
  |[Google Chrome security advisory (AV23-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-332)|Visit link for details|2023-06-14|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
