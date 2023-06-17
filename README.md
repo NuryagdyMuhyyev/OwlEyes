@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/06/2023 21:20:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/06/2023 22:13:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5431 sofia-sip - security update](https://www.linux.org/threads/dsa-5431-sofia-sip-security-update.45539/)|Visit link for details.|Jun 17, 2023|
- |[DSA-5430 openjdk-17 - security update](https://www.linux.org/threads/dsa-5430-openjdk-17-security-update.45538/)|Visit link for details.|Jun 17, 2023|
- |[USN-6175-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6175-1-linux-kernel-vulnerabilities.45537/)|Visit link for details.|Jun 17, 2023|
- |[USN-6174-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6174-1-linux-kernel-oem-vulnerabilities.45536/)|Visit link for details.|Jun 17, 2023|
- |[USN-6173-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6173-1-linux-kernel-oem-vulnerabilities.45535/)|Visit link for details.|Jun 17, 2023|
- |[USN-6172-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6172-1-linux-kernel-vulnerabilities.45534/)|Visit link for details.|Jun 17, 2023|
- |[USN-6171-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6171-1-linux-kernel-vulnerabilities.45533/)|Visit link for details.|Jun 17, 2023|
- |[USN-6156-2: SSSD regression](https://www.linux.org/threads/usn-6156-2-sssd-regression.45528/)|Visit link for details.|Jun 16, 2023|
- |[DSA-5429 wireshark - security update](https://www.linux.org/threads/dsa-5429-wireshark-security-update.45520/)|Visit link for details.|Jun 16, 2023|
- |[DSA-5428 chromium - security update](https://www.linux.org/threads/dsa-5428-chromium-security-update.45519/)|Visit link for details.|Jun 16, 2023|
- |[USN-6169-1: GNU SASL vulnerability](https://www.linux.org/threads/usn-6169-1-gnu-sasl-vulnerability.45515/)|Visit link for details.|Jun 15, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,34 +45,21 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
- |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
- |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
- |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
- |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
- |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[DSA-5431 sofia-sip - security update](https://www.linux.org/threads/dsa-5431-sofia-sip-security-update.45539/)|Visit link for details.|Jun 17, 2023|
+ |[DSA-5430 openjdk-17 - security update](https://www.linux.org/threads/dsa-5430-openjdk-17-security-update.45538/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6175-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6175-1-linux-kernel-vulnerabilities.45537/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6174-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6174-1-linux-kernel-oem-vulnerabilities.45536/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6173-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6173-1-linux-kernel-oem-vulnerabilities.45535/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6172-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6172-1-linux-kernel-vulnerabilities.45534/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6171-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6171-1-linux-kernel-vulnerabilities.45533/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6156-2: SSSD regression](https://www.linux.org/threads/usn-6156-2-sssd-regression.45528/)|Visit link for details.|Jun 16, 2023|
+ |[DSA-5429 wireshark - security update](https://www.linux.org/threads/dsa-5429-wireshark-security-update.45520/)|Visit link for details.|Jun 16, 2023|
+ |[DSA-5428 chromium - security update](https://www.linux.org/threads/dsa-5428-chromium-security-update.45519/)|Visit link for details.|Jun 16, 2023|
+ |[USN-6169-1: GNU SASL vulnerability](https://www.linux.org/threads/usn-6169-1-gnu-sasl-vulnerability.45515/)|Visit link for details.|Jun 15, 2023|
  
 
 # HK-CERT
@@ -108,21 +78,50 @@
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
-# EU-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
- |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
- |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
- |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
- |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
- |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
- |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
- |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
- |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
- |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
+ |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
  
 
 # ZERODAYINITIATIVE
@@ -156,20 +155,21 @@
  |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# CERT-FR
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
+ |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
+ |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
+ |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
+ |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. At this time there is no associated CVE or CVS score, but there are already signals of active exploitation in the wild. |Friday, June 02, 2023 03:00:09 PM CEST|
+ |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
+ |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
+ |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
+ |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
 # MA-CERT
