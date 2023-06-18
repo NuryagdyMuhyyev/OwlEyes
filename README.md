@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/06/2023 10:15:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/06/2023 11:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,19 @@
  |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,19 +122,6 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
  |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  
 
 # EU-CERT
