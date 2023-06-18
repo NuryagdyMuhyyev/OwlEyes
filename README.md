@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2023 02:13:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2023 03:14:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,17 +78,38 @@
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523)|An attacker can use several vulnerabilities of Go...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -107,52 +128,17 @@
  |[Cisco AnyConnect Elevation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-anyconnect-elevation-of-privilege-vulnerability_20230608)|A vulnerability was identified in Cisco AnyConnect. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system.|Release Date: 8 Jun 2023 |
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
- |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
- |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
- |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
- |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
- |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  
 
 # EU-CERT
@@ -204,4 +190,10 @@
  |[Understanding ransomware threat actors: LockBit - joint cybersecurity advisory](https://www.cyber.gc.ca/en/alerts-advisories/understanding-ransomware-threat-actors-lockbit-joint-cybersecurity-advisory)|Visit link for details|2023-06-14|
  |[[Control systems] Rockwell Automation security advisory (AV23-336)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-336)|Visit link for details|2023-06-14|
  |[[Control systems] Datalogics security advisory (AV23-335)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datalogics-security-advisory-av23-335)|Visit link for details|2023-06-14|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
