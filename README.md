@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/06/2023 19:14:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/06/2023 20:15:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,23 +95,6 @@
  |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -145,19 +128,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,6 +143,36 @@
  |[42341406/23 - Vulnérabilités dans Microsoft Edge(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4234140623-vulnerabilites-dans-microsoft-edgepatch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et de...|14 juin 2023|
  |[42371406/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4237140623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter...|14 juin 2023|
  |[42361406/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4236140623-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|14 juin 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523)|An attacker can use several vulnerabilities of Go...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518" class="noirorange"><b>IBM Security Directory Suite</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-multiple-vulnerabilities-41518)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514" class="noirorange"><b>iniparser</b>: NULL pointer dereference via iniparser_getlongint()</a>](https://vigilance.fr/vulnerability/iniparser-NULL-pointer-dereference-via-iniparser-getlongint-41514)|An attacker can force a NULL pointer to be dereferenced on iniparser, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
