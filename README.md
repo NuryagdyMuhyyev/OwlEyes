@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2023 09:20:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2023 10:16:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[USN-6169-1: GNU SASL vulnerability](https://www.linux.org/threads/usn-6169-1-gnu-sasl-vulnerability.45515/)|Visit link for details.|Jun 15, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
- |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
- |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
- |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
- |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
- |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
- |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -93,6 +76,23 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Forcepoint Cloud Security Gateway - CVE-2023-2080](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cloud-security-gateway-cve-2023-2080-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Eset pour Linux et MacOS - CVE-2023-2847](https://www.cyberveille-sante.gouv.fr/alertes/eset-pour-linux-et-macos-cve-2023-2847-2023-06-16)|Visit link for details.|16/06/2023|
+ |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Chrome - CVE-2023-3216](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3216-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Dell Power Protect Cyber Recovery - CVE-2023-32465](https://www.cyberveille-sante.gouv.fr/alertes/dell-power-protect-cyber-recovery-cve-2023-32465-2023-06-15)|Visit link for details.|15/06/2023|
+ |[Fortinet - CVE-2023-27997](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-27997-2023-06-12)|Visit link for details.|15/06/2023|
+ |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|14/06/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|14/06/2023|
  
 
 # OBS-Vigilance
@@ -129,6 +129,19 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adslr command execution (CVE-2023-31746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -143,19 +156,6 @@
  |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and data manipulation on the targeted system.|Release Date: 13 Jun 2023 |
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
  |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[Ashlar-Vellum Cobalt code execution (CVE-2023-35713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  
 
 # MA-CERT
@@ -175,20 +175,6 @@
  |[42361406/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4236140623-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|14 juin 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,18 @@
  |[Understanding ransomware threat actors: LockBit - joint cybersecurity advisory](https://www.cyber.gc.ca/en/alerts-advisories/understanding-ransomware-threat-actors-lockbit-joint-cybersecurity-advisory)|Visit link for details|2023-06-14|
  |[[Control systems] Rockwell Automation security advisory (AV23-336)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-336)|Visit link for details|2023-06-14|
  |[[Control systems] Datalogics security advisory (AV23-335)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datalogics-security-advisory-av23-335)|Visit link for details|2023-06-14|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
  
