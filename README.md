@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2023 13:22:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2023 14:17:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -119,9 +119,9 @@
  |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
  |[Fortinet FortiOS and FortiProxy denial of service (CVE-2023-33307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
  |[Liferay Portal and Liferay DXP cross-site request forgery (CVE-2023-35030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
+ |[Google XML Sitemap for Videos plugin for WordPress cross-site request forgery (CVE-2023-25055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  |[Silicon Labs Gecko SDK information disclosure (CVE-2023-2747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  |[Silicon Labs Gecko SDK buffer overflow (CVE-2023-2686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
- |[SiliconLabs EFR32 Bluetooth LE stack denial of service (CVE-2023-2683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 15, 2023|
  
 
 # EU-CERT
@@ -141,23 +141,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529" class="noirorange"><b>Micro Focus ArcSight ESM</b>: user access via Password Change Persisting Sessions</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529)|An attacker can bypass restrictions of Micro Focus ArcSight ESM, via Password Change Persisting Sessions, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528" class="noirorange"><b>VMware Tools</b>: privilege escalation via Vgauth Module</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528)|An attacker can bypass restrictions of VMware Tools, via Vgauth Module, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527" class="noirorange"><b>Radare2</b>: NULL pointer dereference via io.bank</a>](https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527)|An attacker can force a NULL pointer to be dereferenced on Radare2, via io.bank, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526" class="noirorange"><b>Synapse</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526)|An attacker can trigger a Server-Side Request Forgery of Synapse, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525" class="noirorange"><b>Synapse</b>: user access via Deactivated User Uncommon Configurations Login</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525)|An attacker can bypass restrictions of Synapse, via Deactivated User Uncommon Configurations Login, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41524)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-41523)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519" class="noirorange"><b>IBM Security Directory Suite</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-two-vulnerabilities-41519)|An attacker can use several vulnerabilities of IBM Security Directory Suite...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,6 +153,23 @@
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via renesas_usb3_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532" class="noirorange"><b>Linux kernel</b>: reuse after free via dm1105_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dm1105_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531" class="noirorange"><b>Linux kernel</b>: reuse after free via saa7134_finidev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531)|An attacker can force the reuse of a freed memory area of the Linux kernel, via saa7134_finidev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via relay_file_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530)|An attacker can force a read at an invalid memory address of the Linux kernel, via relay_file_read(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529" class="noirorange"><b>Micro Focus ArcSight ESM</b>: user access via Password Change Persisting Sessions</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529)|An attacker can bypass restrictions of Micro Focus ArcSight ESM, via Password Change Persisting Sessions, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528" class="noirorange"><b>VMware Tools</b>: privilege escalation via Vgauth Module</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528)|An attacker can bypass restrictions of VMware Tools, via Vgauth Module, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527" class="noirorange"><b>Radare2</b>: NULL pointer dereference via io.bank</a>](https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527)|An attacker can force a NULL pointer to be dereferenced on Radare2, via io.bank, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526" class="noirorange"><b>Synapse</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526)|An attacker can trigger a Server-Side Request Forgery of Synapse, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525" class="noirorange"><b>Synapse</b>: user access via Deactivated User Uncommon Configurations Login</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525)|An attacker can bypass restrictions of Synapse, via Deactivated User Uncommon Configurations Login, in order to gain user privileges...|Visit link for details|
  
 
 # MA-CERT
