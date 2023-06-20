@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/06/2023 23:19:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2023 00:13:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans les produits Fortinet. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juin 2023|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,34 +95,20 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CMS Commander plugin for WordPress security bypass (CVE-2023-3325)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[KioWare for Windows security bypass (CVE-2023-34641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[KioWare for Windows security bypass (CVE-2023-34642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[NocoDB directory traversal (CVE-2023-35843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[Extra User Details plugin for WordPress cross-site scripting (CVE-2023-35878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[Super Socializer plugin for WordPress cross-site scripting (CVE-2023-35882)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[EventPrime plugin for WordPress cross-site scripting (CVE-2023-35884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542" class="noirorange"><b>Centreon Web</b>: read-write access via Base URI Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542)|An attacker can bypass access restrictions of Centreon Web, via Base URI Change, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541" class="noirorange"><b>Linux kernel</b>: reuse after free via qcom-cpufreq-hw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qcom-cpufreq-hw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540" class="noirorange"><b>Linux kernel</b>: denial of service via fib6_rule_lookup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540)|An attacker can cause a fatal error of the Linux kernel, via fib6_rule_lookup(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539" class="noirorange"><b>SVG++</b>: out-of-bounds memory reading via gil::get_color()</a>](https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539)|An attacker can force a read at an invalid memory address of SVG++, via gil::get_color(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538" class="noirorange"><b>Podman</b>: code execution via Untrusted Image</a>](https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538)|An attacker can use a vulnerability of Podman, via Untrusted Image, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537" class="noirorange"><b>BlueZ</b>: denial of service via Unsupported Events</a>](https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537)|An attacker can cause a fatal error of BlueZ, via Unsupported Events, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536" class="noirorange"><b>Linux kernel</b>: reuse after free via ravb_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ravb_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via renesas_usb3_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532" class="noirorange"><b>Linux kernel</b>: reuse after free via dm1105_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dm1105_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans les produits Fortinet. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juin 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
  
 
 # EU-CERT
@@ -156,6 +126,19 @@
  |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WP Sticky Social plugin for WordPress cross-site scripting (CVE-2023-3320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[SICK EventCam App security bypass (CVE-2023-31411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[CMS Commander plugin for WordPress security bypass (CVE-2023-3325)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[KioWare for Windows security bypass (CVE-2023-34641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[KioWare for Windows security bypass (CVE-2023-34642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[NocoDB directory traversal (CVE-2023-35843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[Extra User Details plugin for WordPress cross-site scripting (CVE-2023-35878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -187,6 +170,23 @@
  |[42411506/23 - Vulnérabilité dans VMware Tools](https://www.dgssi.gov.ma//fr/content/4241150623-vulnerabilite-dans-vmware-tools.html)|Une vulnérabilité a été corrigée dans VMware Tools pour Windows. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|15 juin 2023|
  |[42381406/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4238140623-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|14 juin 2023|
  |[42341406/23 - Vulnérabilités dans Microsoft Edge(Patch Tuesday Juin 2023)](https://www.dgssi.gov.ma//fr/content/4234140623-vulnerabilites-dans-microsoft-edgepatch-tuesday-juin-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et de...|14 juin 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542" class="noirorange"><b>Centreon Web</b>: read-write access via Base URI Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542)|An attacker can bypass access restrictions of Centreon Web, via Base URI Change, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541" class="noirorange"><b>Linux kernel</b>: reuse after free via qcom-cpufreq-hw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qcom-cpufreq-hw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540" class="noirorange"><b>Linux kernel</b>: denial of service via fib6_rule_lookup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540)|An attacker can cause a fatal error of the Linux kernel, via fib6_rule_lookup(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539" class="noirorange"><b>SVG++</b>: out-of-bounds memory reading via gil::get_color()</a>](https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539)|An attacker can force a read at an invalid memory address of SVG++, via gil::get_color(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538" class="noirorange"><b>Podman</b>: code execution via Untrusted Image</a>](https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538)|An attacker can use a vulnerability of Podman, via Untrusted Image, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537" class="noirorange"><b>BlueZ</b>: denial of service via Unsupported Events</a>](https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537)|An attacker can cause a fatal error of BlueZ, via Unsupported Events, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536" class="noirorange"><b>Linux kernel</b>: reuse after free via ravb_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ravb_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via renesas_usb3_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # CA-CCS
