@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/06/2023 07:38:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/06/2023 08:17:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6178-1: SVG++ library vulnerabilities](https://www.linux.org/threads/usn-6178-1-svg-library-vulnerabilities.45582/)|Visit link for details.|Jun 19, 2023|
- |[USN-6083-2: cups-filters vulnerability](https://www.linux.org/threads/usn-6083-2-cups-filters-vulnerability.45578/)|Visit link for details.|Jun 19, 2023|
- |[USN-6166-2: libcap2 vulnerability](https://www.linux.org/threads/usn-6166-2-libcap2-vulnerability.45574/)|Visit link for details.|Jun 19, 2023|
- |[USN-6177-1: Jettison vulnerabilities](https://www.linux.org/threads/usn-6177-1-jettison-vulnerabilities.45573/)|Visit link for details.|Jun 19, 2023|
- |[USN-6170-1: Podman vulnerabilities](https://www.linux.org/threads/usn-6170-1-podman-vulnerabilities.45572/)|Visit link for details.|Jun 19, 2023|
- |[USN-6176-1: PyPDF2 vulnerability](https://www.linux.org/threads/usn-6176-1-pypdf2-vulnerability.45566/)|Visit link for details.|Jun 19, 2023|
- |[USN-6167-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6167-1-qemu-vulnerabilities.45560/)|Visit link for details.|Jun 19, 2023|
- |[DSA-5432 xmltooling - security update](https://www.linux.org/threads/dsa-5432-xmltooling-security-update.45559/)|Visit link for details.|Jun 19, 2023|
- |[DSA-5431 sofia-sip - security update](https://www.linux.org/threads/dsa-5431-sofia-sip-security-update.45539/)|Visit link for details.|Jun 17, 2023|
- |[DSA-5430 openjdk-17 - security update](https://www.linux.org/threads/dsa-5430-openjdk-17-security-update.45538/)|Visit link for details.|Jun 17, 2023|
- |[USN-6175-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6175-1-linux-kernel-vulnerabilities.45537/)|Visit link for details.|Jun 17, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
+ |[USN-6178-1: SVG++ library vulnerabilities](https://www.linux.org/threads/usn-6178-1-svg-library-vulnerabilities.45582/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6083-2: cups-filters vulnerability](https://www.linux.org/threads/usn-6083-2-cups-filters-vulnerability.45578/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6166-2: libcap2 vulnerability](https://www.linux.org/threads/usn-6166-2-libcap2-vulnerability.45574/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6177-1: Jettison vulnerabilities](https://www.linux.org/threads/usn-6177-1-jettison-vulnerabilities.45573/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6170-1: Podman vulnerabilities](https://www.linux.org/threads/usn-6170-1-podman-vulnerabilities.45572/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6176-1: PyPDF2 vulnerability](https://www.linux.org/threads/usn-6176-1-pypdf2-vulnerability.45566/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6167-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6167-1-qemu-vulnerabilities.45560/)|Visit link for details.|Jun 19, 2023|
+ |[DSA-5432 xmltooling - security update](https://www.linux.org/threads/dsa-5432-xmltooling-security-update.45559/)|Visit link for details.|Jun 19, 2023|
+ |[DSA-5431 sofia-sip - security update](https://www.linux.org/threads/dsa-5431-sofia-sip-security-update.45539/)|Visit link for details.|Jun 17, 2023|
+ |[DSA-5430 openjdk-17 - security update](https://www.linux.org/threads/dsa-5430-openjdk-17-security-update.45538/)|Visit link for details.|Jun 17, 2023|
+ |[USN-6175-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6175-1-linux-kernel-vulnerabilities.45537/)|Visit link for details.|Jun 17, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +79,22 @@
  |[Chrome - CVE-2023-3215](https://www.cyberveille-sante.gouv.fr/alertes/chrome-cve-2023-3215-2023-06-15)|Visit link for details.|15/06/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
+ |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,6 +111,23 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230612)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 12 Jun 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538" class="noirorange"><b>Podman</b>: code execution via Untrusted Image</a>](https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538)|An attacker can use a vulnerability of Podman, via Untrusted Image, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537" class="noirorange"><b>BlueZ</b>: denial of service via Unsupported Events</a>](https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537)|An attacker can cause a fatal error of BlueZ, via Unsupported Events, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536" class="noirorange"><b>Linux kernel</b>: reuse after free via ravb_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ravb_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via renesas_usb3_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532" class="noirorange"><b>Linux kernel</b>: reuse after free via dm1105_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dm1105_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531" class="noirorange"><b>Linux kernel</b>: reuse after free via saa7134_finidev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531)|An attacker can force the reuse of a freed memory area of the Linux kernel, via saa7134_finidev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via relay_file_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530)|An attacker can force a read at an invalid memory address of the Linux kernel, via relay_file_read(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529" class="noirorange"><b>Micro Focus ArcSight ESM</b>: user access via Password Change Persisting Sessions</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529)|An attacker can bypass restrictions of Micro Focus ArcSight ESM, via Password Change Persisting Sessions, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528" class="noirorange"><b>VMware Tools</b>: privilege escalation via Vgauth Module</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528)|An attacker can bypass restrictions of VMware Tools, via Vgauth Module, in order to escalate his privileges...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,20 +139,6 @@
  |[Online Shopping System Advanced cross-site scripting (CVE-2023-3311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2023|
  |[Adslr command execution (CVE-2023-31746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2023|
  |[TP-Link Archer AX10 devices buffer overflow (CVE-2023-34832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
  
 
 # EU-CERT
@@ -155,21 +158,18 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538" class="noirorange"><b>Podman</b>: code execution via Untrusted Image</a>](https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538)|An attacker can use a vulnerability of Podman, via Untrusted Image, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537" class="noirorange"><b>BlueZ</b>: denial of service via Unsupported Events</a>](https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537)|An attacker can cause a fatal error of BlueZ, via Unsupported Events, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536" class="noirorange"><b>Linux kernel</b>: reuse after free via ravb_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ravb_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via renesas_usb3_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532" class="noirorange"><b>Linux kernel</b>: reuse after free via dm1105_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-dm1105-remove-41532)|An attacker can force the reuse of a freed memory area of the Linux kernel, via dm1105_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531" class="noirorange"><b>Linux kernel</b>: reuse after free via saa7134_finidev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-saa7134-finidev-41531)|An attacker can force the reuse of a freed memory area of the Linux kernel, via saa7134_finidev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via relay_file_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530)|An attacker can force a read at an invalid memory address of the Linux kernel, via relay_file_read(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529" class="noirorange"><b>Micro Focus ArcSight ESM</b>: user access via Password Change Persisting Sessions</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529)|An attacker can bypass restrictions of Micro Focus ArcSight ESM, via Password Change Persisting Sessions, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528" class="noirorange"><b>VMware Tools</b>: privilege escalation via Vgauth Module</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528)|An attacker can bypass restrictions of VMware Tools, via Vgauth Module, in order to escalate his privileges...|Visit link for details|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
  
 
 # MA-CERT
