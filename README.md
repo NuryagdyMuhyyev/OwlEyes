@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/06/2023 21:22:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2023 22:14:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,37 +111,11 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online School Fees System SQL injection (CVE-2023-3340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[SYNCK GRAPHICA Mailform Pro CGI denial of service (CVE-2023-32610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[Enphase Envoy command execution (CVE-2023-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[Cloudflare WARP client for Windows security bypass (CVE-2023-1862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[AWS Cloud Development Kit (AWS CDK) privilege escalation (CVE-2023-35165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[Ultimate Addons for Contact Form plugin for WordPress SQL injection (CVE-2022-47586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[PyBB cross-site scripting (CVE-2023-34461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554" class="noirorange"><b>Cisco AsyncOS  ESA  WSA</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  ESA  WSA, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551" class="noirorange"><b>ISC BIND</b>: denial of service via Synth-from-dnssec NSEC Records</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551)|An attacker can cause a fatal error of ISC BIND, via Synth-from-dnssec NSEC Records, in order to trigger a denial of service...|Visit link for details|
@@ -152,7 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dpu_crtc_atomic_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542" class="noirorange"><b>Centreon Web</b>: read-write access via Base URI Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542)|An attacker can bypass access restrictions of Centreon Web, via Base URI Change, in order to read or alter data...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Online Shopping System Advanced security bypass (CVE-2023-3337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Online School Fees System SQL injection (CVE-2023-3340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[SYNCK GRAPHICA Mailform Pro CGI denial of service (CVE-2023-32610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Enphase Envoy command execution (CVE-2023-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Cloudflare WARP client for Windows security bypass (CVE-2023-1862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Agro-School Management System SQL injection (CVE-2023-3339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[AWS Cloud Development Kit (AWS CDK) privilege escalation (CVE-2023-35165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
  
 
 # EU-CERT
@@ -204,4 +190,10 @@
  |[Foxit security advisory (AV23-341)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av23-341)|Visit link for details|2023-06-16|
  |[Barracuda security advisory (AV23-300) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/barracuda-security-advisory-av23-300)|Visit link for details|2023-06-15|
  |[MOVEit Transfer security advisory (AV23-340)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-340)|Visit link for details|2023-06-15|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
