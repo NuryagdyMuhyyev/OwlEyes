@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/06/2023 19:15:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2023 20:16:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[LSN-0095-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0095-1-kernel-live-patch-security-notice.45605/)|Visit link for details.|Jun 21, 2023|
+ |[USN-6182-1: pngcheck vulnerabilities](https://www.linux.org/threads/usn-6182-1-pngcheck-vulnerabilities.45604/)|Visit link for details.|Jun 21, 2023|
+ |[USN-6181-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-6181-1-ruby-vulnerabilities.45603/)|Visit link for details.|Jun 21, 2023|
+ |[USN-6143-3: Firefox regressions](https://www.linux.org/threads/usn-6143-3-firefox-regressions.45599/)|Visit link for details.|Jun 21, 2023|
+ |[USN-5948-2: Werkzeug vulnerabilities](https://www.linux.org/threads/usn-5948-2-werkzeug-vulnerabilities.45595/)|Visit link for details.|Jun 20, 2023|
+ |[USN-6180-1: VLC media player vulnerabilities](https://www.linux.org/threads/usn-6180-1-vlc-media-player-vulnerabilities.45594/)|Visit link for details.|Jun 20, 2023|
+ |[USN-6168-2: libx11 vulnerability](https://www.linux.org/threads/usn-6168-2-libx11-vulnerability.45590/)|Visit link for details.|Jun 20, 2023|
+ |[USN-6179-1: Jettison vulnerability](https://www.linux.org/threads/usn-6179-1-jettison-vulnerability.45589/)|Visit link for details.|Jun 20, 2023|
+ |[USN-6178-1: SVG++ library vulnerabilities](https://www.linux.org/threads/usn-6178-1-svg-library-vulnerabilities.45582/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6083-2: cups-filters vulnerability](https://www.linux.org/threads/usn-6083-2-cups-filters-vulnerability.45578/)|Visit link for details.|Jun 19, 2023|
+ |[USN-6166-2: libcap2 vulnerability](https://www.linux.org/threads/usn-6166-2-libcap2-vulnerability.45574/)|Visit link for details.|Jun 19, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -49,6 +66,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
  |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
  |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
@@ -58,41 +76,36 @@
  |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
  |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6143-3: Firefox regressions](https://www.linux.org/threads/usn-6143-3-firefox-regressions.45599/)|Visit link for details.|Jun 21, 2023|
- |[USN-5948-2: Werkzeug vulnerabilities](https://www.linux.org/threads/usn-5948-2-werkzeug-vulnerabilities.45595/)|Visit link for details.|Jun 20, 2023|
- |[USN-6180-1: VLC media player vulnerabilities](https://www.linux.org/threads/usn-6180-1-vlc-media-player-vulnerabilities.45594/)|Visit link for details.|Jun 20, 2023|
- |[USN-6168-2: libx11 vulnerability](https://www.linux.org/threads/usn-6168-2-libx11-vulnerability.45590/)|Visit link for details.|Jun 20, 2023|
- |[USN-6179-1: Jettison vulnerability](https://www.linux.org/threads/usn-6179-1-jettison-vulnerability.45589/)|Visit link for details.|Jun 20, 2023|
- |[USN-6178-1: SVG++ library vulnerabilities](https://www.linux.org/threads/usn-6178-1-svg-library-vulnerabilities.45582/)|Visit link for details.|Jun 19, 2023|
- |[USN-6083-2: cups-filters vulnerability](https://www.linux.org/threads/usn-6083-2-cups-filters-vulnerability.45578/)|Visit link for details.|Jun 19, 2023|
- |[USN-6166-2: libcap2 vulnerability](https://www.linux.org/threads/usn-6166-2-libcap2-vulnerability.45574/)|Visit link for details.|Jun 19, 2023|
- |[USN-6177-1: Jettison vulnerabilities](https://www.linux.org/threads/usn-6177-1-jettison-vulnerabilities.45573/)|Visit link for details.|Jun 19, 2023|
- |[USN-6170-1: Podman vulnerabilities](https://www.linux.org/threads/usn-6170-1-podman-vulnerabilities.45572/)|Visit link for details.|Jun 19, 2023|
- |[USN-6176-1: PyPDF2 vulnerability](https://www.linux.org/threads/usn-6176-1-pypdf2-vulnerability.45566/)|Visit link for details.|Jun 19, 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
  |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
  |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
- |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
  |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
  |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
+ |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
  |[WordPress - CVE-2023-3295](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3295-2023-06-19)|Visit link for details.|19/06/2023|
  |[TP-Link - CVE-2023-34832](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-34832-2023-06-19)|Visit link for details.|19/06/2023|
  |[StormShield - CVE-2023-34198](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-34198-2023-06-19)|Visit link for details.|19/06/2023|
  |[Progress MOVEit - CVE-2023-35708](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35708-2023-06-19)|Visit link for details.|19/06/2023|
  |[Pulse Secure - CVE-2023-34298](https://www.cyberveille-sante.gouv.fr/alertes/pulse-secure-cve-2023-34298-2023-06-19)|Visit link for details.|19/06/2023|
- |[Progress MOVEit - CVE-2023-35036](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2023-35036-2023-06-13)|Visit link for details.|19/06/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SYNCK GRAPHICA Mailform Pro CGI denial of service (CVE-2023-32610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Enphase Envoy command execution (CVE-2023-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Cloudflare WARP client for Windows security bypass (CVE-2023-1862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
+ |[Ultimate Addons for Contact Form plugin for WordPress SQL injection (CVE-2022-47586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[PyBB cross-site scripting (CVE-2023-34461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[Zoho ManageEngine ADSelfService Plus security bypass (CVE-2023-35854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[Resort Reservation System cross-site scripting (CVE-2023-3318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
  
 
 # HK-CERT
@@ -111,17 +124,21 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SYNCK GRAPHICA Mailform Pro CGI denial of service (CVE-2023-32610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[Enphase Envoy command execution (CVE-2023-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[Cloudflare WARP client for Windows security bypass (CVE-2023-1862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2023|
- |[Ultimate Addons for Contact Form plugin for WordPress SQL injection (CVE-2022-47586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[PyBB cross-site scripting (CVE-2023-34461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[Zoho ManageEngine ADSelfService Plus security bypass (CVE-2023-35854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
- |[Resort Reservation System cross-site scripting (CVE-2023-3318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551" class="noirorange"><b>ISC BIND</b>: denial of service via Synth-from-dnssec NSEC Records</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551)|An attacker can cause a fatal error of ISC BIND, via Synth-from-dnssec NSEC Records, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549" class="noirorange"><b>Contao</b>: Cross Site Request Forgery via Command Line</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549)|An attacker can trigger a Cross Site Request Forgery of Contao, via Command Line, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Unset HTTP Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548)|An attacker can bypass access restrictions to data of Apache Tomcat, via Unset HTTP Headers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547" class="noirorange"><b>FreeBSD  NetBSD</b>: user access via pam_krb5</a>](https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547)|An attacker can bypass restrictions of FreeBSD  NetBSD, via pam_krb5, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dpu_crtc_atomic_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542" class="noirorange"><b>Centreon Web</b>: read-write access via Base URI Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542)|An attacker can bypass access restrictions of Centreon Web, via Base URI Change, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541" class="noirorange"><b>Linux kernel</b>: reuse after free via qcom-cpufreq-hw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qcom-cpufreq-hw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -141,23 +158,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549" class="noirorange"><b>Contao</b>: Cross Site Request Forgery via Command Line</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549)|An attacker can trigger a Cross Site Request Forgery of Contao, via Command Line, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Unset HTTP Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548)|An attacker can bypass access restrictions to data of Apache Tomcat, via Unset HTTP Headers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547" class="noirorange"><b>FreeBSD  NetBSD</b>: user access via pam_krb5</a>](https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547)|An attacker can bypass restrictions of FreeBSD  NetBSD, via pam_krb5, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dpu_crtc_atomic_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542" class="noirorange"><b>Centreon Web</b>: read-write access via Base URI Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-read-write-access-via-Base-URI-Change-41542)|An attacker can bypass access restrictions of Centreon Web, via Base URI Change, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541" class="noirorange"><b>Linux kernel</b>: reuse after free via qcom-cpufreq-hw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qcom-cpufreq-hw-c-41541)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qcom-cpufreq-hw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540" class="noirorange"><b>Linux kernel</b>: denial of service via fib6_rule_lookup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fib6-rule-lookup-41540)|An attacker can cause a fatal error of the Linux kernel, via fib6_rule_lookup(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539" class="noirorange"><b>SVG++</b>: out-of-bounds memory reading via gil::get_color()</a>](https://vigilance.fr/vulnerability/SVG-out-of-bounds-memory-reading-via-gil-get-color-41539)|An attacker can force a read at an invalid memory address of SVG++, via gil::get_color(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +170,6 @@
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint GenerateProxyAssembly Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-883/)|Visit link for details|2023-06-16|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
- |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
- |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
- |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
- |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
- |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
- |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
- |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
  
 
 # CA-CCS
@@ -204,4 +187,21 @@
  |[Barracuda security advisory (AV23-300) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/barracuda-security-advisory-av23-300)|Visit link for details|2023-06-15|
  |[MOVEit Transfer security advisory (AV23-340)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-340)|Visit link for details|2023-06-15|
  |[[Control systems] Advantech security advisory (AV23-339)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-339)|Visit link for details|2023-06-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
+ |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
+ |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
+ |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
+ |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
+ |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
+ |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
+ |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
+ |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
  
