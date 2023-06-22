@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/06/2023 08:17:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/06/2023 09:19:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
+ |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
+ |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
+ |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
+ |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
+ |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5437 hsqldb - security update](https://www.linux.org/threads/dsa-5437-hsqldb-security-update.45623/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5436 hsqldb1.8.0 - security update](https://www.linux.org/threads/dsa-5436-hsqldb1-8-0-security-update.45622/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5435 trafficserver - security update](https://www.linux.org/threads/dsa-5435-trafficserver-security-update.45621/)|Visit link for details.|Jun 22, 2023|
  |[DSA-5434 minidlna - security update](https://www.linux.org/threads/dsa-5434-minidlna-security-update.45618/)|Visit link for details.|Jun 22, 2023|
  |[DSA-5433 libx11 - security update](https://www.linux.org/threads/dsa-5433-libx11-security-update.45617/)|Visit link for details.|Jun 22, 2023|
  |[USN-6183-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6183-1-bind-vulnerabilities.45611/)|Visit link for details.|Jun 21, 2023|
@@ -41,26 +60,6 @@
  |[USN-6181-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-6181-1-ruby-vulnerabilities.45603/)|Visit link for details.|Jun 21, 2023|
  |[USN-6143-3: Firefox regressions](https://www.linux.org/threads/usn-6143-3-firefox-regressions.45599/)|Visit link for details.|Jun 21, 2023|
  |[USN-5948-2: Werkzeug vulnerabilities](https://www.linux.org/threads/usn-5948-2-werkzeug-vulnerabilities.45595/)|Visit link for details.|Jun 20, 2023|
- |[USN-6180-1: VLC media player vulnerabilities](https://www.linux.org/threads/usn-6180-1-vlc-media-player-vulnerabilities.45594/)|Visit link for details.|Jun 20, 2023|
- |[USN-6168-2: libx11 vulnerability](https://www.linux.org/threads/usn-6168-2-libx11-vulnerability.45590/)|Visit link for details.|Jun 20, 2023|
- |[USN-6179-1: Jettison vulnerability](https://www.linux.org/threads/usn-6179-1-jettison-vulnerability.45589/)|Visit link for details.|Jun 20, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
- |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
- |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
- |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
- |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
- |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
- |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
- |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
- |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
  
 
 # CERT-FR
@@ -79,20 +78,21 @@
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
- |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
- |[CISA and NSA Release Joint Guidance on Hardening Baseboard Management Controllers (BMCs)](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-nsa-release-joint-guidance-hardening-baseboard-management-controllers-bmcs)|Visit link for details.|Jun 14, 2023|
- |[CISA and Partners Release Joint Advisory on Understanding Ransomware Threat Actors: LockBit](https://www.cisa.gov/news-events/alerts/2023/06/14/cisa-and-partners-release-joint-advisory-understanding-ransomware-threat-actors-lockbit)|Visit link for details.|Jun 14, 2023|
- |[Fortinet Releases June 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/06/13/fortinet-releases-june-2023-vulnerability-advisories)|Visit link for details.|Jun 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jun 13, 2023|
- |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
+ |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
+ |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
+ |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
+ |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
+ |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
+ |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
+ |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
+ |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
  
 
 # HK-CERT
@@ -141,23 +141,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
- |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
- |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
- |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
- |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
- |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
- |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
- |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
+ |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
+ |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
+ |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
+ |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
+ |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
+ |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
+ |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
+ |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
  
 
 # CA-CCS
