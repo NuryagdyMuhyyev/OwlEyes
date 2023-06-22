@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/06/2023 01:20:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/06/2023 02:16:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/)|Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 22 juin 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
  |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
  |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/)|Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 22 juin 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
  
 
 # OBS-Vigilance
@@ -166,13 +166,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[VMware vCenter Server and VMware Cloud Foundation buffer overflow (CVE-2023-20892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  |[ISC BIND denial of service (CVE-2023-2829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Broadleaf Commerce cross-site scripting (CVE-2023-33725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
  
 
 # CA-CCS
