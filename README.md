@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/06/2023 13:20:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/06/2023 14:16:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
+ |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
+ |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
+ |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
+ |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
+ |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
+ |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
+ |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,21 +111,21 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
  
 
-# CERT-SANTE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
- |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
- |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
- |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
- |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
- |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
- |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
- |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
- |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
+ |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
+ |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
+ |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
+ |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
+ |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
+ |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
+ |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
+ |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
  
 
 # OBS-Vigilance
@@ -128,19 +145,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Tomcat information disclosure (CVE-2023-34981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Apple iOS and iPadOS WebKit code execution (CVE-2023-32439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Apple iOS and iPadOS WebKit code execution (CVE-2023-32435)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Apple iOS and iPadOS privilege escalation (CVE-2023-32434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Cisco Secure Email and Web Manager, Cisco Secure Email Gateway, and Cisco Secure Web Appliance cross-site scripting (CVE-2023-20120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[Civic Cookie Control module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -158,6 +162,19 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat information disclosure (CVE-2023-34981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[Apple iOS and iPadOS WebKit code execution (CVE-2023-32439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[Apple iOS and iPadOS WebKit code execution (CVE-2023-32435)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[Apple iOS and iPadOS privilege escalation (CVE-2023-32434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[Cisco Secure Email and Web Manager, Cisco Secure Email Gateway, and Cisco Secure Web Appliance cross-site scripting (CVE-2023-20120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[Civic Cookie Control module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
- |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
- |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
- |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
- |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
- |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
- |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
- |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
  
 
 # CA-CCS
