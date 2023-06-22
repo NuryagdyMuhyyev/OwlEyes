@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/06/2023 12:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/06/2023 13:20:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,21 +62,20 @@
  |[Microsoft Releases June 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/06/13/microsoft-releases-june-2023-security-updates)|Visit link for details.|Jun 13, 2023|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
- |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
- |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
- |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
- |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
- |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
- |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
- |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
- |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
+ |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
  
 
 # HK-CERT
@@ -95,6 +94,40 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
+ |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
+ |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
+ |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
+ |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
+ |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|20/06/2023|
+ |[WordPress - CVE-2023-34007](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-34007-2023-06-20)|Visit link for details.|20/06/2023|
+ |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|20/06/2023|
+ |[LibreOffice - CVE-2023-1183](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-1183-2023-06-20)|Visit link for details.|20/06/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted8bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Album-Photos-read-write-access-via-Edit-Any-Photo-41561" class="noirorange"><b>Drupal Album Photos</b>: read-write access via Edit Any Photo</a>](https://vigilance.fr/vulnerability/Drupal-Album-Photos-read-write-access-via-Edit-Any-Photo-41561)|An attacker can bypass access restrictions of Drupal Album Photos, via Edit Any Photo, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Civic-Cookie-Control-Cross-Site-Scripting-41560" class="noirorange"><b>Drupal Civic Cookie Control</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Civic-Cookie-Control-Cross-Site-Scripting-41560)|An attacker can trigger a Cross Site Scripting of Drupal Civic Cookie Control, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559" class="noirorange"><b>Apache Traffic Server</b>: user access via s3_auth</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559)|An attacker can bypass restrictions of Apache Traffic Server, via s3_auth, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via TRACE Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557)|An attacker can bypass access restrictions to data of Apache Traffic Server, via TRACE Method, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554" class="noirorange"><b>Cisco AsyncOS  ESA  WSA</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  ESA  WSA, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -106,36 +139,6 @@
  |[Cisco Secure Email and Web Manager, Cisco Secure Email Gateway, and Cisco Secure Web Appliance cross-site scripting (CVE-2023-20120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
  |[Civic Cookie Control module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0471/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2023|
- |[Vulnérabilité dans Fortinet FortiOS et FortiProxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0470/)|Une vulnérabilité a été découverte dans Fortinet FortiOS et FortiProxy. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0469/)|De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 juin 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
 # EU-CERT
@@ -155,21 +158,18 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559" class="noirorange"><b>Apache Traffic Server</b>: user access via s3_auth</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559)|An attacker can bypass restrictions of Apache Traffic Server, via s3_auth, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via TRACE Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557)|An attacker can bypass access restrictions to data of Apache Traffic Server, via TRACE Method, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554" class="noirorange"><b>Cisco AsyncOS  ESA  WSA</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  ESA  WSA, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551" class="noirorange"><b>ISC BIND</b>: denial of service via Synth-from-dnssec NSEC Records</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551)|An attacker can cause a fatal error of ISC BIND, via Synth-from-dnssec NSEC Records, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549" class="noirorange"><b>Contao</b>: Cross Site Request Forgery via Command Line</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549)|An attacker can trigger a Cross Site Request Forgery of Contao, via Command Line, in order to force the victim to perform operations...|Visit link for details|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
 # MA-CERT
