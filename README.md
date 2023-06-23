@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/06/2023 10:18:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/06/2023 11:25:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,38 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
+ |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
+ |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Note:By default, installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please...| Release Date: 14 Jun 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-20887 is being exploited in the wild. Unauthenticated threat...| Release Date: 9 Jun 2023 |
+ |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230620)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker can exploit these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +78,33 @@
  |[USN-6183-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6183-1-bind-vulnerabilities.45611/)|Visit link for details.|Jun 21, 2023|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
- |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/)|Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
+ |[Multiples vulnérabilités dans BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 22 juin 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
  
 
 # CERT-SANTE
@@ -79,55 +124,26 @@
  |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/)|Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 22 juin 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 juin 2023|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/)|Une vulnérabilité a été découverte dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Note:By default, installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please...| Release Date: 14 Jun 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230609)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-20887 is being exploited in the wild. Unauthenticated threat...| Release Date: 9 Jun 2023 |
- |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230620)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker can exploit these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567" class="noirorange"><b>Grafana</b>: user access via Azure AD OAuth</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567)|An attacker can bypass restrictions of Grafana, via Azure AD OAuth, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566" class="noirorange"><b>Tang</b>: information disclosure via Key Generation</a>](https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566)|An attacker can bypass access restrictions to data of Tang, via Key Generation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565" class="noirorange"><b>VMware vCenter Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CUPS-reuse-after-free-via-cupsdAcceptClient-41564" class="noirorange"><b>CUPS</b>: reuse after free via cupsdAcceptClient()</a>](https://vigilance.fr/vulnerability/CUPS-reuse-after-free-via-cupsdAcceptClient-41564)|An attacker can force the reuse of a freed memory area of CUPS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted8bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
@@ -137,8 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via TRACE Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557)|An attacker can bypass access restrictions to data of Apache Traffic Server, via TRACE Method, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554" class="noirorange"><b>Cisco AsyncOS  ESA  WSA</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  ESA  WSA, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # EU-CERT
@@ -190,18 +204,4 @@
  |[IBM security advisory (AV23-346)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-346)|Visit link for details|2023-06-19|
  |[Ubuntu security advisory (AV23-345)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-345)|Visit link for details|2023-06-19|
  |[Dell security advisory (AV23-344)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-344)|Visit link for details|2023-06-19|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
