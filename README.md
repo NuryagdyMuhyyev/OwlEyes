@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/06/2023 13:23:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/06/2023 14:18:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6188-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6188-1-openssl-vulnerability.45632/)|Visit link for details.|Jun 22, 2023|
+ |[USN-6184-1: CUPS vulnerability](https://www.linux.org/threads/usn-6184-1-cups-vulnerability.45631/)|Visit link for details.|Jun 22, 2023|
+ |[USN-6187-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6187-1-linux-kernel-ibm-vulnerabilities.45630/)|Visit link for details.|Jun 22, 2023|
+ |[USN-6186-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6186-1-linux-kernel-vulnerabilities.45629/)|Visit link for details.|Jun 22, 2023|
+ |[USN-6185-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6185-1-linux-kernel-vulnerabilities.45628/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5437 hsqldb - security update](https://www.linux.org/threads/dsa-5437-hsqldb-security-update.45623/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5436 hsqldb1.8.0 - security update](https://www.linux.org/threads/dsa-5436-hsqldb1-8-0-security-update.45622/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5435 trafficserver - security update](https://www.linux.org/threads/dsa-5435-trafficserver-security-update.45621/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5434 minidlna - security update](https://www.linux.org/threads/dsa-5434-minidlna-security-update.45618/)|Visit link for details.|Jun 22, 2023|
+ |[DSA-5433 libx11 - security update](https://www.linux.org/threads/dsa-5433-libx11-security-update.45617/)|Visit link for details.|Jun 22, 2023|
+ |[USN-6183-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6183-1-bind-vulnerabilities.45611/)|Visit link for details.|Jun 21, 2023|
+ 
 
 # US-CERT
 
@@ -61,21 +78,17 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6188-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6188-1-openssl-vulnerability.45632/)|Visit link for details.|Jun 22, 2023|
- |[USN-6184-1: CUPS vulnerability](https://www.linux.org/threads/usn-6184-1-cups-vulnerability.45631/)|Visit link for details.|Jun 22, 2023|
- |[USN-6187-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6187-1-linux-kernel-ibm-vulnerabilities.45630/)|Visit link for details.|Jun 22, 2023|
- |[USN-6186-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6186-1-linux-kernel-vulnerabilities.45629/)|Visit link for details.|Jun 22, 2023|
- |[USN-6185-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6185-1-linux-kernel-vulnerabilities.45628/)|Visit link for details.|Jun 22, 2023|
- |[DSA-5437 hsqldb - security update](https://www.linux.org/threads/dsa-5437-hsqldb-security-update.45623/)|Visit link for details.|Jun 22, 2023|
- |[DSA-5436 hsqldb1.8.0 - security update](https://www.linux.org/threads/dsa-5436-hsqldb1-8-0-security-update.45622/)|Visit link for details.|Jun 22, 2023|
- |[DSA-5435 trafficserver - security update](https://www.linux.org/threads/dsa-5435-trafficserver-security-update.45621/)|Visit link for details.|Jun 22, 2023|
- |[DSA-5434 minidlna - security update](https://www.linux.org/threads/dsa-5434-minidlna-security-update.45618/)|Visit link for details.|Jun 22, 2023|
- |[DSA-5433 libx11 - security update](https://www.linux.org/threads/dsa-5433-libx11-security-update.45617/)|Visit link for details.|Jun 22, 2023|
- |[USN-6183-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6183-1-bind-vulnerabilities.45611/)|Visit link for details.|Jun 21, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  
 
 # CERT-SANTE
@@ -132,6 +145,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
@@ -142,7 +156,6 @@
  |[42462006/23 - Vulnérabilités critiques dans les produits ASUS](https://www.dgssi.gov.ma//fr/content/4246200623-vulnerabilites-critiques-dans-les-produits-asus.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés d’asus. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de porter atteinte à la confidentialité des données et de...|20 juin 2023|
  |[42451606/23 - Vulnérabilités dans les produits Microsoft SQL Server](https://www.dgssi.gov.ma//fr/content/4245160623-vulnerabilites-dans-les-produits-microsoft-sql-server.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance.|16 juin 2023|
  |[42441606/23 - Vulnérabilitésdans IBM Rational ClearCase](https://www.dgssi.gov.ma//fr/content/4244160623-vulnerabilites-dans-ibm-rational-clearcase.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de IBM Rational ClearCase. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données, de réussir une...|16 juin 2023|
- |[42431506/23 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app](https://www.dgssi.gov.ma//fr/content/4243150623-vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données...|15 juin 2023|
  
 
 # EU-CERT
@@ -160,19 +173,6 @@
  |[2023-031: GitLab - Critical Path Traversal Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-031.pdf)|On May 23, 2023, GitLab released an emergency security update to urgently address a critical severity path traversal flaw - CVE-2023-2825 - with a CVSS v3.1 score of 10.0. This issue was discovered in GitLab Community Edition (CE) and Enterprise Edition (EE) version 16.0.0, with older versions not being affected. The flaw allows an unauthenticated attacker to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.|Thursday, May 25, 2023 03:41:52 PM CEST|
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  
 
 # ZERODAYINITIATIVE
