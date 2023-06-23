@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/06/2023 00:16:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/06/2023 01:20:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -175,23 +175,6 @@
  |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Grafana security advisory (AV23-358)](https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av23-358)|Visit link for details|2023-06-23|
- |[Fortinet security advisory (AV23-357)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-357)|Visit link for details|2023-06-23|
- |[ISC BIND security advisory (AV23-356)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-356)|Visit link for details|2023-06-23|
- |[Drupal security advisory (AV23-355)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-355)|Visit link for details|2023-06-23|
- |[[Control systems] SpiderControl security advisory (AV23-354)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-spidercontrol-security-advisory-av23-354)|Visit link for details|2023-06-22|
- |[[Control systems] Advantech security advisory (AV23-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-353)|Visit link for details|2023-06-22|
- |[VMware security advisory (AV23-352)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-352)|Visit link for details|2023-06-22|
- |[Apple security advisory (AV23-351)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-351)|Visit link for details|2023-06-22|
- |[Juniper Networks security advisory (AV23-350)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-350)|Visit link for details|2023-06-21|
- |[Ivanti security advisory (AV23-349)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-349)|Visit link for details|2023-06-21|
- |[[Control systems] Enphase security advisory (AV23-348)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-enphase-security-advisory-av23-348)|Visit link for details|2023-06-20|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV23-359)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-359)|Visit link for details|2023-06-23|
+ |[Grafana security advisory (AV23-358)](https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av23-358)|Visit link for details|2023-06-23|
+ |[Fortinet security advisory (AV23-357)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-357)|Visit link for details|2023-06-23|
+ |[ISC BIND security advisory (AV23-356)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-356)|Visit link for details|2023-06-23|
+ |[Drupal security advisory (AV23-355)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-355)|Visit link for details|2023-06-23|
+ |[[Control systems] SpiderControl security advisory (AV23-354)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-spidercontrol-security-advisory-av23-354)|Visit link for details|2023-06-22|
+ |[[Control systems] Advantech security advisory (AV23-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-353)|Visit link for details|2023-06-22|
+ |[VMware security advisory (AV23-352)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-352)|Visit link for details|2023-06-22|
+ |[Apple security advisory (AV23-351)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-351)|Visit link for details|2023-06-22|
+ |[Juniper Networks security advisory (AV23-350)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-350)|Visit link for details|2023-06-21|
+ |[Ivanti security advisory (AV23-349)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-349)|Visit link for details|2023-06-21|
  
