@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/06/2023 04:20:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/06/2023 06:49:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,20 +46,21 @@
  |[USN-6183-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6183-1-bind-vulnerabilities.45611/)|Visit link for details.|Jun 21, 2023|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
- |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
+ |[Fortinet - CVE-2023-26204](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26204-2023-06-22)|Visit link for details.|22/06/2023|
+ |[Cisco - CVE-2023-20178](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20178-2023-06-22)|Visit link for details.|22/06/2023|
+ |[Apple - CVE-2023-32439](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32439-2023-06-22)|Visit link for details.|22/06/2023|
+ |[Apple - CVE-2023-32435](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32435-2023-06-22)|Visit link for details.|22/06/2023|
+ |[Apple - CVE-2023-32434](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32434-2023-06-22)|Visit link for details.|22/06/2023|
+ |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
+ |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
+ |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
+ |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
+ |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
+ |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
  
 
 # CERT-FR
@@ -78,6 +79,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
+ |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
+ |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,23 +109,6 @@
  |[Adobe Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB23-31Magento...|Release Date: 14 Jun 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230614)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 14 Jun 2023 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system. Note:CVE-2023-27997...|Release Date: 13 Jun 2023 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet - CVE-2023-26204](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26204-2023-06-22)|Visit link for details.|22/06/2023|
- |[Cisco - CVE-2023-20178](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20178-2023-06-22)|Visit link for details.|22/06/2023|
- |[Apple - CVE-2023-32439](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32439-2023-06-22)|Visit link for details.|22/06/2023|
- |[Apple - CVE-2023-32435](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32435-2023-06-22)|Visit link for details.|22/06/2023|
- |[Apple - CVE-2023-32434](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32434-2023-06-22)|Visit link for details.|22/06/2023|
- |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
- |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
- |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
- |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
- |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
- |[VMware - CVE-2023-20887](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20887-2023-06-08)|Visit link for details.|21/06/2023|
  
 
 # OBS-Vigilance
@@ -158,20 +158,6 @@
  |[2023-029: Critical Privilege Escalation in Wordpress Elementor Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-029.pdf)|A critical security vulnerability (CVSS score: 9.8), tracked as CVE-2023-32243, has been discovered in a popular Wordpress plugin Essential Addons for Elementor. This flaw could allow an attacker to escalate their privileges to that of any user on the WordPress site, as long as they know their username, thus being able to reset the password of the administrator and login on their account.|Monday, May 15, 2023 05:31:34 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +190,10 @@
  |[IBM security advisory (AV23-346)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-346)|Visit link for details|2023-06-19|
  |[Ubuntu security advisory (AV23-345)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-345)|Visit link for details|2023-06-19|
  |[Dell security advisory (AV23-344)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-344)|Visit link for details|2023-06-19|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
