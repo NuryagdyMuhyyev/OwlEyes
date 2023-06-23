@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/06/2023 20:19:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/06/2023 21:24:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
- |[Barracuda Networks Releases Update to Address ESG Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA, FBI, and MS-ISAC Update Joint CSA on Progress Telerik Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-fbi-and-ms-isac-update-joint-csa-progress-telerik-vulnerabilities)|Visit link for details.|Jun 15, 2023|
- 
 
 # LINUX-SEC
 
@@ -78,38 +62,37 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574" class="noirorange"><b>golang.org/x/image</b>: overload via TIFF DecodeConfig()</a>](https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574)|An attacker can trigger an overload of golang.org/x/image, via TIFF DecodeConfig(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573" class="noirorange"><b>VideoLAN dav1d</b>: denial of service via dav1d_decode_frame_exit()</a>](https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573)|An attacker can cause a fatal error of VideoLAN dav1d, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Compact Font Format Parser</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Compact Font Format Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Backup Restore Feature</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Backup Restore Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568" class="noirorange"><b>HP LaserJet Pro Print</b>: code execution via Web Service Eventing Model</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568)|An attacker can use a vulnerability of HP LaserJet Pro Print, via Web Service Eventing Model, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567" class="noirorange"><b>Grafana</b>: user access via Azure AD OAuth</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567)|An attacker can bypass restrictions of Grafana, via Azure AD OAuth, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566" class="noirorange"><b>Tang</b>: information disclosure via Key Generation</a>](https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566)|An attacker can bypass access restrictions to data of Tang, via Key Generation, in order to read sensitive information...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Grafana - CVE-2023-3128](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2023-3128-2023-06-23)|Visit link for details.|23/06/2023|
+ |[RoundCube - CVE-2021-44026](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2021-44026-2023-06-23)|Visit link for details.|23/06/2023|
+ |[TP-Link - CVE-2023-36355](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36355-2023-06-23)|Visit link for details.|23/06/2023|
+ |[VMWare - CVE-2023-20892](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20892-2023-06-23)|Visit link for details.|23/06/2023|
+ |[VMWare - CVE-2023-20893](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20893-2023-06-23)|Visit link for details.|23/06/2023|
  |[Roundcube - CVE-2020-12641](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2020-12641-2020-09-25)|Visit link for details.|23/06/2023|
+ |[StormShield - CVE-2023-34198](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-34198-2023-06-19)|Visit link for details.|23/06/2023|
  |[Fortinet - CVE-2023-26204](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-26204-2023-06-22)|Visit link for details.|22/06/2023|
  |[Cisco - CVE-2023-20178](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20178-2023-06-22)|Visit link for details.|22/06/2023|
  |[Apple - CVE-2023-32439](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32439-2023-06-22)|Visit link for details.|22/06/2023|
  |[Apple - CVE-2023-32435](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32435-2023-06-22)|Visit link for details.|22/06/2023|
- |[Apple - CVE-2023-32434](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32434-2023-06-22)|Visit link for details.|22/06/2023|
- |[HP - CVE-2023-30904](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30904-2023-06-21)|Visit link for details.|21/06/2023|
- |[NETGEAR- CVE-2023-34563](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34563-2023-06-21)|Visit link for details.|21/06/2023|
- |[WordPress - CVE-2023-1597](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-1597-2023-06-21)|Visit link for details.|21/06/2023|
- |[ManageEngine - CVE-2023-35854](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-35854-2023-06-21)|Visit link for details.|21/06/2023|
- |[HP - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30905-2023-06-21)|Visit link for details.|21/06/2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
+ |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
  
 
 # EU-CERT
@@ -129,17 +112,38 @@
  |[2023-030: Sysmon - Local Privilege Escalation Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-030.pdf)|On May 9, 2023, Microsoft disclosed the existence of a Local Privilege Escalation vulnerability in Sysmon. It is identified as CVE-2023-29343 and could allow an attacker to gain SYSTEM privileges with low attack complexity and without any interaction from a user.|Monday, May 15, 2023 05:58:32 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiNAC code execution (CVE-2023-33299)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2023|
- |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
- |[VMware vCenter Server and VMware Cloud Foundation code execution (CVE-2023-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
+ |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
+ |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
+ |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
+ |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
+ |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
+ |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
+ |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
+ |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574" class="noirorange"><b>golang.org/x/image</b>: overload via TIFF DecodeConfig()</a>](https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574)|An attacker can trigger an overload of golang.org/x/image, via TIFF DecodeConfig(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573" class="noirorange"><b>VideoLAN dav1d</b>: denial of service via dav1d_decode_frame_exit()</a>](https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573)|An attacker can cause a fatal error of VideoLAN dav1d, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Compact Font Format Parser</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Compact Font Format Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Backup Restore Feature</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Backup Restore Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568" class="noirorange"><b>HP LaserJet Pro Print</b>: code execution via Web Service Eventing Model</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568)|An attacker can use a vulnerability of HP LaserJet Pro Print, via Web Service Eventing Model, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567" class="noirorange"><b>Grafana</b>: user access via Azure AD OAuth</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-Azure-AD-OAuth-41567)|An attacker can bypass restrictions of Grafana, via Azure AD OAuth, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566" class="noirorange"><b>Tang</b>: information disclosure via Key Generation</a>](https://vigilance.fr/vulnerability/Tang-information-disclosure-via-Key-Generation-41566)|An attacker can bypass access restrictions to data of Tang, via Key Generation, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -158,21 +162,17 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  
 
-# MA-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
- |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
- |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
- |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
- |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
- |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
- |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ |[Fortinet FortiNAC unauthorized access (CVE-2023-33300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2023|
+ |[Fortinet FortiNAC code execution (CVE-2023-33299)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-3256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Advantech R-SeeNet default account (CVE-2023-2611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[Apple CUPS cupsdAcceptClient() denial of service (CVE-2023-34241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[SpiderControl SCADAWebServer denial of service (CVE-2023-3329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
+ |[VMware vCenter Server and VMware Cloud Foundation denial of service (CVE-2023-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2023|
  
 
 # ZERODAYINITIATIVE
