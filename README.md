@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/06/2023 23:24:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2023 00:15:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -155,6 +155,23 @@
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585" class="noirorange"><b>Nessus Plugin</b>: privilege escalation via Java Detection</a>](https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585)|An attacker can bypass restrictions of Nessus Plugin, via Java Detection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584" class="noirorange"><b>Stormshield Endpoint Security</b>: file write via Evolution Agent</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584)|An attacker can bypass access restrictions of Stormshield Endpoint Security, via Evolution Agent, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583" class="noirorange"><b>Stormshield Endpoint Security</b>: information disclosure via Evolution Agent Directory</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583)|An attacker can bypass access restrictions to data of Stormshield Endpoint Security, via Evolution Agent Directory, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Schema</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Schema, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581" class="noirorange"><b>WebAssembly</b>: denial of service via wat2wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581)|An attacker can cause a fatal error of WebAssembly, via wat2wasm, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579" class="noirorange"><b>WebAssembly</b>: denial of service via CWriter::MangleType()</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579)|An attacker can cause a fatal error of WebAssembly, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578)|An attacker can cause a fatal error of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577" class="noirorange"><b>D-Bus</b>: denial of service via Monitoring Interface</a>](https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577)|An attacker can cause a fatal error of D-Bus, via Monitoring Interface, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -172,27 +189,11 @@
  |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Schema</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Schema, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581" class="noirorange"><b>WebAssembly</b>: denial of service via wat2wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581)|An attacker can cause a fatal error of WebAssembly, via wat2wasm, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579" class="noirorange"><b>WebAssembly</b>: denial of service via CWriter::MangleType()</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579)|An attacker can cause a fatal error of WebAssembly, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578)|An attacker can cause a fatal error of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577" class="noirorange"><b>D-Bus</b>: denial of service via Monitoring Interface</a>](https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577)|An attacker can cause a fatal error of D-Bus, via Monitoring Interface, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574" class="noirorange"><b>golang.org/x/image</b>: overload via TIFF DecodeConfig()</a>](https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574)|An attacker can trigger an overload of golang.org/x/image, via TIFF DecodeConfig(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573" class="noirorange"><b>VideoLAN dav1d</b>: denial of service via dav1d_decode_frame_exit()</a>](https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573)|An attacker can cause a fatal error of VideoLAN dav1d, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV23-362)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-362)|Visit link for details|2023-06-26|
  |[Ubuntu security advisory (AV23-361)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-361)|Visit link for details|2023-06-26|
  |[Dell security advisory (AV23-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-360)|Visit link for details|2023-06-26|
  |[Ivanti security advisory (AV23-359)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-359)|Visit link for details|2023-06-23|
@@ -203,5 +204,4 @@
  |[[Control systems] SpiderControl security advisory (AV23-354)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-spidercontrol-security-advisory-av23-354)|Visit link for details|2023-06-22|
  |[[Control systems] Advantech security advisory (AV23-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-353)|Visit link for details|2023-06-22|
  |[VMware security advisory (AV23-352)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-352)|Visit link for details|2023-06-22|
- |[Apple security advisory (AV23-351)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-351)|Visit link for details|2023-06-22|
  
