@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2023 18:27:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2023 19:17:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,33 +46,20 @@
  |[DSA-5435 trafficserver - security update](https://www.linux.org/threads/dsa-5435-trafficserver-security-update.45621/)|Visit link for details.|Jun 22, 2023|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 27 Jun 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Note:By default, installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please...| Release Date: 14 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Amelia Plugin for WordPress cross-site scripting (CVE-2023-29427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[Frame Shortcode Plugin for WordPress cross-site scripting (CVE-2023-29436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[Optin Forms Plugin for WordPress cross-site scripting (CVE-2023-29434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[TheRoof Theme for WordPress cross-site scripting (CVE-2023-29430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[ShiftController Employee Shift Scheduling Plugin for WordPress cross-site scripting (CVE-2023-29424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[Cancel order request WooCommerce Plugin for WordPress cross-site scripting (CVE-2023-29423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
- |[Conditional extra fees for woocommerce Plugin for WordPress cross-site scripting (CVE-2023-29093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
+ |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
+ |[Progress Software Releases Security Advisory for MOVEit Transfer Vulnerability](https://www.cisa.gov/news-events/alerts/2023/06/15/progress-software-releases-security-advisory-moveit-transfer-vulnerability)|Visit link for details.|Jun 15, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/15/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Jun 15, 2023|
  
 
 # CERT-FR
@@ -107,6 +78,52 @@
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Amelia Plugin for WordPress cross-site scripting (CVE-2023-29427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[Frame Shortcode Plugin for WordPress cross-site scripting (CVE-2023-29436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[Optin Forms Plugin for WordPress cross-site scripting (CVE-2023-29434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[TheRoof Theme for WordPress cross-site scripting (CVE-2023-29430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[ShiftController Employee Shift Scheduling Plugin for WordPress cross-site scripting (CVE-2023-29424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[Cancel order request WooCommerce Plugin for WordPress cross-site scripting (CVE-2023-29423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ |[Conditional extra fees for woocommerce Plugin for WordPress cross-site scripting (CVE-2023-29093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 27 Jun 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Note:By default, installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please...| Release Date: 14 Jun 2023 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|27/06/2023|
+ |[WordPress - CVE-2023-3132](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3132-2023-06-26)|Visit link for details.|26/06/2023|
+ |[VMWare - CVE-2023-20895](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20895-2023-06-26)|Visit link for details.|26/06/2023|
+ |[VMWare - CVE-2023-20894](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20894-2023-06-26)|Visit link for details.|26/06/2023|
+ |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
+ |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
+ |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|26/06/2023|
+ |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
+ |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|26/06/2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -119,23 +136,6 @@
  |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress - CVE-2023-3132](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3132-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20895](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20895-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20894](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20894-2023-06-26)|Visit link for details.|26/06/2023|
- |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
- |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
- |[Zyxel - CVE-2023-27992](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-27992-2023-06-20)|Visit link for details.|26/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
- |[Fortinet - CVE-2023-33299](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33299-2023-06-20)|Visit link for details.|26/06/2023|
- |[Grafana - CVE-2023-3128](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2023-3128-2023-06-23)|Visit link for details.|23/06/2023|
- |[RoundCube - CVE-2021-44026](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2021-44026-2023-06-23)|Visit link for details.|23/06/2023|
- |[TP-Link - CVE-2023-36355](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36355-2023-06-23)|Visit link for details.|23/06/2023|
  
 
 # OBS-Vigilance
@@ -155,23 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579" class="noirorange"><b>WebAssembly</b>: denial of service via CWriter::MangleType()</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579)|An attacker can cause a fatal error of WebAssembly, via |Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
- |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
- |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
- |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
- |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
- |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
- |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
- |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
- |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
  |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
+ |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
+ |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
+ |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
+ |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
+ |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
+ |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
+ |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
+ |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
  
 
 # CA-CCS
