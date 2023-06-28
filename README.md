@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/06/2023 08:31:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/06/2023 09:23:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/)|Une vulnérabilité a été découverte dans|Publié le 23 juin 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper - CVE-2023-0026](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-0026-2023-06-27)|Visit link for details.|27/06/2023|
- |[WordPress - CVE-2023-2188](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-2188-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|27/06/2023|
- |[WordPress - CVE-2023-3132](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3132-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20895](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20895-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20894](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20894-2023-06-26)|Visit link for details.|26/06/2023|
- |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
- |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,21 +91,68 @@
  |[BigBlueButton server-side request forgery (CVE-2023-33176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590" class="noirorange"><b>Pulse Secure Desktop Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590)|An attacker can bypass restrictions of Pulse Secure Desktop Client, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Mail Station</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589)|An attacker can use several vulnerabilities of Synology DSM, via Mail Station...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588" class="noirorange"><b>Chrome</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587" class="noirorange"><b>QEMU</b>: denial of service via 9p Protocol Special Files Opening</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587)|An attacker, in a guest system, can cause a fatal error of QEMU, via 9p Protocol Special Files Opening, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Forward/Include Dispatcher Types</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586)|An attacker can bypass filtering rules of Spring Security, via Forward/Include Dispatcher Types, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585" class="noirorange"><b>Nessus Plugin</b>: privilege escalation via Java Detection</a>](https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585)|An attacker can bypass restrictions of Nessus Plugin, via Java Detection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584" class="noirorange"><b>Stormshield Endpoint Security</b>: file write via Evolution Agent</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584)|An attacker can bypass access restrictions of Stormshield Endpoint Security, via Evolution Agent, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583" class="noirorange"><b>Stormshield Endpoint Security</b>: information disclosure via Evolution Agent Directory</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583)|An attacker can bypass access restrictions to data of Stormshield Endpoint Security, via Evolution Agent Directory, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Schema</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Schema, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581" class="noirorange"><b>WebAssembly</b>: denial of service via wat2wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581)|An attacker can cause a fatal error of WebAssembly, via wat2wasm, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
+ |[Juniper - CVE-2023-0026](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-0026-2023-06-27)|Visit link for details.|27/06/2023|
+ |[WordPress - CVE-2023-2188](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-2188-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|27/06/2023|
+ |[WordPress - CVE-2023-3132](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3132-2023-06-26)|Visit link for details.|26/06/2023|
+ |[VMWare - CVE-2023-20895](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20895-2023-06-26)|Visit link for details.|26/06/2023|
+ |[VMWare - CVE-2023-20894](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20894-2023-06-26)|Visit link for details.|26/06/2023|
+ |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
+ |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
+ |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/)|Une vulnérabilité a été découverte dans|Publié le 23 juin 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
+ |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
+ |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
+ |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
+ |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
+ |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
+ |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
+ |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
+ |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
+ |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
  
 
 # EU-CERT
@@ -158,35 +172,21 @@
  |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
- |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
- |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
- |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
- |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
- |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
- |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
- |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
- |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
- |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
- |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590" class="noirorange"><b>Pulse Secure Desktop Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590)|An attacker can bypass restrictions of Pulse Secure Desktop Client, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Mail Station</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589)|An attacker can use several vulnerabilities of Synology DSM, via Mail Station...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588" class="noirorange"><b>Chrome</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587" class="noirorange"><b>QEMU</b>: denial of service via 9p Protocol Special Files Opening</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587)|An attacker, in a guest system, can cause a fatal error of QEMU, via 9p Protocol Special Files Opening, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Forward/Include Dispatcher Types</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586)|An attacker can bypass filtering rules of Spring Security, via Forward/Include Dispatcher Types, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585" class="noirorange"><b>Nessus Plugin</b>: privilege escalation via Java Detection</a>](https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585)|An attacker can bypass restrictions of Nessus Plugin, via Java Detection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584" class="noirorange"><b>Stormshield Endpoint Security</b>: file write via Evolution Agent</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584)|An attacker can bypass access restrictions of Stormshield Endpoint Security, via Evolution Agent, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583" class="noirorange"><b>Stormshield Endpoint Security</b>: information disclosure via Evolution Agent Directory</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583)|An attacker can bypass access restrictions to data of Stormshield Endpoint Security, via Evolution Agent Directory, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Schema</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Schema, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581" class="noirorange"><b>WebAssembly</b>: denial of service via wat2wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581)|An attacker can cause a fatal error of WebAssembly, via wat2wasm, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
