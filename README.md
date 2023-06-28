@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/06/2023 14:18:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/06/2023 15:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,19 +78,6 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[WAVLINK WL-WN531AX2 command execution (CVE-2023-32622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Snow Monkey Forms plugin for WordPress directory traversal (CVE-2023-32623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
  |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
  |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[WAVLINK WL-WN531AX2 command execution (CVE-2023-32622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[WAVLINK WL-WN531AX2 security bypass (CVE-2023-32612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Snow Monkey Forms plugin for WordPress directory traversal (CVE-2023-32623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
  
 
 # ZERODAYINITIATIVE
