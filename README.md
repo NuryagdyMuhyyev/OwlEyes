@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/06/2023 19:17:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/06/2023 20:19:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,23 @@
  |[DSA-5435 trafficserver - security update](https://www.linux.org/threads/dsa-5435-trafficserver-security-update.45621/)|Visit link for details.|Jun 22, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Stormshield - CVE-2023-35799](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-35799-2023-06-28)|Visit link for details.|28/06/2023|
+ |[OpenPrinting CUPS - CVE-2023-34241](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2023-34241-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Red Hat Keycloak - CVE-2022-4361](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2022-4361-2023-06-28)|Visit link for details.|28/06/2023|
+ |[TP-Link - CVE-2023-34832](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-34832-2023-06-19)|Visit link for details.|28/06/2023|
+ |[Juniper - CVE-2023-0026](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-0026-2023-06-27)|Visit link for details.|27/06/2023|
+ |[WordPress - CVE-2023-2188](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-2188-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|27/06/2023|
+ |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|27/06/2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -60,36 +77,6 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear RAX30 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Netgear RAX50 weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP command execution (CVE-2023-3333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP cross-site scripting (CVE-2023-3332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP directory traversal (CVE-2023-3331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP directory traversal (CVE-2023-3330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper - CVE-2023-0026](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-0026-2023-06-27)|Visit link for details.|27/06/2023|
- |[WordPress - CVE-2023-2188](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-2188-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|27/06/2023|
- |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|27/06/2023|
- |[WordPress - CVE-2023-3132](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3132-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20895](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20895-2023-06-26)|Visit link for details.|26/06/2023|
- |[VMWare - CVE-2023-20894](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20894-2023-06-26)|Visit link for details.|26/06/2023|
- |[TP-Link - CVE-2023-36354](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-36354-2023-06-26)|Visit link for details.|26/06/2023|
- |[GLPI - CVE-2023-34254](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-34254-2023-06-26)|Visit link for details.|26/06/2023|
- |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
  
 
 # CERT-FR
@@ -125,10 +112,24 @@
  |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Netgear RAX30 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Netgear RAX50 weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP command execution (CVE-2023-3333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP cross-site scripting (CVE-2023-3332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP directory traversal (CVE-2023-3331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP directory traversal (CVE-2023-3330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-Messages-Processing-41601" class="noirorange"><b>IBM MQ Appliance</b>: denial of service via Messages Processing</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-Messages-Processing-41601)|An attacker can cause a fatal error of IBM MQ Appliance, via Messages Processing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600" class="noirorange"><b>IBM GSKit</b>: information disclosure via RSA Decryption Timing-based Side Channel</a>](https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600)|An attacker can bypass access restrictions to data of IBM GSKit, via RSA Decryption Timing-based Side Channel, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599" class="noirorange"><b>Joomla OneVote</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599)|An attacker can trigger a Cross Site Scripting of Joomla OneVote, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -139,7 +140,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593" class="noirorange"><b>Keycloak</b>: user access via Device Auth Request Spoof</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593)|An attacker can bypass restrictions of Keycloak, via Device Auth Request Spoof, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via SAML / OIDC URI-schemes</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591)|An attacker can trigger a Cross Site Scripting of Keycloak, via SAML / OIDC URI-schemes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590" class="noirorange"><b>Pulse Secure Desktop Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590)|An attacker can bypass restrictions of Pulse Secure Desktop Client, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -175,6 +175,20 @@
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[Fortinet security advisory (AV23-357)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-357)|Visit link for details|2023-06-23|
  |[ISC BIND security advisory (AV23-356)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-356)|Visit link for details|2023-06-23|
  |[Drupal security advisory (AV23-355)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-355)|Visit link for details|2023-06-23|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
