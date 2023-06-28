@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/06/2023 02:16:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/06/2023 03:17:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
- |[CISA Releases SCuBA TRA and eVRF Guidance Documents](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-scuba-tra-and-evrf-guidance-documents)|Visit link for details.|Jun 27, 2023|
- |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
- 
 
 # LINUX-SEC
 
@@ -111,19 +95,6 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Shopware information disclosure (CVE-2023-34098)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Shopware security bypass (CVE-2023-34099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Netgear RAX30 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Netgear RAX50 weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP command execution (CVE-2023-3333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP cross-site scripting (CVE-2023-3332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP directory traversal (CVE-2023-3331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +110,22 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant User</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant User, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593" class="noirorange"><b>Keycloak</b>: user access via Device Auth Request Spoof</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593)|An attacker can bypass restrictions of Keycloak, via Device Auth Request Spoof, in order to gain user privileges...|Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
+ |[CISA Releases SCuBA TRA and eVRF Guidance Documents](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-scuba-tra-and-evrf-guidance-documents)|Visit link for details.|Jun 27, 2023|
+ |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
+ |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/06/22/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Jun 22, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 22, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/22/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 22, 2023|
  
 
 # EU-CERT
@@ -173,6 +160,19 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[H3C Magic B1ST denial of service (CVE-2023-34930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34934)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[H3C Magic B1ST denial of service (CVE-2023-34936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
  
 
 # ZERODAYINITIATIVE
