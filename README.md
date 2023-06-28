@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/06/2023 18:27:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/06/2023 19:17:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,17 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/20/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2023|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/)|Une vulnérabilité a été découverte dans|Publié le 23 juin 2023|
+ |[Netgear RAX30 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Netgear RAX50 weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP command execution (CVE-2023-3333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP cross-site scripting (CVE-2023-3332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP directory traversal (CVE-2023-3331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Aterm WG2200HP directory traversal (CVE-2023-3330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
  
 
 # CERT-SANTE
@@ -95,50 +92,20 @@
  |[Fortinet - CVE-2023-33300](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33300-2023-06-20)|Visit link for details.|26/06/2023|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 27 Jun 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599" class="noirorange"><b>Joomla OneVote</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599)|An attacker can trigger a Cross Site Scripting of Joomla OneVote, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Hazardous-Input-Validation-41597" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Hazardous Input Validation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Hazardous-Input-Validation-41597)|An attacker can bypass restrictions of IBM QRadar SIEM, via Hazardous Input Validation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-41596" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-41596)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant User</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant User, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593" class="noirorange"><b>Keycloak</b>: user access via Device Auth Request Spoof</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593)|An attacker can bypass restrictions of Keycloak, via Device Auth Request Spoof, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via SAML / OIDC URI-schemes</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591)|An attacker can trigger a Cross Site Scripting of Keycloak, via SAML / OIDC URI-schemes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590" class="noirorange"><b>Pulse Secure Desktop Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590)|An attacker can bypass restrictions of Pulse Secure Desktop Client, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Mail Station</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Mail-Station-41589)|An attacker can use several vulnerabilities of Synology DSM, via Mail Station...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear RAX30 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Netgear RAX50 weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP command execution (CVE-2023-3333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP cross-site scripting (CVE-2023-3332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP directory traversal (CVE-2023-3331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Aterm WG2200HP directory traversal (CVE-2023-3330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
- |[Image Map Pro Plugin for WordPress cross-site scripting (CVE-2023-3412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
+ |[Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/)|Une vulnérabilité a été découverte dans|Publié le 23 juin 2023|
  
 
 # EU-CERT
@@ -158,18 +125,37 @@
  |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600" class="noirorange"><b>IBM GSKit</b>: information disclosure via RSA Decryption Timing-based Side Channel</a>](https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600)|An attacker can bypass access restrictions to data of IBM GSKit, via RSA Decryption Timing-based Side Channel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599" class="noirorange"><b>Joomla OneVote</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-OneVote-Cross-Site-Scripting-41599)|An attacker can trigger a Cross Site Scripting of Joomla OneVote, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-41598)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Hazardous-Input-Validation-41597" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Hazardous Input Validation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Hazardous-Input-Validation-41597)|An attacker can bypass restrictions of IBM QRadar SIEM, via Hazardous Input Validation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-41596" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-41596)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant User</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-User-41595)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant User, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593" class="noirorange"><b>Keycloak</b>: user access via Device Auth Request Spoof</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Device-Auth-Request-Spoof-41593)|An attacker can bypass restrictions of Keycloak, via Device Auth Request Spoof, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via SAML / OIDC URI-schemes</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-OIDC-URI-schemes-41591)|An attacker can trigger a Cross Site Scripting of Keycloak, via SAML / OIDC URI-schemes, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590" class="noirorange"><b>Pulse Secure Desktop Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Pulse-Secure-Desktop-Client-privilege-escalation-41590)|An attacker can bypass restrictions of Pulse Secure Desktop Client, in order to escalate his privileges...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 27 Jun 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230621)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 21 Jun 2023 |
  
 
 # MA-CERT
@@ -204,4 +190,18 @@
  |[Fortinet security advisory (AV23-357)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-357)|Visit link for details|2023-06-23|
  |[ISC BIND security advisory (AV23-356)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-356)|Visit link for details|2023-06-23|
  |[Drupal security advisory (AV23-355)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-355)|Visit link for details|2023-06-23|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
