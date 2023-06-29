@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/06/2023 01:19:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/06/2023 02:15:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
  |[USN-6193-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6193-1-linux-kernel-vulnerabilities.45725/)|Visit link for details.|Jun 29, 2023|
  |[USN-6192-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6192-1-linux-kernel-vulnerabilities.45724/)|Visit link for details.|Jun 29, 2023|
  |[DSA-5441 maradns - security update](https://www.linux.org/threads/dsa-5441-maradns-security-update.45723/)|Visit link for details.|Jun 29, 2023|
@@ -59,7 +60,6 @@
  |[DSA-5439 bind9 - security update](https://www.linux.org/threads/dsa-5439-bind9-security-update.45679/)|Visit link for details.|Jun 26, 2023|
  |[DSA-5438 asterisk - security update](https://www.linux.org/threads/dsa-5438-asterisk-security-update.45643/)|Visit link for details.|Jun 23, 2023|
  |[USN-6161-2: .NET regression](https://www.linux.org/threads/usn-6161-2-net-regression.45640/)|Visit link for details.|Jun 23, 2023|
- |[USN-6188-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6188-1-openssl-vulnerability.45632/)|Visit link for details.|Jun 22, 2023|
  
 
 # HK-CERT
@@ -83,28 +83,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Spina cross-site scripting (CVE-2023-3445)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
+ |[Trellix Enterprise Security Manager command execution (CVE-2023-3314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[Trellix Enterprise Security Manager command execution (CVE-2023-3313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[GitLab denial of service (CVE-2023-2232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[BKG Professional NtripCaster cross-site scripting (CVE-2023-3034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[Multiple NETGEAR products security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[Multiple NETGEAR products cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
- |[Multiple NETGEAR products command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
- |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0497/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance.|Publié le 29 juin 2023|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0496/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 juin 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  
 
 # CERT-SANTE
@@ -136,6 +120,22 @@
  |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
  |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0497/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance.|Publié le 29 juin 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0496/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 juin 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  
 
 # OBS-Vigilance
