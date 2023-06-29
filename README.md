@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/06/2023 11:25:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/06/2023 12:17:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -115,13 +115,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Libraries UI module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[AWS data.all code execution (CVE-2023-36467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[GridStack module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[GDPR Alert module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[Search Autocomplete module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[Expandable Formatter module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
  |[M-Files Server denial of service (CVE-2023-3405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
- |[TacJS module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-privilege-escalation-via-pam-ksu-41615" class="noirorange"><b>NetBSD</b>: privilege escalation via pam_ksu</a>](https://vigilance.fr/vulnerability/NetBSD-privilege-escalation-via-pam-ksu-41615)|An attacker can bypass restrictions of NetBSD, via pam_ksu, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-information-disclosure-via-proc-N-environ-41614" class="noirorange"><b>NetBSD</b>: information disclosure via /proc/N/environ</a>](https://vigilance.fr/vulnerability/NetBSD-information-disclosure-via-proc-N-environ-41614)|An attacker can bypass access restrictions to data of NetBSD, via /proc/N/environ, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-memory-reading-via-Structure-Padding-41613" class="noirorange"><b>NetBSD</b>: memory reading via Structure Padding</a>](https://vigilance.fr/vulnerability/NetBSD-memory-reading-via-Structure-Padding-41613)|An attacker can read a memory fragment of NetBSD, via Structure Padding, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-memory-corruption-via-compat-netbsd32-compat-linux-41612" class="noirorange"><b>NetBSD</b>: memory corruption via compat_netbsd32 / compat_linux</a>](https://vigilance.fr/vulnerability/NetBSD-memory-corruption-via-compat-netbsd32-compat-linux-41612)|An attacker can trigger a memory corruption of NetBSD, via compat_netbsd32 / compat_linux, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-buffer-overflow-via-USB-Drivers-41611" class="noirorange"><b>NetBSD</b>: buffer overflow via USB Drivers</a>](https://vigilance.fr/vulnerability/NetBSD-buffer-overflow-via-USB-Drivers-41611)|An attacker can trigger a buffer overflow of NetBSD, via USB Drivers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-TacJS-Cross-Site-Scripting-41610" class="noirorange"><b>Drupal TacJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-TacJS-Cross-Site-Scripting-41610)|An attacker can trigger a Cross Site Scripting of Drupal TacJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Expandable-Formatter-Cross-Site-Scripting-41609" class="noirorange"><b>Drupal Expandable Formatter</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Expandable-Formatter-Cross-Site-Scripting-41609)|An attacker can trigger a Cross Site Scripting of Drupal Expandable Formatter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Libraries-UI-information-disclosure-41608" class="noirorange"><b>Drupal Libraries UI</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Libraries-UI-information-disclosure-41608)|An attacker can bypass access restrictions to data of Drupal Libraries UI, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Search-Autocomplete-Cross-Site-Scripting-41607" class="noirorange"><b>Drupal Search Autocomplete</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Search-Autocomplete-Cross-Site-Scripting-41607)|An attacker can trigger a Cross Site Scripting of Drupal Search Autocomplete, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Mailchimp-Cross-Site-Request-Forgery-41606" class="noirorange"><b>Drupal Mailchimp</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Mailchimp-Cross-Site-Request-Forgery-41606)|An attacker can trigger a Cross Site Request Forgery of Drupal Mailchimp, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GridStack-Cross-Site-Scripting-41605" class="noirorange"><b>Drupal GridStack</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-GridStack-Cross-Site-Scripting-41605)|An attacker can trigger a Cross Site Scripting of Drupal GridStack, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # EU-CERT
@@ -141,23 +158,6 @@
  |[2023-032: Vulnerability in Wordpress Gravity Forms Plugin](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-032.pdf)|On May 30, 2023, an unauthenticated PHP Object Injection vulnerability has been discovered in the Wordpress' Gravity Forms plugin. This vulnerability, identified as CVE-2023-28782 (CVSS score of 8.3), may allow an unauthenticated user to pass ad-hoc serialised strings to a vulnerable "unserialize" call, resulting in an arbitrary PHP object(s) injection into the application scope.|Wednesday, May 31, 2023 10:43:11 AM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-TacJS-Cross-Site-Scripting-41610" class="noirorange"><b>Drupal TacJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-TacJS-Cross-Site-Scripting-41610)|An attacker can trigger a Cross Site Scripting of Drupal TacJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Expandable-Formatter-Cross-Site-Scripting-41609" class="noirorange"><b>Drupal Expandable Formatter</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Expandable-Formatter-Cross-Site-Scripting-41609)|An attacker can trigger a Cross Site Scripting of Drupal Expandable Formatter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Libraries-UI-information-disclosure-41608" class="noirorange"><b>Drupal Libraries UI</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Libraries-UI-information-disclosure-41608)|An attacker can bypass access restrictions to data of Drupal Libraries UI, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Search-Autocomplete-Cross-Site-Scripting-41607" class="noirorange"><b>Drupal Search Autocomplete</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Search-Autocomplete-Cross-Site-Scripting-41607)|An attacker can trigger a Cross Site Scripting of Drupal Search Autocomplete, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Mailchimp-Cross-Site-Request-Forgery-41606" class="noirorange"><b>Drupal Mailchimp</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Mailchimp-Cross-Site-Request-Forgery-41606)|An attacker can trigger a Cross Site Request Forgery of Drupal Mailchimp, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GridStack-Cross-Site-Scripting-41605" class="noirorange"><b>Drupal GridStack</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-GridStack-Cross-Site-Scripting-41605)|An attacker can trigger a Cross Site Scripting of Drupal GridStack, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GDPR-Alert-Cross-Site-Scripting-41604" class="noirorange"><b>Drupal GDPR Alert</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-GDPR-Alert-Cross-Site-Scripting-41604)|An attacker can trigger a Cross Site Scripting of Drupal GDPR Alert, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-SQL-injection-via-Cookie-Session-41603" class="noirorange"><b>SPIP</b>: SQL injection via Cookie Session</a>](https://vigilance.fr/vulnerability/SPIP-SQL-injection-via-Cookie-Session-41603)|An attacker can use a SQL injection of SPIP, via Cookie Session, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AccountsService-denial-of-service-via-Crafted-Messages-41602" class="noirorange"><b>AccountsService</b>: denial of service via Crafted Messages</a>](https://vigilance.fr/vulnerability/AccountsService-denial-of-service-via-Crafted-Messages-41602)|An attacker can cause a fatal error of AccountsService, via Crafted Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-Messages-Processing-41601" class="noirorange"><b>IBM MQ Appliance</b>: denial of service via Messages Processing</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-Messages-Processing-41601)|An attacker can cause a fatal error of IBM MQ Appliance, via Messages Processing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600" class="noirorange"><b>IBM GSKit</b>: information disclosure via RSA Decryption Timing-based Side Channel</a>](https://vigilance.fr/vulnerability/IBM-GSKit-information-disclosure-via-RSA-Decryption-Timing-based-Side-Channel-41600)|An attacker can bypass access restrictions to data of IBM GSKit, via RSA Decryption Timing-based Side Channel, in order to read sensitive information...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -175,20 +175,6 @@
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,18 @@
  |[Fortinet security advisory (AV23-357)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-357)|Visit link for details|2023-06-23|
  |[ISC BIND security advisory (AV23-356)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-356)|Visit link for details|2023-06-23|
  |[Drupal security advisory (AV23-355)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-355)|Visit link for details|2023-06-23|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
