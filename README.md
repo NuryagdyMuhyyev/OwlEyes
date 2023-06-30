@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/06/2023 15:19:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/06/2023 16:15:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,21 +45,21 @@
  |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/news-events/alerts/2023/06/22/isc-releases-security-advisories-multiple-versions-bind-9)|Visit link for details.|Jun 22, 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5442 flask - security update](https://www.linux.org/threads/dsa-5442-flask-security-update.45733/)|Visit link for details.|Jun 30, 2023|
- |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
- |[USN-6193-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6193-1-linux-kernel-vulnerabilities.45725/)|Visit link for details.|Jun 29, 2023|
- |[USN-6192-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6192-1-linux-kernel-vulnerabilities.45724/)|Visit link for details.|Jun 29, 2023|
- |[DSA-5441 maradns - security update](https://www.linux.org/threads/dsa-5441-maradns-security-update.45723/)|Visit link for details.|Jun 29, 2023|
- |[USN-6191-1: Linux kernel regression](https://www.linux.org/threads/usn-6191-1-linux-kernel-regression.45720/)|Visit link for details.|Jun 29, 2023|
- |[DSA-5440 chromium - security update](https://www.linux.org/threads/dsa-5440-chromium-security-update.45719/)|Visit link for details.|Jun 29, 2023|
- |[USN-6190-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-1-accountsservice-vulnerability.45710/)|Visit link for details.|Jun 28, 2023|
- |[USN-6189-1: etcd vulnerability](https://www.linux.org/threads/usn-6189-1-etcd-vulnerability.45709/)|Visit link for details.|Jun 28, 2023|
- |[DSA-5439 bind9 - security update](https://www.linux.org/threads/dsa-5439-bind9-security-update.45679/)|Visit link for details.|Jun 26, 2023|
- |[DSA-5438 asterisk - security update](https://www.linux.org/threads/dsa-5438-asterisk-security-update.45643/)|Visit link for details.|Jun 23, 2023|
+ |[M-Files - CVE-2023-3405](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2023-3405-2023-06-29)|Visit link for details.|29/06/2023|
+ |[Veritas NetBackup - CVE-2023-37237](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-37237-2023-06-29)|Visit link for details.|29/06/2023|
+ |[Node.JS - CVE-2023-26134](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2023-26134-2023-06-29)|Visit link for details.|29/06/2023|
+ |[D-Link - CVE-2023-32222](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32222-2023-06-29)|Visit link for details.|29/06/2023|
+ |[D-Link - CVE-2023-32223](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32223-2023-06-29)|Visit link for details.|29/06/2023|
+ |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Stormshield - CVE-2023-35799](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-35799-2023-06-28)|Visit link for details.|28/06/2023|
+ |[OpenPrinting CUPS - CVE-2023-34241](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2023-34241-2023-06-28)|Visit link for details.|28/06/2023|
+ |[Red Hat Keycloak - CVE-2022-4361](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2022-4361-2023-06-28)|Visit link for details.|28/06/2023|
+ |[TP-Link - CVE-2023-34832](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-34832-2023-06-19)|Visit link for details.|28/06/2023|
  
 
 # HK-CERT
@@ -94,6 +94,23 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5442 flask - security update](https://www.linux.org/threads/dsa-5442-flask-security-update.45733/)|Visit link for details.|Jun 30, 2023|
+ |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
+ |[USN-6193-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6193-1-linux-kernel-vulnerabilities.45725/)|Visit link for details.|Jun 29, 2023|
+ |[USN-6192-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6192-1-linux-kernel-vulnerabilities.45724/)|Visit link for details.|Jun 29, 2023|
+ |[DSA-5441 maradns - security update](https://www.linux.org/threads/dsa-5441-maradns-security-update.45723/)|Visit link for details.|Jun 29, 2023|
+ |[USN-6191-1: Linux kernel regression](https://www.linux.org/threads/usn-6191-1-linux-kernel-regression.45720/)|Visit link for details.|Jun 29, 2023|
+ |[DSA-5440 chromium - security update](https://www.linux.org/threads/dsa-5440-chromium-security-update.45719/)|Visit link for details.|Jun 29, 2023|
+ |[USN-6190-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-1-accountsservice-vulnerability.45710/)|Visit link for details.|Jun 28, 2023|
+ |[USN-6189-1: etcd vulnerability](https://www.linux.org/threads/usn-6189-1-etcd-vulnerability.45709/)|Visit link for details.|Jun 28, 2023|
+ |[DSA-5439 bind9 - security update](https://www.linux.org/threads/dsa-5439-bind9-security-update.45679/)|Visit link for details.|Jun 26, 2023|
+ |[DSA-5438 asterisk - security update](https://www.linux.org/threads/dsa-5438-asterisk-security-update.45643/)|Visit link for details.|Jun 23, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -107,21 +124,18 @@
  |[GitLab information disclosure (CVE-2023-1936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[M-Files - CVE-2023-3405](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2023-3405-2023-06-29)|Visit link for details.|29/06/2023|
- |[Veritas NetBackup - CVE-2023-37237](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-37237-2023-06-29)|Visit link for details.|29/06/2023|
- |[Node.JS - CVE-2023-26134](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2023-26134-2023-06-29)|Visit link for details.|29/06/2023|
- |[D-Link - CVE-2023-32222](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32222-2023-06-29)|Visit link for details.|29/06/2023|
- |[D-Link - CVE-2023-32223](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-32223-2023-06-29)|Visit link for details.|29/06/2023|
- |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|28/06/2023|
- |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|28/06/2023|
- |[Stormshield - CVE-2023-35799](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-35799-2023-06-28)|Visit link for details.|28/06/2023|
- |[OpenPrinting CUPS - CVE-2023-34241](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2023-34241-2023-06-28)|Visit link for details.|28/06/2023|
- |[Red Hat Keycloak - CVE-2022-4361](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2022-4361-2023-06-28)|Visit link for details.|28/06/2023|
- |[TP-Link - CVE-2023-34832](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-34832-2023-06-19)|Visit link for details.|28/06/2023|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
+ |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows cldflt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-886/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Untrusted Pointer Dereference Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-885/)|Visit link for details|2023-06-16|
- |[(Pwn2Own) Microsoft SharePoint userphoto Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-884/)|Visit link for details|2023-06-16|
  
 
 # EU-CERT
