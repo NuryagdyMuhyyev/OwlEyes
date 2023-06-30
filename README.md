@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/07/2023 01:19:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/07/2023 02:15:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,20 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0507/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 juin 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
  
 
 # CERT-SANTE
@@ -93,35 +93,6 @@
  |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|30/06/2023|
  |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|30/06/2023|
  |[M-Files - CVE-2023-3405](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2023-3405-2023-06-29)|Visit link for details.|29/06/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0507/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 juin 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Medtronic Paceart Optima System code execution (CVE-2023-31222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs information disclosure (CVE-2023-36611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs information disclosure (CVE-2023-36610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs privilege escalation (CVE-2023-36609)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs information disclosure (CVE-2023-36608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs information disclosure (CVE-2023-36607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- |[Ovarro TBox RTUs information disclosure (CVE-2023-3395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
  
 
 # OBS-Vigilance
@@ -175,6 +146,39 @@
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 are being...|Release Date: 23 Jun 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230623)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Jun 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-06-05] Updated...| Release Date: 2 Jun 2023 |
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-373)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-373)|Visit link for details|2023-06-30|
+ |[[Control systems] Medtronic security advisory (AV23-372)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-medtronic-security-advisory-av23-372)|Visit link for details|2023-06-30|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-371)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-371)|Visit link for details|2023-06-30|
+ |[[Control systems] Schneider Electric security advisory (AV23-370)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-370)|Visit link for details|2023-06-30|
+ |[[Control systems] Ovarro security advisory (AV23-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ovarro-security-advisory-av23-369)|Visit link for details|2023-06-30|
+ |[Trellix security advisory (AV23-368)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-368)|Visit link for details|2023-06-29|
+ |[GitLab security advisory (AV23-367)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-367)|Visit link for details|2023-06-29|
+ |[[Control systems] Delta Electronics security advisory (AV23-366)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-366)|Visit link for details|2023-06-29|
+ |[Red Hat security advisory (AV23-365)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-365)|Visit link for details|2023-06-28|
+ |[Google Chrome security advisory (AV23-363)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-363)|Visit link for details|2023-06-27|
+ |[[Control systems] Hitachi Energy security advisory (AV23-364)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-364)|Visit link for details|2023-06-27|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -189,19 +193,15 @@
  |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[[Control systems] Medtronic security advisory (AV23-372)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-medtronic-security-advisory-av23-372)|Visit link for details|2023-06-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-371)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-371)|Visit link for details|2023-06-30|
- |[[Control systems] Schneider Electric security advisory (AV23-370)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-370)|Visit link for details|2023-06-30|
- |[[Control systems] Ovarro security advisory (AV23-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ovarro-security-advisory-av23-369)|Visit link for details|2023-06-30|
- |[Trellix security advisory (AV23-368)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-368)|Visit link for details|2023-06-29|
- |[GitLab security advisory (AV23-367)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-367)|Visit link for details|2023-06-29|
- |[[Control systems] Delta Electronics security advisory (AV23-366)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-366)|Visit link for details|2023-06-29|
- |[Red Hat security advisory (AV23-365)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-365)|Visit link for details|2023-06-28|
- |[Google Chrome security advisory (AV23-363)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-363)|Visit link for details|2023-06-27|
- |[[Control systems] Hitachi Energy security advisory (AV23-364)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-364)|Visit link for details|2023-06-27|
- |[IBM security advisory (AV23-362)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-362)|Visit link for details|2023-06-26|
+ |[Simple Blog cross-site scripting (CVE-2023-3474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[Event Script cross-site scripting (CVE-2023-3475)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[GuestBook Script cross-site scripting (CVE-2023-3476)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[Rocket LMS cross-site scripting (CVE-2023-3477)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[Trellix MOVE denial of service (CVE-2023-3438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
+ |[Medtronic Paceart Optima System code execution (CVE-2023-31222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
+ |[Ovarro TBox RTUs information disclosure (CVE-2023-36611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
  
