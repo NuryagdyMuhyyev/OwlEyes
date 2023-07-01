@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/07/2023 12:16:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/07/2023 13:21:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ucopia - CVE-2022-44720](https://www.cyberveille-sante.gouv.fr/alertes/ucopia-cve-2022-44720-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Medtronic - CVE-2023-31222](https://www.cyberveille-sante.gouv.fr/alertes/medtronic-cve-2023-31222-2023-06-30)|Visit link for details.|30/06/2023|
+ |[WordPress - CVE-2023-3460](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3460-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Golang - CVE-2023-29404](https://www.cyberveille-sante.gouv.fr/alertes/golang-cve-2023-29404-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Arcserve - CVE-2023-26258](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-26258-2023-06-30)|Visit link for details.|30/06/2023|
+ |[VMWare - CVE-2023-20893](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20893-2023-06-23)|Visit link for details.|30/06/2023|
+ |[VMWare - CVE-2023-20892](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20892-2023-06-23)|Visit link for details.|30/06/2023|
+ |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
+ |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|30/06/2023|
+ |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|30/06/2023|
+ |[M-Files - CVE-2023-3405](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2023-3405-2023-06-29)|Visit link for details.|29/06/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +95,21 @@
  |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Ucopia - CVE-2022-44720](https://www.cyberveille-sante.gouv.fr/alertes/ucopia-cve-2022-44720-2023-06-30)|Visit link for details.|30/06/2023|
- |[Medtronic - CVE-2023-31222](https://www.cyberveille-sante.gouv.fr/alertes/medtronic-cve-2023-31222-2023-06-30)|Visit link for details.|30/06/2023|
- |[WordPress - CVE-2023-3460](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3460-2023-06-30)|Visit link for details.|30/06/2023|
- |[Golang - CVE-2023-29404](https://www.cyberveille-sante.gouv.fr/alertes/golang-cve-2023-29404-2023-06-30)|Visit link for details.|30/06/2023|
- |[Arcserve - CVE-2023-26258](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-26258-2023-06-30)|Visit link for details.|30/06/2023|
- |[VMWare - CVE-2023-20893](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20893-2023-06-23)|Visit link for details.|30/06/2023|
- |[VMWare - CVE-2023-20892](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20892-2023-06-23)|Visit link for details.|30/06/2023|
- |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
- |[Google Chrome - CVE-2023-3421](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3421-2023-06-27)|Visit link for details.|30/06/2023|
- |[Google Chrome - CVE-2023-3422](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3422-2023-06-27)|Visit link for details.|30/06/2023|
- |[M-Files - CVE-2023-3405](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2023-3405-2023-06-29)|Visit link for details.|29/06/2023|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via rsa_FormatOneBlock()</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641)|An attacker can cause a fatal error of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640" class="noirorange"><b>Moodle</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639" class="noirorange"><b>Suricata</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639)|An attacker can use several vulnerabilities of Suricata...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638" class="noirorange"><b>Xonotic</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638)|An attacker can cause a fatal error of Xonotic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637" class="noirorange"><b>libjxl</b>: overload via dec_patch_dictionary.cc</a>](https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637)|An attacker can trigger an overload of libjxl, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636" class="noirorange"><b>Linux kernel</b>: denial of service via io_cqring_event_overflow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -122,37 +139,6 @@
  |[Rocket LMS cross-site scripting (CVE-2023-3477)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
  |[Classified Ads Script cross-site scripting (CVE-2023-3464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
  |[Classified Ads Script cross-site scripting (CVE-2023-3465)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 29, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via rsa_FormatOneBlock()</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641)|An attacker can cause a fatal error of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640" class="noirorange"><b>Moodle</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639" class="noirorange"><b>Suricata</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639)|An attacker can use several vulnerabilities of Suricata...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638" class="noirorange"><b>Xonotic</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638)|An attacker can cause a fatal error of Xonotic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637" class="noirorange"><b>libjxl</b>: overload via dec_patch_dictionary.cc</a>](https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637)|An attacker can trigger an overload of libjxl, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636" class="noirorange"><b>Linux kernel</b>: denial of service via io_cqring_event_overflow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -187,6 +173,20 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
+ |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
+ |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
  
 
 # CA-CCS
