@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/07/2023 11:22:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/07/2023 12:16:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
- |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
- |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
- |[CISA Releases SCuBA TRA and eVRF Guidance Documents](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-scuba-tra-and-evrf-guidance-documents)|Visit link for details.|Jun 27, 2023|
- |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +46,20 @@
  |[DSA-5438 asterisk - security update](https://www.linux.org/threads/dsa-5438-asterisk-security-update.45643/)|Visit link for details.|Jun 23, 2023|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0507/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 juin 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
+ |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
+ |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
+ |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
+ |[CISA Releases SCuBA TRA and eVRF Guidance Documents](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-scuba-tra-and-evrf-guidance-documents)|Visit link for details.|Jun 27, 2023|
+ |[VMware Releases Security Update for vCenter Server and Cloud Foundation](https://www.cisa.gov/news-events/alerts/2023/06/23/vmware-releases-security-update-vcenter-server-and-cloud-foundation)|Visit link for details.|Jun 23, 2023|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 23, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
  
 
 # CERT-SANTE
@@ -153,6 +137,22 @@
  |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
  |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
  |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0507/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 juin 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
+ |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
  
 
 # OBS-Vigilance
