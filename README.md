@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2023 03:18:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2023 04:19:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -108,6 +108,23 @@
  |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656" class="noirorange"><b>GNU Screen</b>: denial of service via signal</a>](https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656)|An attacker can cause a fatal error of GNU Screen, via signal, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFF</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654)|An attacker can trigger a buffer overflow of ImageMagick, via TIFF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dn_nsp_send()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dn_nsp_send(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651" class="noirorange"><b>SQLite</b>: denial of service via Missing Nonce</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651)|An attacker can cause a fatal error of SQLite, via Missing Nonce, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650" class="noirorange"><b>Linux kernel</b>: reuse after free via mctp_sendmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mctp_sendmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649" class="noirorange"><b>GStreamer gst-plugins-base</b>: buffer overflow via Subparse Subtitle Parser</a>](https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649)|An attacker can trigger a buffer overflow of GStreamer gst-plugins-base, via Subparse Subtitle Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648" class="noirorange"><b>yajl</b>: memory leak via yajl_tree_parse()</a>](https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648)|An attacker can create a memory leak of yajl, via yajl_tree_parse(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via rsa_FormatOneBlock()</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,37 +156,6 @@
  |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656" class="noirorange"><b>GNU Screen</b>: denial of service via signal</a>](https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656)|An attacker can cause a fatal error of GNU Screen, via signal, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFF</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654)|An attacker can trigger a buffer overflow of ImageMagick, via TIFF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dn_nsp_send()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dn_nsp_send(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651" class="noirorange"><b>SQLite</b>: denial of service via Missing Nonce</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651)|An attacker can cause a fatal error of SQLite, via Missing Nonce, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650" class="noirorange"><b>Linux kernel</b>: reuse after free via mctp_sendmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mctp_sendmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649" class="noirorange"><b>GStreamer gst-plugins-base</b>: buffer overflow via Subparse Subtitle Parser</a>](https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649)|An attacker can trigger a buffer overflow of GStreamer gst-plugins-base, via Subparse Subtitle Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648" class="noirorange"><b>yajl</b>: memory leak via yajl_tree_parse()</a>](https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648)|An attacker can create a memory leak of yajl, via yajl_tree_parse(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via rsa_FormatOneBlock()</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -204,4 +190,18 @@
  |[Red Hat security advisory (AV23-365)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-365)|Visit link for details|2023-06-28|
  |[Google Chrome security advisory (AV23-363)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-363)|Visit link for details|2023-06-27|
  |[[Control systems] Hitachi Energy security advisory (AV23-364)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-364)|Visit link for details|2023-06-27|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
+ |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
+ |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
  
