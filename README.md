@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2023 10:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2023 11:26:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5446 ghostscript - security update](https://www.linux.org/threads/dsa-5446-ghostscript-security-update.45788/)|Visit link for details.|Jul 4, 2023|
- |[USN-6199-1: PHP vulnerability](https://www.linux.org/threads/usn-6199-1-php-vulnerability.45780/)|Visit link for details.|Jul 3, 2023|
- |[USN-6198-1: GNU Screen vulnerability](https://www.linux.org/threads/usn-6198-1-gnu-screen-vulnerability.45775/)|Visit link for details.|Jul 3, 2023|
- |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
- |[USN-6196-1: ReportLab vulnerability](https://www.linux.org/threads/usn-6196-1-reportlab-vulnerability.45773/)|Visit link for details.|Jul 3, 2023|
- |[USN-6195-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6195-1-vim-vulnerabilities.45768/)|Visit link for details.|Jul 3, 2023|
- |[DSA-5445 gst-plugins-good1.0 - security update](https://www.linux.org/threads/dsa-5445-gst-plugins-good1-0-security-update.45760/)|Visit link for details.|Jul 2, 2023|
- |[DSA-5444 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5444-gst-plugins-bad1-0-security-update.45759/)|Visit link for details.|Jul 2, 2023|
- |[DSA-5443 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5443-gst-plugins-base1-0-security-update.45758/)|Visit link for details.|Jul 2, 2023|
- |[DSA-5442 flask - security update](https://www.linux.org/threads/dsa-5442-flask-security-update.45733/)|Visit link for details.|Jun 30, 2023|
- |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
- 
 
 # US-CERT
 
@@ -95,6 +78,23 @@
  |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5446 ghostscript - security update](https://www.linux.org/threads/dsa-5446-ghostscript-security-update.45788/)|Visit link for details.|Jul 4, 2023|
+ |[USN-6199-1: PHP vulnerability](https://www.linux.org/threads/usn-6199-1-php-vulnerability.45780/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6198-1: GNU Screen vulnerability](https://www.linux.org/threads/usn-6198-1-gnu-screen-vulnerability.45775/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6196-1: ReportLab vulnerability](https://www.linux.org/threads/usn-6196-1-reportlab-vulnerability.45773/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6195-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6195-1-vim-vulnerabilities.45768/)|Visit link for details.|Jul 3, 2023|
+ |[DSA-5445 gst-plugins-good1.0 - security update](https://www.linux.org/threads/dsa-5445-gst-plugins-good1-0-security-update.45760/)|Visit link for details.|Jul 2, 2023|
+ |[DSA-5444 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5444-gst-plugins-bad1-0-security-update.45759/)|Visit link for details.|Jul 2, 2023|
+ |[DSA-5443 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5443-gst-plugins-base1-0-security-update.45758/)|Visit link for details.|Jul 2, 2023|
+ |[DSA-5442 flask - security update](https://www.linux.org/threads/dsa-5442-flask-security-update.45733/)|Visit link for details.|Jun 30, 2023|
+ |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -106,6 +106,36 @@
  |[Gradle directory traversal (CVE-2023-35947)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
  |[Gradle directory traversal (CVE-2023-35946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
  |[XWiki Platform cross-site scripting (CVE-2023-36477)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system.|Release Date: 3 Jul 2023 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 3 Jul 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
+ |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
+ |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
+ |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
+ |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
+ |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
  
 
 # OBS-Vigilance
@@ -123,22 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via rsa_FormatOneBlock()</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system.|Release Date: 3 Jul 2023 |
- |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 3 Jul 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20230626)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 26 Jun 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230623)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 23 Jun 2023 |
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
  |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
  |[42532306/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4253230623-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire ou d’accéder à des données...|23 juin 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- |[Schneider Electric IGSS DashFiles Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-889/)|Visit link for details|2023-06-16|
- |[Adobe Substance 3D Designer SBS File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-888/)|Visit link for details|2023-06-16|
- |[Microsoft Windows PGM Invalid Transmission Group Size Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-887/)|Visit link for details|2023-06-16|
  
 
 # CA-CCS
