@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2023 15:21:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2023 16:16:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,23 @@
  |[USN-6194-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6194-1-linux-kernel-oem-vulnerabilities.45730/)|Visit link for details.|Jun 29, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
+ |[Gitlab - CVE-2023-3424](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-3424-2023-07-03)|Visit link for details.|03/07/2023|
+ |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/07/2023|
+ |[Apache Airflow - CVE-2023-22886](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-22886-2023-07-03)|Visit link for details.|03/07/2023|
+ |[Apache Airflow - CVE-2023-34395](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-34395-2023-07-03)|Visit link for details.|03/07/2023|
+ |[Ucopia - CVE-2022-44720](https://www.cyberveille-sante.gouv.fr/alertes/ucopia-cve-2022-44720-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Medtronic - CVE-2023-31222](https://www.cyberveille-sante.gouv.fr/alertes/medtronic-cve-2023-31222-2023-06-30)|Visit link for details.|30/06/2023|
+ |[WordPress - CVE-2023-3460](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3460-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Golang - CVE-2023-29404](https://www.cyberveille-sante.gouv.fr/alertes/golang-cve-2023-29404-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Arcserve - CVE-2023-26258](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-26258-2023-06-30)|Visit link for details.|30/06/2023|
+ |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -78,21 +95,34 @@
  |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
- |[Gitlab - CVE-2023-3424](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-3424-2023-07-03)|Visit link for details.|03/07/2023|
- |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/07/2023|
- |[Apache Airflow - CVE-2023-22886](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-22886-2023-07-03)|Visit link for details.|03/07/2023|
- |[Apache Airflow - CVE-2023-34395](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-34395-2023-07-03)|Visit link for details.|03/07/2023|
- |[Ucopia - CVE-2022-44720](https://www.cyberveille-sante.gouv.fr/alertes/ucopia-cve-2022-44720-2023-06-30)|Visit link for details.|30/06/2023|
- |[Medtronic - CVE-2023-31222](https://www.cyberveille-sante.gouv.fr/alertes/medtronic-cve-2023-31222-2023-06-30)|Visit link for details.|30/06/2023|
- |[WordPress - CVE-2023-3460](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-3460-2023-06-30)|Visit link for details.|30/06/2023|
- |[Golang - CVE-2023-29404](https://www.cyberveille-sante.gouv.fr/alertes/golang-cve-2023-29404-2023-06-30)|Visit link for details.|30/06/2023|
- |[Arcserve - CVE-2023-26258](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-26258-2023-06-30)|Visit link for details.|30/06/2023|
- |[Google Chrome - CVE-2023-3420](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3420-2023-06-27)|Visit link for details.|30/06/2023|
+ |[Django EmailValidator and URLValidator denial of service (CVE-2023-36053)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2023|
+ |[Apache Airflow Apache Hive Provider code execution (CVE-2023-35797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2023|
+ |[Perimeter81 privilege escalation (CVE-2023-33298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[pipreqs file upload (CVE-2023-31543)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[OpenTSDB code execution (CVE-2023-36812)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[py-pdf pypdf denial of service (CVE-2023-36807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ |[Gradle directory traversal (CVE-2023-35947)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-via-packaging-41659" class="noirorange"><b>Apache Ivy</b>: directory traversal via packaging</a>](https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-via-packaging-41659)|An attacker can traverse directories of Apache Ivy, via packaging, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-41658" class="noirorange"><b>Apache Ivy</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-41658)|An attacker can traverse directories of Apache Ivy, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-41657" class="noirorange"><b>Ghostscript</b>: code execution</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-41657)|An attacker can use a vulnerability of Ghostscript, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656" class="noirorange"><b>GNU Screen</b>: denial of service via signal</a>](https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656)|An attacker can cause a fatal error of GNU Screen, via signal, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFF</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654)|An attacker can trigger a buffer overflow of ImageMagick, via TIFF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dn_nsp_send()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dn_nsp_send(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651" class="noirorange"><b>SQLite</b>: denial of service via Missing Nonce</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651)|An attacker can cause a fatal error of SQLite, via Missing Nonce, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650" class="noirorange"><b>Linux kernel</b>: reuse after free via mctp_sendmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mctp_sendmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649" class="noirorange"><b>GStreamer gst-plugins-base</b>: buffer overflow via Subparse Subtitle Parser</a>](https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649)|An attacker can trigger a buffer overflow of GStreamer gst-plugins-base, via Subparse Subtitle Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648" class="noirorange"><b>yajl</b>: memory leak via yajl_tree_parse()</a>](https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648)|An attacker can create a memory leak of yajl, via yajl_tree_parse(), in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -126,36 +156,6 @@
  |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-via-packaging-41659" class="noirorange"><b>Apache Ivy</b>: directory traversal via packaging</a>](https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-via-packaging-41659)|An attacker can traverse directories of Apache Ivy, via packaging, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-41658" class="noirorange"><b>Apache Ivy</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Apache-Ivy-directory-traversal-41658)|An attacker can traverse directories of Apache Ivy, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-41657" class="noirorange"><b>Ghostscript</b>: code execution</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-41657)|An attacker can use a vulnerability of Ghostscript, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656" class="noirorange"><b>GNU Screen</b>: denial of service via signal</a>](https://vigilance.fr/vulnerability/GNU-Screen-denial-of-service-via-signal-41656)|An attacker can cause a fatal error of GNU Screen, via signal, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFF</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-41654)|An attacker can trigger a buffer overflow of ImageMagick, via TIFF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dn_nsp_send()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dn_nsp_send(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651" class="noirorange"><b>SQLite</b>: denial of service via Missing Nonce</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651)|An attacker can cause a fatal error of SQLite, via Missing Nonce, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650" class="noirorange"><b>Linux kernel</b>: reuse after free via mctp_sendmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mctp_sendmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649" class="noirorange"><b>GStreamer gst-plugins-base</b>: buffer overflow via Subparse Subtitle Parser</a>](https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649)|An attacker can trigger a buffer overflow of GStreamer gst-plugins-base, via Subparse Subtitle Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648" class="noirorange"><b>yajl</b>: memory leak via yajl_tree_parse()</a>](https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648)|An attacker can create a memory leak of yajl, via yajl_tree_parse(), in order to trigger a denial of service...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Django EmailValidator and URLValidator denial of service (CVE-2023-36053)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2023|
- |[Apache Airflow Apache Hive Provider code execution (CVE-2023-35797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2023|
- |[Perimeter81 privilege escalation (CVE-2023-33298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
- |[pipreqs file upload (CVE-2023-31543)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
- |[OpenTSDB code execution (CVE-2023-36812)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
- |[py-pdf pypdf denial of service (CVE-2023-36807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
- |[Gradle directory traversal (CVE-2023-35947)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2023|
  
 
 # ZERODAYINITIATIVE
