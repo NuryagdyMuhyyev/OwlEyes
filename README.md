@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2023 02:17:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2023 03:18:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -44,19 +44,6 @@
  |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
  |[USN-6196-1: ReportLab vulnerability](https://www.linux.org/threads/usn-6196-1-reportlab-vulnerability.45773/)|Visit link for details.|Jul 3, 2023|
  |[USN-6195-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6195-1-vim-vulnerabilities.45768/)|Visit link for details.|Jul 3, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Shopping Website SQL injection (CVE-2023-3502)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox code execution (CVE-2023-37209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox information disclosure (CVE-2023-3482)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
  
 
 # US-CERT
@@ -108,23 +95,6 @@
  |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671" class="noirorange"><b>WordPress CF7 Google Sheets Connector</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671)|An attacker can trigger a Cross Site Scripting of WordPress CF7 Google Sheets Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670" class="noirorange"><b>WordPress Ultimate Member</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670)|An attacker can bypass restrictions of WordPress Ultimate Member, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668" class="noirorange"><b>ImageMagick</b>: denial of service</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668)|An attacker can cause a fatal error of ImageMagick, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Teampass-Cross-Site-Scripting-41667" class="noirorange"><b>Teampass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Teampass-Cross-Site-Scripting-41667)|An attacker can trigger a Cross Site Scripting of Teampass, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665" class="noirorange"><b>Apache ActiveMQ</b>: external XML entity injection via XPath</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665)|An attacker can transmit malicious XML data to Apache ActiveMQ, via XPath, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -158,6 +128,23 @@
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671" class="noirorange"><b>WordPress CF7 Google Sheets Connector</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671)|An attacker can trigger a Cross Site Scripting of WordPress CF7 Google Sheets Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670" class="noirorange"><b>WordPress Ultimate Member</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670)|An attacker can bypass restrictions of WordPress Ultimate Member, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668" class="noirorange"><b>ImageMagick</b>: denial of service</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668)|An attacker can cause a fatal error of ImageMagick, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Teampass-Cross-Site-Scripting-41667" class="noirorange"><b>Teampass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Teampass-Cross-Site-Scripting-41667)|An attacker can trigger a Cross Site Scripting of Teampass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665" class="noirorange"><b>Apache ActiveMQ</b>: external XML entity injection via XPath</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665)|An attacker can transmit malicious XML data to Apache ActiveMQ, via XPath, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,6 +160,19 @@
  |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
  |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
  |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Shopping Website SQL injection (CVE-2023-3502)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox spoofing (CVE-2023-37210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox code execution (CVE-2023-37209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox spoofing (CVE-2023-37205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox spoofing (CVE-2023-37204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox information disclosure (CVE-2023-3482)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
+ |[Mozilla FireFox spoofing (CVE-2023-37207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
  
 
 # ZERODAYINITIATIVE
