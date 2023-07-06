@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2023 08:03:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2023 09:23:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
  |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
  |[USN-6203-1: Django vulnerability](https://www.linux.org/threads/usn-6203-1-django-vulnerability.45816/)|Visit link for details.|Jul 5, 2023|
  |[USN-6202-1: containerd vulnerabilities](https://www.linux.org/threads/usn-6202-1-containerd-vulnerabilities.45814/)|Visit link for details.|Jul 5, 2023|
@@ -43,24 +44,6 @@
  |[USN-6198-1: GNU Screen vulnerability](https://www.linux.org/threads/usn-6198-1-gnu-screen-vulnerability.45775/)|Visit link for details.|Jul 3, 2023|
  |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
  |[USN-6196-1: ReportLab vulnerability](https://www.linux.org/threads/usn-6196-1-reportlab-vulnerability.45773/)|Visit link for details.|Jul 3, 2023|
- |[USN-6195-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6195-1-vim-vulnerabilities.45768/)|Visit link for details.|Jul 3, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
- |[Qualcomm - CVE-2023-22667](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-22667-2023-07-05)|Visit link for details.|05/07/2023|
- |[Qualcomm - CVE-2023-21672](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-21672-2023-07-05)|Visit link for details.|05/07/2023|
- |[Nvidia - CVE-2023-25515](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2023-25515-2023-07-05)|Visit link for details.|05/07/2023|
- |[Apache Airflow - CVE-2023-35797](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-35797-2023-07-05)|Visit link for details.|05/07/2023|
- |[Android - CVE-2023-21066](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21066-2023-07-04)|Visit link for details.|04/07/2023|
- |[Apple - CVE-2022-22630](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-22630-2023-07-04)|Visit link for details.|04/07/2023|
- |[Apple - CVE-2023-32414](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32414-2023-07-04)|Visit link for details.|04/07/2023|
- |[Microsoft - CVE-2022-29146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-29146-2023-07-04)|Visit link for details.|04/07/2023|
- |[NETGEAR - CVE-2022-35722](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2022-35722-2023-07-04)|Visit link for details.|04/07/2023|
- |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
  
 
 # US-CERT
@@ -95,6 +78,36 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Qualcomm - CVE-2023-22667](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-22667-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Qualcomm - CVE-2023-21672](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-21672-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Nvidia - CVE-2023-25515](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2023-25515-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Apache Airflow - CVE-2023-35797](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-35797-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Android - CVE-2023-21066](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21066-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Apple - CVE-2022-22630](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-22630-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Apple - CVE-2023-32414](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32414-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Microsoft - CVE-2022-29146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-29146-2023-07-04)|Visit link for details.|04/07/2023|
+ |[NETGEAR - CVE-2022-35722](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2022-35722-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco BroadWorks privilege escalation (CVE-2023-20210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Duo Authentication Proxy information disclosure (CVE-2023-20207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco ACI Multi-Site CloudSec information disclosure (CVE-2023-20185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Webex Meetings cross-site scripting (CVE-2023-20133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[GitLab security bypass (CVE-2023-3484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[TP-Link Tapo C210 security bypass (CVE-2023-35717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[D-Link DAP-2622 buffer overflow (CVE-2023-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,19 +122,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230602)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. [Updated on 2023-06-06] Updated Impact, System / ...| Release Date: 2 Jun 2023 |
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DAP-2622 buffer overflow (CVE-2023-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Progress Software MOVEit Transfer SQL injection (CVE-2023-36934)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Shopping Website SQL injection (CVE-2023-3502)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox code execution (CVE-2023-37209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
- |[Mozilla FireFox spoofing (CVE-2023-37204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2023|
  
 
 # EU-CERT
@@ -141,20 +141,6 @@
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
- |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
- |[TP-Link Tapo C210 Password Recovery Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-895/)|Visit link for details|2023-07-05|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -172,21 +158,18 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665" class="noirorange"><b>Apache ActiveMQ</b>: external XML entity injection via XPath</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-external-XML-entity-injection-via-XPath-41665)|An attacker can transmit malicious XML data to Apache ActiveMQ, via XPath, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
- |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
- |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
- |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
- |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
- |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
- |[42592806/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4259280623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger troisvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|28 juin 2023|
- |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
- |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
- |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
- |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
+ |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
+ |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
+ |[TP-Link Tapo C210 Password Recovery Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-895/)|Visit link for details|2023-07-05|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
+ |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
+ |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
  
 
 # CA-CCS
@@ -204,4 +187,21 @@
  |[[Control systems] Ovarro security advisory (AV23-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ovarro-security-advisory-av23-369)|Visit link for details|2023-06-30|
  |[Trellix security advisory (AV23-368)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-368)|Visit link for details|2023-06-29|
  |[GitLab security advisory (AV23-367)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-367)|Visit link for details|2023-06-29|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
+ |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
+ |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
+ |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
+ |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
+ |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
+ |[42592806/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4259280623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger troisvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|28 juin 2023|
+ |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
+ |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
+ |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
+ |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
  
