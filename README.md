@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2023 15:21:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2023 16:16:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Qualcomm - CVE-2023-22667](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-22667-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Qualcomm - CVE-2023-21672](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-21672-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Nvidia - CVE-2023-25515](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2023-25515-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Apache Airflow - CVE-2023-35797](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-35797-2023-07-05)|Visit link for details.|05/07/2023|
+ |[Android - CVE-2023-21066](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21066-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Apple - CVE-2022-22630](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-22630-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Apple - CVE-2023-32414](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32414-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Microsoft - CVE-2022-29146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-29146-2023-07-04)|Visit link for details.|04/07/2023|
+ |[NETGEAR - CVE-2022-35722](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2022-35722-2023-07-04)|Visit link for details.|04/07/2023|
+ |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +95,21 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
- |[Qualcomm - CVE-2023-22667](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-22667-2023-07-05)|Visit link for details.|05/07/2023|
- |[Qualcomm - CVE-2023-21672](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-21672-2023-07-05)|Visit link for details.|05/07/2023|
- |[Nvidia - CVE-2023-25515](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2023-25515-2023-07-05)|Visit link for details.|05/07/2023|
- |[Apache Airflow - CVE-2023-35797](https://www.cyberveille-sante.gouv.fr/alertes/apache-airflow-cve-2023-35797-2023-07-05)|Visit link for details.|05/07/2023|
- |[Android - CVE-2023-21066](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21066-2023-07-04)|Visit link for details.|04/07/2023|
- |[Apple - CVE-2022-22630](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-22630-2023-07-04)|Visit link for details.|04/07/2023|
- |[Apple - CVE-2023-32414](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32414-2023-07-04)|Visit link for details.|04/07/2023|
- |[Microsoft - CVE-2022-29146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-29146-2023-07-04)|Visit link for details.|04/07/2023|
- |[NETGEAR - CVE-2022-35722](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2022-35722-2023-07-04)|Visit link for details.|04/07/2023|
- |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
+ |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_chain_lookup_byid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671" class="noirorange"><b>WordPress CF7 Google Sheets Connector</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671)|An attacker can trigger a Cross Site Scripting of WordPress CF7 Google Sheets Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # EU-CERT
@@ -128,33 +145,6 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20230626)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 26 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco BroadWorks privilege escalation (CVE-2023-20210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco Duo Authentication Proxy information disclosure (CVE-2023-20207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco ACI Multi-Site CloudSec information disclosure (CVE-2023-20185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco Webex Meetings cross-site scripting (CVE-2023-20133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[GitLab security bypass (CVE-2023-3484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[TP-Link Tapo C210 security bypass (CVE-2023-35717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[D-Link DAP-2622 buffer overflow (CVE-2023-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
- |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
- |[TP-Link Tapo C210 Password Recovery Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-895/)|Visit link for details|2023-07-05|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -172,21 +162,17 @@
  |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_chain_lookup_byid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671" class="noirorange"><b>WordPress CF7 Google Sheets Connector</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671)|An attacker can trigger a Cross Site Scripting of WordPress CF7 Google Sheets Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Cisco BroadWorks privilege escalation (CVE-2023-20210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Duo Authentication Proxy information disclosure (CVE-2023-20207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco ACI Multi-Site CloudSec information disclosure (CVE-2023-20185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Webex Meetings cross-site scripting (CVE-2023-20133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[GitLab security bypass (CVE-2023-3484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[TP-Link Tapo C210 security bypass (CVE-2023-35717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[D-Link DAP-2622 buffer overflow (CVE-2023-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
  
 
 # CA-CCS
@@ -204,4 +190,10 @@
  |[[Control systems] Ovarro security advisory (AV23-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ovarro-security-advisory-av23-369)|Visit link for details|2023-06-30|
  |[Trellix security advisory (AV23-368)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-368)|Visit link for details|2023-06-29|
  |[GitLab security advisory (AV23-367)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-367)|Visit link for details|2023-06-29|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
