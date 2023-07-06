@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2023 19:18:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2023 20:21:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5447 mediawiki - security update](https://www.linux.org/threads/dsa-5447-mediawiki-security-update.45832/)|Visit link for details.|Jul 6, 2023|
+ |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
+ |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
+ |[USN-6203-1: Django vulnerability](https://www.linux.org/threads/usn-6203-1-django-vulnerability.45816/)|Visit link for details.|Jul 5, 2023|
+ |[USN-6202-1: containerd vulnerabilities](https://www.linux.org/threads/usn-6202-1-containerd-vulnerabilities.45814/)|Visit link for details.|Jul 5, 2023|
+ |[USN-6201-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6201-1-firefox-vulnerabilities.45813/)|Visit link for details.|Jul 5, 2023|
+ |[USN-6200-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6200-1-imagemagick-vulnerabilities.45798/)|Visit link for details.|Jul 4, 2023|
+ |[DSA-5446 ghostscript - security update](https://www.linux.org/threads/dsa-5446-ghostscript-security-update.45788/)|Visit link for details.|Jul 4, 2023|
+ |[USN-6199-1: PHP vulnerability](https://www.linux.org/threads/usn-6199-1-php-vulnerability.45780/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6198-1: GNU Screen vulnerability](https://www.linux.org/threads/usn-6198-1-gnu-screen-vulnerability.45775/)|Visit link for details.|Jul 3, 2023|
+ |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,10 +62,24 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/06/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Jun 22, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel privilege escalation (CVE-2023-3269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-31248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-35001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco BroadWorks privilege escalation (CVE-2023-20210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Duo Authentication Proxy information disclosure (CVE-2023-20207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco ACI Multi-Site CloudSec information disclosure (CVE-2023-20185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Cisco Webex Meetings cross-site scripting (CVE-2023-20133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla - CVE-2023-37201](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37201-2023-07-06)|Visit link for details.|06/07/2023|
  |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
  |[Qualcomm - CVE-2023-22667](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-22667-2023-07-05)|Visit link for details.|05/07/2023|
  |[Qualcomm - CVE-2023-21672](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2023-21672-2023-07-05)|Visit link for details.|05/07/2023|
@@ -59,24 +90,6 @@
  |[Apple - CVE-2023-32414](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-32414-2023-07-04)|Visit link for details.|04/07/2023|
  |[Microsoft - CVE-2022-29146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2022-29146-2023-07-04)|Visit link for details.|04/07/2023|
  |[NETGEAR - CVE-2022-35722](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2022-35722-2023-07-04)|Visit link for details.|04/07/2023|
- |[Netgear – CVE-2023-35721](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-35721-2023-07-03)|Visit link for details.|03/07/2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5447 mediawiki - security update](https://www.linux.org/threads/dsa-5447-mediawiki-security-update.45832/)|Visit link for details.|Jul 6, 2023|
- |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
- |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
- |[USN-6203-1: Django vulnerability](https://www.linux.org/threads/usn-6203-1-django-vulnerability.45816/)|Visit link for details.|Jul 5, 2023|
- |[USN-6202-1: containerd vulnerabilities](https://www.linux.org/threads/usn-6202-1-containerd-vulnerabilities.45814/)|Visit link for details.|Jul 5, 2023|
- |[USN-6201-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6201-1-firefox-vulnerabilities.45813/)|Visit link for details.|Jul 5, 2023|
- |[USN-6200-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6200-1-imagemagick-vulnerabilities.45798/)|Visit link for details.|Jul 4, 2023|
- |[DSA-5446 ghostscript - security update](https://www.linux.org/threads/dsa-5446-ghostscript-security-update.45788/)|Visit link for details.|Jul 4, 2023|
- |[USN-6199-1: PHP vulnerability](https://www.linux.org/threads/usn-6199-1-php-vulnerability.45780/)|Visit link for details.|Jul 3, 2023|
- |[USN-6198-1: GNU Screen vulnerability](https://www.linux.org/threads/usn-6198-1-gnu-screen-vulnerability.45775/)|Visit link for details.|Jul 3, 2023|
- |[USN-6197-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6197-1-openldap-vulnerability.45774/)|Visit link for details.|Jul 3, 2023|
  
 
 # HK-CERT
@@ -111,17 +124,18 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel privilege escalation (CVE-2023-3269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-31248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-35001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco BroadWorks privilege escalation (CVE-2023-20210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco Duo Authentication Proxy information disclosure (CVE-2023-20207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco ACI Multi-Site CloudSec information disclosure (CVE-2023-20185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
- |[Cisco Webex Meetings cross-site scripting (CVE-2023-20133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2023|
+ |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
+ |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
+ |[TP-Link Tapo C210 Password Recovery Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-895/)|Visit link for details|2023-07-05|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
+ |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
+ |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
+ |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
+ |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
  
 
 # OBS-Vigilance
@@ -158,20 +172,6 @@
  |[2023-034: Multiple Vulnerabilities in Splunk Enterprise](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-034.pdf)|On June 6, 2023, Splunk issued security updates to fix several vulnerabilities, 5 of which are being classified as high. These vulnerabilities could lead to privilege escalation, path traversal, local privilege escalation, denial of service or HTTP response splitting.|Tuesday, June 06, 2023 05:36:47 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
- |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
- |[TP-Link Tapo C210 Password Recovery Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-895/)|Visit link for details|2023-07-05|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-894/)|Visit link for details|2023-06-30|
- |[NETGEAR Multiple Routers curl_post Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-893/)|Visit link for details|2023-06-30|
- |[D-Link DIR-X3260 prog.cgi SOAPAction Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-892/)|Visit link for details|2023-06-30|
- |[(0Day) ManageEngine ADSelfService Plus GINA Client Insufficient Verification of Data Authenticity Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-891/)|Visit link for details|2023-06-21|
- |[(Pwn2Own) Microsoft Windows UMPDDrvEnablePDEV Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-890/)|Visit link for details|2023-06-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,6 +193,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Android security advisory – July 2023 Monthly Rollup (AV23-379)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2023-monthly-rollup-av23-379)|Visit link for details|2023-07-06|
+ |[GitLab security advisory (AV23-378)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-378)|Visit link for details|2023-07-06|
  |[Mozilla security advisory (AV23-377)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-377)|Visit link for details|2023-07-04|
  |[Ubuntu security advisory (AV23-376)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-376)|Visit link for details|2023-07-04|
  |[IBM security advisory (AV23-375)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-375)|Visit link for details|2023-07-04|
@@ -202,6 +204,4 @@
  |[[Control systems] Mitsubishi Electric security advisory (AV23-371)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-371)|Visit link for details|2023-06-30|
  |[[Control systems] Schneider Electric security advisory (AV23-370)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-370)|Visit link for details|2023-06-30|
  |[[Control systems] Ovarro security advisory (AV23-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ovarro-security-advisory-av23-369)|Visit link for details|2023-06-30|
- |[Trellix security advisory (AV23-368)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-368)|Visit link for details|2023-06-29|
- |[GitLab security advisory (AV23-367)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-367)|Visit link for details|2023-06-29|
  
