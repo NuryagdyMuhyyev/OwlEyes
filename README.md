@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2023 01:19:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2023 02:16:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6212-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6212-1-linux-kernel-intel-iotg-vulnerabilities.45852/)|Visit link for details.|Jul 7, 2023|
+ |[USN-6211-1: Linux kernel (Azure) regression](https://www.linux.org/threads/usn-6211-1-linux-kernel-azure-regression.45851/)|Visit link for details.|Jul 7, 2023|
  |[USN-6208-1: Gorilla WebSocket vulnerability](https://www.linux.org/threads/usn-6208-1-gorilla-websocket-vulnerability.45840/)|Visit link for details.|Jul 7, 2023|
  |[USN-6207-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6207-1-linux-kernel-intel-iotg-vulnerabilities.45838/)|Visit link for details.|Jul 6, 2023|
  |[USN-6206-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6206-1-linux-kernel-oem-vulnerabilities.45837/)|Visit link for details.|Jul 6, 2023|
@@ -42,24 +44,6 @@
  |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
  |[USN-6203-1: Django vulnerability](https://www.linux.org/threads/usn-6203-1-django-vulnerability.45816/)|Visit link for details.|Jul 5, 2023|
  |[USN-6202-1: containerd vulnerabilities](https://www.linux.org/threads/usn-6202-1-containerd-vulnerabilities.45814/)|Visit link for details.|Jul 5, 2023|
- |[USN-6201-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6201-1-firefox-vulnerabilities.45813/)|Visit link for details.|Jul 5, 2023|
- |[USN-6200-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6200-1-imagemagick-vulnerabilities.45798/)|Visit link for details.|Jul 4, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
- |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  
 
 # US-CERT
@@ -76,6 +60,35 @@
  |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
  |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
  |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Milesight UR32L directory traversal (CVE-2023-23547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L ys_thirdparty user_delete command execution (CVE-2023-23550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L libzebra.so change_hostname command execution (CVE-2023-22659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[VMware SD-WAN (Edge) information disclosure (CVE-2023-20899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L eventcore denial of service (CVE-2023-23571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L libzebra.so.0.0.0 security_decrypt_password buffer overflow (CVE-2023-24018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L vtysh_ubus toolsh_excute.constprop.1 command execution (CVE-2023-24520)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
+ |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  
 
 # CERT-SANTE
@@ -111,17 +124,18 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Milesight UR32L directory traversal (CVE-2023-23547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L ys_thirdparty user_delete command execution (CVE-2023-23550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L libzebra.so change_hostname command execution (CVE-2023-22659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[VMware SD-WAN (Edge) information disclosure (CVE-2023-20899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L eventcore denial of service (CVE-2023-23571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L libzebra.so.0.0.0 security_decrypt_password buffer overflow (CVE-2023-24018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L vtysh_ubus toolsh_excute.constprop.1 command execution (CVE-2023-24520)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-899/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
+ |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
+ |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
  
 
 # OBS-Vigilance
@@ -158,23 +172,6 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[MOVEit Transfer security advisory (AV23-382)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-382)|Visit link for details|2023-07-07|
- |[[Control systems] ABUS security advisory (AV23-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abus-security-advisory-av23-381)|Visit link for details|2023-07-06|
- |[[Control systems] PiiGAB security advisory (AV23-380)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-piigab-security-advisory-av23-380)|Visit link for details|2023-07-06|
- |[Vulnerability impacting FortiGate/FortiOS (CVE-2023-27997) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-fortigatefortios-cve-2023-27997)|Visit link for details|2023-07-06|
- |[Android security advisory – July 2023 Monthly Rollup (AV23-379)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2023-monthly-rollup-av23-379)|Visit link for details|2023-07-06|
- |[Increased Truebot activity infects U.S. and Canada based networks - Joint Cybersecurity Advisory](https://www.cyber.gc.ca/en/alerts-advisories/increased-truebot-activity-infects-us-and-canada-based-networks-scale-joint-cybersecurity-advisory)|Visit link for details|2023-07-06|
- |[GitLab security advisory (AV23-378)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-378)|Visit link for details|2023-07-06|
- |[Mozilla security advisory (AV23-377)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-377)|Visit link for details|2023-07-04|
- |[Ubuntu security advisory (AV23-376)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-376)|Visit link for details|2023-07-04|
- |[IBM security advisory (AV23-375)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-375)|Visit link for details|2023-07-04|
- |[Dell security advisory (AV23-374)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-374)|Visit link for details|2023-07-04|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -192,8 +189,19 @@
  |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[MOVEit Transfer security advisory (AV23-382)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-382)|Visit link for details|2023-07-07|
+ |[[Control systems] ABUS security advisory (AV23-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abus-security-advisory-av23-381)|Visit link for details|2023-07-06|
+ |[[Control systems] PiiGAB security advisory (AV23-380)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-piigab-security-advisory-av23-380)|Visit link for details|2023-07-06|
+ |[Vulnerability impacting FortiGate/FortiOS (CVE-2023-27997) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-fortigatefortios-cve-2023-27997)|Visit link for details|2023-07-06|
+ |[Android security advisory – July 2023 Monthly Rollup (AV23-379)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2023-monthly-rollup-av23-379)|Visit link for details|2023-07-06|
+ |[Increased Truebot activity infects U.S. and Canada based networks - Joint Cybersecurity Advisory](https://www.cyber.gc.ca/en/alerts-advisories/increased-truebot-activity-infects-us-and-canada-based-networks-scale-joint-cybersecurity-advisory)|Visit link for details|2023-07-06|
+ |[GitLab security advisory (AV23-378)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-378)|Visit link for details|2023-07-06|
+ |[Mozilla security advisory (AV23-377)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-377)|Visit link for details|2023-07-04|
+ |[Ubuntu security advisory (AV23-376)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-376)|Visit link for details|2023-07-04|
+ |[IBM security advisory (AV23-375)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-375)|Visit link for details|2023-07-04|
+ |[Dell security advisory (AV23-374)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-374)|Visit link for details|2023-07-04|
  
