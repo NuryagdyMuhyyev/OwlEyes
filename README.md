@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/07/2023 18:25:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/07/2023 19:17:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6200-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6200-1-imagemagick-vulnerabilities.45798/)|Visit link for details.|Jul 4, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
- |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
- |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
- |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
- |[CISA Releases SCuBA TRA and eVRF Guidance Documents](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-scuba-tra-and-evrf-guidance-documents)|Visit link for details.|Jun 27, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,34 +79,21 @@
  |[Android - CVE-2023-21066](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21066-2023-07-04)|Visit link for details.|04/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Android Framework code execution (CVE-2023-21262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Google Android Framework code execution (CVE-2023-21257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Google Android Framework code execution (CVE-2023-21251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Google Android Framework code execution (CVE-2023-21245)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Google Android Framework code execution (CVE-2023-21145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L firewall_handler_set buffer overflow (CVE-2023-25082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- |[Milesight UR32L handle_interface_acl buffer overflow (CVE-2023-25092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42680707 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/42680707-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées du noyau Linux. Un attaquant pourrait exploiter « StackRot (CVE-2023-3269) » afin de réussir une élévation de privilèges et de prendre le contrôle du système...|07 juillet 2023|
- |[42680707/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4268070723-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Trois de ces vulnérabilités, identifiées par«CVE-2023-26083», « CVE-2021-29256 » et « CVE-2023-2136 » sont activement...|07 juillet 2023|
- |[42670607/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4267060723-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|06 juillet 2023|
- |[42660607/23- Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4266060723-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’accéderà des informations confidentielles ou d’...|06 juillet 2023|
- |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
- |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
- |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
- |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
- |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
- |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
- |[42592806/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4259280623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger troisvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|28 juin 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-insecure-directory-permissions-41692" class="noirorange"><b>Nullsoft Scriptable Install System</b>: insecure directory permissions</a>](https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-insecure-directory-permissions-41692)|An attacker can corrupt the uninstaller created by Nullsoft Scriptable Install System due to incorrect permissions definitions...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via read_descriptors()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691)|An attacker can force a read at an invalid memory address of the Linux kernel, via read_descriptors(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690" class="noirorange"><b>Linux kernel</b>: reuse after free via fs/udf/super.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fs/udf/super.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688" class="noirorange"><b>redcloth</b>: denial of service via sanitize_html()</a>](https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688)|An attacker can cause a fatal error of redcloth, via sanitize_html(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_chain_lookup_byid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
  
 
 # HK-CERT
@@ -139,6 +110,22 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
+ |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
+ |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
+ |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/06/27/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 27, 2023|
  
 
 # EU-CERT
@@ -158,6 +145,36 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42690707/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4269070723-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|07 juillet 2023|
+ |[42680707 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/42680707-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées du noyau Linux. Un attaquant pourrait exploiter « StackRot (CVE-2023-3269) » afin de réussir une élévation de privilèges et de prendre le contrôle du système...|07 juillet 2023|
+ |[42680707/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4268070723-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Trois de ces vulnérabilités, identifiées par«CVE-2023-26083», « CVE-2021-29256 » et « CVE-2023-2136 » sont activement...|07 juillet 2023|
+ |[42670607/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4267060723-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|06 juillet 2023|
+ |[42660607/23- Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4266060723-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’accéderà des informations confidentielles ou d’...|06 juillet 2023|
+ |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
+ |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
+ |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
+ |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
+ |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
+ |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Android Framework code execution (CVE-2023-21262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Google Android Framework code execution (CVE-2023-21257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Google Android Framework code execution (CVE-2023-21251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Google Android Framework code execution (CVE-2023-21245)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Google Android Framework code execution (CVE-2023-21145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L firewall_handler_set buffer overflow (CVE-2023-25082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L handle_interface_acl buffer overflow (CVE-2023-25092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
  |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
  |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via read_descriptors()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691)|An attacker can force a read at an invalid memory address of the Linux kernel, via read_descriptors(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690" class="noirorange"><b>Linux kernel</b>: reuse after free via fs/udf/super.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fs/udf/super.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688" class="noirorange"><b>redcloth</b>: denial of service via sanitize_html()</a>](https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688)|An attacker can cause a fatal error of redcloth, via sanitize_html(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_chain_lookup_byid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
  
 
 # CA-CCS
