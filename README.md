@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/07/2023 01:18:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/07/2023 02:15:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
+ |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
+ |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
+ |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,26 +62,20 @@
  |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
- |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
- |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 29, 2023|
- |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
+ |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  
 
 # CERT-SANTE
@@ -85,20 +95,17 @@
  |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
- |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
+ |[IBM Db2 denial of service (CVE-2023-30449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 denial of service (CVE-2023-30448)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 denial of service (CVE-2023-30447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 denial of service (CVE-2023-30446)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 denial of service (CVE-2023-30445)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 (CVE-2023-30443)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
+ |[IBM Db2 code execution (CVE-2023-27869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
  
 
 # HK-CERT
