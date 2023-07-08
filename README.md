@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2023 08:00:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2023 08:32:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -128,23 +128,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
- |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
- |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
- |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
- |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
- |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
- |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
- |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
- |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -156,20 +139,6 @@
  |[ServiceNow cross-site scripting (CVE-2023-1298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
  |[Milesight UR32L directory traversal (CVE-2023-23547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
  |[Milesight UR32L ys_thirdparty user_delete command execution (CVE-2023-23550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-899/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
- |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
- |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
  
 
 # MA-CERT
@@ -187,6 +156,37 @@
  |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
  |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
  |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
+ |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
+ |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
+ |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
+ |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
+ |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
+ |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-899/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
+ |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
+ |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
  
 
 # CA-CCS
