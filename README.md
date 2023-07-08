@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2023 09:22:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2023 10:17:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6210-1: Doorkeeper vulnerability](https://www.linux.org/threads/usn-6210-1-doorkeeper-vulnerability.45855/)|Visit link for details.|Jul 8, 2023|
- |[DSA-5449 webkit2gtk - security update](https://www.linux.org/threads/dsa-5449-webkit2gtk-security-update.45854/)|Visit link for details.|Jul 8, 2023|
- |[USN-6212-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6212-1-linux-kernel-intel-iotg-vulnerabilities.45852/)|Visit link for details.|Jul 7, 2023|
- |[USN-6211-1: Linux kernel (Azure) regression](https://www.linux.org/threads/usn-6211-1-linux-kernel-azure-regression.45851/)|Visit link for details.|Jul 7, 2023|
- |[USN-6208-1: Gorilla WebSocket vulnerability](https://www.linux.org/threads/usn-6208-1-gorilla-websocket-vulnerability.45840/)|Visit link for details.|Jul 7, 2023|
- |[USN-6207-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6207-1-linux-kernel-intel-iotg-vulnerabilities.45838/)|Visit link for details.|Jul 6, 2023|
- |[USN-6206-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6206-1-linux-kernel-oem-vulnerabilities.45837/)|Visit link for details.|Jul 6, 2023|
- |[USN-6205-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6205-1-linux-kernel-gke-vulnerabilities.45836/)|Visit link for details.|Jul 6, 2023|
- |[DSA-5447 mediawiki - security update](https://www.linux.org/threads/dsa-5447-mediawiki-security-update.45832/)|Visit link for details.|Jul 6, 2023|
- |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
- |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,43 +45,21 @@
  |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
- |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux - CVE-2023-3269](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3269-2023-07-07)|Visit link for details.|07/07/2023|
- |[GLPI - CVE-2023-36808](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-36808-2023-07-07)|Visit link for details.|07/07/2023|
- |[GLPI - CVE-2023-35924](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-35924-2023-07-07)|Visit link for details.|07/07/2023|
- |[Android - CVE-2023-21262](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21262-2023-07-07)|Visit link for details.|07/07/2023|
- |[Android - CVE-2023-21257](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21257-2023-07-07)|Visit link for details.|07/07/2023|
- |[D-Link - CVE-2023-35718](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35718-2023-07-06)|Visit link for details.|06/07/2023|
- |[MOVEit Transfert - CVE-2023-36934](https://www.cyberveille-sante.gouv.fr/alertes/moveit-transfert-cve-2023-36934-2023-07-06)|Visit link for details.|06/07/2023|
- |[TP-Link - CVE-2023-35717](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-35717-2023-07-06)|Visit link for details.|06/07/2023|
- |[Mozilla - CVE-2023-37202](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37202-2023-07-06)|Visit link for details.|06/07/2023|
- |[Mozilla - CVE-2023-37201](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37201-2023-07-06)|Visit link for details.|06/07/2023|
- |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
+ |[USN-6210-1: Doorkeeper vulnerability](https://www.linux.org/threads/usn-6210-1-doorkeeper-vulnerability.45855/)|Visit link for details.|Jul 8, 2023|
+ |[DSA-5449 webkit2gtk - security update](https://www.linux.org/threads/dsa-5449-webkit2gtk-security-update.45854/)|Visit link for details.|Jul 8, 2023|
+ |[USN-6212-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6212-1-linux-kernel-intel-iotg-vulnerabilities.45852/)|Visit link for details.|Jul 7, 2023|
+ |[USN-6211-1: Linux kernel (Azure) regression](https://www.linux.org/threads/usn-6211-1-linux-kernel-azure-regression.45851/)|Visit link for details.|Jul 7, 2023|
+ |[USN-6208-1: Gorilla WebSocket vulnerability](https://www.linux.org/threads/usn-6208-1-gorilla-websocket-vulnerability.45840/)|Visit link for details.|Jul 7, 2023|
+ |[USN-6207-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6207-1-linux-kernel-intel-iotg-vulnerabilities.45838/)|Visit link for details.|Jul 6, 2023|
+ |[USN-6206-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6206-1-linux-kernel-oem-vulnerabilities.45837/)|Visit link for details.|Jul 6, 2023|
+ |[USN-6205-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6205-1-linux-kernel-gke-vulnerabilities.45836/)|Visit link for details.|Jul 6, 2023|
+ |[DSA-5447 mediawiki - security update](https://www.linux.org/threads/dsa-5447-mediawiki-security-update.45832/)|Visit link for details.|Jul 6, 2023|
+ |[DSA-5448 linux - security update](https://www.linux.org/threads/dsa-5448-linux-security-update.45827/)|Visit link for details.|Jul 6, 2023|
+ |[USN-6204-1: CPDB vulnerability](https://www.linux.org/threads/usn-6204-1-cpdb-vulnerability.45823/)|Visit link for details.|Jul 5, 2023|
  
 
 # HK-CERT
@@ -117,21 +78,34 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
- |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
- |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
- |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
- |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
- |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
- |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
- |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
- |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
+ |[Mastodon cross-site scripting (CVE-2023-36459)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Mastodon code execution (CVE-2023-36460)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Mastodon denial of service (CVE-2023-36461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Mastodon spoofing (CVE-2023-36462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[ServiceNow cross-site scripting (CVE-2023-1298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L directory traversal (CVE-2023-23547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ |[Milesight UR32L ys_thirdparty user_delete command execution (CVE-2023-23550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 6, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux - CVE-2023-3269](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3269-2023-07-07)|Visit link for details.|07/07/2023|
+ |[GLPI - CVE-2023-36808](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-36808-2023-07-07)|Visit link for details.|07/07/2023|
+ |[GLPI - CVE-2023-35924](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-35924-2023-07-07)|Visit link for details.|07/07/2023|
+ |[Android - CVE-2023-21262](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21262-2023-07-07)|Visit link for details.|07/07/2023|
+ |[Android - CVE-2023-21257](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21257-2023-07-07)|Visit link for details.|07/07/2023|
+ |[D-Link - CVE-2023-35718](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35718-2023-07-06)|Visit link for details.|06/07/2023|
+ |[MOVEit Transfert - CVE-2023-36934](https://www.cyberveille-sante.gouv.fr/alertes/moveit-transfert-cve-2023-36934-2023-07-06)|Visit link for details.|06/07/2023|
+ |[TP-Link - CVE-2023-35717](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-35717-2023-07-06)|Visit link for details.|06/07/2023|
+ |[Mozilla - CVE-2023-37202](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37202-2023-07-06)|Visit link for details.|06/07/2023|
+ |[Mozilla - CVE-2023-37201](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37201-2023-07-06)|Visit link for details.|06/07/2023|
+ |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
  
 
 # ZERODAYINITIATIVE
@@ -163,6 +137,39 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
+ |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
+ |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
+ |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
+ |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
+ |[2023-036: Critical Vulnerabilities in VMware Aria Operations for Networks](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-036.pdf)|On June 7, 2023, VMware issued multiple security patches to address critical vulnerabilities in VMware Aria Operations for Networks, formerly known as vRealize Network Insight. The vulnerabilities allow attackers to gain remote execution or access sensitive information.|Thursday, June 08, 2023 10:38:26 AM CEST|
+ |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
+ |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  
 
 # MA-CERT
