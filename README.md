@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2023 20:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2023 21:26:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,19 @@
  |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Car Listing Script PHP cross-site scripting (CVE-2023-3556)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[Property Listing Script cross-site scripting (CVE-2023-3557)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[Event Booking Calendar cross-site scripting (CVE-2023-3558)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[PHP GZ Appointment Scheduling Script cross-site scripting (CVE-2023-3559)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[Ticket Booking Script cross-site scripting (CVE-2023-3560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[PHP GZ HOTEL BOOKING SCRIPT cross-site scripting (CVE-2023-3561)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ |[PHP CRM Platform cross-site scripting (CVE-2023-3562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -82,17 +95,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Zimbra - CVE-2023-29382](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-29382-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Firefox - CVE-2023-37209](https://www.cyberveille-sante.gouv.fr/alertes/firefox-cve-2023-37209-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-30431](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-30431-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-27558](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27558-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
  |[Linux - CVE-2023-3269](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3269-2023-07-07)|Visit link for details.|07/07/2023|
  |[GLPI - CVE-2023-36808](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-36808-2023-07-07)|Visit link for details.|07/07/2023|
  |[GLPI - CVE-2023-35924](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-35924-2023-07-07)|Visit link for details.|07/07/2023|
  |[Android - CVE-2023-21262](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21262-2023-07-07)|Visit link for details.|07/07/2023|
  |[Android - CVE-2023-21257](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21257-2023-07-07)|Visit link for details.|07/07/2023|
  |[D-Link - CVE-2023-35718](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35718-2023-07-06)|Visit link for details.|06/07/2023|
- |[MOVEit Transfert - CVE-2023-36934](https://www.cyberveille-sante.gouv.fr/alertes/moveit-transfert-cve-2023-36934-2023-07-06)|Visit link for details.|06/07/2023|
- |[TP-Link - CVE-2023-35717](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-35717-2023-07-06)|Visit link for details.|06/07/2023|
- |[Mozilla - CVE-2023-37202](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37202-2023-07-06)|Visit link for details.|06/07/2023|
- |[Mozilla - CVE-2023-37201](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-37201-2023-07-06)|Visit link for details.|06/07/2023|
- |[Trend Micro - CVE-2023-35695](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-35695-2023-07-05)|Visit link for details.|05/07/2023|
  
 
 # HK-CERT
@@ -111,21 +124,18 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711" class="noirorange"><b>Redis</b>: buffer overflow via Extracting Key Name</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711)|An attacker can trigger a buffer overflow of Redis, via Extracting Key Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710" class="noirorange"><b>Redis</b>: buffer overflow via Lua Script cjson/cmsgpack</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710)|An attacker can trigger a buffer overflow of Redis, via Lua Script cjson/cmsgpack, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-file-reading-41708" class="noirorange"><b>TeamPass</b>: file reading</a>](https://vigilance.fr/vulnerability/TeamPass-file-reading-41708)|An attacker can read a file of TeamPass, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41707" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Folder Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41707)|An attacker can trigger a Cross Site Scripting of TeamPass, via Folder Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706" class="noirorange"><b>TeamPass</b>: code execution via "Client ID"</a>](https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706)|An attacker can use a vulnerability of TeamPass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705" class="noirorange"><b>IBM Db2</b>: denial of service via SQL query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705)|An attacker can cause a fatal error of IBM Db2, via a SQL query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704" class="noirorange"><b>IBM Db2</b>: denial of service via options</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704)|An attacker can cause a fatal error of IBM Db2, via options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702" class="noirorange"><b>IBM Db2</b>: information disclosure via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702)|An attacker can bypass access restrictions to data of IBM Db2, via a federation, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-JDBC-41701" class="noirorange"><b>IBM Db2</b>: code execution via JDBC</a>](https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-JDBC-41701)|An attacker can use 3 vulnerabilities of IBM Db2, via JDBC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-executing-DLL-code-41700" class="noirorange"><b>IBM Db2</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Db2-executing-DLL-code-41700)|An attacker can create a malicious DLL for IBM Db2, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-899/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
+ |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
+ |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
  
 
 # EU-CERT
@@ -145,31 +155,21 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[GZ Multi Hotel Booking System cross-site scripting (CVE-2023-3564)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2023|
- |[Faculty Evaluation System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- |[Apache Johnzon denial of service (CVE-2023-33008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- |[Apache Camel JIRA information disclosure (CVE-2023-34442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- |[Apache MINA SSHD information disclosure (CVE-2023-35887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- |[IBM Db2 denial of service (CVE-2023-30449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- |[IBM Db2 denial of service (CVE-2023-30448)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-899/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
- |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
- |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713" class="noirorange"><b>Cisco Nexus</b>: information disclosure via ACI Multi-Site CloudSec Encryption</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713)|An attacker can bypass access restrictions to data of Cisco Nexus, via ACI Multi-Site CloudSec Encryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712" class="noirorange"><b>SPIP</b>: security improvement via auth_desensibiliser_session()</a>](https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712)|The security of SPIP was improved via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711" class="noirorange"><b>Redis</b>: buffer overflow via Extracting Key Name</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711)|An attacker can trigger a buffer overflow of Redis, via Extracting Key Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710" class="noirorange"><b>Redis</b>: buffer overflow via Lua Script cjson/cmsgpack</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710)|An attacker can trigger a buffer overflow of Redis, via Lua Script cjson/cmsgpack, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-file-reading-41708" class="noirorange"><b>TeamPass</b>: file reading</a>](https://vigilance.fr/vulnerability/TeamPass-file-reading-41708)|An attacker can read a file of TeamPass, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41707" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Folder Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41707)|An attacker can trigger a Cross Site Scripting of TeamPass, via Folder Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706" class="noirorange"><b>TeamPass</b>: code execution via "Client ID"</a>](https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706)|An attacker can use a vulnerability of TeamPass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705" class="noirorange"><b>IBM Db2</b>: denial of service via SQL query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705)|An attacker can cause a fatal error of IBM Db2, via a SQL query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704" class="noirorange"><b>IBM Db2</b>: denial of service via options</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704)|An attacker can cause a fatal error of IBM Db2, via options, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702" class="noirorange"><b>IBM Db2</b>: information disclosure via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702)|An attacker can bypass access restrictions to data of IBM Db2, via a federation, in order to read sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -193,6 +193,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ubuntu security advisory (AV23-385)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-385)|Visit link for details|2023-07-10|
+ |[IBM security advisory (AV23-384)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-384)|Visit link for details|2023-07-10|
+ |[Dell security advisory (AV23-383)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-383)|Visit link for details|2023-07-10|
  |[MOVEit Transfer security advisory (AV23-382)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-382)|Visit link for details|2023-07-07|
  |[[Control systems] ABUS security advisory (AV23-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abus-security-advisory-av23-381)|Visit link for details|2023-07-06|
  |[[Control systems] PiiGAB security advisory (AV23-380)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-piigab-security-advisory-av23-380)|Visit link for details|2023-07-06|
@@ -201,7 +204,4 @@
  |[Increased Truebot activity infects U.S. and Canada based networks - Joint Cybersecurity Advisory](https://www.cyber.gc.ca/en/alerts-advisories/increased-truebot-activity-infects-us-and-canada-based-networks-scale-joint-cybersecurity-advisory)|Visit link for details|2023-07-06|
  |[GitLab security advisory (AV23-378)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-378)|Visit link for details|2023-07-06|
  |[Mozilla security advisory (AV23-377)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-377)|Visit link for details|2023-07-04|
- |[Ubuntu security advisory (AV23-376)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-376)|Visit link for details|2023-07-04|
- |[IBM security advisory (AV23-375)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-375)|Visit link for details|2023-07-04|
- |[Dell security advisory (AV23-374)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-374)|Visit link for details|2023-07-04|
  
