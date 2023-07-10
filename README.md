@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2023 04:18:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2023 06:51:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
- |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -99,6 +83,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2023 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Jul 2023 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited, ...|Release Date: 7 Jul 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230706)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited...|Release Date: 6 Jul 2023 |
@@ -108,7 +93,6 @@
  |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 3 Jul 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230630)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system.|Release Date: 30 Jun 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230627)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and data manipulation on the targeted system. [Updated on 2023-06-30] Updated Impact.| Release Date: 27 Jun 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230608)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-06...| Release Date: 8 Jun 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -136,6 +120,22 @@
  |[(Pwn2Own) Canonical Ubuntu tcindex Double-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-898/)|Visit link for details|2023-07-06|
  |[Progress Software MOVEit Transfer UserProcessPassChangeRequest SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-897/)|Visit link for details|2023-07-05|
  |[D-Link DAP-2622 DDP Change ID Password Auth Password Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-896/)|Visit link for details|2023-07-05|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
+ |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  
 
 # OBS-Vigilance
