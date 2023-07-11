@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2023 14:18:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2023 15:20:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[CISA and NSA Release Joint Guidance on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.cisa.gov/news-events/alerts/2023/06/28/cisa-and-nsa-release-joint-guidance-defending-continuous-integrationcontinuous-delivery-cicd)|Visit link for details.|Jun 28, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zimbra - CVE-2023-29382](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-29382-2023-07-10)|Visit link for details.|10/07/2023|
- |[Firefox - CVE-2023-37209](https://www.cyberveille-sante.gouv.fr/alertes/firefox-cve-2023-37209-2023-07-10)|Visit link for details.|10/07/2023|
- |[IBM Db2 - CVE-2023-30431](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-30431-2023-07-10)|Visit link for details.|10/07/2023|
- |[IBM Db2 - CVE-2023-27558](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27558-2023-07-10)|Visit link for details.|10/07/2023|
- |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
- |[Linux - CVE-2023-3269](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3269-2023-07-07)|Visit link for details.|07/07/2023|
- |[GLPI - CVE-2023-36808](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-36808-2023-07-07)|Visit link for details.|07/07/2023|
- |[GLPI - CVE-2023-35924](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-35924-2023-07-07)|Visit link for details.|07/07/2023|
- |[Android - CVE-2023-21262](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21262-2023-07-07)|Visit link for details.|07/07/2023|
- |[Android - CVE-2023-21257](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21257-2023-07-07)|Visit link for details.|07/07/2023|
- |[D-Link - CVE-2023-35718](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35718-2023-07-06)|Visit link for details.|06/07/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0522/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 juillet 2023|
- |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0521/)|Une vulnérabilité a été découverte dans|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +89,53 @@
  |[SICK ICR890-4 devices information disclosure (CVE-2023-35698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2023|
  |[SICK ICR890-4 devices information disclosure (CVE-2023-35697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2023|
  |[SICK ICR890-4 devices information disclosure (CVE-2023-35696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0522/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 juillet 2023|
+ |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0521/)|Une vulnérabilité a été découverte dans|Publié le 10 juillet 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 juillet 2023|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service.|Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 7 juillet 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zimbra - CVE-2023-29382](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-29382-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Firefox - CVE-2023-37209](https://www.cyberveille-sante.gouv.fr/alertes/firefox-cve-2023-37209-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-30431](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-30431-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-27558](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27558-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Linux - CVE-2023-3269](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3269-2023-07-07)|Visit link for details.|07/07/2023|
+ |[GLPI - CVE-2023-36808](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-36808-2023-07-07)|Visit link for details.|07/07/2023|
+ |[GLPI - CVE-2023-35924](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-35924-2023-07-07)|Visit link for details.|07/07/2023|
+ |[Android - CVE-2023-21262](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21262-2023-07-07)|Visit link for details.|07/07/2023|
+ |[Android - CVE-2023-21257](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-21257-2023-07-07)|Visit link for details.|07/07/2023|
+ |[D-Link - CVE-2023-35718](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35718-2023-07-06)|Visit link for details.|06/07/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
  
 
 # OBS-Vigilance
@@ -158,24 +172,11 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
  |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
  |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
  |[42701007/23 - Vulnérabilités critiques dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4270100723-vulnerabilites-critiques-dans-moveit-transfer.html)|Progress Software a publié une mise à jour de sécurité pour corriger trois vulnérabilités critiques dans MOVEit Transfer. Un acteur malveillant pourrait exploiter certaines de ces vulnérabilités pour obtenir des informations...|10 juillet 2023|
@@ -186,7 +187,6 @@
  |[42660607/23- Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4266060723-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’accéderà des informations confidentielles ou d’...|06 juillet 2023|
  |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
  |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
- |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
  
 
 # CA-CCS
