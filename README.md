@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2023 12:17:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2023 13:24:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6214-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6214-1-thunderbird-vulnerabilities.45894/)|Visit link for details.|Jul 11, 2023|
  |[USN-6213-1: Ghostscript vulnerability](https://www.linux.org/threads/usn-6213-1-ghostscript-vulnerability.45878/)|Visit link for details.|Jul 10, 2023|
  |[DSA-5451 thunderbird - security update](https://www.linux.org/threads/dsa-5451-thunderbird-security-update.45870/)|Visit link for details.|Jul 10, 2023|
  |[DSA-5450 firefox-esr - security update](https://www.linux.org/threads/dsa-5450-firefox-esr-security-update.45856/)|Visit link for details.|Jul 8, 2023|
@@ -43,7 +44,6 @@
  |[USN-6208-1: Gorilla WebSocket vulnerability](https://www.linux.org/threads/usn-6208-1-gorilla-websocket-vulnerability.45840/)|Visit link for details.|Jul 7, 2023|
  |[USN-6207-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6207-1-linux-kernel-intel-iotg-vulnerabilities.45838/)|Visit link for details.|Jul 6, 2023|
  |[USN-6206-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6206-1-linux-kernel-oem-vulnerabilities.45837/)|Visit link for details.|Jul 6, 2023|
- |[USN-6205-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6205-1-linux-kernel-gke-vulnerabilities.45836/)|Visit link for details.|Jul 6, 2023|
  
 
 # US-CERT
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715" class="noirorange"><b>WebKit</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715)|An attacker can trigger a memory corruption of WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714" class="noirorange"><b>Node.js tough-cookie</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714)|An attacker can alter the JavaScript code of Node.js tough-cookie, in order to change the software behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713" class="noirorange"><b>Cisco Nexus</b>: information disclosure via ACI Multi-Site CloudSec Encryption</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713)|An attacker can bypass access restrictions to data of Cisco Nexus, via ACI Multi-Site CloudSec Encryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712" class="noirorange"><b>SPIP</b>: security improvement via auth_desensibiliser_session()</a>](https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712)|The security of SPIP was improved via |Visit link for details|
@@ -152,7 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706" class="noirorange"><b>TeamPass</b>: code execution via "Client ID"</a>](https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706)|An attacker can use a vulnerability of TeamPass, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705" class="noirorange"><b>IBM Db2</b>: denial of service via SQL query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705)|An attacker can cause a fatal error of IBM Db2, via a SQL query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704" class="noirorange"><b>IBM Db2</b>: denial of service via options</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704)|An attacker can cause a fatal error of IBM Db2, via options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
