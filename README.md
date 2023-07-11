@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2023 23:23:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/07/2023 00:14:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2023|
- |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
- |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
- |[2023 CWE Top 25 Most Dangerous Software Weaknesses](https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses)|Visit link for details.|Jun 29, 2023|
- 
 
 # LINUX-SEC
 
@@ -77,6 +61,39 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
+ |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Jul 11, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2023|
+ |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Newly Identified Truebot Malware Variants ](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|Visit link for details.|Jul 06, 2023|
+ |[DoS and DDoS Attacks against Multiple Sectors](https://www.cisa.gov/news-events/alerts/2023/06/30/dos-and-ddos-attacks-against-multiple-sectors)|Visit link for details.|Jun 30, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jun 29, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2023-36922](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-36922-2023-07-11)|Visit link for details.|11/07/2023|
+ |[SAP - CVE-2023-33989](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33989-2023-07-11)|Visit link for details.|11/07/2023|
+ |[SAP - CVE-2023-33987](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33987-2023-07-11)|Visit link for details.|11/07/2023|
+ |[Malwarebytes - CVE-2023-27469](https://www.cyberveille-sante.gouv.fr/alertes/malwarebytes-cve-2023-27469-2023-07-11)|Visit link for details.|11/07/2023|
+ |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|11/07/2023|
+ |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|11/07/2023|
+ |[Zimbra - CVE-2023-29382](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-29382-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Firefox - CVE-2023-37209](https://www.cyberveille-sante.gouv.fr/alertes/firefox-cve-2023-37209-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-30431](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-30431-2023-07-10)|Visit link for details.|10/07/2023|
+ |[IBM Db2 - CVE-2023-27558](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27558-2023-07-10)|Visit link for details.|10/07/2023|
+ |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -106,52 +123,21 @@
  |[Siemens Tecnomatix Plant Simulation buffer overflow (CVE-2023-37246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SAP - CVE-2023-36922](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-36922-2023-07-11)|Visit link for details.|11/07/2023|
- |[SAP - CVE-2023-33989](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33989-2023-07-11)|Visit link for details.|11/07/2023|
- |[SAP - CVE-2023-33987](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-33987-2023-07-11)|Visit link for details.|11/07/2023|
- |[Malwarebytes - CVE-2023-27469](https://www.cyberveille-sante.gouv.fr/alertes/malwarebytes-cve-2023-27469-2023-07-11)|Visit link for details.|11/07/2023|
- |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|11/07/2023|
- |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|11/07/2023|
- |[Zimbra - CVE-2023-29382](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-29382-2023-07-10)|Visit link for details.|10/07/2023|
- |[Firefox - CVE-2023-37209](https://www.cyberveille-sante.gouv.fr/alertes/firefox-cve-2023-37209-2023-07-10)|Visit link for details.|10/07/2023|
- |[IBM Db2 - CVE-2023-30431](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-30431-2023-07-10)|Visit link for details.|10/07/2023|
- |[IBM Db2 - CVE-2023-27558](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27558-2023-07-10)|Visit link for details.|10/07/2023|
- |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725" class="noirorange"><b>Windows</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-July-2023-41721" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-July-2023-41721)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROX-multiple-vulnerabilities-41720" class="noirorange"><b>Siemens RUGGEDCOM ROX</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROX-multiple-vulnerabilities-41720)|An attacker can use several vulnerabilities of Siemens RUGGEDCOM ROX...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-CN-4100-multiple-vulnerabilities-41719" class="noirorange"><b>Siemens SIMATIC CN 4100</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-CN-4100-multiple-vulnerabilities-41719)|An attacker can use several vulnerabilities of Siemens SIMATIC CN 4100...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-July-2023-41718" class="noirorange"><b>SAP</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-July-2023-41718)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-REST-41717" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via REST</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-REST-41717)|An attacker can get the version of Apache Tomcat used in Atlassian Confluence Server, via REST...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-vulnerability-via-vhost-vdpa-41716" class="noirorange"><b>QEMU</b>: vulnerability via vhost-vdpa</a>](https://vigilance.fr/vulnerability/QEMU-vulnerability-via-vhost-vdpa-41716)|A vulnerability of QEMU, via vhost-vdpa, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715" class="noirorange"><b>WebKit</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715)|An attacker can trigger a memory corruption of WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714" class="noirorange"><b>Node.js tough-cookie</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714)|An attacker can alter the JavaScript code of Node.js tough-cookie, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713" class="noirorange"><b>Cisco Nexus</b>: information disclosure via ACI Multi-Site CloudSec Encryption</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713)|An attacker can bypass access restrictions to data of Cisco Nexus, via ACI Multi-Site CloudSec Encryption, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712" class="noirorange"><b>SPIP</b>: security improvement via auth_desensibiliser_session()</a>](https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712)|The security of SPIP was improved via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711" class="noirorange"><b>Redis</b>: buffer overflow via Extracting Key Name</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711)|An attacker can trigger a buffer overflow of Redis, via Extracting Key Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710" class="noirorange"><b>Redis</b>: buffer overflow via Lua Script cjson/cmsgpack</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-Script-cjson-cmsgpack-41710)|An attacker can trigger a buffer overflow of Redis, via Lua Script cjson/cmsgpack, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -188,10 +174,27 @@
  |[2023-035: Type Confusion Flaw in Google Chrome](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-035.pdf)|Google has released a security update to address a zero-day vulnerability in its Chrome web browser, identified as "CVE-2023-3079". The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Google is aware that an exploit for this vulnerability exists in the wild.|Tuesday, June 06, 2023 05:42:20 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Panasonic security advisory (AV23-393)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-393)|Visit link for details|2023-07-11|
+ |[[Control systems] Sensormatic Electronics security advisory (AV23-392)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-392)|Visit link for details|2023-07-11|
+ |[[Control systems] Rockwell Automation security advisory (AV23-391)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-391)|Visit link for details|2023-07-11|
  |[SAP security advisory – July 2023 monthly rollup (AV23-390)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2023-monthly-rollup-av23-390)|Visit link for details|2023-07-11|
  |[Mozilla security advisory (AV23-389)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-389)|Visit link for details|2023-07-11|
  |[[Control systems] Schneider Electric security advisory (AV23-388)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-388)|Visit link for details|2023-07-11|
@@ -200,7 +203,4 @@
  |[Ubuntu security advisory (AV23-385)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-385)|Visit link for details|2023-07-10|
  |[IBM security advisory (AV23-384)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-384)|Visit link for details|2023-07-10|
  |[Dell security advisory (AV23-383)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-383)|Visit link for details|2023-07-10|
- |[MOVEit Transfer security advisory (AV23-382)](https://www.cyber.gc.ca/en/alerts-advisories/moveit-transfer-security-advisory-av23-382)|Visit link for details|2023-07-07|
- |[[Control systems] ABUS security advisory (AV23-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abus-security-advisory-av23-381)|Visit link for details|2023-07-06|
- |[[Control systems] PiiGAB security advisory (AV23-380)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-piigab-security-advisory-av23-380)|Visit link for details|2023-07-06|
  
