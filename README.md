@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/07/2023 18:28:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/07/2023 19:17:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
  |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
  |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
  |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
@@ -59,22 +60,22 @@
  |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 06, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird, Firefox, and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/06/mozilla-releases-security-advisories-thunderbird-firefox-and-firefox-esr)|Visit link for details.|Jul 06, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0526/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 juillet 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une exécution de code arbitraire à distance.|Publié le 11 juillet 2023|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0524/)|Une vulnérabilité a été découverte dans |Publié le 11 juillet 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0522/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 juillet 2023|
- |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0521/)|Une vulnérabilité a été découverte dans|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 juillet 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-535/)|Une vulnérabilité a été corrigée dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-534/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-533/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-532/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0531/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0530/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans Citrix Secure Access client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0529/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 juillet 2023|
+ |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0528/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 juillet 2023|
+ |[Vulnérabilité dans Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0527/)|Une vulnérabilité a été découverte dans |Publié le 12 juillet 2023|
  
 
 # CERT-SANTE
@@ -94,6 +95,19 @@
  |[Aruba - CVE-2023-35972](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35972-2023-07-10)|Visit link for details.|10/07/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Zoom Rooms privilege escalation (CVE-2023-36538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[Zoom Rooms privilege escalation (CVE-2023-36537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[Zoom Rooms privilege escalation (CVE-2023-36536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[Zoom Rooms privilege escalation (CVE-2023-34119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[Zoom Rooms privilege escalation (CVE-2023-34118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -110,23 +124,11 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited, ...|Release Date: 7 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Zoom Rooms privilege escalation (CVE-2023-36538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[Zoom Rooms privilege escalation (CVE-2023-36537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[Zoom Rooms privilege escalation (CVE-2023-36536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[Zoom Rooms privilege escalation (CVE-2023-34119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[Zoom Rooms privilege escalation (CVE-2023-34118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738" class="noirorange"><b>FortiOS</b>: buffer overflow via HTTP/2</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738)|An attacker can trigger a buffer overflow of FortiOS, via HTTP/2, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736" class="noirorange"><b>QEMU</b>: NULL pointer dereference via connection VNC over TLS</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736)|An attacker can force a NULL pointer to be dereferenced on QEMU, via connection VNC over TLS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735" class="noirorange"><b>Linux kernel</b>: memory corruption via skcipher_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735)|An attacker can trigger a memory corruption of the Linux kernel, via skcipher_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -137,7 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730" class="noirorange"><b>Mozilla Firefox</b>: reuse after free via workers</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730)|An attacker can force the reuse of a freed memory area of Mozilla Firefox, via workers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729" class="noirorange"><b>IBM Db2</b>: buffer overflow via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729)|An attacker can trigger a buffer overflow of IBM Db2, via federation, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726" class="noirorange"><b>Rizin</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726)|An attacker can trigger a buffer overflow of Rizin, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725" class="noirorange"><b>Windows</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
+ |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
+ |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
+ |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
+ |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
  
 
 # EU-CERT
@@ -172,20 +187,6 @@
  |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
  |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
  |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
  
 
 # CA-CCS
