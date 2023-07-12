@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/07/2023 16:16:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/07/2023 17:39:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6218-1: Firefox vulnerability](https://www.linux.org/threads/usn-6218-1-firefox-vulnerability.45914/)|Visit link for details.|Jul 12, 2023|
  |[USN-6217-1: .NET vulnerability](https://www.linux.org/threads/usn-6217-1-net-vulnerability.45902/)|Visit link for details.|Jul 11, 2023|
  |[USN-6215-1: dwarves vulnerabilities](https://www.linux.org/threads/usn-6215-1-dwarves-vulnerabilities.45897/)|Visit link for details.|Jul 11, 2023|
  |[USN-6214-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6214-1-thunderbird-vulnerabilities.45894/)|Visit link for details.|Jul 11, 2023|
@@ -59,7 +60,6 @@
  |[DSA-5449 webkit2gtk - security update](https://www.linux.org/threads/dsa-5449-webkit2gtk-security-update.45854/)|Visit link for details.|Jul 8, 2023|
  |[USN-6212-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6212-1-linux-kernel-intel-iotg-vulnerabilities.45852/)|Visit link for details.|Jul 7, 2023|
  |[USN-6211-1: Linux kernel (Azure) regression](https://www.linux.org/threads/usn-6211-1-linux-kernel-azure-regression.45851/)|Visit link for details.|Jul 7, 2023|
- |[USN-6208-1: Gorilla WebSocket vulnerability](https://www.linux.org/threads/usn-6208-1-gorilla-websocket-vulnerability.45840/)|Visit link for details.|Jul 7, 2023|
  
 
 # HK-CERT
@@ -89,6 +89,21 @@
  |[Zoom Rooms privilege escalation (CVE-2023-34119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
  |[Zoom Rooms privilege escalation (CVE-2023-34118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
  |[Zoom Client SDK directory traversal (CVE-2023-34117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0526/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 juillet 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une exécution de code arbitraire à distance.|Publié le 11 juillet 2023|
+ |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0524/)|Une vulnérabilité a été découverte dans |Publié le 11 juillet 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0522/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 juillet 2023|
+ |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0521/)|Une vulnérabilité a été découverte dans|Publié le 10 juillet 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 juillet 2023|
+ |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
  
 
 # CERT-SANTE
@@ -122,21 +137,6 @@
  |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0526/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 juillet 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une exécution de code arbitraire à distance.|Publié le 11 juillet 2023|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0524/)|Une vulnérabilité a été découverte dans |Publié le 11 juillet 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0522/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 juillet 2023|
- |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0521/)|Une vulnérabilité a été découverte dans|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 juillet 2023|
- |[Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 7 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/)|Une vulnérabilité a été découverte dans |Publié le 7 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juillet 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -154,6 +154,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725" class="noirorange"><b>Windows</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-July-2023-41725)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
+ |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
+ |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
+ |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
+ |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
+ |[42731207/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4273120723-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 juillet 2023|
+ |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
+ |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
+ |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
+ |[42701007/23 - Vulnérabilités critiques dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4270100723-vulnerabilites-critiques-dans-moveit-transfer.html)|Progress Software a publié une mise à jour de sécurité pour corriger trois vulnérabilités critiques dans MOVEit Transfer. Un acteur malveillant pourrait exploiter certaines de ces vulnérabilités pour obtenir des informations...|10 juillet 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -169,23 +186,6 @@
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
  |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
  |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
- |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
- |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
- |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
- |[42731207/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4273120723-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 juillet 2023|
- |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
- |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
- |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
- |[42701007/23 - Vulnérabilités critiques dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4270100723-vulnerabilites-critiques-dans-moveit-transfer.html)|Progress Software a publié une mise à jour de sécurité pour corriger trois vulnérabilités critiques dans MOVEit Transfer. Un acteur malveillant pourrait exploiter certaines de ces vulnérabilités pour obtenir des informations...|10 juillet 2023|
- |[42690707/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4269070723-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|07 juillet 2023|
  
 
 # CA-CCS
