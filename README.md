@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/07/2023 00:14:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/07/2023 01:19:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,22 +95,6 @@
  |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|11/07/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
- |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
- |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...|Release Date: 11 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, security restriction bypass, remote code execution, sensitive information disclosure and denial of service on the targeted system.|Release Date: 11 Jul 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:VMware has confirmed proof-of-concept exploit code is available for CVE-2023-20864...|Release Date: 11 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Jul 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited, ...|Release Date: 7 Jul 2023 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,36 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730" class="noirorange"><b>Mozilla Firefox</b>: reuse after free via workers</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730)|An attacker can force the reuse of a freed memory area of Mozilla Firefox, via workers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729" class="noirorange"><b>IBM Db2</b>: buffer overflow via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729)|An attacker can trigger a buffer overflow of IBM Db2, via federation, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726" class="noirorange"><b>Rizin</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726)|An attacker can trigger a buffer overflow of Rizin, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
- |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
- |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
- |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
- |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
- |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
- |[42731207/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4273120723-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 juillet 2023|
- |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
- |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
- |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[Best POS Management System SQL injection (CVE-2023-3617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
  
 
 # EU-CERT
@@ -175,24 +129,59 @@
  |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master modifyusergroup Improper Access Control Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-905/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master APRunning Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-904/)|Visit link for details|2023-07-10|
- |[GStreamer FLAC File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-903/)|Visit link for details|2023-07-06|
- |[GStreamer SRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-902/)|Visit link for details|2023-07-06|
- |[GStreamer PGS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-901/)|Visit link for details|2023-07-06|
- |[(Pwn2Own) Linux Kernel nftables Incorrect Pointer Scaling Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-900/)|Visit link for details|2023-07-06|
+ |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33881)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33882)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-33885)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
+ |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
+ |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
+ |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
+ |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
+ |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
+ |[42731207/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4273120723-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 juillet 2023|
+ |[42721107/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4272110723-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba ArubaOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, d’exécuter du code arbitraire ou de porter atteinte à la confidentialité des...|11 juillet 2023|
+ |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
+ |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
+ |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
+ |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...|Release Date: 11 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, security restriction bypass, remote code execution, sensitive information disclosure and denial of service on the targeted system.|Release Date: 11 Jul 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:VMware has confirmed proof-of-concept exploit code is available for CVE-2023-20864...|Release Date: 11 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Jul 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited, ...|Release Date: 7 Jul 2023 |
  
 
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV23-403)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-403)|Visit link for details|2023-07-12|
+ |[SonicWall security advisory (AV23-402)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-402)|Visit link for details|2023-07-12|
+ |[Juniper Networks security advisory (AV23-401)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-401)|Visit link for details|2023-07-12|
  |[Cisco security advisory (AV23-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-400)|Visit link for details|2023-07-12|
  |[[Control systems] Rockwell Automation security advisory (AV23-399)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-399)|Visit link for details|2023-07-12|
  |[Apple security advisory (AV23-398)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-398)|Visit link for details|2023-07-12|
@@ -201,7 +190,10 @@
  |[Adobe security advisory (AV23-395)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-395)|Visit link for details|2023-07-11|
  |[Microsoft security advisory – July 2023 monthly rollup (AV23-394)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2023-monthly-rollup-av23-394)|Visit link for details|2023-07-11|
  |[[Control systems] Panasonic security advisory (AV23-393)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-393)|Visit link for details|2023-07-11|
- |[[Control systems] Sensormatic Electronics security advisory (AV23-392)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-392)|Visit link for details|2023-07-11|
- |[[Control systems] Rockwell Automation security advisory (AV23-391)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-391)|Visit link for details|2023-07-11|
- |[SAP security advisory – July 2023 monthly rollup (AV23-390)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2023-monthly-rollup-av23-390)|Visit link for details|2023-07-11|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
