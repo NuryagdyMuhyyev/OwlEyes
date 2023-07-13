@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/07/2023 23:23:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/07/2023 00:13:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,53 +95,6 @@
  |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749" class="noirorange"><b>Palo Alto PAN-OS</b>: file reading via configuration</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749)|An attacker can read a file of Palo Alto PAN-OS, via configuration, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libtiff-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>libtiff</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/libtiff-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of libtiff, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745" class="noirorange"><b>SciPy</b>: reuse after free</a>](https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745)|An attacker can force the reuse of a freed memory area of SciPy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744" class="noirorange"><b>krb5</b>: out-of-bounds memory reading via kadm5</a>](https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744)|An attacker can force a read at an invalid memory address of krb5, via kadm5, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via REST</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via REST, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738" class="noirorange"><b>FortiOS</b>: buffer overflow via HTTP/2</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738)|An attacker can trigger a buffer overflow of FortiOS, via HTTP/2, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall GMS and Analytics file upload (CVE-2023-34126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[SonicWall GMS and Analytics directory traversal (CVE-2023-34125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[SonicWall GMS and Analytics security bypass (CVE-2023-34124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Wireshark denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Wireshark denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[SonicWall GMS and Analytics weak security (CVE-2023-34123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Juniper Networks Junos OS denial of service (CVE-2023-36835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
- |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
- |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
- |[42811307/23 - Vulnérabilité critique affectant Cisco SD-WAN vManage software](https://www.dgssi.gov.ma//fr/content/4281130723-vulnerabilite-critique-affectant-cisco-sd-wan-vmanage-software.html)|Cisco annonce la correction d’une vulnérabilité critique affectantson produit Cisco SD-WAN vManage Software. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’accéder à des informations...|13 juillet 2023|
- |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
- |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
- |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
- |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
- |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
- |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -156,6 +109,23 @@
  |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, security restriction bypass, remote code execution, sensitive information disclosure and denial of service on the targeted system.|Release Date: 11 Jul 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via TIFFClose(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749" class="noirorange"><b>Palo Alto PAN-OS</b>: file reading via configuration</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749)|An attacker can read a file of Palo Alto PAN-OS, via configuration, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>LibTIFF</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of LibTIFF, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745" class="noirorange"><b>SciPy</b>: reuse after free</a>](https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745)|An attacker can force the reuse of a freed memory area of SciPy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744" class="noirorange"><b>krb5</b>: out-of-bounds memory reading via kadm5</a>](https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744)|An attacker can force a read at an invalid memory address of krb5, via kadm5, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via REST</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via REST, in order to gain user privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -173,6 +143,36 @@
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
  |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall GMS and Analytics directory traversal (CVE-2023-34129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[SonicWall GMS and Analytics privilege escalation (CVE-2023-34128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[SonicWall GMS and Analytics command execution (CVE-2023-34127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[SonicWall GMS and Analytics file upload (CVE-2023-34126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[SonicWall GMS and Analytics directory traversal (CVE-2023-34125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[SonicWall GMS and Analytics security bypass (CVE-2023-34124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Wireshark denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
+ |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
+ |[42811307/23 - Vulnérabilité critique affectant Cisco SD-WAN vManage software](https://www.dgssi.gov.ma//fr/content/4281130723-vulnerabilite-critique-affectant-cisco-sd-wan-vmanage-software.html)|Cisco annonce la correction d’une vulnérabilité critique affectantson produit Cisco SD-WAN vManage Software. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’accéder à des informations...|13 juillet 2023|
+ |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
+ |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
+ |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
+ |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ |[42761207/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4276120723-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|12 juillet 2023|
+ |[42751207/23 - Vulnérabilité critique affectant Fortinet FortiOS et FortiProxy](https://www.dgssi.gov.ma//fr/content/4275120723-vulnerabilite-critique-affectant-fortinet-fortios-et-fortiproxy.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité critique affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette vulnérabilité peut...|12 juillet 2023|
+ |[42741207/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4274120723-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de cettevulnérabilité peut permettre à un attaquant...|12 juillet 2023|
  
 
 # ZERODAYINITIATIVE
@@ -193,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Drupal security advisory (AV23-405)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-405)|Visit link for details|2023-07-13|
  |[Apple security advisory (AV23-404)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-404)|Visit link for details|2023-07-13|
  |[HPE security advisory (AV23-403)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-403)|Visit link for details|2023-07-12|
  |[SonicWall security advisory (AV23-402)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-402)|Visit link for details|2023-07-12|
@@ -203,5 +204,4 @@
  |[Fortinet security advisory (AV23-397)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-397)|Visit link for details|2023-07-12|
  |[Citrix security advisory (AV23-396)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-396)|Visit link for details|2023-07-11|
  |[Adobe security advisory (AV23-395)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-395)|Visit link for details|2023-07-11|
- |[Microsoft security advisory – July 2023 monthly rollup (AV23-394)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2023-monthly-rollup-av23-394)|Visit link for details|2023-07-11|
  
