@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/07/2023 04:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/07/2023 06:53:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6224-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6224-1-linux-kernel-vulnerabilities.45924/)|Visit link for details.|Jul 13, 2023|
  |[USN-6223-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6223-1-linux-kernel-azure-cvm-vulnerabilities.45922/)|Visit link for details.|Jul 12, 2023|
  |[USN-6222-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6222-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45921/)|Visit link for details.|Jul 12, 2023|
  |[USN-6221-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6221-1-linux-kernel-vulnerabilities.45920/)|Visit link for details.|Jul 12, 2023|
@@ -43,23 +44,6 @@
  |[USN-6217-1: .NET vulnerability](https://www.linux.org/threads/usn-6217-1-net-vulnerability.45902/)|Visit link for details.|Jul 11, 2023|
  |[USN-6215-1: dwarves vulnerabilities](https://www.linux.org/threads/usn-6215-1-dwarves-vulnerabilities.45897/)|Visit link for details.|Jul 11, 2023|
  |[USN-6214-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6214-1-thunderbird-vulnerabilities.45894/)|Visit link for details.|Jul 11, 2023|
- |[USN-6213-1: Ghostscript vulnerability](https://www.linux.org/threads/usn-6213-1-ghostscript-vulnerability.45878/)|Visit link for details.|Jul 10, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
- |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
- |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
- |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
- |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
- |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
- |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Jul 11, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2023|
- |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
  
 
 # CERT-FR
@@ -76,19 +60,6 @@
  |[Multiples vulnérabilités dans Citrix Secure Access client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0529/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 juillet 2023|
  |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0528/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 juillet 2023|
  |[Vulnérabilité dans Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0527/)|Une vulnérabilité a été découverte dans |Publié le 12 juillet 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Rockwell Automation products denial of service (CVE-2023-3596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Rockwell Automation products code execution (CVE-2023-3595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-30913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-30918)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
- |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-30919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
  
 
 # CERT-SANTE
@@ -108,21 +79,36 @@
  |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|11/07/2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738" class="noirorange"><b>FortiOS</b>: buffer overflow via HTTP/2</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738)|An attacker can trigger a buffer overflow of FortiOS, via HTTP/2, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736" class="noirorange"><b>QEMU</b>: NULL pointer dereference via connection VNC over TLS</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736)|An attacker can force a NULL pointer to be dereferenced on QEMU, via connection VNC over TLS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735" class="noirorange"><b>Linux kernel</b>: memory corruption via skcipher_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735)|An attacker can trigger a memory corruption of the Linux kernel, via skcipher_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-websocket-41734" class="noirorange"><b>FortiOS</b>: user access via websocket</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-websocket-41734)|An attacker can bypass restrictions of FortiOS, via websocket, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-41733" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-41733)|An attacker can traverse directories of FortiAnalyzer  FortiManager, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-the-driver-vmwgfx-41732" class="noirorange"><b>Linux kernel</b>: double free via the driver vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-the-driver-vmwgfx-41732)|An attacker can force a double memory free of the Linux kernel, via vmwgfx, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-the-driver-vmwgfx-41731" class="noirorange"><b>Linux kernel</b>: information disclosure via the driver vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-the-driver-vmwgfx-41731)|An attacker can bypass access restrictions to data of the Linux kernel, via vmwgfx, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730" class="noirorange"><b>Mozilla Firefox</b>: reuse after free via workers</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730)|An attacker can force the reuse of a freed memory area of Mozilla Firefox, via workers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729" class="noirorange"><b>IBM Db2</b>: buffer overflow via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729)|An attacker can trigger a buffer overflow of IBM Db2, via federation, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726" class="noirorange"><b>Rizin</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726)|An attacker can trigger a buffer overflow of Rizin, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
+ |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
+ |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
+ |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
+ |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
+ |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
+ |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Jul 11, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2023|
+ |[Progress Software Releases Service Pack for MOVEit Transfer Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/07/07/progress-software-releases-service-pack-moveit-transfer-vulnerabilities)|Visit link for details.|Jul 07, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/07/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Jul 07, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
+ |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
+ |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
+ |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...|Release Date: 11 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, security restriction bypass, remote code execution, sensitive information disclosure and denial of service on the targeted system.|Release Date: 11 Jul 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:VMware has confirmed proof-of-concept exploit code is available for CVE-2023-20864...|Release Date: 11 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2023 |
  
 
 # MA-CERT
@@ -142,36 +128,6 @@
  |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
- |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
- |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...|Release Date: 11 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, security restriction bypass, remote code execution, sensitive information disclosure and denial of service on the targeted system.|Release Date: 11 Jul 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230711)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:VMware has confirmed proof-of-concept exploit code is available for CVE-2023-20864...|Release Date: 11 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Jul 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 may be under limited, ...|Release Date: 7 Jul 2023 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows Installer Service Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-913/)|Visit link for details|2023-07-12|
- |[Dassault Systèmes SolidWorks DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-912/)|Visit link for details|2023-07-12|
- |[Dassault Systèmes SolidWorks DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-911/)|Visit link for details|2023-07-12|
- |[Dassault Systèmes SolidWorks DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-910/)|Visit link for details|2023-07-12|
- |[Dassault Systèmes SolidWorks SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-909/)|Visit link for details|2023-07-12|
- |[Dassault Systèmes SolidWorks DXF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-908/)|Visit link for details|2023-07-12|
- |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +143,50 @@
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
  |[2023-038: Critical Vulnerability in FortiOS](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-038.pdf)|Fortinet has released several versions of FortiOS to patch a critical pre-authentication remote code execution (RCE) vulnerability in its Fortigate SSL VPN devices. The vulnerability, identified as CVE-2023-27997, allows a hostile agent to interfere via the VPN, even if Multi-Factor Authentication (MFA) is activated. |Tuesday, June 13, 2023 03:49:24 PM CEST|
  |[2023-037: High Severity Vulnerability in Cisco AnyConnect Client](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-037.pdf)|On June 7, 2023, Cisco issued an advisory regarding a vulnerability affecting Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows that could allow a low-privileged, authenticated, local attacker to elevate privileges to those of "SYSTEM".|Thursday, June 08, 2023 11:58:59 AM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738" class="noirorange"><b>FortiOS</b>: buffer overflow via HTTP/2</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-HTTP-2-41738)|An attacker can trigger a buffer overflow of FortiOS, via HTTP/2, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-41737)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736" class="noirorange"><b>QEMU</b>: NULL pointer dereference via connection VNC over TLS</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-connection-VNC-over-TLS-41736)|An attacker can force a NULL pointer to be dereferenced on QEMU, via connection VNC over TLS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735" class="noirorange"><b>Linux kernel</b>: memory corruption via skcipher_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skcipher-recvmsg-41735)|An attacker can trigger a memory corruption of the Linux kernel, via skcipher_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-websocket-41734" class="noirorange"><b>FortiOS</b>: user access via websocket</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-websocket-41734)|An attacker can bypass restrictions of FortiOS, via websocket, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-41733" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-41733)|An attacker can traverse directories of FortiAnalyzer  FortiManager, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-the-driver-vmwgfx-41732" class="noirorange"><b>Linux kernel</b>: double free via the driver vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-the-driver-vmwgfx-41732)|An attacker can force a double memory free of the Linux kernel, via vmwgfx, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-the-driver-vmwgfx-41731" class="noirorange"><b>Linux kernel</b>: information disclosure via the driver vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-the-driver-vmwgfx-41731)|An attacker can bypass access restrictions to data of the Linux kernel, via vmwgfx, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730" class="noirorange"><b>Mozilla Firefox</b>: reuse after free via workers</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-reuse-after-free-via-workers-41730)|An attacker can force the reuse of a freed memory area of Mozilla Firefox, via workers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729" class="noirorange"><b>IBM Db2</b>: buffer overflow via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-federation-41729)|An attacker can trigger a buffer overflow of IBM Db2, via federation, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726" class="noirorange"><b>Rizin</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Rizin-buffer-overflow-41726)|An attacker can trigger a buffer overflow of Rizin, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Two-factor Authentication module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Rockwell Automation products denial of service (CVE-2023-3596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Rockwell Automation products code execution (CVE-2023-3595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Apache Airflow Hive Provider command execution (CVE-2023-37415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Kodexplorer cross-site scripting (CVE-2023-37153)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Mobile Pack plugin for WordPress cross-site request forgery (CVE-2023-37391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2023|
+ |[Schneider Electric StruxureWare Data Center Expert code execution (CVE-2023-37199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows Installer Service Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-913/)|Visit link for details|2023-07-12|
+ |[Dassault Systèmes SolidWorks DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-912/)|Visit link for details|2023-07-12|
+ |[Dassault Systèmes SolidWorks DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-911/)|Visit link for details|2023-07-12|
+ |[Dassault Systèmes SolidWorks DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-910/)|Visit link for details|2023-07-12|
+ |[Dassault Systèmes SolidWorks SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-909/)|Visit link for details|2023-07-12|
+ |[Dassault Systèmes SolidWorks DXF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-908/)|Visit link for details|2023-07-12|
+ |[Siemens Solid Edge Viewer DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-907/)|Visit link for details|2023-07-10|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-906/)|Visit link for details|2023-07-10|
  
 
 # CA-CCS
