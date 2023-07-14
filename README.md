@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/07/2023 00:15:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/07/2023 01:19:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,38 +46,6 @@
  |[USN-6221-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6221-1-linux-kernel-vulnerabilities.45920/)|Visit link for details.|Jul 12, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Jul 13, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
- |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
- |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
- |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
- |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
- |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 13 Jul 2023 |
- |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
- |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...| Release Date: 11 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
- |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,33 +63,6 @@
  |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AC Repair and Services System SQL Injection (CVE-2023-3657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[AC Repair and Services System SQL Injection (CVE-2023-3658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[AC Repair and Services System cross-site scripting (CVE-2023-3659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[AC Repair and Services System SQL Injection (CVE-2023-3661)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Netgear ProSAFE Network Management System privilege escalation (CVE-2023-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Netgear ProSAFE Network Management System SQL Injection (CVE-2023-38099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Multiple BD Alaris system products information disclosure (CVE-2023-30565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -136,6 +77,22 @@
  |[Vulnérabilité dans Microsoft Active Directory Federation Service](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0547/)|Une vulnérabilité a été découverte dans Microsoft Active Directory Federation Service. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
  |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0546/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 juillet 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
+ |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Jul 13, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
+ |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
+ |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
+ |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
+ |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
+ |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
  
 
 # OBS-Vigilance
@@ -155,6 +112,19 @@
  |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AC Repair and Services System SQL Injection (CVE-2023-3657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[AC Repair and Services System SQL Injection (CVE-2023-3658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[AC Repair and Services System cross-site scripting (CVE-2023-3659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[AC Repair and Services System SQL Injection (CVE-2023-3661)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Netgear ProSAFE Network Management System privilege escalation (CVE-2023-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Netgear ProSAFE Network Management System SQL Injection (CVE-2023-38099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Multiple BD Alaris system products information disclosure (CVE-2023-30565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,6 +140,22 @@
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
  |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 13 Jul 2023 |
+ |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
+ |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...| Release Date: 11 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
+ |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
  
 
 # MA-CERT
@@ -204,4 +190,18 @@
  |[SonicWall security advisory (AV23-402)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-402)|Visit link for details|2023-07-12|
  |[Juniper Networks security advisory (AV23-401)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-401)|Visit link for details|2023-07-12|
  |[Cisco security advisory (AV23-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-400)|Visit link for details|2023-07-12|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
