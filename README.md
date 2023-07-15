@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/07/2023 18:22:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/07/2023 19:15:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Jul 13, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
- |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
- |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
- |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
- |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
- |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6224-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6224-1-linux-kernel-vulnerabilities.45924/)|Visit link for details.|Jul 13, 2023|
  |[USN-6223-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6223-1-linux-kernel-azure-cvm-vulnerabilities.45922/)|Visit link for details.|Jul 12, 2023|
  |[USN-6222-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6222-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45921/)|Visit link for details.|Jul 12, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
+ |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Jul 13, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
+ |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
+ |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
+ |[Fortinet Releases Security Update for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2023/07/11/fortinet-releases-security-update-fortios-and-fortiproxy)|Visit link for details.|Jul 11, 2023|
+ |[Adobe Releases Security Updates for ColdFusion and InDesign](https://www.cisa.gov/news-events/alerts/2023/07/11/adobe-releases-security-updates-coldfusion-and-indesign)|Visit link for details.|Jul 11, 2023|
+ |[Mozilla Releases Security Update for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/07/11/mozilla-releases-security-update-firefox-and-firefox-esr)|Visit link for details.|Jul 11, 2023|
  
 
 # CERT-FR
@@ -111,33 +111,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF code execution (CVE-2023-38091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF buffer overflow (CVE-2023-38094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF buffer overflow (CVE-2023-38093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF buffer overflow (CVE-2023-38092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF buffer overflow (CVE-2023-38090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF code execution (CVE-2023-38088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF code execution (CVE-2023-38079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -153,6 +126,36 @@
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
  |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Kofax Power PDF code execution (CVE-2023-38091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF buffer overflow (CVE-2023-38094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF buffer overflow (CVE-2023-38093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF buffer overflow (CVE-2023-38092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF buffer overflow (CVE-2023-38090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-38088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-38079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
+ |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
+ |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
+ |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
+ |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
+ |[42811307/23 - Vulnérabilité critique affectant Cisco SD-WAN vManage software](https://www.dgssi.gov.ma//fr/content/4281130723-vulnerabilite-critique-affectant-cisco-sd-wan-vmanage-software.html)|Cisco annonce la correction d’une vulnérabilité critique affectantson produit Cisco SD-WAN vManage Software. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’accéder à des informations...|13 juillet 2023|
+ |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
+ |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
+ |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
+ |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
  
 
 # OBS-Vigilance
@@ -172,21 +175,18 @@
  |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
- |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
- |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
- |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
- |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
- |[42811307/23 - Vulnérabilité critique affectant Cisco SD-WAN vManage software](https://www.dgssi.gov.ma//fr/content/4281130723-vulnerabilite-critique-affectant-cisco-sd-wan-vmanage-software.html)|Cisco annonce la correction d’une vulnérabilité critique affectantson produit Cisco SD-WAN vManage Software. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’accéder à des informations...|13 juillet 2023|
- |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
- |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
- |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
 
 # CA-CCS
