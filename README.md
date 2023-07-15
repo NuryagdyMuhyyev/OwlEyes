@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/07/2023 17:35:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/07/2023 18:22:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[USN-6222-1: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6222-1-linux-kernel-xilinx-zynqmp-vulnerabilities.45921/)|Visit link for details.|Jul 12, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/)|Une vulnérabilité a été corrigée dans |Publié le 13 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/)|De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges.|Publié le 13 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0533/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0532/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
+ |[Vulnérabilité dans Cisco SD-WAN vManage](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0548/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
+ |[Vulnérabilité dans Microsoft Active Directory Federation Service](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0547/)|Une vulnérabilité a été découverte dans Microsoft Active Directory Federation Service. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
+ |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0546/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 juillet 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Fortinet - CVE-2023-33308](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33308-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Citrix - CVE-2023-24492](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24492-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Cisco - CVE-2023-20214](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20214-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Microsoft SmartScreen - CVE-2023-32049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2023-32049-2023-07-12)|Visit link for details.|12/07/2023|
+ |[Microsoft MSHTML - CVE-2023-32046](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-mshtml-cve-2023-32046-2023-07-12)|Visit link for details.|12/07/2023|
+ |[Microsoft Outlook - CVE-2023-35311](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-outlook-cve-2023-35311-2023-07-12)|Visit link for details.|12/07/2023|
+ |[Microsoft Rapport d’erreurs Windows- CVE-2023-36874](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-rapport-derreurs-windows-cve-2023-36874-2023-07-12)|Visit link for details.|12/07/2023|
+ |[Microsoft - CVE-2023-36884](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36884-2023-07-12)|Visit link for details.|12/07/2023|
+ |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,23 +124,6 @@
  |[Kofax Power PDF code execution (CVE-2023-38079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|13/07/2023|
- |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|13/07/2023|
- |[Fortinet - CVE-2023-33308](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33308-2023-07-13)|Visit link for details.|13/07/2023|
- |[Citrix - CVE-2023-24492](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24492-2023-07-13)|Visit link for details.|13/07/2023|
- |[Cisco - CVE-2023-20214](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20214-2023-07-13)|Visit link for details.|13/07/2023|
- |[Microsoft SmartScreen - CVE-2023-32049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2023-32049-2023-07-12)|Visit link for details.|12/07/2023|
- |[Microsoft MSHTML - CVE-2023-32046](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-mshtml-cve-2023-32046-2023-07-12)|Visit link for details.|12/07/2023|
- |[Microsoft Outlook - CVE-2023-35311](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-outlook-cve-2023-35311-2023-07-12)|Visit link for details.|12/07/2023|
- |[Microsoft Rapport d’erreurs Windows- CVE-2023-36874](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-rapport-derreurs-windows-cve-2023-36874-2023-07-12)|Visit link for details.|12/07/2023|
- |[Microsoft - CVE-2023-36884](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36884-2023-07-12)|Visit link for details.|12/07/2023|
- |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -122,20 +138,21 @@
  |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
 
-# CERT-FR
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/)|Une vulnérabilité a été corrigée dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/)|De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges.|Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0533/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0532/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Cisco SD-WAN vManage](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0548/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Microsoft Active Directory Federation Service](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0547/)|Une vulnérabilité a été découverte dans Microsoft Active Directory Federation Service. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
- |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0546/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 juillet 2023|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
+ |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
+ |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
+ |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
+ |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
+ |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
  
 
 # OBS-Vigilance
@@ -170,23 +187,6 @@
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
  |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
- |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
- |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
- |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
- |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
- |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
- |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
- |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
  
 
 # CA-CCS
