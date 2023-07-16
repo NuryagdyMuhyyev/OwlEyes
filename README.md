@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2023 17:34:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/07/2023 18:21:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,19 +78,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 juillet 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF code execution (CVE-2023-37343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF code execution (CVE-2023-37341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF code execution (CVE-2023-37340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF code execution (CVE-2023-37339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF information disclosure (CVE-2023-37356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF information disclosure (CVE-2023-37355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- |[Kofax Power PDF information disclosure (CVE-2023-37353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,35 +111,17 @@
  |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755" class="noirorange"><b>php-dompdf</b>: write access via File Name External Control</a>](https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755)|An attacker can bypass access restrictions of php-dompdf, via File Name External Control, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754" class="noirorange"><b>php-dompdf</b>: code execution via PHAR Deserialization</a>](https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754)|An attacker can use a vulnerability of php-dompdf, via PHAR Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via TIFFClose(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749" class="noirorange"><b>Palo Alto PAN-OS</b>: file reading via configuration</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749)|An attacker can read a file of Palo Alto PAN-OS, via configuration, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>LibTIFF</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of LibTIFF, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
+ |[Kofax Power PDF code execution (CVE-2023-37343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-37341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-37340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-37339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF information disclosure (CVE-2023-37356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF information disclosure (CVE-2023-37355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
+ |[Kofax Power PDF information disclosure (CVE-2023-37353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 13, 2023|
  
 
 # EU-CERT
@@ -172,21 +141,35 @@
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Wednesday, June 14, 2023 05:53:40 PM CEST|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV23-410)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-410)|Visit link for details|2023-07-14|
- |[HPE security advisory (AV23-409)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-409)|Visit link for details|2023-07-14|
- |[[Control systems] BD Alaris security advisory (AV23-408)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-bd-alaris-security-advisory-av23-408)|Visit link for details|2023-07-13|
- |[[Control systems] Rockwell Automation security advisory (AV23-407)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-407)|Visit link for details|2023-07-13|
- |[[Control systems] Honeywell security advisory (AV23-406)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-406)|Visit link for details|2023-07-13|
- |[Drupal security advisory (AV23-405)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-405)|Visit link for details|2023-07-13|
- |[Apple security advisory (AV23-404)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-404)|Visit link for details|2023-07-13|
- |[HPE security advisory (AV23-403)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-403)|Visit link for details|2023-07-12|
- |[SonicWall security advisory (AV23-402)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-402)|Visit link for details|2023-07-12|
- |[Juniper Networks security advisory (AV23-401)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-401)|Visit link for details|2023-07-12|
- |[Cisco security advisory (AV23-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-400)|Visit link for details|2023-07-12|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755" class="noirorange"><b>php-dompdf</b>: write access via File Name External Control</a>](https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755)|An attacker can bypass access restrictions of php-dompdf, via File Name External Control, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754" class="noirorange"><b>php-dompdf</b>: code execution via PHAR Deserialization</a>](https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754)|An attacker can use a vulnerability of php-dompdf, via PHAR Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via TIFFClose(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749" class="noirorange"><b>Palo Alto PAN-OS</b>: file reading via configuration</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749)|An attacker can read a file of Palo Alto PAN-OS, via configuration, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>LibTIFF</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of LibTIFF, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
 
 # MA-CERT
@@ -204,4 +187,21 @@
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
  |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-410)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-410)|Visit link for details|2023-07-14|
+ |[HPE security advisory (AV23-409)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-409)|Visit link for details|2023-07-14|
+ |[[Control systems] BD Alaris security advisory (AV23-408)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-bd-alaris-security-advisory-av23-408)|Visit link for details|2023-07-13|
+ |[[Control systems] Rockwell Automation security advisory (AV23-407)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-407)|Visit link for details|2023-07-13|
+ |[[Control systems] Honeywell security advisory (AV23-406)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-406)|Visit link for details|2023-07-13|
+ |[Drupal security advisory (AV23-405)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-405)|Visit link for details|2023-07-13|
+ |[Apple security advisory (AV23-404)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-404)|Visit link for details|2023-07-13|
+ |[HPE security advisory (AV23-403)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-403)|Visit link for details|2023-07-12|
+ |[SonicWall security advisory (AV23-402)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-402)|Visit link for details|2023-07-12|
+ |[Juniper Networks security advisory (AV23-401)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-401)|Visit link for details|2023-07-12|
+ |[Cisco security advisory (AV23-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-400)|Visit link for details|2023-07-12|
  
