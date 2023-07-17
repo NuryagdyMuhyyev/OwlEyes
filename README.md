@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/07/2023 18:28:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/07/2023 19:17:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,23 +95,6 @@
  |[VMware - CVE-2023-20864](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20864-2023-04-21)|Visit link for details.|12/07/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768" class="noirorange"><b>Go</b>: header injection via Host Header</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768)|An attacker can add new headers on Go, via Host Header, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765" class="noirorange"><b>Redis</b>: assertion error via Non-administrative Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765)|An attacker can force an assertion error of Redis, via Non-administrative Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764" class="noirorange"><b>OpenSSL</b>: spoofing via AES-SIV Empty Associated Data Entries</a>](https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764)|An attacker can create spoofed data on OpenSSL, via AES-SIV Empty Associated Data Entries, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763" class="noirorange"><b>Kanboard</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763)|An attacker can use a SQL injection of Kanboard, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762" class="noirorange"><b>gpac</b>: buffer overflow via id3dmx_flush()</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762)|An attacker can trigger a buffer overflow of gpac, via id3dmx_flush(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761" class="noirorange"><b>gpac</b>: NULL pointer dereference via xml_sax_parse_entity()</a>](https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761)|An attacker can force a NULL pointer to be dereferenced on gpac, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760" class="noirorange"><b>gpac</b>: buffer overflow via Null Grouping Type</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760)|An attacker can trigger a buffer overflow of gpac, via Null Grouping Type, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759" class="noirorange"><b>pypdf</b>: overload via Missing Xref Marker</a>](https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759)|An attacker can trigger an overload of pypdf, via Missing Xref Marker, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -142,6 +125,23 @@
  |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768" class="noirorange"><b>Go</b>: header injection via Host Header</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768)|An attacker can add new headers on Go, via Host Header, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765" class="noirorange"><b>Redis</b>: assertion error via Non-administrative Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765)|An attacker can force an assertion error of Redis, via Non-administrative Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764" class="noirorange"><b>OpenSSL</b>: spoofing via AES-SIV Empty Associated Data Entries</a>](https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764)|An attacker can create spoofed data on OpenSSL, via AES-SIV Empty Associated Data Entries, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763" class="noirorange"><b>Kanboard</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763)|An attacker can use a SQL injection of Kanboard, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762" class="noirorange"><b>gpac</b>: buffer overflow via id3dmx_flush()</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762)|An attacker can trigger a buffer overflow of gpac, via id3dmx_flush(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761" class="noirorange"><b>gpac</b>: NULL pointer dereference via xml_sax_parse_entity()</a>](https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761)|An attacker can force a NULL pointer to be dereferenced on gpac, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760" class="noirorange"><b>gpac</b>: buffer overflow via Null Grouping Type</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760)|An attacker can trigger a buffer overflow of gpac, via Null Grouping Type, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759" class="noirorange"><b>pypdf</b>: overload via Missing Xref Marker</a>](https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759)|An attacker can trigger an overload of pypdf, via Missing Xref Marker, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -156,20 +156,6 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
  |[Microsoft Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassSpoofingCVE-2023-...|Release Date: 12 Jul 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 12 Jul 2023 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
 
 # MA-CERT
@@ -187,6 +173,20 @@
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
  |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF popUpMenu Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-965/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF printf Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-964/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF clearTimeOut Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-963/)|Visit link for details|2023-07-13|
  
 
 # CA-CCS
