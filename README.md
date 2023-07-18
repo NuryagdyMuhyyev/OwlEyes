@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2023 21:24:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2023 22:15:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,55 +62,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
- |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
- |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780" class="noirorange"><b>Keycloak</b>: spoofing via Email Trust</a>](https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780)|An attacker can create spoofed data on Keycloak, via Email Trust, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Command Payload Size</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778)|An attacker can force a read at an invalid memory address of the Linux kernel, via Command Payload Size, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via SMB Request Protocol ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777)|An attacker can force a read at an invalid memory address of the Linux kernel, via SMB Request Protocol ID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ksmbd_conn_handler_loop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via deassemble_neg_contexts()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd_smb2_check_message()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via UserName Value</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773)|An attacker can force a read at an invalid memory address of the Linux kernel, via UserName Value, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_find_context_vals()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 13 Jul 2023 |
- |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
- |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...| Release Date: 11 Jul 2023 |
- |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -128,6 +79,22 @@
  |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,20 +106,6 @@
  |[Royal Elementor Addons plugin for WordPress information disclosure (CVE-2023-3709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
  |[ProfileGrid plugin for WordPress security bypass (CVE-2023-3713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
  
 
 # EU-CERT
@@ -172,6 +125,23 @@
  |[2023-033: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-033.pdf)|On May 31, 2023, an SQL injection vulnerability has been found in the MOVEit Transfer web application. This critical vulnerability could lead to escalated privileges and potential unauthorised access to the environment. Associated CVE is CVE-2023-34362 with CVSS score of 9.8 and it is actively exploited in the wild. |Monday, June 19, 2023 12:23:44 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780" class="noirorange"><b>Keycloak</b>: spoofing via Email Trust</a>](https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780)|An attacker can create spoofed data on Keycloak, via Email Trust, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Command Payload Size</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778)|An attacker can force a read at an invalid memory address of the Linux kernel, via Command Payload Size, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via SMB Request Protocol ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777)|An attacker can force a read at an invalid memory address of the Linux kernel, via SMB Request Protocol ID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ksmbd_conn_handler_loop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via deassemble_neg_contexts()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd_smb2_check_message()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via UserName Value</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773)|An attacker can force a read at an invalid memory address of the Linux kernel, via UserName Value, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_find_context_vals()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -189,6 +159,22 @@
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 13 Jul 2023 |
+ |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
+ |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...| Release Date: 11 Jul 2023 |
+ |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,10 @@
  |[[Control systems] BD Alaris security advisory (AV23-408)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-bd-alaris-security-advisory-av23-408)|Visit link for details|2023-07-13|
  |[[Control systems] Rockwell Automation security advisory (AV23-407)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-407)|Visit link for details|2023-07-13|
  |[[Control systems] Honeywell security advisory (AV23-406)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-406)|Visit link for details|2023-07-13|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
