@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2023 16:14:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2023 17:36:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
- |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5454 kanboard - security update](https://www.linux.org/threads/dsa-5454-kanboard-security-update.45972/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5452 gpac - security update](https://www.linux.org/threads/dsa-5452-gpac-security-update.45957/)|Visit link for details.|Jul 15, 2023|
- |[USN-6231-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6231-1-linux-kernel-oem-vulnerabilities.45952/)|Visit link for details.|Jul 14, 2023|
- |[USN-6230-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6230-1-postgresql-vulnerability.45942/)|Visit link for details.|Jul 13, 2023|
- |[USN-6229-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6229-1-libtiff-vulnerabilities.45941/)|Visit link for details.|Jul 13, 2023|
- |[USN-6228-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6228-1-linux-kernel-vulnerabilities.45938/)|Visit link for details.|Jul 13, 2023|
- |[USN-6227-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6227-1-spidermonkey-vulnerabilities.45937/)|Visit link for details.|Jul 13, 2023|
- |[USN-6226-1: SciPy vulnerabilities](https://www.linux.org/threads/usn-6226-1-scipy-vulnerabilities.45929/)|Visit link for details.|Jul 13, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,37 +45,21 @@
  |[Microsoft Releases July 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/11/microsoft-releases-july-2023-security-updates)|Visit link for details.|Jul 11, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
- |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
- |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/)|Une vulnérabilité a été corrigée dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/)|De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges.|Publié le 13 juillet 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
- |[Netgear - CVE-2023-38096](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-38096-2023-07-17)|Visit link for details.|17/07/2023|
- |[Microsoft - CVE-2023-35366](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35366-2023-07-17)|Visit link for details.|17/07/2023|
- |[Microsoft - CVE-2023-32057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32057-2023-07-17)|Visit link for details.|17/07/2023|
- |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|17/07/2023|
- |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
- |[pfSense - CVE-2023-27253](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-27253-2023-03-20)|Visit link for details.|17/07/2023|
- |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|13/07/2023|
- |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|13/07/2023|
- |[Fortinet - CVE-2023-33308](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33308-2023-07-13)|Visit link for details.|13/07/2023|
- |[Citrix - CVE-2023-24492](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24492-2023-07-13)|Visit link for details.|13/07/2023|
+ |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5454 kanboard - security update](https://www.linux.org/threads/dsa-5454-kanboard-security-update.45972/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5452 gpac - security update](https://www.linux.org/threads/dsa-5452-gpac-security-update.45957/)|Visit link for details.|Jul 15, 2023|
+ |[USN-6231-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6231-1-linux-kernel-oem-vulnerabilities.45952/)|Visit link for details.|Jul 14, 2023|
+ |[USN-6230-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6230-1-postgresql-vulnerability.45942/)|Visit link for details.|Jul 13, 2023|
+ |[USN-6229-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6229-1-libtiff-vulnerabilities.45941/)|Visit link for details.|Jul 13, 2023|
+ |[USN-6228-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6228-1-linux-kernel-vulnerabilities.45938/)|Visit link for details.|Jul 13, 2023|
+ |[USN-6227-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6227-1-spidermonkey-vulnerabilities.45937/)|Visit link for details.|Jul 13, 2023|
+ |[USN-6226-1: SciPy vulnerabilities](https://www.linux.org/threads/usn-6226-1-scipy-vulnerabilities.45929/)|Visit link for details.|Jul 13, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -122,6 +89,39 @@
  |[Apple Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20230711)|A vulnerability was identified in Apple Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-37450 is being exploited in the wild. These vulnerabilities are related to the WebKit components that may...| Release Date: 11 Jul 2023 |
  |[Adobe Monthly Security Update (July 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe InDesign Medium RiskRemote Code ExecutionInformation DisclosureAPSB23-38Adobe ColdFusion Medium RiskSecurity Restriction BypassRemote Code...|Release Date: 12 Jul 2023 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Netgear - CVE-2023-38096](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-38096-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Microsoft - CVE-2023-35366](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35366-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Microsoft - CVE-2023-32057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32057-2023-07-17)|Visit link for details.|17/07/2023|
+ |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
+ |[pfSense - CVE-2023-27253](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-27253-2023-03-20)|Visit link for details.|17/07/2023|
+ |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Fortinet - CVE-2023-33308](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33308-2023-07-13)|Visit link for details.|13/07/2023|
+ |[Citrix - CVE-2023-24492](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24492-2023-07-13)|Visit link for details.|13/07/2023|
  
 
 # ZERODAYINITIATIVE
