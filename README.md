@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2023 20:18:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2023 21:24:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,28 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6078-2: libwebp vulnerability](https://www.linux.org/threads/usn-6078-2-libwebp-vulnerability.45991/)|Visit link for details.|Jul 18, 2023|
+ |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5454 kanboard - security update](https://www.linux.org/threads/dsa-5454-kanboard-security-update.45972/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
+ |[DSA-5452 gpac - security update](https://www.linux.org/threads/dsa-5452-gpac-security-update.45957/)|Visit link for details.|Jul 15, 2023|
+ |[USN-6231-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6231-1-linux-kernel-oem-vulnerabilities.45952/)|Visit link for details.|Jul 14, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
  |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
@@ -42,24 +60,6 @@
  |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Jul 13, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 12, 2023|
- |[CISA and FBI Release Cybersecurity Advisory on Enhanced Monitoring to Detect APT Activity Targeting Outlook Online](https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-and-fbi-release-cybersecurity-advisory-enhanced-monitoring-detect-apt-activity-targeting)|Visit link for details.|Jul 12, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
- |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5454 kanboard - security update](https://www.linux.org/threads/dsa-5454-kanboard-security-update.45972/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
- |[DSA-5452 gpac - security update](https://www.linux.org/threads/dsa-5452-gpac-security-update.45957/)|Visit link for details.|Jul 15, 2023|
- |[USN-6231-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6231-1-linux-kernel-oem-vulnerabilities.45952/)|Visit link for details.|Jul 14, 2023|
- |[USN-6230-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6230-1-postgresql-vulnerability.45942/)|Visit link for details.|Jul 13, 2023|
- |[USN-6229-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6229-1-libtiff-vulnerabilities.45941/)|Visit link for details.|Jul 13, 2023|
- |[USN-6228-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6228-1-linux-kernel-vulnerabilities.45938/)|Visit link for details.|Jul 13, 2023|
- |[USN-6227-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6227-1-spidermonkey-vulnerabilities.45937/)|Visit link for details.|Jul 13, 2023|
- |[USN-6226-1: SciPy vulnerabilities](https://www.linux.org/threads/usn-6226-1-scipy-vulnerabilities.45929/)|Visit link for details.|Jul 13, 2023|
  
 
 # CERT-FR
@@ -78,21 +78,21 @@
  |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
- |[Netgear - CVE-2023-38096](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-38096-2023-07-17)|Visit link for details.|17/07/2023|
- |[Microsoft - CVE-2023-35366](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35366-2023-07-17)|Visit link for details.|17/07/2023|
- |[Microsoft - CVE-2023-32057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32057-2023-07-17)|Visit link for details.|17/07/2023|
- |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|17/07/2023|
- |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
- |[pfSense - CVE-2023-27253](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-27253-2023-03-20)|Visit link for details.|17/07/2023|
- |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|13/07/2023|
- |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|13/07/2023|
- |[Fortinet - CVE-2023-33308](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-33308-2023-07-13)|Visit link for details.|13/07/2023|
- |[Citrix - CVE-2023-24492](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24492-2023-07-13)|Visit link for details.|13/07/2023|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780" class="noirorange"><b>Keycloak</b>: spoofing via Email Trust</a>](https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780)|An attacker can create spoofed data on Keycloak, via Email Trust, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Command Payload Size</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778)|An attacker can force a read at an invalid memory address of the Linux kernel, via Command Payload Size, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via SMB Request Protocol ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777)|An attacker can force a read at an invalid memory address of the Linux kernel, via SMB Request Protocol ID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ksmbd_conn_handler_loop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via deassemble_neg_contexts()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd_smb2_check_message()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via UserName Value</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773)|An attacker can force a read at an invalid memory address of the Linux kernel, via UserName Value, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_find_context_vals()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -111,34 +111,34 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230712)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 12 Jul 2023 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
+ |[Microsoft - CVE-2023-35367](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35367-2023-07-18)|Visit link for details.|18/07/2023|
+ |[WordPress Spectra - CVE-2023-36679](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-spectra-cve-2023-36679-2023-07-18)|Visit link for details.|18/07/2023|
+ |[Zimbra - CVE-2023-34192](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-34192-2023-07-18)|Visit link for details.|18/07/2023|
+ |[Zyxel - CVE-2023-33011](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33011-2023-07-18)|Visit link for details.|18/07/2023|
+ |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Netgear - CVE-2023-38096](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-38096-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Microsoft - CVE-2023-35366](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35366-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Microsoft - CVE-2023-32057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32057-2023-07-17)|Visit link for details.|17/07/2023|
+ |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|17/07/2023|
+ |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ProfileGrid plugin for WordPress privilege escalation (CVE-2023-3714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- |[Tenda F1202 buffer overflow (CVE-2023-37719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Command Payload Size</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778)|An attacker can force a read at an invalid memory address of the Linux kernel, via Command Payload Size, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via SMB Request Protocol ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777)|An attacker can force a read at an invalid memory address of the Linux kernel, via SMB Request Protocol ID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ksmbd_conn_handler_loop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via deassemble_neg_contexts()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd_smb2_check_message()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via UserName Value</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773)|An attacker can force a read at an invalid memory address of the Linux kernel, via UserName Value, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_find_context_vals()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768" class="noirorange"><b>Go</b>: header injection via Host Header</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768)|An attacker can add new headers on Go, via Host Header, in order to alter the service behavior...|Visit link for details|
+ |[Zyxel firewalls command execution (CVE-2023-34141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Hitachi Device Manager for Windows and Hitachi Device Manager for Linux information disclosure (CVE-2023-34142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Hitachi Device Manager for Windows and Hitachi Device Manager for Linux man-in-the middle (CVE-2023-34143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Multiple WordPress themes cross-site scripting (CVE-2023-3708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
+ |[Royal Elementor Addons plugin for WordPress information disclosure (CVE-2023-3709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
+ |[ProfileGrid plugin for WordPress security bypass (CVE-2023-3713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -193,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Citrix security advisory (AV23-416)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-416)|Visit link for details|2023-07-18|
  |[SonicWall security advisory (AV23-415)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-415)|Visit link for details|2023-07-17|
  |[Adobe security advisory (AV23-414)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-414)|Visit link for details|2023-07-17|
  |[Dell security advisory (AV23-413)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-413)|Visit link for details|2023-07-17|
@@ -203,5 +204,4 @@
  |[[Control systems] BD Alaris security advisory (AV23-408)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-bd-alaris-security-advisory-av23-408)|Visit link for details|2023-07-13|
  |[[Control systems] Rockwell Automation security advisory (AV23-407)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-407)|Visit link for details|2023-07-13|
  |[[Control systems] Honeywell security advisory (AV23-406)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-406)|Visit link for details|2023-07-13|
- |[Drupal security advisory (AV23-405)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-405)|Visit link for details|2023-07-13|
  
