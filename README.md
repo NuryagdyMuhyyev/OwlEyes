@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2023 21:22:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2023 22:15:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
- |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
- |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -99,19 +83,38 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Super Store Finder plugin for WordPress SQL injection (CVE-2023-3751)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Academy LMS cross-site scripting (CVE-2023-3752)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Oracle Business Intelligence Enterprise Edition unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Mastery Lms cross-site scripting (CVE-2023-3753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
  |[Ekushey Project Manager CRM cross-site scripting (CVE-2023-3754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
  |[Atlas Business Directory Listing cross-site scripting (CVE-2023-3755)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
  |[Atlas Business Directory Listing cross-site scripting (CVE-2023-3756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Car Rental Script cross-site scripting (CVE-2023-3757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Crestron 3-Series Control Systems denial of service (CVE-2023-38405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Oracle Database Server unspecified (CVE-2023-22052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Oracle Database Server unspecified (CVE-2023-21949)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
+ |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
+ |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
+ |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
+ |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
@@ -120,9 +123,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcurl-file-corruption-41790" class="noirorange"><b>libcurl</b>: file corruption</a>](https://vigilance.fr/vulnerability/libcurl-file-corruption-41790)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of libcurl...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786" class="noirorange"><b>Oracle Solaris</b>: privilege escalation via Device Driver Interface</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786)|An attacker can bypass restrictions of Oracle Solaris, via Device Driver Interface, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -142,6 +142,22 @@
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and cross-site scripting on the targeted system. Note:According to Citrix, exploits of CVE-2023-3519 on...|Release Date: 19 Jul 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Jul 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. [Updated on 2023-07-19] Updated...| Release Date: 13 Jul 2023 |
+ |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -157,22 +173,6 @@
  |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and cross-site scripting on the targeted system. Note:According to Citrix, exploits of CVE-2023-3519 on...|Release Date: 19 Jul 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Jul 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. [Updated on 2023-07-19] Updated...| Release Date: 13 Jul 2023 |
- |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
- |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
  
 
 # CA-CCS
