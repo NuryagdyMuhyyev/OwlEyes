@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2023 16:13:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2023 17:33:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
  |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
  |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
  |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
@@ -43,39 +44,6 @@
  |[DSA-5454 kanboard - security update](https://www.linux.org/threads/dsa-5454-kanboard-security-update.45972/)|Visit link for details.|Jul 17, 2023|
  |[DSA-5453 linux - security update](https://www.linux.org/threads/dsa-5453-linux-security-update.45971/)|Visit link for details.|Jul 17, 2023|
  |[DSA-5452 gpac - security update](https://www.linux.org/threads/dsa-5452-gpac-security-update.45957/)|Visit link for details.|Jul 15, 2023|
- |[USN-6231-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6231-1-linux-kernel-oem-vulnerabilities.45952/)|Visit link for details.|Jul 14, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
- |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
- |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
- |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
- |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
  
 
 # CERT-SANTE
@@ -95,21 +63,20 @@
  |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|17/07/2023|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcurl-file-corruption-41790" class="noirorange"><b>libcurl</b>: file corruption</a>](https://vigilance.fr/vulnerability/libcurl-file-corruption-41790)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of libcurl...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786" class="noirorange"><b>Oracle Solaris</b>: privilege escalation via Device Driver Interface</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786)|An attacker can bypass restrictions of Oracle Solaris, via Device Driver Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
  
 
 # HK-CERT
@@ -128,17 +95,37 @@
  |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle Database Server unspecified (CVE-2023-22052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Oracle Database Server unspecified (CVE-2023-21949)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Oracle Database Server unspecified (CVE-2023-22034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Multiple Zyxel firewalls and WLAN controllers command execution (CVE-2023-33012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Multiple Zyxel firewalls and WLAN controllers command execution (CVE-2023-33011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Weintek Weincloud Account API denial of service (CVE-2023-34429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Weintek Weincloud Account API brute force (CVE-2023-32657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcurl-file-corruption-41790" class="noirorange"><b>libcurl</b>: file corruption</a>](https://vigilance.fr/vulnerability/libcurl-file-corruption-41790)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of libcurl...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786" class="noirorange"><b>Oracle Solaris</b>: privilege escalation via Device Driver Interface</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786)|An attacker can bypass restrictions of Oracle Solaris, via Device Driver Interface, in order to escalate his privileges...|Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
+ |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
+ |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
+ |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
+ |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/13/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jul 13, 2023|
  
 
 # EU-CERT
@@ -156,6 +143,33 @@
  |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Database Server unspecified (CVE-2023-22052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Oracle Database Server unspecified (CVE-2023-21949)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Oracle Database Server unspecified (CVE-2023-22034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Multiple Zyxel firewalls and WLAN controllers command execution (CVE-2023-33012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Multiple Zyxel firewalls and WLAN controllers command execution (CVE-2023-33011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Weintek Weincloud Account API denial of service (CVE-2023-34429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Weintek Weincloud Account API brute force (CVE-2023-32657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
+ |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
+ |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
  
 
 # MA-CERT
@@ -190,18 +204,4 @@
  |[Adobe security advisory (AV23-414)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-414)|Visit link for details|2023-07-17|
  |[Dell security advisory (AV23-413)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-413)|Visit link for details|2023-07-17|
  |[IBM security advisory (AV23-412)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-412)|Visit link for details|2023-07-17|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
- |[(0Day) Sante DICOM Viewer Pro DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-970/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF response Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-969/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF replacePages Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-968/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF saveAs Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-967/)|Visit link for details|2023-07-13|
- |[Kofax Power PDF importDataObject Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-966/)|Visit link for details|2023-07-13|
  
