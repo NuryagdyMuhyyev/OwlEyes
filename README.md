@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2023 10:16:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2023 11:22:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,19 +111,6 @@
  |[SonicWall Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sonicwall-products-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in SonicWall Products.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Keysight N6845A Geolocation Server directory traversal (CVE-2023-34394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Keysight N6845A Geolocation Server privilege escalation (CVE-2023-36853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Google Chrome security bypass (CVE-2023-3740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Google Chrome security bypass (CVE-2023-3738)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Google Chrome security bypass (CVE-2023-3737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Google Chrome security bypass (CVE-2023-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- |[Google Chrome security bypass (CVE-2023-3735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_find_context_vals()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Keysight N6845A Geolocation Server directory traversal (CVE-2023-34394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Keysight N6845A Geolocation Server privilege escalation (CVE-2023-36853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Google Chrome security bypass (CVE-2023-3740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Google Chrome security bypass (CVE-2023-3738)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Google Chrome security bypass (CVE-2023-3737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Google Chrome security bypass (CVE-2023-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
+ |[Google Chrome security bypass (CVE-2023-3735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 18, 2023|
  
 
 # EU-CERT
