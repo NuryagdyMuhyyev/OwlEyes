@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/07/2023 14:16:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/07/2023 15:18:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
- |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
- |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
+ |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6078-2: libwebp vulnerability](https://www.linux.org/threads/usn-6078-2-libwebp-vulnerability.45991/)|Visit link for details.|Jul 18, 2023|
+ |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
  
 
 # CERT-FR
@@ -61,21 +62,20 @@
  |[Multiples vulnérabilités dans les commutateurs Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0559/)|De multiples vulnérabilités ont été découvertes dans les commutateurs Aruba. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 19 juillet 2023|
  
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
- |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
- |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
- |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
- |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
- |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
- |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
- |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
- |[USN-6078-2: libwebp vulnerability](https://www.linux.org/threads/usn-6078-2-libwebp-vulnerability.45991/)|Visit link for details.|Jul 18, 2023|
- |[DSA-5455 iperf3 - security update](https://www.linux.org/threads/dsa-5455-iperf3-security-update.45989/)|Visit link for details.|Jul 18, 2023|
- |[USN-6184-2: CUPS vulnerability](https://www.linux.org/threads/usn-6184-2-cups-vulnerability.45978/)|Visit link for details.|Jul 17, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
+ |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
+ |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
+ |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
+ |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
  
 
 # CERT-SANTE
@@ -95,19 +95,6 @@
  |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Foxit PDF Reader code execution (CVE-2023-27379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-33876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-33866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Adobe ColdFusion security bypass (CVE-2023-38206)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Adobe ColdFusion security bypass (CVE-2023-38205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Adobe ColdFusion code execution (CVE-2023-38204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,35 +111,17 @@
  |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
- |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
+ |[Foxit PDF Reader code execution (CVE-2023-27379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Foxit PDF Reader code execution (CVE-2023-33876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Foxit PDF Reader code execution (CVE-2023-33866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Foxit PDF Reader code execution (CVE-2023-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Adobe ColdFusion security bypass (CVE-2023-38206)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Adobe ColdFusion security bypass (CVE-2023-38205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Adobe ColdFusion code execution (CVE-2023-38204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  
 
 # EU-CERT
@@ -172,6 +141,20 @@
  |[2023-040: Multiple Vulnerabilities in VMWare Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-040.pdf)|On June 22, VMWare released an advisory regarding multiple memory corruption high severity vulnerabilities in VMware vCenter Server. The affected software provides a centralised and extensible platform for managing virtual infrastructure. The vulnerabilities were found in the DCERPC protocol implementation utilised by vCenter Server. The protocol allows for smooth operation across multiple systems by creating a virtual unified computing environment.|Friday, June 23, 2023 03:31:40 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
+ |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
