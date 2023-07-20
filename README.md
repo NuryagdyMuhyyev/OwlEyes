@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/07/2023 20:17:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/07/2023 21:22:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
  |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
  |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
@@ -58,25 +60,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
  |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
- |[Cisco Releases Security Update for SD-WAN vManage API](https://www.cisa.gov/news-events/alerts/2023/07/13/cisco-releases-security-update-sd-wan-vmanage-api)|Visit link for details.|Jul 13, 2023|
- |[Juniper Releases Multiple Security Updates for Juno OS](https://www.cisa.gov/news-events/alerts/2023/07/13/juniper-releases-multiple-security-updates-juno-os)|Visit link for details.|Jul 13, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
- |[Google Chrome - CVE-2023-3732](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3732-2023-07-19)|Visit link for details.|19/07/2023|
- |[Google Chrome - CVE-2023-3727](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3727-2023-07-19)|Visit link for details.|19/07/2023|
- |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|19/07/2023|
- |[Citrix - CVE-2023-3466](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3466-2023-07-19)|Visit link for details.|19/07/2023|
- |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
- |[Microsoft - CVE-2023-35367](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35367-2023-07-18)|Visit link for details.|18/07/2023|
- |[WordPress Spectra - CVE-2023-36679](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-spectra-cve-2023-36679-2023-07-18)|Visit link for details.|18/07/2023|
- |[Zimbra - CVE-2023-34192](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-34192-2023-07-18)|Visit link for details.|18/07/2023|
- |[Zyxel - CVE-2023-33011](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33011-2023-07-18)|Visit link for details.|18/07/2023|
- |[VM2 - CVE-2023-37466](https://www.cyberveille-sante.gouv.fr/alertes/vm2-cve-2023-37466-2023-07-17)|Visit link for details.|17/07/2023|
  
 
 # HK-CERT
@@ -111,17 +94,48 @@
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|20/07/2023|
+ |[IBM Db2 - CVE-2023-27867](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27867-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Google Chrome - CVE-2023-3732](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3732-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Google Chrome - CVE-2023-3727](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3727-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Citrix - CVE-2023-3466](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3466-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Media Library Helper by Codexin plugin for WordPress cross-site request forgery (CVE-2023-37386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ |[Boom CMS assets-manager cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[PaulPrinting CMS /account/delivery cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Tiva Events Calendar index.php edit.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Active Super Shop Manage Details HTML injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  |[Dooblou WiFi File Explorer code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  |[Aures Booking & POS Terminal privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-27379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-33876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-33866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Foxit PDF Reader code execution (CVE-2023-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
+ |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
+ |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
- |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
  
 
 # EU-CERT
