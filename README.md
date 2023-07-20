@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/07/2023 00:13:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/07/2023 01:17:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Develops Factsheet for Free Tools for Cloud Environments](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-develops-factsheet-free-tools-cloud-environments)|Visit link for details.|Jul 17, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0568/)|De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et NetScaler Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle WebLogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0567/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0566/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2023|
+ |[Vulnérabilité dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0565/)|Une vulnérabilité a été découverte dans Oracle Systems. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0564/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|19/07/2023|
  |[Citrix - CVE-2023-3466](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3466-2023-07-19)|Visit link for details.|19/07/2023|
  |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0568/)|De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et NetScaler Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 19 juillet 2023|
- |[Multiples vulnérabilités dans Oracle WebLogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0567/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0566/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2023|
- |[Vulnérabilité dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0565/)|Une vulnérabilité a été découverte dans Oracle Systems. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 19 juillet 2023|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0564/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
  
 
 # HK-CERT
@@ -119,26 +119,23 @@
  |[Dell Wyse Management Suite security bypass (CVE-2023-32482)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[Dell Wyse Management Suite information disclosure (CVE-2023-32483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[Media Library Helper by Codexin plugin for WordPress cross-site request forgery (CVE-2023-37386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ |[PaulPrinting CMS cross-site scripting (CVE-2023-3785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  |[Boom CMS assets-manager cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  |[PaulPrinting CMS /account/delivery cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
- |[Tiva Events Calendar index.php edit.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # EU-CERT
@@ -158,6 +155,23 @@
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,20 +187,6 @@
  |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
  |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
  |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
- |[(Pwn2Own) Tesla Model 3 bsa_server BIP Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-973/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 Gateway Firmware Signature Validation Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-972/)|Visit link for details|2023-07-18|
- |[(Pwn2Own) Tesla Model 3 bcmdhd Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-971/)|Visit link for details|2023-07-18|
  
 
 # CA-CCS
