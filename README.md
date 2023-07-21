@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/07/2023 11:21:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/07/2023 12:15:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
- |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
- |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
- |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
- |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
- |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
- |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
- |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
- |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
- |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
- |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,23 +43,6 @@
  |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  |[NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing ](https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing)|Visit link for details.|Jul 17, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|20/07/2023|
- |[IBM Db2 - CVE-2023-27867](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27867-2023-07-20)|Visit link for details.|20/07/2023|
- |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
- |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
- |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
- |[Google Chrome - CVE-2023-3732](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3732-2023-07-19)|Visit link for details.|19/07/2023|
- |[Google Chrome - CVE-2023-3727](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3727-2023-07-19)|Visit link for details.|19/07/2023|
- |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|19/07/2023|
- |[Citrix - CVE-2023-3466](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3466-2023-07-19)|Visit link for details.|19/07/2023|
- |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
  
 
 # CERT-FR
@@ -95,6 +61,23 @@
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
+ |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -105,7 +88,23 @@
  |[Dell Wyse Management Suite security bypass (CVE-2023-32482)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[Dell Wyse Management Suite information disclosure (CVE-2023-32483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[Media Library Helper by Codexin plugin for WordPress cross-site request forgery (CVE-2023-37386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
- |[aio-libs aiohttp HTTP request smuggling (CVE-2023-37276)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ |[Feathers denial of service (CVE-2023-37899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 19, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Adobe ColdFusion Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/adobe-coldfusion-multiple-vulnerabilities_20230720)|Multiple vulnerabilities were identified in Adobe ColdFusion. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-38205 under limited, targeted exploitation.|Release Date: 20 Jul 2023 |
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and cross-site scripting on the targeted system. Note:According to Citrix, exploits of CVE-2023-3519 on...|Release Date: 19 Jul 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Jul 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. [Updated on 2023-07-19] Updated...| Release Date: 13 Jul 2023 |
+ |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
  
 
 # OBS-Vigilance
@@ -125,37 +124,35 @@
  |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via FileBackedOutputStream</a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
  
 
-# HK-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability Identifier, Solutions and...| Release Date: 10 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Adobe ColdFusion Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/adobe-coldfusion-multiple-vulnerabilities_20230720)|Multiple vulnerabilities were identified in Adobe ColdFusion. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-38205 under limited, targeted exploitation.|Release Date: 20 Jul 2023 |
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and cross-site scripting on the targeted system. Note:According to Citrix, exploits of CVE-2023-3519 on...|Release Date: 19 Jul 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Jul 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. [Updated on 2023-07-19] Updated...| Release Date: 13 Jul 2023 |
- |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|20/07/2023|
+ |[IBM Db2 - CVE-2023-27867](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27867-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Google Chrome - CVE-2023-3732](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3732-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Google Chrome - CVE-2023-3727](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3727-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Citrix - CVE-2023-3466](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3466-2023-07-19)|Visit link for details.|19/07/2023|
+ |[Aruba - CVE-2023-35971](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-35971-2023-07-18)|Visit link for details.|18/07/2023|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
- |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
- |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
- |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
- |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
- |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
- |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
- |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
- |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
- |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # EU-CERT
@@ -175,6 +172,23 @@
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
+ |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
+ |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
+ |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
+ |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
+ |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
+ |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
+ |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
+ |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
+ |[42821307/23 - Vulnérabilités critiques affectant SonicWall GMS/Analytics](https://www.dgssi.gov.ma//fr/content/4282130723-vulnerabilites-critiques-affectant-sonicwall-gmsanalytics.html)|SonicWallannonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de SonicWall GMS et Analytics.Quatre de ces vulnérabilités sont critiques et leur...|13 juillet 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,10 +204,4 @@
  |[[Control systems] GeoVision security advisory (AV23-421)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av23-421)|Visit link for details|2023-07-18|
  |[[Control systems] WellinTech security advisory (AV23-420)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wellintech-security-advisory-av23-420)|Visit link for details|2023-07-18|
  |[[Control systems] Rockwell Automation security advisory (AV23-419)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-419)|Visit link for details|2023-07-18|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
