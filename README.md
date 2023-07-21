@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/07/2023 00:13:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/07/2023 01:17:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,39 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
- |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
- |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
- |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
- |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
- |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
- |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
- |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
- |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
- |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
- |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
- 
 
 # US-CERT
 
@@ -95,6 +62,39 @@
  |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
+ |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6233-1: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-1-yajl-vulnerabilities.45995/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
+ |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +122,20 @@
  |[TS Webfonts for SAKURA plugin for WordPress cross-site request forgery (CVE-2023-32625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[TS Webfonts for SAKURA plugin for WordPress cross-site scripting (CVE-2023-32624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
  |[Dell Wyse Management Suite denial of service (CVE-2023-32481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # EU-CERT
@@ -190,10 +204,4 @@
  |[[Control systems] Keysight security advisory (AV23-422)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-422)|Visit link for details|2023-07-18|
  |[[Control systems] GeoVision security advisory (AV23-421)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av23-421)|Visit link for details|2023-07-18|
  |[[Control systems] WellinTech security advisory (AV23-420)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wellintech-security-advisory-av23-420)|Visit link for details|2023-07-18|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
