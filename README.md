@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/07/2023 13:19:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/07/2023 14:15:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,19 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GMOD GBrowse file upload (CVE-2023-32637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Avaya Aura Device Services command execution (CVE-2023-3722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[G3WSuite cross-site scripting (CVE-2023-29998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Mozilla Thunderbird spoofing (CVE-2023-3417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ |[Linux Kernel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ |[Linux Kernel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ |[TS Webfonts for SAKURA plugin for WordPress cross-site request forgery (CVE-2023-32625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -111,21 +124,18 @@
  |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_write(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # EU-CERT
@@ -145,6 +155,23 @@
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_write(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -160,33 +187,6 @@
  |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
  |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
  |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[GMOD GBrowse file upload (CVE-2023-32637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Avaya Aura Device Services command execution (CVE-2023-3722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[G3WSuite cross-site scripting (CVE-2023-29998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Mozilla Thunderbird spoofing (CVE-2023-3417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
- |[Linux Kernel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
- |[Linux Kernel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
- |[TS Webfonts for SAKURA plugin for WordPress cross-site request forgery (CVE-2023-32625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 20, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # CA-CCS
