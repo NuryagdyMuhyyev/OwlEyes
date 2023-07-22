@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/07/2023 02:13:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/07/2023 03:15:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,19 +95,6 @@
  |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Open Babel code execution (CVE-2023-44451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-37331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[Adobe ColdFusion Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/adobe-products-remote-code-execution-vulnerability_20230718)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2023-38203.|Release Date: 18 Jul 2023 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230714)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution, information disclosure, elevation of privilege, spoofing and security restriction bypass on the targeted system.|Release Date: 14 Jul 2023 |
  |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Open Babel code execution (CVE-2023-44451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-37331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  
 
 # OBS-Vigilance
@@ -158,6 +158,23 @@
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
+ |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
+ |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
+ |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
+ |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
+ |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
+ |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
+ |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
+ |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
+ |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -187,21 +204,4 @@
  |[[Control systems] Keysight security advisory (AV23-422)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-422)|Visit link for details|2023-07-18|
  |[[Control systems] GeoVision security advisory (AV23-421)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av23-421)|Visit link for details|2023-07-18|
  |[[Control systems] WellinTech security advisory (AV23-420)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wellintech-security-advisory-av23-420)|Visit link for details|2023-07-18|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
- |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
- |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
- |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
- |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
- |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
- |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
- |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
- |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
- |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
  
