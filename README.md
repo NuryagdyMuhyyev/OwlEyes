@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/07/2023 11:20:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/07/2023 12:14:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
- |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6235-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6235-1-linux-kernel-oem-vulnerabilities.45994/)|Visit link for details.|Jul 18, 2023|
  |[USN-6183-2: Bind vulnerability](https://www.linux.org/threads/usn-6183-2-bind-vulnerability.45993/)|Visit link for details.|Jul 18, 2023|
  |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
+ |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  
 
 # CERT-FR
@@ -124,23 +124,6 @@
  |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_write(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,6 +139,23 @@
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
  |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_write(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
  
 
 # MA-CERT
