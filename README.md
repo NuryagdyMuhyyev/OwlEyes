@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2023 03:15:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2023 04:16:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
  |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
  |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
  
 
 # HK-CERT
@@ -111,19 +111,6 @@
  |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-multiple-vulnerabilities_20230713)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.| Release Date: 13 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Open Babel code execution (CVE-2023-44451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-37331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Open Babel code execution (CVE-2023-44451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-37331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
+ |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  
 
 # EU-CERT
