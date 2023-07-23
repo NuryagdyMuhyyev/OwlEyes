@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/07/2023 14:14:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/07/2023 15:16:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
+ |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,21 @@
  |[USN-6234-1: Linux kernel (Xilinx ZynqMP) vulnerability](https://www.linux.org/threads/usn-6234-1-linux-kernel-xilinx-zynqmp-vulnerability.45992/)|Visit link for details.|Jul 18, 2023|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
- |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
+ |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|21/07/2023|
+ |[Samba - CVE-2023-34966](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-34966-2023-07-21)|Visit link for details.|21/07/2023|
+ |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|21/07/2023|
+ |[Google Chrome - CVE-2023-3730](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3730-2023-07-21)|Visit link for details.|21/07/2023|
+ |[Google Chrome - CVE-2023-3728](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3728-2023-07-21)|Visit link for details.|21/07/2023|
+ |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|20/07/2023|
+ |[IBM Db2 - CVE-2023-27867](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27867-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
+ |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
  
 
 # CERT-FR
@@ -76,23 +93,6 @@
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
  |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
  |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|21/07/2023|
- |[Samba - CVE-2023-34966](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-34966-2023-07-21)|Visit link for details.|21/07/2023|
- |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|21/07/2023|
- |[Google Chrome - CVE-2023-3730](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3730-2023-07-21)|Visit link for details.|21/07/2023|
- |[Google Chrome - CVE-2023-3728](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3728-2023-07-21)|Visit link for details.|21/07/2023|
- |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|20/07/2023|
- |[IBM Db2 - CVE-2023-27867](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-27867-2023-07-20)|Visit link for details.|20/07/2023|
- |[Citrix - CVE-2023-3467](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3467-2023-07-20)|Visit link for details.|20/07/2023|
- |[Avaya - CVE-2023-3722](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2023-3722-2023-07-20)|Visit link for details.|20/07/2023|
- |[Oracle VM VirtualBox- CVE-2023-22018](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22018-2023-07-19)|Visit link for details.|19/07/2023|
  
 
 # HK-CERT
@@ -138,6 +138,23 @@
  |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
+ |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
+ |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
+ |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
  |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
  |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
- |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
- |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
- |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
- |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
- |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
 # CA-CCS
