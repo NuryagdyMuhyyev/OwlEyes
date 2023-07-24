@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2023 07:36:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2023 08:17:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 17, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
- |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -124,10 +108,30 @@
  |[Open Babel code execution (CVE-2023-46292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Foxit PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Foxit PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 juillet 2023|
+ |[Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0569/)|De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 juillet 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadIPTCProfile-41813" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadIPTCProfile()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadIPTCProfile-41813)|An attacker can trigger a buffer overflow of ImageMagick, via ReadIPTCProfile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-two-vulnerabilities-41812" class="noirorange"><b>ArcGIS Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-two-vulnerabilities-41812)|An attacker can use several vulnerabilities of ArcGIS Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-MED-Files-41811" class="noirorange"><b>libopenmpt</b>: buffer overflow via MED Files</a>](https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-MED-Files-41811)|An attacker can trigger a buffer overflow of libopenmpt, via MED Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41810" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41810)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
@@ -135,41 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
- |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
- |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
- |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
- |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
- |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
- |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
- |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
- |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
- |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
  
 
 # EU-CERT
@@ -189,6 +158,23 @@
  |[2023-041: Multiple Vulnerabilities in BIND 9 DNS System](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-041.pdf)|On June 22, The Internet Systems Consortium (ISC) has released security advisories that address high severity vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions.|Monday, June 26, 2023 09:46:43 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
+ |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
+ |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
+ |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
+ |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
+ |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
+ |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
+ |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
+ |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
+ |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ |[42831307/23 - Exploitation d’une vulnérabilité critique affectant Windows et Office](https://www.dgssi.gov.ma//fr/content/4283130723-exploitation-d-une-vulnerabilite-critique-affectant-windows-et-office.html)|Microsoft a identifié une campagne de phishing ciblant des entités de défense et de gouvernement. La campagne de phishing exploite la vulnérabilité référencée « CVE-2023-36884 » affectant plusieurs versions de Windows et produits Office....|13 juillet 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,10 @@
  |[[Control systems] Keysight security advisory (AV23-422)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-422)|Visit link for details|2023-07-18|
  |[[Control systems] GeoVision security advisory (AV23-421)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av23-421)|Visit link for details|2023-07-18|
  |[[Control systems] WellinTech security advisory (AV23-420)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wellintech-security-advisory-av23-420)|Visit link for details|2023-07-18|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
