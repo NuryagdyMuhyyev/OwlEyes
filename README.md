@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/07/2023 20:18:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/07/2023 21:22:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,30 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2023|
+ |[Ivanti Releases Security Updates for Endpoint Manager Mobile (EPMM) CVE-2023-35078](https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078)|Visit link for details.|Jul 24, 2023|
+ |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
+ |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6244-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-6244-1-amd-microcode-vulnerability.46075/)|Visit link for details.|Jul 25, 2023|
+ |[USN-6129-2: Avahi vulnerability](https://www.linux.org/threads/usn-6129-2-avahi-vulnerability.46074/)|Visit link for details.|Jul 25, 2023|
+ |[USN-6203-2: Django vulnerability](https://www.linux.org/threads/usn-6203-2-django-vulnerability.46073/)|Visit link for details.|Jul 25, 2023|
+ |[LSN-0096-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0096-1-kernel-live-patch-security-notice.46072/)|Visit link for details.|Jul 25, 2023|
  |[USN-6243-1: Graphite-Web vulnerabilities](https://www.linux.org/threads/usn-6243-1-graphite-web-vulnerabilities.46067/)|Visit link for details.|Jul 25, 2023|
  |[USN-6242-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-1-openssh-vulnerability.46064/)|Visit link for details.|Jul 24, 2023|
  |[USN-6241-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6241-1-openstack-vulnerability.46061/)|Visit link for details.|Jul 24, 2023|
@@ -40,10 +60,6 @@
  |[DSA-5457 webkit2gtk - security update](https://www.linux.org/threads/dsa-5457-webkit2gtk-security-update.46048/)|Visit link for details.|Jul 23, 2023|
  |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
  |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
- |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
- |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
- |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
- |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
  
 
 # CERT-FR
@@ -66,33 +82,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Atera - CVE-2023-26078](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26078-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Atera - CVE-2023-26077](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26077-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-38606](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38606-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-38594](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38594-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|25/07/2023|
  |[SnakeYaml - CVE-2022-1471](https://www.cyberveille-sante.gouv.fr/alertes/snakeyaml-cve-2022-1471-2023-07-24)|Visit link for details.|24/07/2023|
  |[Linux - CVE-2023-3610](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3610-2023-07-24)|Visit link for details.|24/07/2023|
  |[Linux - CVE-2023-3609](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3609-2023-07-24)|Visit link for details.|24/07/2023|
  |[Dell PowerStore - CVE-2023-32478](https://www.cyberveille-sante.gouv.fr/alertes/dell-powerstore-cve-2023-32478-2023-07-24)|Visit link for details.|24/07/2023|
  |[Check Point Endpoint Security - CVE-2023-28133](https://www.cyberveille-sante.gouv.fr/alertes/check-point-endpoint-security-cve-2023-28133-2023-07-24)|Visit link for details.|24/07/2023|
- |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|21/07/2023|
- |[Samba - CVE-2023-34966](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-34966-2023-07-21)|Visit link for details.|21/07/2023|
- |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|21/07/2023|
- |[Google Chrome - CVE-2023-3730](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3730-2023-07-21)|Visit link for details.|21/07/2023|
- |[Google Chrome - CVE-2023-3728](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-3728-2023-07-21)|Visit link for details.|21/07/2023|
- |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
- |[Ivanti Releases Security Updates for Endpoint Manager Mobile (EPMM) CVE-2023-35078](https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078)|Visit link for details.|Jul 24, 2023|
- |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
- |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
  
 
 # HK-CERT
@@ -124,6 +124,37 @@
  |[Apple iOS and iPadOS security bypass (CVE-2023-32437)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: privilege escalation via API Access</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846)|An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via API Access, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via WordCount Plugin</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845)|An attacker can trigger a Cross Site Scripting of CKEditor4, via WordCount Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Site Resolution</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844)|An attacker can bypass access restrictions to data of TYPO3 Core, via Site Resolution, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Nested Noscript Markup</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Nested Noscript Markup, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842" class="noirorange"><b>Contao</b>: Cross Site Scripting via Widgets Units</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842)|An attacker can trigger a Cross Site Scripting of Contao, via Widgets Units, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841" class="noirorange"><b>Joomla JCDashboards</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841)|An attacker can trigger a Server-Side Request Forgery of Joomla JCDashboards, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840" class="noirorange"><b>Linux kernel</b>: reuse after free via nfc_llcp_find_local()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839" class="noirorange"><b>Linux kernel</b>: buffer overflow via tun_napi_alloc_frags()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838" class="noirorange"><b>Linux kernel</b>: read-write access via init_cea_offsets()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838)|An attacker can bypass access restrictions of the Linux kernel, via init_cea_offsets(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837" class="noirorange"><b>QEMU</b>: reuse after free via e1000e DMA Reentrancy</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via e1000e DMA Reentrancy, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836" class="noirorange"><b>QEMU</b>: privilege escalation via 9pfs Suid File</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836)|An attacker, in a guest system, can bypass restrictions of QEMU, via 9pfs Suid File, in order to escalate his privileges on the host system...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -141,20 +172,6 @@
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
  |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
  |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: privilege escalation via API Access</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846)|An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via API Access, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via WordCount Plugin</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845)|An attacker can trigger a Cross Site Scripting of CKEditor4, via WordCount Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Site Resolution</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844)|An attacker can bypass access restrictions to data of TYPO3 Core, via Site Resolution, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Nested Noscript Markup</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Nested Noscript Markup, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842" class="noirorange"><b>Contao</b>: Cross Site Scripting via Widgets Units</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842)|An attacker can trigger a Cross Site Scripting of Contao, via Widgets Units, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841" class="noirorange"><b>Joomla JCDashboards</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841)|An attacker can trigger a Server-Side Request Forgery of Joomla JCDashboards, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840" class="noirorange"><b>Linux kernel</b>: reuse after free via nfc_llcp_find_local()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839" class="noirorange"><b>Linux kernel</b>: buffer overflow via tun_napi_alloc_frags()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838" class="noirorange"><b>Linux kernel</b>: read-write access via init_cea_offsets()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838)|An attacker can bypass access restrictions of the Linux kernel, via init_cea_offsets(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837" class="noirorange"><b>QEMU</b>: reuse after free via e1000e DMA Reentrancy</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via e1000e DMA Reentrancy, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836" class="noirorange"><b>QEMU</b>: privilege escalation via 9pfs Suid File</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836)|An attacker, in a guest system, can bypass restrictions of QEMU, via 9pfs Suid File, in order to escalate his privileges on the host system...|Visit link for details|
  
 
 # CA-CCS
