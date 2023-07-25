@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/07/2023 14:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/07/2023 15:18:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 24 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 24 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
+ |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,20 +94,17 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230719)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2023 |
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 24 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 24 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 juillet 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
- |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
+ |[Atera Agent privilege escalation (CVE-2023-26078)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[OTRS AG OTRS HTTP header injection (CVE-2023-38060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[OTRS AG OTRS security bypass (CVE-2023-38058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[OTRS AG OTRS cross-site scripting (CVE-2023-38057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[OTRS AG OTRS code execution (CVE-2023-38056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[Atera Agent for Windows privilege escalation (CVE-2023-26077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
+ |[Apple iOS and iPadOS security bypass (CVE-2023-32437)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
  
 
 # CERT-SANTE
@@ -111,36 +124,6 @@
  |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[OTRS AG OTRS HTTP header injection (CVE-2023-38060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[OTRS AG OTRS security bypass (CVE-2023-38058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[OTRS AG OTRS cross-site scripting (CVE-2023-38057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[OTRS AG OTRS code execution (CVE-2023-38056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[Atera Agent for Windows privilege escalation (CVE-2023-26077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[Apple iOS and iPadOS security bypass (CVE-2023-32437)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- |[Apple macOS Ventura code execution (CVE-2023-38597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840" class="noirorange"><b>Linux kernel</b>: reuse after free via nfc_llcp_find_local()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839" class="noirorange"><b>Linux kernel</b>: buffer overflow via tun_napi_alloc_frags()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838" class="noirorange"><b>Linux kernel</b>: read-write access via init_cea_offsets()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838)|An attacker can bypass access restrictions of the Linux kernel, via init_cea_offsets(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837" class="noirorange"><b>QEMU</b>: reuse after free via e1000e DMA Reentrancy</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via e1000e DMA Reentrancy, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836" class="noirorange"><b>QEMU</b>: privilege escalation via 9pfs Suid File</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836)|An attacker, in a guest system, can bypass restrictions of QEMU, via 9pfs Suid File, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835" class="noirorange"><b>ImageMagick</b>: buffer overflow via PushCharPixel()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835)|An attacker can trigger a buffer overflow of ImageMagick, via PushCharPixel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Action-Form-Input-Fields-41834" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Action Form Input Fields</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Action-Form-Input-Fields-41834)|An attacker can trigger a Cross Site Scripting of Zabbix, via Action Form Input Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-User-Form-41833" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via User Form</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-User-Form-41833)|An attacker can trigger a Cross Site Scripting of Zabbix, via User Form, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Geomap-Attribution-Field-41832" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Geomap Attribution Field</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Geomap-Attribution-Field-41832)|An attacker can trigger a Cross Site Scripting of Zabbix, via Geomap Attribution Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-Wscons-Escape-Sequences-41831" class="noirorange"><b>OpenBSD</b>: buffer overflow via Wscons Escape Sequences</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-Wscons-Escape-Sequences-41831)|An attacker can trigger a buffer overflow of OpenBSD, via Wscons Escape Sequences, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RenderDoc-three-vulnerabilities-41830" class="noirorange"><b>RenderDoc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/RenderDoc-three-vulnerabilities-41830)|An attacker can use several vulnerabilities of RenderDoc...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +136,23 @@
  |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
  |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
  |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via WordCount Plugin</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845)|An attacker can trigger a Cross Site Scripting of CKEditor4, via WordCount Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Site Resolution</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Site-Resolution-41844)|An attacker can bypass access restrictions to data of TYPO3 Core, via Site Resolution, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Nested Noscript Markup</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Nested-Noscript-Markup-41843)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Nested Noscript Markup, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842" class="noirorange"><b>Contao</b>: Cross Site Scripting via Widgets Units</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-Widgets-Units-41842)|An attacker can trigger a Cross Site Scripting of Contao, via Widgets Units, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841" class="noirorange"><b>Joomla JCDashboards</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Joomla-JCDashboards-Server-Side-Request-Forgery-41841)|An attacker can trigger a Server-Side Request Forgery of Joomla JCDashboards, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840" class="noirorange"><b>Linux kernel</b>: reuse after free via nfc_llcp_find_local()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839" class="noirorange"><b>Linux kernel</b>: buffer overflow via tun_napi_alloc_frags()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838" class="noirorange"><b>Linux kernel</b>: read-write access via init_cea_offsets()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838)|An attacker can bypass access restrictions of the Linux kernel, via init_cea_offsets(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837" class="noirorange"><b>QEMU</b>: reuse after free via e1000e DMA Reentrancy</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via e1000e DMA Reentrancy, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836" class="noirorange"><b>QEMU</b>: privilege escalation via 9pfs Suid File</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836)|An attacker, in a guest system, can bypass restrictions of QEMU, via 9pfs Suid File, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835" class="noirorange"><b>ImageMagick</b>: buffer overflow via PushCharPixel()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835)|An attacker can trigger a buffer overflow of ImageMagick, via PushCharPixel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -176,6 +176,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42942507/23 - Vulnérabilités critiques affectant iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4294250723-vulnerabilites-critiques-affectant-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. Certaines de ces vulnérabilités sont des « Zero-day»activement exploités et peuventpermettre à un...|25 juillet 2023|
  |[42932407/23 - Vulnérabilités critiques affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4293240723-vulnerabilites-critiques-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant son produit Adobe ColFusion. Selon Adobe, l’exploit d’une deces vulnérabilités existe et il peut permettre à un attaquant distant...|24 juillet 2023|
  |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
  |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
@@ -186,7 +187,6 @@
  |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
  |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
  |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
- |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
  
 
 # CA-CCS
