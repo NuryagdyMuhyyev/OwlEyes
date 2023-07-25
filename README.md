@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/07/2023 04:17:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/07/2023 06:43:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Releases Security Updates for Endpoint Manager Mobile (EPMM) CVE-2023-35078](https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078)|Visit link for details.|Jul 24, 2023|
- |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
- |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
- |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ |[USN-6242-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-1-openssh-vulnerability.46064/)|Visit link for details.|Jul 24, 2023|
+ |[USN-6241-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6241-1-openstack-vulnerability.46061/)|Visit link for details.|Jul 24, 2023|
+ |[USN-6240-1: FRR vulnerability](https://www.linux.org/threads/usn-6240-1-frr-vulnerability.46060/)|Visit link for details.|Jul 24, 2023|
+ |[DSA-5457 webkit2gtk - security update](https://www.linux.org/threads/dsa-5457-webkit2gtk-security-update.46048/)|Visit link for details.|Jul 23, 2023|
+ |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
+ |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
+ |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
+ |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
  
 
 # CERT-FR
@@ -78,6 +79,22 @@
  |[WordPress - CVE-2023-24421](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-24421-2023-07-20)|Visit link for details.|20/07/2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Releases Security Updates for Endpoint Manager Mobile (EPMM) CVE-2023-35078](https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078)|Visit link for details.|Jul 24, 2023|
+ |[Atlassian Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/21/atlassian-releases-security-updates)|Visit link for details.|Jul 21, 2023|
+ |[CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519)|Visit link for details.|Jul 20, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 19, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/07/18/oracle-releases-security-updates)|Visit link for details.|Jul 18, 2023|
+ |[Citrix Releases Security Updates for NetScaler ADC and Gateway](https://www.cisa.gov/news-events/alerts/2023/07/18/citrix-releases-security-updates-netscaler-adc-and-gateway)|Visit link for details.|Jul 18, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/18/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/07/18/adobe-releases-security-updates-coldfusion)|Visit link for details.|Jul 18, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,23 +111,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230713)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. [Updated on 2023-07-19] Updated...| Release Date: 13 Jul 2023 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6242-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-1-openssh-vulnerability.46064/)|Visit link for details.|Jul 24, 2023|
- |[USN-6241-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6241-1-openstack-vulnerability.46061/)|Visit link for details.|Jul 24, 2023|
- |[USN-6240-1: FRR vulnerability](https://www.linux.org/threads/usn-6240-1-frr-vulnerability.46060/)|Visit link for details.|Jul 24, 2023|
- |[DSA-5457 webkit2gtk - security update](https://www.linux.org/threads/dsa-5457-webkit2gtk-security-update.46048/)|Visit link for details.|Jul 23, 2023|
- |[USN-6232-1: wkhtmltopdf vulnerability](https://www.linux.org/threads/usn-6232-1-wkhtmltopdf-vulnerability.46026/)|Visit link for details.|Jul 20, 2023|
- |[DSA-5456 chromium - security update](https://www.linux.org/threads/dsa-5456-chromium-security-update.46025/)|Visit link for details.|Jul 20, 2023|
- |[USN-6239-1: ECDSA Util vulnerability](https://www.linux.org/threads/usn-6239-1-ecdsa-util-vulnerability.46022/)|Visit link for details.|Jul 20, 2023|
- |[USN-6237-2: curl regression](https://www.linux.org/threads/usn-6237-2-curl-regression.46015/)|Visit link for details.|Jul 19, 2023|
- |[USN-6238-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6238-1-samba-vulnerabilities.46014/)|Visit link for details.|Jul 19, 2023|
- |[USN-6237-1: curl vulnerabilities](https://www.linux.org/threads/usn-6237-1-curl-vulnerabilities.46012/)|Visit link for details.|Jul 19, 2023|
- |[USN-6236-1: ConnMan vulnerabilities](https://www.linux.org/threads/usn-6236-1-connman-vulnerabilities.46008/)|Visit link for details.|Jul 19, 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,23 +122,6 @@
  |[Open Babel code execution (CVE-2023-37331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  |[Open Babel code execution (CVE-2023-46295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
  |[Open Babel code execution (CVE-2023-46294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827" class="noirorange"><b>AMD Zen2 Processors</b>: reuse after free via Vector Register File</a>](https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827)|An attacker can force the reuse of a freed memory area of AMD Zen2 Processors, via Vector Register File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824" class="noirorange"><b>FRRouting</b>: overload via Babld Messages</a>](https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824)|An attacker can trigger an overload of FRRouting, via Babld Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823" class="noirorange"><b>snappy-java</b>: denial of service via Chunk Length</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823)|An attacker can cause a fatal error of snappy-java, via Chunk Length, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Survey Answers</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Survey Answers, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821" class="noirorange"><b>OTRS Help Desk</b>: denial of service via Tickets Move</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821)|An attacker can cause a fatal error of OTRS Help Desk, via Tickets Move, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820" class="noirorange"><b>OTRS Help Desk</b>: code execution via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820)|An attacker can use a vulnerability of OTRS Help Desk, via System Configuration, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819" class="noirorange"><b>OTRS Help Desk</b>: header injection via Web Service Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819)|An attacker can add new headers on OTRS Help Desk, via Web Service Attachments, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818" class="noirorange"><b>Linux kernel</b>: reuse after free via fw_set_parms()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fw_set_parms(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_change_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_change_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816" class="noirorange"><b>Linux kernel</b>: reuse after free via NFT_MSG_NEWRULE</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFT_MSG_NEWRULE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -173,6 +156,23 @@
  |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
  |[2023-042: RCE vulnerability in Fortinet FortiNAC](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-042.pdf)|On June 23, 2023, Fortinet released one advisory regarding a critical vulnerability in FortiNAC that may allow unauthenticated attackers to perform remote arbitrary code or command execution. This vulnerability was identified as "CVE-2023-33299" with CVSS score of 9.6. FortiNAC is a network access control solution utilised by organisations to manage network access policies and compliance.|Monday, June 26, 2023 12:26:42 PM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827" class="noirorange"><b>AMD Zen2 Processors</b>: reuse after free via Vector Register File</a>](https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827)|An attacker can force the reuse of a freed memory area of AMD Zen2 Processors, via Vector Register File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824" class="noirorange"><b>FRRouting</b>: overload via Babld Messages</a>](https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824)|An attacker can trigger an overload of FRRouting, via Babld Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823" class="noirorange"><b>snappy-java</b>: denial of service via Chunk Length</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823)|An attacker can cause a fatal error of snappy-java, via Chunk Length, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Survey Answers</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Survey Answers, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821" class="noirorange"><b>OTRS Help Desk</b>: denial of service via Tickets Move</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821)|An attacker can cause a fatal error of OTRS Help Desk, via Tickets Move, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820" class="noirorange"><b>OTRS Help Desk</b>: code execution via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820)|An attacker can use a vulnerability of OTRS Help Desk, via System Configuration, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819" class="noirorange"><b>OTRS Help Desk</b>: header injection via Web Service Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819)|An attacker can add new headers on OTRS Help Desk, via Web Service Attachments, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818" class="noirorange"><b>Linux kernel</b>: reuse after free via fw_set_parms()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fw_set_parms(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_change_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_change_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816" class="noirorange"><b>Linux kernel</b>: reuse after free via NFT_MSG_NEWRULE</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFT_MSG_NEWRULE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
