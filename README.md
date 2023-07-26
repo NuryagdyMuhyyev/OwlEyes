@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/07/2023 08:16:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/07/2023 10:15:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6250-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6250-1-linux-kernel-vulnerabilities.46090/)|Visit link for details.|Jul 26, 2023|
+ |[DSA-5458 openjdk-17 - security update](https://www.linux.org/threads/dsa-5458-openjdk-17-security-update.46089/)|Visit link for details.|Jul 26, 2023|
  |[USN-6249-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6249-1-linux-kernel-oem-vulnerabilities.46084/)|Visit link for details.|Jul 26, 2023|
  |[USN-6248-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6248-1-linux-kernel-oem-vulnerabilities.46083/)|Visit link for details.|Jul 26, 2023|
  |[USN-6247-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6247-1-linux-kernel-oem-vulnerabilities.46082/)|Visit link for details.|Jul 26, 2023|
@@ -42,8 +44,6 @@
  |[USN-6129-2: Avahi vulnerability](https://www.linux.org/threads/usn-6129-2-avahi-vulnerability.46074/)|Visit link for details.|Jul 25, 2023|
  |[USN-6203-2: Django vulnerability](https://www.linux.org/threads/usn-6203-2-django-vulnerability.46073/)|Visit link for details.|Jul 25, 2023|
  |[LSN-0096-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0096-1-kernel-live-patch-security-notice.46072/)|Visit link for details.|Jul 25, 2023|
- |[USN-6243-1: Graphite-Web vulnerabilities](https://www.linux.org/threads/usn-6243-1-graphite-web-vulnerabilities.46067/)|Visit link for details.|Jul 25, 2023|
- |[USN-6242-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-1-openssh-vulnerability.46064/)|Visit link for details.|Jul 24, 2023|
  
 
 # US-CERT
@@ -95,36 +95,6 @@
  |[Check Point Endpoint Security - CVE-2023-28133](https://www.cyberveille-sante.gouv.fr/alertes/check-point-endpoint-security-cve-2023-28133-2023-07-24)|Visit link for details.|24/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache InLong information disclosure (CVE-2023-34434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Apache InLong security bypass (CVE-2023-34189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Johnson Controls IQ Wifi 6 security bypass (CVE-2023-3548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Apache Jackrabbit code execution (CVE-2023-37895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Apache Felix Healthcheck Webconsole Plugin cross-site scripting (CVE-2023-38435)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Apache Helix code execution (CVE-2023-38647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[Infodrom Software E-Invoice Approval System SQL injection (CVE-2023-35066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Admiror-Gallery-Cross-Site-Scripting-41855" class="noirorange"><b>Joomla Admiror Gallery</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Admiror-Gallery-Cross-Site-Scripting-41855)|An attacker can trigger a Cross Site Scripting of Joomla Admiror Gallery, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trove-code-execution-via-Backup-Command-41853" class="noirorange"><b>Trove</b>: code execution via Backup Command</a>](https://vigilance.fr/vulnerability/Trove-code-execution-via-Backup-Command-41853)|An attacker can use a vulnerability of Trove, via Backup Command, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-Double-Encoded-41852" class="noirorange"><b>Pandoc</b>: file write via Extract Media Option Double Encoded</a>](https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-Double-Encoded-41852)|An attacker can bypass access restrictions of Pandoc, via Extract Media Option Double Encoded, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-41851" class="noirorange"><b>Pandoc</b>: file write via Extract Media Option</a>](https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-41851)|An attacker can bypass access restrictions of Pandoc, via Extract Media Option, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850" class="noirorange"><b>GStreamer</b>: buffer overflow via Subtitle Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850)|An attacker can trigger a buffer overflow of GStreamer, via Subtitle Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849" class="noirorange"><b>GStreamer</b>: buffer overflow via PGS Subtitle Overlay Decoder</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849)|An attacker can trigger a buffer overflow of GStreamer, via PGS Subtitle Overlay Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848" class="noirorange"><b>GStreamer</b>: integer overflow via FLAC Image Tag Handling</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848)|An attacker can trigger an integer overflow of GStreamer, via FLAC Image Tag Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-via-Length-Field-41847" class="noirorange"><b>iperf3</b>: integer overflow via Length Field</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-via-Length-Field-41847)|An attacker can trigger an integer overflow of iperf3, via Length Field, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: privilege escalation via API Access</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846)|An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via API Access, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via WordCount Plugin</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845)|An attacker can trigger a Cross Site Scripting of CKEditor4, via WordCount Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -156,6 +126,36 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache InLong information disclosure (CVE-2023-34434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Apache InLong security bypass (CVE-2023-34189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Johnson Controls IQ Wifi 6 security bypass (CVE-2023-3548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Apache Jackrabbit code execution (CVE-2023-37895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Apache Felix Healthcheck Webconsole Plugin cross-site scripting (CVE-2023-38435)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Apache Helix code execution (CVE-2023-38647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ |[Infodrom Software E-Invoice Approval System SQL injection (CVE-2023-35066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Admiror-Gallery-Cross-Site-Scripting-41855" class="noirorange"><b>Joomla Admiror Gallery</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Admiror-Gallery-Cross-Site-Scripting-41855)|An attacker can trigger a Cross Site Scripting of Joomla Admiror Gallery, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trove-code-execution-via-Backup-Command-41853" class="noirorange"><b>Trove</b>: code execution via Backup Command</a>](https://vigilance.fr/vulnerability/Trove-code-execution-via-Backup-Command-41853)|An attacker can use a vulnerability of Trove, via Backup Command, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-Double-Encoded-41852" class="noirorange"><b>Pandoc</b>: file write via Extract Media Option Double Encoded</a>](https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-Double-Encoded-41852)|An attacker can bypass access restrictions of Pandoc, via Extract Media Option Double Encoded, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-41851" class="noirorange"><b>Pandoc</b>: file write via Extract Media Option</a>](https://vigilance.fr/vulnerability/Pandoc-file-write-via-Extract-Media-Option-41851)|An attacker can bypass access restrictions of Pandoc, via Extract Media Option, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850" class="noirorange"><b>GStreamer</b>: buffer overflow via Subtitle Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850)|An attacker can trigger a buffer overflow of GStreamer, via Subtitle Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849" class="noirorange"><b>GStreamer</b>: buffer overflow via PGS Subtitle Overlay Decoder</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849)|An attacker can trigger a buffer overflow of GStreamer, via PGS Subtitle Overlay Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848" class="noirorange"><b>GStreamer</b>: integer overflow via FLAC Image Tag Handling</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848)|An attacker can trigger an integer overflow of GStreamer, via FLAC Image Tag Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-via-Length-Field-41847" class="noirorange"><b>iperf3</b>: integer overflow via Length Field</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-via-Length-Field-41847)|An attacker can trigger an integer overflow of iperf3, via Length Field, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: privilege escalation via API Access</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846)|An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via API Access, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via WordCount Plugin</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-WordCount-Plugin-41845)|An attacker can trigger a Cross Site Scripting of CKEditor4, via WordCount Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # MA-CERT
