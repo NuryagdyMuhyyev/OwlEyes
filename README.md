@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/07/2023 16:13:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/07/2023 17:33:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-5807-3: libXpm vulnerability](https://www.linux.org/threads/usn-5807-3-libxpm-vulnerability.46092/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6250-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6250-1-linux-kernel-vulnerabilities.46090/)|Visit link for details.|Jul 26, 2023|
+ |[DSA-5458 openjdk-17 - security update](https://www.linux.org/threads/dsa-5458-openjdk-17-security-update.46089/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6249-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6249-1-linux-kernel-oem-vulnerabilities.46084/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6248-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6248-1-linux-kernel-oem-vulnerabilities.46083/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6247-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6247-1-linux-kernel-oem-vulnerabilities.46082/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6246-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6246-1-linux-kernel-vulnerabilities.46081/)|Visit link for details.|Jul 26, 2023|
+ |[USN-6245-1: Trove vulnerabilities](https://www.linux.org/threads/usn-6245-1-trove-vulnerabilities.46076/)|Visit link for details.|Jul 25, 2023|
+ |[USN-6244-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-6244-1-amd-microcode-vulnerability.46075/)|Visit link for details.|Jul 25, 2023|
+ |[USN-6129-2: Avahi vulnerability](https://www.linux.org/threads/usn-6129-2-avahi-vulnerability.46074/)|Visit link for details.|Jul 25, 2023|
+ |[USN-6203-2: Django vulnerability](https://www.linux.org/threads/usn-6203-2-django-vulnerability.46073/)|Visit link for details.|Jul 25, 2023|
+ 
 
 # US-CERT
 
@@ -61,21 +78,21 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 juillet 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6250-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6250-1-linux-kernel-vulnerabilities.46090/)|Visit link for details.|Jul 26, 2023|
- |[DSA-5458 openjdk-17 - security update](https://www.linux.org/threads/dsa-5458-openjdk-17-security-update.46089/)|Visit link for details.|Jul 26, 2023|
- |[USN-6249-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6249-1-linux-kernel-oem-vulnerabilities.46084/)|Visit link for details.|Jul 26, 2023|
- |[USN-6248-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6248-1-linux-kernel-oem-vulnerabilities.46083/)|Visit link for details.|Jul 26, 2023|
- |[USN-6247-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6247-1-linux-kernel-oem-vulnerabilities.46082/)|Visit link for details.|Jul 26, 2023|
- |[USN-6246-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6246-1-linux-kernel-vulnerabilities.46081/)|Visit link for details.|Jul 26, 2023|
- |[USN-6245-1: Trove vulnerabilities](https://www.linux.org/threads/usn-6245-1-trove-vulnerabilities.46076/)|Visit link for details.|Jul 25, 2023|
- |[USN-6244-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-6244-1-amd-microcode-vulnerability.46075/)|Visit link for details.|Jul 25, 2023|
- |[USN-6129-2: Avahi vulnerability](https://www.linux.org/threads/usn-6129-2-avahi-vulnerability.46074/)|Visit link for details.|Jul 25, 2023|
- |[USN-6203-2: Django vulnerability](https://www.linux.org/threads/usn-6203-2-django-vulnerability.46073/)|Visit link for details.|Jul 25, 2023|
- |[LSN-0096-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0096-1-kernel-live-patch-security-notice.46072/)|Visit link for details.|Jul 25, 2023|
+ |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Atera - CVE-2023-26078](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26078-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Atera - CVE-2023-26077](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26077-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-38606](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38606-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-38594](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38594-2023-07-25)|Visit link for details.|25/07/2023|
+ |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|25/07/2023|
+ |[SnakeYaml - CVE-2022-1471](https://www.cyberveille-sante.gouv.fr/alertes/snakeyaml-cve-2022-1471-2023-07-24)|Visit link for details.|24/07/2023|
+ |[Linux - CVE-2023-3610](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3610-2023-07-24)|Visit link for details.|24/07/2023|
+ |[Linux - CVE-2023-3609](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3609-2023-07-24)|Visit link for details.|24/07/2023|
+ |[Dell PowerStore - CVE-2023-32478](https://www.cyberveille-sante.gouv.fr/alertes/dell-powerstore-cve-2023-32478-2023-07-24)|Visit link for details.|24/07/2023|
+ |[Check Point Endpoint Security - CVE-2023-28133](https://www.cyberveille-sante.gouv.fr/alertes/check-point-endpoint-security-cve-2023-28133-2023-07-24)|Visit link for details.|24/07/2023|
  
 
 # HK-CERT
@@ -105,37 +122,6 @@
  |[Apache Jackrabbit code execution (CVE-2023-37895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[Apache Felix Healthcheck Webconsole Plugin cross-site scripting (CVE-2023-38435)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[Apache Helix code execution (CVE-2023-38647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|25/07/2023|
- |[Atera - CVE-2023-26078](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26078-2023-07-25)|Visit link for details.|25/07/2023|
- |[Atera - CVE-2023-26077](https://www.cyberveille-sante.gouv.fr/alertes/atera-cve-2023-26077-2023-07-25)|Visit link for details.|25/07/2023|
- |[Apple - CVE-2023-38606](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38606-2023-07-25)|Visit link for details.|25/07/2023|
- |[Apple - CVE-2023-38594](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38594-2023-07-25)|Visit link for details.|25/07/2023|
- |[Apple - CVE-2023-37450](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-37450-2023-07-11)|Visit link for details.|25/07/2023|
- |[SnakeYaml - CVE-2022-1471](https://www.cyberveille-sante.gouv.fr/alertes/snakeyaml-cve-2022-1471-2023-07-24)|Visit link for details.|24/07/2023|
- |[Linux - CVE-2023-3610](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3610-2023-07-24)|Visit link for details.|24/07/2023|
- |[Linux - CVE-2023-3609](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3609-2023-07-24)|Visit link for details.|24/07/2023|
- |[Dell PowerStore - CVE-2023-32478](https://www.cyberveille-sante.gouv.fr/alertes/dell-powerstore-cve-2023-32478-2023-07-24)|Visit link for details.|24/07/2023|
- |[Check Point Endpoint Security - CVE-2023-28133](https://www.cyberveille-sante.gouv.fr/alertes/check-point-endpoint-security-cve-2023-28133-2023-07-24)|Visit link for details.|24/07/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # OBS-Vigilance
@@ -170,6 +156,20 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  |[2023-044: Path Traversal Vulnerability in Mastodon Media File Handler](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-044.pdf)|A critical security vulnerability has been discovered in Mastodon versions up to 3.5.8/4.0.4/4.1.2. This vulnerability, identified as a path traversal issue, affects the Media File Handler component of Mastodon. Exploitation of this vulnerability could allow an attacker to create or overwrite any file that Mastodon has access to, potentially leading to Denial of Service (DoS) and arbitrary Remote Code Execution (RCE).|Friday, July 07, 2023 01:16:08 PM CEST|
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
+ |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
+ |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
+ |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
  
 
 # MA-CERT
