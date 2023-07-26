@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/07/2023 22:14:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/07/2023 23:20:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 20, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0592/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
+ |[Multiples vulnérabilités dans SonicWall GMS et Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0593/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS et Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 juillet 2023|
+ |[Vulnérabilité dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0591/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juillet 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS et InstantOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0590/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS et InstantOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
+ |[Multiples vulnérabilités dans Symantec Advanced Authentication](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0589/)|De multiples vulnérabilités ont été découvertes dans Symantec Advanced Authentication. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0588/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juillet 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0587/)|Une vulnérabilité a été découverte dans |Publié le 26 juillet 2023|
+ |[Multiples vulnérabilités dans Foxit Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0586/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor pour Mac. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 juillet 2023|
+ |[[SCADA] Multiples vulnérabilités dans HiSecOS EAGLE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0585/)|De multiples vulnérabilités ont été découvertes dans HiSecOS EAGLE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 juillet 2023|
+ |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0584/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 juillet 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865" class="noirorange"><b>Qt</b>: out-of-bounds memory reading via QDnsLookup()</a>](https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865)|An attacker can force a read at an invalid memory address of Qt, via QDnsLookup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via XFRMA_MTIMER_THRESH</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via xfrm_update_ae_params()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862" class="noirorange"><b>Openstack Neutron</b>: overload via Security Groups Creation</a>](https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862)|An attacker can trigger an overload of Openstack Neutron, via Security Groups Creation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861" class="noirorange"><b>QEMU</b>: overload via inflate_buffer()</a>](https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861)|An attacker can trigger an overload of QEMU, via inflate_buffer(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860)|An attacker can trigger a Cross Site Scripting of Trellix ePolicy Orchestrator, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-UserPassword-Attribute-Decoding-41859" class="noirorange"><b>389 Directory Server</b>: information disclosure via UserPassword Attribute Decoding</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-UserPassword-Attribute-Decoding-41859)|An attacker can bypass access restrictions to data of 389 Directory Server, via UserPassword Attribute Decoding, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-drm-msm-gpu-41858" class="noirorange"><b>Linux kernel</b>: double free via drm/msm/gpu</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-drm-msm-gpu-41858)|An attacker can force a double memory free of the Linux kernel, via drm/msm/gpu, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,33 +128,17 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0592/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans SonicWall GMS et Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0593/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS et Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 juillet 2023|
- |[Vulnérabilité dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0591/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS et InstantOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0590/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS et InstantOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Symantec Advanced Authentication](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0589/)|De multiples vulnérabilités ont été découvertes dans Symantec Advanced Authentication. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0588/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0587/)|Une vulnérabilité a été découverte dans |Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Foxit Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0586/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor pour Mac. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 juillet 2023|
- |[[SCADA] Multiples vulnérabilités dans HiSecOS EAGLE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0585/)|De multiples vulnérabilités ont été découvertes dans HiSecOS EAGLE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 juillet 2023|
- |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0584/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 juillet 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Axis Network Door Controllers and Network Intercoms devices denial of service (CVE-2023-21405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[AXIS A1001 buffer overflow (CVE-2023-21406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[TYPO3 CORE information disclosure (CVE-2023-38499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[TYPO3 CORE cross-site scripting (CVE-2023-38500)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[Emerson ROC800-Series RTU devices security bypass (CVE-2023-1935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[JetBrains TeamCity privilege escalation (CVE-2023-39173)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  |[JetBrains TeamCity denial of service (CVE-2023-39174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
- |[JetBrains TeamCity cross-site scripting (CVE-2023-39175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2023|
  
 
 # EU-CERT
@@ -141,35 +158,18 @@
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865" class="noirorange"><b>Qt</b>: out-of-bounds memory reading via QDnsLookup()</a>](https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865)|An attacker can force a read at an invalid memory address of Qt, via QDnsLookup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via XFRMA_MTIMER_THRESH</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via xfrm_update_ae_params()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862" class="noirorange"><b>Openstack Neutron</b>: overload via Security Groups Creation</a>](https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862)|An attacker can trigger an overload of Openstack Neutron, via Security Groups Creation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861" class="noirorange"><b>QEMU</b>: overload via inflate_buffer()</a>](https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861)|An attacker can trigger an overload of QEMU, via inflate_buffer(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860)|An attacker can trigger a Cross Site Scripting of Trellix ePolicy Orchestrator, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-UserPassword-Attribute-Decoding-41859" class="noirorange"><b>389 Directory Server</b>: information disclosure via UserPassword Attribute Decoding</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-UserPassword-Attribute-Decoding-41859)|An attacker can bypass access restrictions to data of 389 Directory Server, via UserPassword Attribute Decoding, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-drm-msm-gpu-41858" class="noirorange"><b>Linux kernel</b>: double free via drm/msm/gpu</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-drm-msm-gpu-41858)|An attacker can force a double memory free of the Linux kernel, via drm/msm/gpu, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel ksmbd Session Setup Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-981/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-980/)|Visit link for details|2023-07-20|
- |[Linux Kernel ksmbd Chained Request NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-979/)|Visit link for details|2023-07-20|
- |[KeySight N6841A RF Sensor deleteEmbeddedApp Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-978/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor deleteFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-977/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor addFirmwarePackage Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-976/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor smsRestoreDatabaseZip Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-975/)|Visit link for details|2023-07-19|
- |[KeySight N6841A RF Sensor removeLicenseFile Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-974/)|Visit link for details|2023-07-19|
+ |[Trend Micro Apex Central modTXSO Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1001/)|Visit link for details|2023-07-26|
+ |[Trend Micro Apex Central modVulnerabilityProtect Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1000/)|Visit link for details|2023-07-26|
+ |[Trend Micro Apex Central modDeepSecurity Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-999/)|Visit link for details|2023-07-26|
+ |[Trend Micro Apex Central modTMSL Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-998/)|Visit link for details|2023-07-26|
+ |[Foxit PDF Reader AcroForm signature Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-997/)|Visit link for details|2023-07-26|
+ |[Foxit PDF Reader AcroForm Doc Object Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-996/)|Visit link for details|2023-07-26|
+ |[Foxit PDF Reader AcroForm Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-995/)|Visit link for details|2023-07-26|
+ |[Foxit PDF Reader Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-994/)|Visit link for details|2023-07-26|
  
 
 # MA-CERT
