@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/07/2023 06:23:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/07/2023 07:30:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -124,23 +124,6 @@
  |[Arm products execution (CVE-2022-43701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 27, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[42952507/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4295250723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. Selon Ivanti, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant...|25 juillet 2023|
  |[42942507/23 - Vulnérabilités critiques affectant iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4294250723-vulnerabilites-critiques-affectant-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. Certaines de ces vulnérabilités sont des « Zero-day»activement exploités et peuventpermettre à un...|25 juillet 2023|
  |[42932407/23 - Vulnérabilités critiques affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4293240723-vulnerabilites-critiques-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant son produit Adobe ColFusion. Selon Adobe, l’exploit d’une deces vulnérabilités existe et il peut permettre à un attaquant distant...|24 juillet 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
