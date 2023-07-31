@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2023 07:33:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2023 08:17:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jul 27, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 27, 2023|
+ |[CISA Releases Analysis of FY22 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-releases-analysis-fy22-risk-and-vulnerability-assessments)|Visit link for details.|Jul 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 25, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6257-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6257-1-open-vm-tools-vulnerability.46107/)|Visit link for details.|Jul 27, 2023|
  |[DSA-5460 curl - security update](https://www.linux.org/threads/dsa-5460-curl-security-update.46105/)|Visit link for details.|Jul 27, 2023|
  |[DSA-5459 amd64-microcode - security update](https://www.linux.org/threads/dsa-5459-amd64-microcode-security-update.46104/)|Visit link for details.|Jul 27, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jul 27, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 27, 2023|
- |[CISA Releases Analysis of FY22 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-releases-analysis-fy22-risk-and-vulnerability-assessments)|Visit link for details.|Jul 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2023|
  
 
 # CERT-FR
@@ -95,22 +95,6 @@
  |[PaperCut - CVE-2023-3486](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-3486-2023-07-26)|Visit link for details.|26/07/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
- |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20230725)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploitation requires the presence of specific libraries on the victim system.Remote exploitation requires that the agent was forwarded to an attacker-...|Release Date: 25 Jul 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230725)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:CVE...|Release Date: 25 Jul 2023 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -141,20 +125,6 @@
  |[2023-043: Grafana Authentication Bypass Using Azure AD OAuth](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-043.pdf)|On the 22nd of June, 2023, a critical security vulnerability - CVE-2023-3128 - was identified in Grafana. Grafana was found to be validating Azure Active Directory (AD) accounts based on the email claim. However, on Azure AD, the profile email field is not unique and can be easily altered. This issue can lead to Grafana account takeover and authentication bypass when Azure AD OAuth is configured with a multi-tenant Azure AD OAuth application.|Thursday, June 29, 2023 10:51:07 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Comparison Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1003/)|Visit link for details|2023-07-27|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -172,21 +142,34 @@
  |[42932407/23 - Vulnérabilités critiques affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4293240723-vulnerabilites-critiques-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant son produit Adobe ColFusion. Selon Adobe, l’exploit d’une deces vulnérabilités existe et il peut permettre à un attaquant distant...|24 juillet 2023|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
+ |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20230725)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploitation requires the presence of specific libraries on the victim system.Remote exploitation requires that the agent was forwarded to an attacker-...|Release Date: 25 Jul 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230725)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:CVE...|Release Date: 25 Jul 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Comparison Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1003/)|Visit link for details|2023-07-27|
  
 
 # CA-CCS
@@ -204,4 +187,21 @@
  |[HPE security advisory (AV23-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-440)|Visit link for details|2023-07-25|
  |[[Control systems] Axis Communications security advisory (AV23-439)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-axis-communications-security-advisory-av23-439)|Visit link for details|2023-07-25|
  |[[Control systems] Rockwell Automation security advisory (AV23-438)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-438)|Visit link for details|2023-07-25|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
  
