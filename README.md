@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2023 15:18:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2023 16:14:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6262-1: Wireshark vulnerabilities](https://www.linux.org/threads/usn-6262-1-wireshark-vulnerabilities.46156/)|Visit link for details.|Jul 31, 2023|
+ |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
+ |[DSA-5462 linux - security update](https://www.linux.org/threads/dsa-5462-linux-security-update.46151/)|Visit link for details.|Jul 30, 2023|
+ |[DSA-5461 linux - security update](https://www.linux.org/threads/dsa-5461-linux-security-update.46150/)|Visit link for details.|Jul 30, 2023|
+ |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
+ |[USN-6260-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6260-1-linux-kernel-vulnerabilities.46112/)|Visit link for details.|Jul 27, 2023|
+ |[USN-6259-1: Open-iSCSI vulnerabilities](https://www.linux.org/threads/usn-6259-1-open-iscsi-vulnerabilities.46111/)|Visit link for details.|Jul 27, 2023|
+ |[USN-5193-3: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-5193-3-x-org-x-server-vulnerabilities.46110/)|Visit link for details.|Jul 27, 2023|
+ |[USN-6258-1: LLVM Toolchain vulnerabilities](https://www.linux.org/threads/usn-6258-1-llvm-toolchain-vulnerabilities.46109/)|Visit link for details.|Jul 27, 2023|
+ |[USN-6257-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6257-1-open-vm-tools-vulnerability.46107/)|Visit link for details.|Jul 27, 2023|
+ |[DSA-5460 curl - security update](https://www.linux.org/threads/dsa-5460-curl-security-update.46105/)|Visit link for details.|Jul 27, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,27 +62,11 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5462 linux - security update](https://www.linux.org/threads/dsa-5462-linux-security-update.46151/)|Visit link for details.|Jul 30, 2023|
- |[DSA-5461 linux - security update](https://www.linux.org/threads/dsa-5461-linux-security-update.46150/)|Visit link for details.|Jul 30, 2023|
- |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
- |[USN-6260-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6260-1-linux-kernel-vulnerabilities.46112/)|Visit link for details.|Jul 27, 2023|
- |[USN-6259-1: Open-iSCSI vulnerabilities](https://www.linux.org/threads/usn-6259-1-open-iscsi-vulnerabilities.46111/)|Visit link for details.|Jul 27, 2023|
- |[USN-5193-3: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-5193-3-x-org-x-server-vulnerabilities.46110/)|Visit link for details.|Jul 27, 2023|
- |[USN-6258-1: LLVM Toolchain vulnerabilities](https://www.linux.org/threads/usn-6258-1-llvm-toolchain-vulnerabilities.46109/)|Visit link for details.|Jul 27, 2023|
- |[USN-6257-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6257-1-open-vm-tools-vulnerability.46107/)|Visit link for details.|Jul 27, 2023|
- |[DSA-5460 curl - security update](https://www.linux.org/threads/dsa-5460-curl-security-update.46105/)|Visit link for details.|Jul 27, 2023|
- |[DSA-5459 amd64-microcode - security update](https://www.linux.org/threads/dsa-5459-amd64-microcode-security-update.46104/)|Visit link for details.|Jul 27, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|31/07/2023|
  |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
  |[Trend Micro - CVE-2023-38626](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38626-2023-07-28)|Visit link for details.|28/07/2023|
  |[Linux - CVE-2023-38429](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38429-2023-07-28)|Visit link for details.|28/07/2023|
@@ -76,7 +77,6 @@
  |[SolarWinds - CVE-2023-33224](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-33224-2023-07-27)|Visit link for details.|27/07/2023|
  |[SolarWinds - CVE-2023-23843](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23843-2023-07-27)|Visit link for details.|27/07/2023|
  |[Progress - CVE-2023-34364](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2023-34364-2023-07-27)|Visit link for details.|27/07/2023|
- |[PaperCut - CVE-2023-3486](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-3486-2023-07-26)|Visit link for details.|26/07/2023|
  
 
 # HK-CERT
@@ -111,23 +111,6 @@
  |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0592/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880" class="noirorange"><b>jtidy</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880)|An attacker can trigger an overload of jtidy, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879" class="noirorange"><b>librsvg</b>: directory traversal via Xi:include Href</a>](https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879)|An attacker can traverse directories of librsvg, via Xi:include Href, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -158,10 +141,29 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880" class="noirorange"><b>jtidy</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880)|An attacker can trigger an overload of jtidy, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879" class="noirorange"><b>librsvg</b>: directory traversal via Xi:include Href</a>](https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879)|An attacker can traverse directories of librsvg, via Xi:include Href, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via virStoragePoolObjListSearch()</a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
+ |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
  |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
  |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
@@ -171,8 +173,20 @@
  |[42972607/23 - Vulnérabilité affectantCitrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4297260723-vulnerabilite-affectant-citrix-hypervisor.html)|Citrix annonce la correction d’une vulnérabilité affectant son produitCitrix Hypervisor.L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|26 juillet 2023|
  |[42962607/23 - Vulnérabilité affectant des produits de VMware](https://www.dgssi.gov.ma//fr/content/4296260723-vulnerabilite-affectant-des-produits-de-vmware.html)|VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|26 juillet 2023|
  |[42952507/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4295250723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. Selon Ivanti, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant...|25 juillet 2023|
- |[42942507/23 - Vulnérabilités critiques affectant iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4294250723-vulnerabilites-critiques-affectant-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. Certaines de ces vulnérabilités sont des « Zero-day»activement exploités et peuventpermettre à un...|25 juillet 2023|
- |[42932407/23 - Vulnérabilités critiques affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4293240723-vulnerabilites-critiques-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant son produit Adobe ColFusion. Selon Adobe, l’exploit d’une deces vulnérabilités existe et il peut permettre à un attaquant distant...|24 juillet 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Comparison Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1003/)|Visit link for details|2023-07-27|
  
 
 # CA-CCS
@@ -190,18 +204,4 @@
  |[HPE security advisory (AV23-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-440)|Visit link for details|2023-07-25|
  |[[Control systems] Axis Communications security advisory (AV23-439)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-axis-communications-security-advisory-av23-439)|Visit link for details|2023-07-25|
  |[[Control systems] Rockwell Automation security advisory (AV23-438)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-438)|Visit link for details|2023-07-25|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Comparison Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1003/)|Visit link for details|2023-07-27|
  
