@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2023 12:16:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/08/2023 13:20:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jul 27, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 27, 2023|
- |[CISA Releases Analysis of FY22 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-releases-analysis-fy22-risk-and-vulnerability-assessments)|Visit link for details.|Jul 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +46,20 @@
  |[USN-5193-3: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-5193-3-x-org-x-server-vulnerabilities.46110/)|Visit link for details.|Jul 27, 2023|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0597/)|De multiples vulnérabilités ont été découvertes dans|Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0596/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 juillet 2023|
- |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0595/)|Une vulnérabilité a été découverte dans Mozilla|Publié le 27 juillet 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Jul 27, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 27, 2023|
+ |[CISA Releases Analysis of FY22 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-releases-analysis-fy22-risk-and-vulnerability-assessments)|Visit link for details.|Jul 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 25, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
  
 
 # CERT-SANTE
@@ -93,6 +77,22 @@
  |[Linux - CVE-2023-38427](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38427-2023-07-28)|Visit link for details.|28/07/2023|
  |[Linux - CVE-2023-38426](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38426-2023-07-28)|Visit link for details.|28/07/2023|
  |[Trend Micro - CVE-2023-38625](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38625-2023-07-27)|Visit link for details.|27/07/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0597/)|De multiples vulnérabilités ont été découvertes dans|Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0596/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 juillet 2023|
+ |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0595/)|Une vulnérabilité a été découverte dans Mozilla|Publié le 27 juillet 2023|
  
 
 # HK-CERT
@@ -124,24 +124,14 @@
  |[Multiple plugins for WordPress by Inisev cross-site request forgery (CVE-2023-3977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 29, 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891" class="noirorange"><b>LibTIFF</b>: integer overflow via raw2tiff</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891)|An attacker can trigger an integer overflow of LibTIFF, via raw2tiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890" class="noirorange"><b>LibTIFF</b>: memory corruption via tiffcp DECLAREreadFunc()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890)|An attacker can trigger a memory corruption of LibTIFF, via tiffcp DECLAREreadFunc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via countInkNamesString()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885" class="noirorange"><b>OpenSSL</b>: overload via DH Q Parameter Value Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885)|An attacker can trigger an overload of OpenSSL, via DH Q Parameter Value Checking, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884" class="noirorange"><b>Zabbix</b>: file reading via JS preprocessing</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884)|An attacker can read a file of Zabbix, via JS preprocessing, in order to obtain sensitive information...|Visit link for details|
@@ -149,10 +139,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-file-write-41882" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: file write</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-file-write-41882)|An attacker can bypass access restrictions of Ivanti Endpoint Manager Mobile, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880" class="noirorange"><b>jtidy</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/jtidy-overload-via-Cyclic-Dependencies-41880)|An attacker can trigger an overload of jtidy, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879" class="noirorange"><b>librsvg</b>: directory traversal via Xi:include Href</a>](https://vigilance.fr/vulnerability/librsvg-directory-traversal-via-Xi-include-Href-41879)|An attacker can traverse directories of librsvg, via Xi:include Href, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878" class="noirorange"><b>Perl Mail-DKIM</b>: no signature via Lowercase Domain Check</a>](https://vigilance.fr/vulnerability/Perl-Mail-DKIM-no-signature-via-Lowercase-Domain-Check-41878)|An attacker can use malicious data on Perl Mail-DKIM, via Lowercase Domain Check, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Reload</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Reload-41877)|An attacker can bypass filtering rules of Cisco ASA, via Reload, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876" class="noirorange"><b>LLVM Toolchain</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LLVM-Toolchain-four-vulnerabilities-41876)|An attacker can use several vulnerabilities of LLVM Toolchain...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875" class="noirorange"><b>Check Point Gaia  Quantum</b>: privilege escalation via Hostname Command Injection</a>](https://vigilance.fr/vulnerability/Check-Point-Gaia-Quantum-privilege-escalation-via-Hostname-Command-Injection-41875)|An attacker can bypass restrictions of Check Point Gaia  Quantum, via Hostname Command Injection, in order to escalate his privileges...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
+ |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
+ |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
+ |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
+ |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
 # MA-CERT
@@ -172,21 +175,18 @@
  |[42972607/23 - Vulnérabilité affectantCitrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4297260723-vulnerabilite-affectant-citrix-hypervisor.html)|Citrix annonce la correction d’une vulnérabilité affectant son produitCitrix Hypervisor.L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|26 juillet 2023|
  
 
-# EU-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
- |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
- |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
  
 
 # CA-CCS
