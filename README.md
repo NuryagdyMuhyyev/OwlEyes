@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2023 19:15:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/08/2023 20:17:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 31, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
  |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
  |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
@@ -42,13 +43,13 @@
  |[CISA Releases Analysis of FY22 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-releases-analysis-fy22-risk-and-vulnerability-assessments)|Visit link for details.|Jul 26, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/07/25/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 25, 2023|
  
 
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6266-1: librsvg vulnerability](https://www.linux.org/threads/usn-6266-1-librsvg-vulnerability.46175/)|Visit link for details.|Aug 1, 2023|
  |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
  |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
  |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
@@ -59,7 +60,19 @@
  |[DSA-5461 linux - security update](https://www.linux.org/threads/dsa-5461-linux-security-update.46150/)|Visit link for details.|Jul 30, 2023|
  |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
  |[USN-6260-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6260-1-linux-kernel-vulnerabilities.46112/)|Visit link for details.|Jul 27, 2023|
- |[USN-6259-1: Open-iSCSI vulnerabilities](https://www.linux.org/threads/usn-6259-1-open-iscsi-vulnerabilities.46111/)|Visit link for details.|Jul 27, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Splunk SOAR code execution (CVE-2023-3997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[WooCommerce Pre-Orders plugin for WordPress cross-site request forgery (CVE-2023-3508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[WooCommerce Pre-Orders plugin for WordPress cross-site request forgery (CVE-2023-3507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[OpenSSL denial of service (CVE-2023-3817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[FOSSBilling session hijacking (CVE-2023-4005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[phpMyFAQ code execution (CVE-2023-4006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
+ |[phpMyFAQ cross-site scripting (CVE-2023-4007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
  
 
 # CERT-FR
@@ -95,19 +108,6 @@
  |[Trend Micro - CVE-2023-38625](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38625-2023-07-27)|Visit link for details.|27/07/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Splunk SOAR code execution (CVE-2023-3997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[WooCommerce Pre-Orders plugin for WordPress cross-site request forgery (CVE-2023-3508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[WooCommerce Pre-Orders plugin for WordPress cross-site request forgery (CVE-2023-3507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[OpenSSL denial of service (CVE-2023-3817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[FOSSBilling session hijacking (CVE-2023-4005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[phpMyFAQ code execution (CVE-2023-4006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- |[phpMyFAQ cross-site scripting (CVE-2023-4007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,18 +124,21 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230725)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:CVE...|Release Date: 25 Jul 2023 |
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901" class="noirorange"><b>Xen</b>: denial of service via Cortex-A77</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901)|An attacker, in a guest system, can cause a fatal error of Xen, via Cortex-A77, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898" class="noirorange"><b>Gnuplot</b>: buffer overflow via plotrequest()</a>](https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898)|An attacker can trigger a buffer overflow of Gnuplot, via plotrequest(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897" class="noirorange"><b>pipewire</b>: information disclosure via Other Streams</a>](https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897)|An attacker can bypass access restrictions to data of pipewire, via Other Streams, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895" class="noirorange"><b>Linux kernel</b>: overload via usb_giveback_urb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895)|An attacker can trigger an overload of the Linux kernel, via usb_giveback_urb(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891" class="noirorange"><b>LibTIFF</b>: integer overflow via raw2tiff</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891)|An attacker can trigger an integer overflow of LibTIFF, via raw2tiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890" class="noirorange"><b>LibTIFF</b>: memory corruption via tiffcp DECLAREreadFunc()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890)|An attacker can trigger a memory corruption of LibTIFF, via tiffcp DECLAREreadFunc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -159,6 +162,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
  |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
  |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
@@ -169,24 +173,6 @@
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
  |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
  |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
- |[42982607/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4298260723-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger deux vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 juillet 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898" class="noirorange"><b>Gnuplot</b>: buffer overflow via plotrequest()</a>](https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898)|An attacker can trigger a buffer overflow of Gnuplot, via plotrequest(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897" class="noirorange"><b>pipewire</b>: information disclosure via Other Streams</a>](https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897)|An attacker can bypass access restrictions to data of pipewire, via Other Streams, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895" class="noirorange"><b>Linux kernel</b>: overload via usb_giveback_urb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895)|An attacker can trigger an overload of the Linux kernel, via usb_giveback_urb(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891" class="noirorange"><b>LibTIFF</b>: integer overflow via raw2tiff</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891)|An attacker can trigger an integer overflow of LibTIFF, via raw2tiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890" class="noirorange"><b>LibTIFF</b>: memory corruption via tiffcp DECLAREreadFunc()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890)|An attacker can trigger a memory corruption of LibTIFF, via tiffcp DECLAREreadFunc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via countInkNamesString()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # CA-CCS
@@ -204,4 +190,10 @@
  |[Drupal security advisory (AV23-444)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-444)|Visit link for details|2023-07-27|
  |[HPE security advisory (AV23-443)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-443)|Visit link for details|2023-07-27|
  |[[Control systems] ABB security advisory (AV23-442)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-442)|Visit link for details|2023-07-26|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
