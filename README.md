@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2023 15:17:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/08/2023 16:13:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
  |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
  |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
  |[USN-6264-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6264-1-webkitgtk-vulnerabilities.46164/)|Visit link for details.|Jul 31, 2023|
@@ -43,7 +44,6 @@
  |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
  |[USN-6260-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6260-1-linux-kernel-vulnerabilities.46112/)|Visit link for details.|Jul 27, 2023|
  |[USN-6259-1: Open-iSCSI vulnerabilities](https://www.linux.org/threads/usn-6259-1-open-iscsi-vulnerabilities.46111/)|Visit link for details.|Jul 27, 2023|
- |[USN-5193-3: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-5193-3-x-org-x-server-vulnerabilities.46110/)|Visit link for details.|Jul 27, 2023|
  
 
 # US-CERT
@@ -78,21 +78,21 @@
  |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0595/)|Une vulnérabilité a été découverte dans Mozilla|Publié le 27 juillet 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895" class="noirorange"><b>Linux kernel</b>: overload via usb_giveback_urb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895)|An attacker can trigger an overload of the Linux kernel, via usb_giveback_urb(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891" class="noirorange"><b>LibTIFF</b>: integer overflow via raw2tiff</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891)|An attacker can trigger an integer overflow of LibTIFF, via raw2tiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890" class="noirorange"><b>LibTIFF</b>: memory corruption via tiffcp DECLAREreadFunc()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890)|An attacker can trigger a memory corruption of LibTIFF, via tiffcp DECLAREreadFunc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via countInkNamesString()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885" class="noirorange"><b>OpenSSL</b>: overload via DH Q Parameter Value Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885)|An attacker can trigger an overload of OpenSSL, via DH Q Parameter Value Checking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884" class="noirorange"><b>Zabbix</b>: file reading via JS preprocessing</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884)|An attacker can read a file of Zabbix, via JS preprocessing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenIDC-cjose-write-access-via-Truncated-Authentication-Tag-41883" class="noirorange"><b>OpenIDC cjose</b>: write access via Truncated Authentication Tag</a>](https://vigilance.fr/vulnerability/OpenIDC-cjose-write-access-via-Truncated-Authentication-Tag-41883)|An attacker can bypass access restrictions of OpenIDC cjose, via Truncated Authentication Tag, in order to alter data...|Visit link for details|
+ |[Zimbra - CVE-2023-37580](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-37580-2023-07-31)|Visit link for details.|31/07/2023|
+ |[Linux - CVE-2023-38428](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38428-2023-07-31)|Visit link for details.|31/07/2023|
+ |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|31/07/2023|
+ |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|31/07/2023|
+ |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|31/07/2023|
+ |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
+ |[Trend Micro - CVE-2023-38626](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38626-2023-07-28)|Visit link for details.|28/07/2023|
+ |[Linux - CVE-2023-38429](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38429-2023-07-28)|Visit link for details.|28/07/2023|
+ |[Linux - CVE-2023-38427](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38427-2023-07-28)|Visit link for details.|28/07/2023|
+ |[Linux - CVE-2023-38426](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38426-2023-07-28)|Visit link for details.|28/07/2023|
+ |[Trend Micro - CVE-2023-38625](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38625-2023-07-27)|Visit link for details.|27/07/2023|
  
 
 # HK-CERT
@@ -111,23 +111,6 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230725)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:CVE...|Release Date: 25 Jul 2023 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zimbra - CVE-2023-37580](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-37580-2023-07-31)|Visit link for details.|31/07/2023|
- |[Linux - CVE-2023-38428](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38428-2023-07-31)|Visit link for details.|31/07/2023|
- |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|31/07/2023|
- |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|31/07/2023|
- |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|31/07/2023|
- |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
- |[Trend Micro - CVE-2023-38626](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38626-2023-07-28)|Visit link for details.|28/07/2023|
- |[Linux - CVE-2023-38429](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38429-2023-07-28)|Visit link for details.|28/07/2023|
- |[Linux - CVE-2023-38427](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38427-2023-07-28)|Visit link for details.|28/07/2023|
- |[Linux - CVE-2023-38426](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38426-2023-07-28)|Visit link for details.|28/07/2023|
- |[Trend Micro - CVE-2023-38625](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38625-2023-07-27)|Visit link for details.|27/07/2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -141,21 +124,21 @@
  |[omeka-s cross-site scripting (CVE-2023-3982)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2023|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
- |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
- |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895" class="noirorange"><b>Linux kernel</b>: overload via usb_giveback_urb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895)|An attacker can trigger an overload of the Linux kernel, via usb_giveback_urb(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891" class="noirorange"><b>LibTIFF</b>: integer overflow via raw2tiff</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-raw2tiff-41891)|An attacker can trigger an integer overflow of LibTIFF, via raw2tiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890" class="noirorange"><b>LibTIFF</b>: memory corruption via tiffcp DECLAREreadFunc()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-tiffcp-DECLAREreadFunc-41890)|An attacker can trigger a memory corruption of LibTIFF, via tiffcp DECLAREreadFunc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via countInkNamesString()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-countInkNamesString-41889)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885" class="noirorange"><b>OpenSSL</b>: overload via DH Q Parameter Value Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Q-Parameter-Value-Checking-41885)|An attacker can trigger an overload of OpenSSL, via DH Q Parameter Value Checking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884" class="noirorange"><b>Zabbix</b>: file reading via JS preprocessing</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-JS-preprocessing-41884)|An attacker can read a file of Zabbix, via JS preprocessing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenIDC-cjose-write-access-via-Truncated-Authentication-Tag-41883" class="noirorange"><b>OpenIDC cjose</b>: write access via Truncated Authentication Tag</a>](https://vigilance.fr/vulnerability/OpenIDC-cjose-write-access-via-Truncated-Authentication-Tag-41883)|An attacker can bypass access restrictions of OpenIDC cjose, via Truncated Authentication Tag, in order to alter data...|Visit link for details|
  
 
 # MA-CERT
@@ -173,6 +156,23 @@
  |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
  |[42982607/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4298260723-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger deux vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 juillet 2023|
  |[42972607/23 - Vulnérabilité affectantCitrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4297260723-vulnerabilite-affectant-citrix-hypervisor.html)|Citrix annonce la correction d’une vulnérabilité affectant son produitCitrix Hypervisor.L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|26 juillet 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
+ |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
+ |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
+ |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
+ |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
 # CA-CCS
@@ -196,12 +196,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1007/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform SendHttpRequest Missing Authorization Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1006/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform UpdateActionsProperties Incorrect Behavior Order Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1005/)|Visit link for details|2023-07-27|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1004/)|Visit link for details|2023-07-27|
  
