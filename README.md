@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2023 23:20:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/08/2023 00:12:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -115,47 +115,27 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Broadcom Brocade Fabric OS code execution (CVE-2023-31926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[Omron CJ series and CS/CJ Series denial of service (CVE-2023-38744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[OMRON CX-Programmer code execution (CVE-2023-38746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[OMRON CX-Programmer code execution (CVE-2023-38747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[Broadcom Brocade Fabric OS information disclosure (CVE-2023-31927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[OMRON CX-Programmer code execution (CVE-2023-38746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[Eramba code execution (CVE-2023-36255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS information disclosure (CVE-2023-31426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS privilege escalation (CVE-2023-31427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS information disclosure (CVE-2023-31428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS information disclosure (CVE-2023-31429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS denial of service (CVE-2023-31430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS denial of service (CVE-2023-31431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Broadcom Brocade Fabric OS privilege escalation (CVE-2023-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919" class="noirorange"><b>F5 BIG-IP</b>: weak encryption via FIPS HSM Predictable Password</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919)|An attacker can access data on F5 BIG-IP, via FIPS HSM Predictable Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918" class="noirorange"><b>F5 BIG-IP Edge Client for macOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918)|An attacker can bypass restrictions of F5 BIG-IP Edge Client for macOS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915" class="noirorange"><b>F5 BIG-IP</b>: denial of service via IControl SOAP Process</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915)|An attacker can cause a fatal error of F5 BIG-IP, via IControl SOAP Process, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914" class="noirorange"><b>F5 BIG-IP Edge Client</b>: write access via Server List</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914)|An attacker can bypass access restrictions of F5 BIG-IP Edge Client, via Server List, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913" class="noirorange"><b>LibreDWG</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913)|An attacker can use several vulnerabilities of LibreDWG...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912" class="noirorange"><b>LibreDWG</b>: reuse after free via Decode_preR13_section</a>](https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912)|An attacker can force the reuse of a freed memory area of LibreDWG, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910" class="noirorange"><b>FreeBSD</b>: buffer overflow via Bhyve Fwctl</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via Bhyve Fwctl, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909" class="noirorange"><b>Joomla Solidres</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909)|An attacker can trigger a Cross Site Scripting of Joomla Solidres, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 security advisory (AV23-457)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-457)|Visit link for details|2023-08-02|
- |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
- |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
- |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
- |[[Control systems] APSystems security advisory (AV23-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-apsystems-security-advisory-av23-453)|Visit link for details|2023-08-01|
- |[Mozilla security advisory (AV23-452)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-452)|Visit link for details|2023-08-01|
- |[[Control systems] ABB security advisory (AV23-451)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-451)|Visit link for details|2023-07-31|
- |[Ubuntu security advisory (AV23-450)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-450)|Visit link for details|2023-07-31|
- |[IBM security advisory (AV23-449)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-449)|Visit link for details|2023-07-31|
- |[Ivanti security advisory (AV23-448)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-448)|Visit link for details|2023-07-28|
- |[[Control systems] PTC security advisory (AV23-447)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-447)|Visit link for details|2023-07-27|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
  
 
 # EU-CERT
@@ -175,6 +155,23 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920" class="noirorange"><b>Cisco Secure Web Appliance</b>: ingress filtrering bypass via Content Encoding</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920)|An attacker can bypass filtering rules of Cisco Secure Web Appliance, via Content Encoding, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919" class="noirorange"><b>F5 BIG-IP</b>: weak encryption via FIPS HSM Predictable Password</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919)|An attacker can access data on F5 BIG-IP, via FIPS HSM Predictable Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918" class="noirorange"><b>F5 BIG-IP Edge Client for macOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918)|An attacker can bypass restrictions of F5 BIG-IP Edge Client for macOS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915" class="noirorange"><b>F5 BIG-IP</b>: denial of service via IControl SOAP Process</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915)|An attacker can cause a fatal error of F5 BIG-IP, via IControl SOAP Process, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914" class="noirorange"><b>F5 BIG-IP Edge Client</b>: write access via Server List</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914)|An attacker can bypass access restrictions of F5 BIG-IP Edge Client, via Server List, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913" class="noirorange"><b>LibreDWG</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913)|An attacker can use several vulnerabilities of LibreDWG...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912" class="noirorange"><b>LibreDWG</b>: reuse after free via Decode_preR13_section</a>](https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912)|An attacker can force the reuse of a freed memory area of LibreDWG, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910" class="noirorange"><b>FreeBSD</b>: buffer overflow via Bhyve Fwctl</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via Bhyve Fwctl, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -192,16 +189,19 @@
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[F5 security advisory (AV23-457)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-457)|Visit link for details|2023-08-02|
+ |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
+ |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
+ |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
+ |[[Control systems] APSystems security advisory (AV23-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-apsystems-security-advisory-av23-453)|Visit link for details|2023-08-01|
+ |[Mozilla security advisory (AV23-452)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-452)|Visit link for details|2023-08-01|
+ |[[Control systems] ABB security advisory (AV23-451)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-451)|Visit link for details|2023-07-31|
+ |[Ubuntu security advisory (AV23-450)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-450)|Visit link for details|2023-07-31|
+ |[IBM security advisory (AV23-449)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-449)|Visit link for details|2023-07-31|
+ |[Ivanti security advisory (AV23-448)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-448)|Visit link for details|2023-07-28|
+ |[[Control systems] PTC security advisory (AV23-447)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-447)|Visit link for details|2023-07-27|
  
