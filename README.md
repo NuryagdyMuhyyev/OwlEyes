@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2023 07:27:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2023 08:16:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Palo Alto Networks GlobalProtect App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0607/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 1 août 2023|
- |[Vulnérabilité dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0606/)|Une vulnérabilité a été découverte dans Splunk SOAR. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 août 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0605/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 1 août 2023|
- |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,17 +79,33 @@
  |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[pnpm code execution (CVE-2023-37478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Inductive Automation Ignition code execution (CVE-2023-38124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Inductive Automation Ignition security bypass (CVE-2023-38123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Inductive Automation Ignition code execution (CVE-2023-38122)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Inductive Automation Ignition cross-site scripting (CVE-2023-38121)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Mozilla Firefox code execution (CVE-2023-4058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[Mozilla Firefox code execution (CVE-2023-4057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[Mozilla Firefox code execution (CVE-2023-4056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  
 
 # OBS-Vigilance
@@ -123,39 +123,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
- |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20230725)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploitation requires the presence of specific libraries on the victim system.Remote exploitation requires that the agent was forwarded to an attacker-...|Release Date: 25 Jul 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
- |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
- |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
- |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
- |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
- |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
- |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
- |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
- |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
- |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
- |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
  
 
 # ZERODAYINITIATIVE
@@ -187,6 +154,39 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Palo Alto Networks GlobalProtect App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0607/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 1 août 2023|
+ |[Vulnérabilité dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0606/)|Une vulnérabilité a été découverte dans Splunk SOAR. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 août 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0605/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 1 août 2023|
+ |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
+ |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
+ |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
+ |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
+ |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
+ |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
+ |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
+ |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
+ |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
+ |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
+ |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
  
 
 # CA-CCS
