@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2023 14:16:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2023 15:17:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -124,23 +108,6 @@
  |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-3993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907" class="noirorange"><b>GNU readline</b>: file corruption via _rl_tropen()</a>](https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of GNU readline, via _rl_tropen()...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906" class="noirorange"><b>RPM</b>: memory corruption via Region Tags</a>](https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906)|An attacker can trigger a memory corruption of RPM, via Region Tags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903" class="noirorange"><b>Joomla Edocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903)|An attacker can trigger a Cross Site Scripting of Joomla Edocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902" class="noirorange"><b>Aruba CX</b>: code execution via Command Line Interface</a>](https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902)|An attacker can use a vulnerability of Aruba CX, via Command Line Interface, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901" class="noirorange"><b>Xen</b>: denial of service via Cortex-A77</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901)|An attacker, in a guest system, can cause a fatal error of Xen, via Cortex-A77, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898" class="noirorange"><b>Gnuplot</b>: buffer overflow via plotrequest()</a>](https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898)|An attacker can trigger a buffer overflow of Gnuplot, via plotrequest(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897" class="noirorange"><b>pipewire</b>: information disclosure via Other Streams</a>](https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897)|An attacker can bypass access restrictions to data of pipewire, via Other Streams, in order to read sensitive information...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -158,24 +125,44 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909" class="noirorange"><b>Joomla Solidres</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909)|An attacker can trigger a Cross Site Scripting of Joomla Solidres, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Agents-Cross-Site-Scripting-41908" class="noirorange"><b>CA Single Sign On Agents</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Agents-Cross-Site-Scripting-41908)|An attacker can trigger a Cross Site Scripting of CA Single Sign On Agents, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907" class="noirorange"><b>GNU readline</b>: file corruption via _rl_tropen()</a>](https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of GNU readline, via _rl_tropen()...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906" class="noirorange"><b>RPM</b>: memory corruption via Region Tags</a>](https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906)|An attacker can trigger a memory corruption of RPM, via Region Tags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903" class="noirorange"><b>Joomla Edocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903)|An attacker can trigger a Cross Site Scripting of Joomla Edocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902" class="noirorange"><b>Aruba CX</b>: code execution via Command Line Interface</a>](https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902)|An attacker can use a vulnerability of Aruba CX, via Command Line Interface, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901" class="noirorange"><b>Xen</b>: denial of service via Cortex-A77</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901)|An attacker, in a guest system, can cause a fatal error of Xen, via Cortex-A77, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-41900)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
  
 
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[43090208/23 - Vulnérabilité affectant Palo Alto GlobalProtect App](https://www.dgssi.gov.ma//fr/content/4309020823-vulnerabilite-affectant-palo-alto-globalprotect-app.html)|Palo Alto Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit GlobalProtect App. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
  |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
  |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
@@ -186,7 +173,6 @@
  |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
  |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
- |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
  
 
 # CA-CCS
@@ -204,4 +190,10 @@
  |[[Control systems] Mitsubishi Electric security advisory (AV23-446)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-446)|Visit link for details|2023-07-27|
  |[[Control systems] ETIC Telecom security advisory (AV23-445)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-etic-telecom-security-advisory-av23-445)|Visit link for details|2023-07-27|
  |[Drupal security advisory (AV23-444)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-444)|Visit link for details|2023-07-27|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
