@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2023 16:13:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2023 17:33:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,39 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6266-1: librsvg vulnerability](https://www.linux.org/threads/usn-6266-1-librsvg-vulnerability.46175/)|Visit link for details.|Aug 1, 2023|
- |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
- |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
- |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
- |[USN-6264-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6264-1-webkitgtk-vulnerabilities.46164/)|Visit link for details.|Jul 31, 2023|
- |[USN-6262-1: Wireshark vulnerabilities](https://www.linux.org/threads/usn-6262-1-wireshark-vulnerabilities.46156/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5462 linux - security update](https://www.linux.org/threads/dsa-5462-linux-security-update.46151/)|Visit link for details.|Jul 30, 2023|
- |[DSA-5461 linux - security update](https://www.linux.org/threads/dsa-5461-linux-security-update.46150/)|Visit link for details.|Jul 30, 2023|
- |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
- |[USN-6260-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6260-1-linux-kernel-vulnerabilities.46112/)|Visit link for details.|Jul 27, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -78,11 +45,28 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 26, 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6267-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6267-1-firefox-vulnerabilities.46185/)|Visit link for details.|Aug 2, 2023|
+ |[USN-6266-1: librsvg vulnerability](https://www.linux.org/threads/usn-6266-1-librsvg-vulnerability.46175/)|Visit link for details.|Aug 1, 2023|
+ |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
+ |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
+ |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
+ |[USN-6264-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6264-1-webkitgtk-vulnerabilities.46164/)|Visit link for details.|Jul 31, 2023|
+ |[USN-6262-1: Wireshark vulnerabilities](https://www.linux.org/threads/usn-6262-1-wireshark-vulnerabilities.46156/)|Visit link for details.|Jul 31, 2023|
+ |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
+ |[DSA-5462 linux - security update](https://www.linux.org/threads/dsa-5462-linux-security-update.46151/)|Visit link for details.|Jul 30, 2023|
+ |[DSA-5461 linux - security update](https://www.linux.org/threads/dsa-5461-linux-security-update.46150/)|Visit link for details.|Jul 30, 2023|
+ |[USN-6261-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6261-1-linux-kernel-iot-vulnerabilities.46129/)|Visit link for details.|Jul 28, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Online Shopping Portal Project cross-site scripting (CVE-2023-37772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Online Shopping Portal Project SQL injection (CVE-2023-37772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-1210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-4011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-2022)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
@@ -106,20 +90,6 @@
  |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|31/07/2023|
  |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|31/07/2023|
  |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
  
 
 # CERT-FR
@@ -155,6 +125,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 26 Jul 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service and elevation of privilege on the targeted system.|Release Date: 26 Jul 2023 |
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
  |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
  
 
 # CA-CCS
