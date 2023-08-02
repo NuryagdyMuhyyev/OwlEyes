@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2023 20:16:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2023 21:21:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,46 +66,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
  |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
+ |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|02/08/2023|
+ |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
  |[Zimbra - CVE-2023-38750](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-38750-2023-08-01)|Visit link for details.|01/08/2023|
  |[OpenSSL - CVE-2023-3817](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-3817-2023-08-01)|Visit link for details.|01/08/2023|
  |[Linux - CVE-2023-38432](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38432-2023-08-01)|Visit link for details.|01/08/2023|
  |[Linux - CVE-2023-38431](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38431-2023-08-01)|Visit link for details.|01/08/2023|
  |[Linux - CVE-2023-38430](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38430-2023-08-01)|Visit link for details.|01/08/2023|
- |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|01/08/2023|
- |[Zimbra - CVE-2023-37580](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-37580-2023-07-31)|Visit link for details.|31/07/2023|
- |[Linux - CVE-2023-38428](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-38428-2023-07-31)|Visit link for details.|31/07/2023|
- |[Citrix - CVE-2023-24489](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-24489-2023-06-14)|Visit link for details.|31/07/2023|
- |[Trend Micro - CVE-2023-38627](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-38627-2023-07-28)|Visit link for details.|28/07/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Eramba code execution (CVE-2023-36255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[Online Shopping Portal Project SQL injection (CVE-2023-37772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-1210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-4011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-2022)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-3900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-3401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0611/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 août 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0610/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 août 2023|
+ |[Vulnérabilité dans les commutateurs Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0609/)|Une vulnérabilité a été découverte dans les commutateurs Aruba. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 2 août 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0608/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 2 août 2023|
  |[Vulnérabilité dans Palo Alto Networks GlobalProtect App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0607/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 1 août 2023|
  |[Vulnérabilité dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0606/)|Une vulnérabilité a été découverte dans Splunk SOAR. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 août 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0605/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 1 août 2023|
  |[Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
  |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 31 juillet 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
- |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
  
 
 # HK-CERT
@@ -128,17 +115,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919" class="noirorange"><b>F5 BIG-IP</b>: weak encryption via FIPS HSM Predictable Password</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919)|An attacker can access data on F5 BIG-IP, via FIPS HSM Predictable Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918" class="noirorange"><b>F5 BIG-IP Edge Client for macOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918)|An attacker can bypass restrictions of F5 BIG-IP Edge Client for macOS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915" class="noirorange"><b>F5 BIG-IP</b>: denial of service via IControl SOAP Process</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915)|An attacker can cause a fatal error of F5 BIG-IP, via IControl SOAP Process, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914" class="noirorange"><b>F5 BIG-IP Edge Client</b>: write access via Server List</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-write-access-via-Server-List-41914)|An attacker can bypass access restrictions of F5 BIG-IP Edge Client, via Server List, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913" class="noirorange"><b>LibreDWG</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913)|An attacker can use several vulnerabilities of LibreDWG...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912" class="noirorange"><b>LibreDWG</b>: reuse after free via Decode_preR13_section</a>](https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912)|An attacker can force the reuse of a freed memory area of LibreDWG, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910" class="noirorange"><b>FreeBSD</b>: buffer overflow via Bhyve Fwctl</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via Bhyve Fwctl, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909" class="noirorange"><b>Joomla Solidres</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Solidres-Cross-Site-Scripting-41909)|An attacker can trigger a Cross Site Scripting of Joomla Solidres, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Agents-Cross-Site-Scripting-41908" class="noirorange"><b>CA Single Sign On Agents</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Agents-Cross-Site-Scripting-41908)|An attacker can trigger a Cross Site Scripting of CA Single Sign On Agents, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907" class="noirorange"><b>GNU readline</b>: file corruption via _rl_tropen()</a>](https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of GNU readline, via _rl_tropen()...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906" class="noirorange"><b>RPM</b>: memory corruption via Region Tags</a>](https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906)|An attacker can trigger a memory corruption of RPM, via Region Tags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903" class="noirorange"><b>Joomla Edocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903)|An attacker can trigger a Cross Site Scripting of Joomla Edocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902" class="noirorange"><b>Aruba CX</b>: code execution via Command Line Interface</a>](https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902)|An attacker can use a vulnerability of Aruba CX, via Command Line Interface, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901" class="noirorange"><b>Xen</b>: denial of service via Cortex-A77</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901)|An attacker, in a guest system, can cause a fatal error of Xen, via Cortex-A77, in order to trigger a denial of service on the host system...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Eramba code execution (CVE-2023-36255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[Online Shopping Portal Project SQL injection (CVE-2023-37772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-1210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-4011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-2022)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-3900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-3401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2023|
  
 
 # EU-CERT
@@ -156,6 +156,20 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
+ |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
+ |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
+ |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
+ |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
  
 
 # MA-CERT
@@ -190,18 +204,4 @@
  |[Ivanti security advisory (AV23-448)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-448)|Visit link for details|2023-07-28|
  |[[Control systems] PTC security advisory (AV23-447)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-447)|Visit link for details|2023-07-27|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-446)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-446)|Visit link for details|2023-07-27|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Task Scheduling Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1015/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Missing Authentication for Critical Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1014/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Permissive Cross-domain Policy Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1013/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) Inductive Automation Ignition OPC UA Quick Client Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1012/)|Visit link for details|2023-08-01|
- |[(Pwn2Own) PTC KEPServerEX Variant Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1011/)|Visit link for details|2023-07-31|
- |[Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1010/)|Visit link for details|2023-07-28|
- |[Canonical Ubuntu OverlayFS File System Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1009/)|Visit link for details|2023-07-28|
- |[GStreamer RealMedia File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1008/)|Visit link for details|2023-07-27|
  
