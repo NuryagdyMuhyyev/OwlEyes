@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/08/2023 21:19:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/08/2023 22:14:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,17 +33,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6273-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6273-1-poppler-vulnerabilities.46200/)|Visit link for details.|Aug 3, 2023|
+ |[USN-5064-3: GNU cpio vulnerability](https://www.linux.org/threads/usn-5064-3-gnu-cpio-vulnerability.46199/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6272-1: OpenJDK 20 vulnerabilities](https://www.linux.org/threads/usn-6272-1-openjdk-20-vulnerabilities.46198/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6271-1: MaraDNS vulnerabilities](https://www.linux.org/threads/usn-6271-1-maradns-vulnerabilities.46197/)|Visit link for details.|Aug 3, 2023|
  |[USN-6270-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6270-1-vim-vulnerabilities.46193/)|Visit link for details.|Aug 3, 2023|
  |[USN-6269-1: GStreamer Good Plugins vulnerability](https://www.linux.org/threads/usn-6269-1-gstreamer-good-plugins-vulnerability.46189/)|Visit link for details.|Aug 2, 2023|
  |[USN-6268-1: GStreamer Base Plugins vulnerabilities](https://www.linux.org/threads/usn-6268-1-gstreamer-base-plugins-vulnerabilities.46188/)|Visit link for details.|Aug 2, 2023|
  |[USN-6267-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6267-1-firefox-vulnerabilities.46185/)|Visit link for details.|Aug 2, 2023|
  |[USN-6266-1: librsvg vulnerability](https://www.linux.org/threads/usn-6266-1-librsvg-vulnerability.46175/)|Visit link for details.|Aug 1, 2023|
  |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
- |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
- |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
- |[USN-6264-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6264-1-webkitgtk-vulnerabilities.46164/)|Visit link for details.|Jul 31, 2023|
- |[USN-6262-1: Wireshark vulnerabilities](https://www.linux.org/threads/usn-6262-1-wireshark-vulnerabilities.46156/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
  
 
 # US-CERT
@@ -78,21 +78,17 @@
  |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0608/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 2 août 2023|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
- |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
- |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
- |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
- |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
- |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
- |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
- |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
- |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|02/08/2023|
- |[Zimbra - CVE-2023-38750](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-38750-2023-08-01)|Visit link for details.|01/08/2023|
- |[OpenSSL - CVE-2023-3817](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-3817-2023-08-01)|Visit link for details.|01/08/2023|
+ |[Academy LMS cross-site scripting (CVE-2023-4119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Open-Xchange OX App Suite Office server-side request forgery (CVE-2023-26442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Open-Xchange OX App Office information disclosure (CVE-2023-26441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Open-Xchange OX App Backend SQL injection (CVE-2023-26439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Open-Xchange OX App Office SQL injection (CVE-2023-26440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Ivanti MobileIron Core security bypass (CVE-2023-35082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[Open-Xchange OX App Backend weak security (CVE-2023-26451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
  
 
 # HK-CERT
@@ -111,17 +107,21 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Open-Xchange OX App Suite Office server-side request forgery (CVE-2023-26442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[Open-Xchange OX App Office information disclosure (CVE-2023-26441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[Open-Xchange OX App Backend SQL injection (CVE-2023-26439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[Open-Xchange OX App Office SQL injection (CVE-2023-26440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[Ivanti MobileIron Core security bypass (CVE-2023-35082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[Open-Xchange OX App Backend weak security (CVE-2023-26451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
- |[F5 BIG-IP (APM) privilege escalation (CVE-2023-38418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2023|
+ |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
+ |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
+ |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
+ |[Ivanti - CVE-2023-35078](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35078-2023-07-25)|Visit link for details.|02/08/2023|
+ |[Zimbra - CVE-2023-38750](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-38750-2023-08-01)|Visit link for details.|01/08/2023|
+ |[OpenSSL - CVE-2023-3817](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-3817-2023-08-01)|Visit link for details.|01/08/2023|
  
 
 # EU-CERT
@@ -145,17 +145,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-external-XML-entity-injection-41927" class="noirorange"><b>PHP</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/PHP-external-XML-entity-injection-41927)|An attacker can transmit malicious XML data to PHP, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926" class="noirorange"><b>MobileIron Core</b>: user access via API Access</a>](https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926)|An attacker can bypass restrictions of MobileIron Core, via API Access, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-cryptography-no-signature-via-SSH-Certificates-Critical-Options-41925" class="noirorange"><b>Python-cryptography</b>: no signature via SSH Certificates Critical Options</a>](https://vigilance.fr/vulnerability/Python-cryptography-no-signature-via-SSH-Certificates-Critical-Options-41925)|An attacker can use malicious data on |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-privilege-escalation-via-Uncontrolled-Search-Path-Element-41924" class="noirorange"><b>HP LaserJet</b>: privilege escalation via Uncontrolled Search Path Element</a>](https://vigilance.fr/vulnerability/HP-LaserJet-privilege-escalation-via-Uncontrolled-Search-Path-Element-41924)|An attacker can bypass restrictions of HP LaserJet, via Uncontrolled Search Path Element, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41923" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41923)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NuGet-code-execution-41922" class="noirorange"><b>NuGet</b>: code execution</a>](https://vigilance.fr/vulnerability/NuGet-code-execution-41922)|An attacker can use a vulnerability of NuGet, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921)|An attacker can trigger a Cross Site Scripting of Drupal Matomo Analytics, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920" class="noirorange"><b>Cisco Secure Web Appliance</b>: ingress filtrering bypass via Content Encoding</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920)|An attacker can bypass filtering rules of Cisco Secure Web Appliance, via Content Encoding, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919" class="noirorange"><b>F5 BIG-IP</b>: weak encryption via FIPS HSM Predictable Password</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919)|An attacker can access data on F5 BIG-IP, via FIPS HSM Predictable Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918" class="noirorange"><b>F5 BIG-IP Edge Client for macOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918)|An attacker can bypass restrictions of F5 BIG-IP Edge Client for macOS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41917)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Scripting via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Scripting-via-Configuration-Utility-41916)|An attacker can trigger a Cross Site Scripting of F5 BIG-IP, via Configuration Utility, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915" class="noirorange"><b>F5 BIG-IP</b>: denial of service via IControl SOAP Process</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-IControl-SOAP-Process-41915)|An attacker can cause a fatal error of F5 BIG-IP, via IControl SOAP Process, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
