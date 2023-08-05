@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/08/2023 12:13:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/08/2023 13:18:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
- |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,21 +46,20 @@
  |[USN-6270-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6270-1-vim-vulnerabilities.46193/)|Visit link for details.|Aug 3, 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Open-XChange - CVE-2023-26439](https://www.cyberveille-sante.gouv.fr/alertes/open-xchange-cve-2023-26439-2023-08-04)|Visit link for details.|04/08/2023|
- |[Mitel - CVE-2023-39292](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2023-39292-2023-08-04)|Visit link for details.|04/08/2023|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|04/08/2023|
- |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
- |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
- |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
- |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
- |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
- |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
- |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
- |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
+ |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
  
 
 # CERT-FR
@@ -93,6 +76,23 @@
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans Axis License Plate Verifier](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans Axis License Plate Verifier. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Open-XChange - CVE-2023-26439](https://www.cyberveille-sante.gouv.fr/alertes/open-xchange-cve-2023-26439-2023-08-04)|Visit link for details.|04/08/2023|
+ |[Mitel - CVE-2023-39292](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2023-39292-2023-08-04)|Visit link for details.|04/08/2023|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|04/08/2023|
+ |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
+ |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
+ |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
  
 
 # HK-CERT
@@ -122,6 +122,23 @@
  |[Kolibri stack buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
  |[Suprema BioStar security bypass (CVE-2023-33363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
  |[Suprema BioStar command execution (CVE-2023-33364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933" class="noirorange"><b>ntpsec</b>: denial of service via NTS Client Request Mode 3</a>](https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933)|An attacker can cause a fatal error of ntpsec, via NTS Client Request Mode 3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932" class="noirorange"><b>Go</b>: overload via Large RSA Keys</a>](https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932)|An attacker can trigger an overload of Go, via Large RSA Keys, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -187,21 +204,4 @@
  |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
  |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
  |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933" class="noirorange"><b>ntpsec</b>: denial of service via NTS Client Request Mode 3</a>](https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933)|An attacker can cause a fatal error of ntpsec, via NTS Client Request Mode 3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932" class="noirorange"><b>Go</b>: overload via Large RSA Keys</a>](https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932)|An attacker can trigger an overload of Go, via Large RSA Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
