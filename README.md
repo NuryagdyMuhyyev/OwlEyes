@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/08/2023 03:14:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/08/2023 04:15:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
- |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +46,20 @@
  |[USN-6270-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6270-1-vim-vulnerabilities.46193/)|Visit link for details.|Aug 3, 2023|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Aug 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
+ |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
  
 
 # CERT-SANTE
@@ -95,17 +79,20 @@
  |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Extreme Networks AP410C routers buffer overflow (CVE-2023-35803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
- |[Apache Airflow code execution (CVE-2023-39508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
- |[Fujitsu Infrastructure Manager information disclosure (CVE-2023-39379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
- |[Sulu information disclosure (CVE-2023-39343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
- |[Pimcore directory traversal (CVE-2023-38708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
- |[Cloudflare odoh-rs denial of service (CVE-2023-3766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
- |[HCL Unica Platform privilege escalation (CVE-2023-37498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Aug 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230703)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, information disclosure and data manipulation on the targeted system. [Updated...| Release Date: 3 Jul 2023 |
  
 
 # CERT-FR
@@ -122,6 +109,19 @@
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans Axis License Plate Verifier](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans Axis License Plate Verifier. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Extreme Networks AP410C routers buffer overflow (CVE-2023-35803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
+ |[Apache Airflow code execution (CVE-2023-39508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
+ |[Fujitsu Infrastructure Manager information disclosure (CVE-2023-39379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 4, 2023|
+ |[Sulu information disclosure (CVE-2023-39343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
+ |[Pimcore directory traversal (CVE-2023-38708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
+ |[Cloudflare odoh-rs denial of service (CVE-2023-3766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
+ |[HCL Unica Platform privilege escalation (CVE-2023-37498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
  
 
 # ZERODAYINITIATIVE
