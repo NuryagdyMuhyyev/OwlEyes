@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/08/2023 09:19:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/08/2023 10:14:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
- |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
- |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
- |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
- |[USN-6273-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6273-1-poppler-vulnerabilities.46200/)|Visit link for details.|Aug 3, 2023|
- |[USN-5064-3: GNU cpio vulnerability](https://www.linux.org/threads/usn-5064-3-gnu-cpio-vulnerability.46199/)|Visit link for details.|Aug 3, 2023|
- |[USN-6272-1: OpenJDK 20 vulnerabilities](https://www.linux.org/threads/usn-6272-1-openjdk-20-vulnerabilities.46198/)|Visit link for details.|Aug 3, 2023|
- |[USN-6271-1: MaraDNS vulnerabilities](https://www.linux.org/threads/usn-6271-1-maradns-vulnerabilities.46197/)|Visit link for details.|Aug 3, 2023|
- |[USN-6270-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6270-1-vim-vulnerabilities.46193/)|Visit link for details.|Aug 3, 2023|
- |[USN-6269-1: GStreamer Good Plugins vulnerability](https://www.linux.org/threads/usn-6269-1-gstreamer-good-plugins-vulnerability.46189/)|Visit link for details.|Aug 2, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,40 @@
  |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
  |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
  |[CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse](https://www.cisa.gov/news-events/alerts/2023/07/27/cisa-and-partners-release-joint-cybersecurity-advisory-preventing-web-application-access-control)|Visit link for details.|Jul 27, 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
+ |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
+ |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6273-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6273-1-poppler-vulnerabilities.46200/)|Visit link for details.|Aug 3, 2023|
+ |[USN-5064-3: GNU cpio vulnerability](https://www.linux.org/threads/usn-5064-3-gnu-cpio-vulnerability.46199/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6272-1: OpenJDK 20 vulnerabilities](https://www.linux.org/threads/usn-6272-1-openjdk-20-vulnerabilities.46198/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6271-1: MaraDNS vulnerabilities](https://www.linux.org/threads/usn-6271-1-maradns-vulnerabilities.46197/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6270-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6270-1-vim-vulnerabilities.46193/)|Visit link for details.|Aug 3, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Open-XChange - CVE-2023-26439](https://www.cyberveille-sante.gouv.fr/alertes/open-xchange-cve-2023-26439-2023-08-04)|Visit link for details.|04/08/2023|
+ |[Mitel - CVE-2023-39292](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2023-39292-2023-08-04)|Visit link for details.|04/08/2023|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|04/08/2023|
+ |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
+ |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
+ |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
+ |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
+ |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
  
 
 # HK-CERT
@@ -91,39 +108,6 @@
  |[Suprema BioStar command execution (CVE-2023-33364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Open-XChange - CVE-2023-26439](https://www.cyberveille-sante.gouv.fr/alertes/open-xchange-cve-2023-26439-2023-08-04)|Visit link for details.|04/08/2023|
- |[Mitel - CVE-2023-39292](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2023-39292-2023-08-04)|Visit link for details.|04/08/2023|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|04/08/2023|
- |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
- |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
- |[Google Chrome - CVE-2023-4068](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4068-2023-08-03)|Visit link for details.|03/08/2023|
- |[TP-Link - CVE-2023-31710](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-31710-2023-08-02)|Visit link for details.|02/08/2023|
- |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
- |[Mozilla Firefox - CVE-2023-4049](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4049-2023-08-02)|Visit link for details.|02/08/2023|
- |[Ivanti - CVE-2023-35081](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35081-2023-07-31)|Visit link for details.|02/08/2023|
- |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|02/08/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans Axis License Plate Verifier](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans Axis License Plate Verifier. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +137,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans Axis License Plate Verifier](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans Axis License Plate Verifier. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  
 
 # EU-CERT
