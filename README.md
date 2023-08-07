@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2023 14:17:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2023 15:18:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -176,6 +176,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43160708/23 - Vulnérabilités affectant VMwareHorizon Server](https://www.dgssi.gov.ma//fr/content/4316070823-vulnerabilites-affectant-vmware-horizon-server.html)|VMware annonce la correction de deux vulnérabilités affectant son produit Horizon Server. L'exploitation de ces vulnérabilités peut permettre à un attaquant de contourner les mesures desécurité ou d’accéder à des données...|07 août 2023|
  |[43150408/23 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma//fr/content/4315040823-vulnerabilites-affectant-des-produits-f5.html)|F5 Networks annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire ou de contourner les mesures de sécurité.|04 août 2023|
  |[43140408/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4314040823-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|04 août 2023|
  |[43130408/23 - Vulnérabilité affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4313040823-vulnerabilite-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de certains de ses produits. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code arbitraire.|04 août 2023|
@@ -186,7 +187,6 @@
  |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
  |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
- |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
  
 
 # CA-CCS
