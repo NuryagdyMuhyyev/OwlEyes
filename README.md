@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 03:14:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 04:15:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -44,6 +44,22 @@
  |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
  |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
  |[USN-6273-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6273-1-poppler-vulnerabilities.46200/)|Visit link for details.|Aug 3, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
+ |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
  
 
 # CERT-FR
@@ -96,22 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
- |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -145,6 +145,19 @@
  |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -162,33 +175,6 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,18 @@
  |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
  |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
  |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
  
