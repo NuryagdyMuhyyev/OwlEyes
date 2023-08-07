@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 02:13:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 03:14:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
- |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- 
 
 # LINUX-SEC
 
@@ -95,6 +79,39 @@
  |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939" class="noirorange"><b>pdfcrack</b>: buffer overflow via MD5</a>](https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939)|An attacker can trigger a buffer overflow of pdfcrack, via MD5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
+ |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,36 +145,6 @@
  |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939" class="noirorange"><b>pdfcrack</b>: buffer overflow via MD5</a>](https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939)|An attacker can trigger a buffer overflow of pdfcrack, via MD5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets privilege escalation (CVE-2023-20809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek Chipsets information disclosure (CVE-2023-20810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -173,6 +160,19 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek Chipsets privilege escalation (CVE-2023-20809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  
 
 # ZERODAYINITIATIVE
