@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 10:15:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 11:20:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
- |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
- |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
- |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
- |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
- 
 
 # US-CERT
 
@@ -78,6 +61,36 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
+ |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
+ |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
+ |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
+ |[USN-6275-1: Cargo vulnerability](https://www.linux.org/threads/usn-6275-1-cargo-vulnerability.46201/)|Visit link for details.|Aug 3, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mediatek products privilege escalation (CVE-2023-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products information disclosure (CVE-2023-20789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products privilege escalation (CVE-2023-20788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products privilege escalation (CVE-2023-20787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products privilege escalation (CVE-2023-20786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products privilege escalation (CVE-2023-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products privilege escalation (CVE-2023-20784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -92,19 +105,6 @@
  |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mediatek products privilege escalation (CVE-2023-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products information disclosure (CVE-2023-20789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  
 
 # CERT-SANTE
