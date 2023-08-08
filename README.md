@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 16:13:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 17:32:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
- |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
- |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
- |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/02/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 02, 2023|
+ |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 01, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
+ |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
+ |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
  
 
 # CERT-SANTE
@@ -95,19 +95,6 @@
  |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-38157)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products information disclosure (CVE-2023-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products denial of service (CVE-2023-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products information disclosure (CVE-2023-20780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Google Android information disclosure (CVE-2023-21265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products denial of service (CVE-2023-20793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[PrestaShop security bypass (CVE-2023-39530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +109,36 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-ingress-filtrering-bypass-via-Mirror-Port-41957" class="noirorange"><b>Siemens RUGGEDCOM ROS</b>: ingress filtrering bypass via Mirror Port</a>](https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-ingress-filtrering-bypass-via-Mirror-Port-41957)|An attacker can bypass filtering rules of Siemens RUGGEDCOM ROS, via Mirror Port, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-denial-of-service-via-Web-Server-41956" class="noirorange"><b>Siemens RUGGEDCOM ROS</b>: denial of service via Web Server</a>](https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-denial-of-service-via-Web-Server-41956)|An attacker can cause a fatal error of Siemens RUGGEDCOM ROS, via Web Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-journal-end-41954" class="noirorange"><b>Linux kernel</b>: buffer overflow via do_journal_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-journal-end-41954)|An attacker can trigger a buffer overflow of the Linux kernel, via do_journal_end(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-TUN-TAP-41953" class="noirorange"><b>Linux kernel</b>: ingress filtrering bypass via TUN/TAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-TUN-TAP-41953)|An attacker can bypass filtering rules of the Linux kernel, via TUN/TAP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952" class="noirorange"><b>AudioCodes MediaPack</b>: information disclosure via Redirect Service</a>](https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952)|An attacker can bypass access restrictions to data of AudioCodes MediaPack, via Redirect Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951" class="noirorange"><b>Undertow</b>: denial of service via MultipartConfig Handling</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951)|An attacker can cause a fatal error of Undertow, via MultipartConfig Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950" class="noirorange"><b>Gstreamer Plugins</b>: integer overflow via MDPR Chunks</a>](https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950)|An attacker can trigger an integer overflow of Gstreamer Plugins, via MDPR Chunks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949" class="noirorange"><b>htmlcleaner</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949)|An attacker can trigger an overload of htmlcleaner, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple ABB products denial of service (CVE-2023-0426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-38157)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Multiple ABB products denial of service (CVE-2023-0425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products information disclosure (CVE-2023-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products denial of service (CVE-2023-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Mediatek products information disclosure (CVE-2023-20780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[Google Android information disclosure (CVE-2023-21265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  
 
 # EU-CERT
@@ -141,38 +158,18 @@
  |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-journal-end-41954" class="noirorange"><b>Linux kernel</b>: buffer overflow via do_journal_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-journal-end-41954)|An attacker can trigger a buffer overflow of the Linux kernel, via do_journal_end(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-TUN-TAP-41953" class="noirorange"><b>Linux kernel</b>: ingress filtrering bypass via TUN/TAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-TUN-TAP-41953)|An attacker can bypass filtering rules of the Linux kernel, via TUN/TAP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952" class="noirorange"><b>AudioCodes MediaPack</b>: information disclosure via Redirect Service</a>](https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952)|An attacker can bypass access restrictions to data of AudioCodes MediaPack, via Redirect Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951" class="noirorange"><b>Undertow</b>: denial of service via MultipartConfig Handling</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951)|An attacker can cause a fatal error of Undertow, via MultipartConfig Handling, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950" class="noirorange"><b>Gstreamer Plugins</b>: integer overflow via MDPR Chunks</a>](https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950)|An attacker can trigger an integer overflow of Gstreamer Plugins, via MDPR Chunks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949" class="noirorange"><b>htmlcleaner</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949)|An attacker can trigger an overload of htmlcleaner, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti security advisory (AV23-462)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-462)|Visit link for details|2023-08-04|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-461)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-461)|Visit link for details|2023-08-03|
- |[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.cyber.gc.ca/en/alerts-advisories/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams)|Visit link for details|2023-08-03|
- |[[Control systems] Sensormatic Electronics security advisory (AV23-460)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-460)|Visit link for details|2023-08-03|
- |[[Control systems] TEL-STER security advisory (AV23-459)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-tel-ster-security-advisory-av23-459)|Visit link for details|2023-08-03|
- |[2022 Top routinely exploited vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/2022-top-routinely-exploited-vulnerabilities)|Visit link for details|2023-08-03|
- |[Google Chrome security advisory (AV23-458)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-458)|Visit link for details|2023-08-03|
- |[F5 security advisory (AV23-457)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-457)|Visit link for details|2023-08-02|
- |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
- |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
- |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
+ |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
  
 
 # MA-CERT
@@ -192,8 +189,19 @@
  |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti security advisory (AV23-462)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-462)|Visit link for details|2023-08-04|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-461)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-461)|Visit link for details|2023-08-03|
+ |[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.cyber.gc.ca/en/alerts-advisories/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams)|Visit link for details|2023-08-03|
+ |[[Control systems] Sensormatic Electronics security advisory (AV23-460)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-460)|Visit link for details|2023-08-03|
+ |[[Control systems] TEL-STER security advisory (AV23-459)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-tel-ster-security-advisory-av23-459)|Visit link for details|2023-08-03|
+ |[2022 Top routinely exploited vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/2022-top-routinely-exploited-vulnerabilities)|Visit link for details|2023-08-03|
+ |[Google Chrome security advisory (AV23-458)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-458)|Visit link for details|2023-08-03|
+ |[F5 security advisory (AV23-457)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-457)|Visit link for details|2023-08-02|
+ |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
+ |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
+ |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
  
