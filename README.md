@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 04:15:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 06:18:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,22 @@
  |[Palo Alto - CVE-2023-0009](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-0009-2023-08-02)|Visit link for details.|02/08/2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Aug 2023 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,22 +126,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Aug 2023 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 2 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 2 Aug 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 31 Jul 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230731)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 31 Jul 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230707)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-07-27] ...| Release Date: 7 Jul 2023 |
  
 
 # MA-CERT
@@ -175,6 +175,20 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[Mitel security advisory (AV23-456)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av23-456)|Visit link for details|2023-08-02|
  |[HPE security advisory (AV23-455)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-455)|Visit link for details|2023-08-02|
  |[GitLab security advisory (AV23-454)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-454)|Visit link for details|2023-08-01|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
  
