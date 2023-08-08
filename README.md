@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 13:20:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 14:15:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6267-2: Firefox regressions](https://www.linux.org/threads/usn-6267-2-firefox-regressions.46255/)|Visit link for details.|Aug 8, 2023|
+ |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
+ |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
+ |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
+ |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,6 +60,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/07/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 31, 2023|
  |[CISA Releases Malware Analysis Reports on Barracuda Backdoors](https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors)|Visit link for details.|Jul 28, 2023|
  |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  
 
 # CERT-SANTE
@@ -78,81 +111,34 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6267-2: Firefox regressions](https://www.linux.org/threads/usn-6267-2-firefox-regressions.46255/)|Visit link for details.|Aug 8, 2023|
- |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
- |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
- |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
- |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952" class="noirorange"><b>AudioCodes MediaPack</b>: information disclosure via Redirect Service</a>](https://vigilance.fr/vulnerability/AudioCodes-MediaPack-information-disclosure-via-Redirect-Service-41952)|An attacker can bypass access restrictions to data of AudioCodes MediaPack, via Redirect Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951" class="noirorange"><b>Undertow</b>: denial of service via MultipartConfig Handling</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951)|An attacker can cause a fatal error of Undertow, via MultipartConfig Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950" class="noirorange"><b>Gstreamer Plugins</b>: integer overflow via MDPR Chunks</a>](https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950)|An attacker can trigger an integer overflow of Gstreamer Plugins, via MDPR Chunks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949" class="noirorange"><b>htmlcleaner</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949)|An attacker can trigger an overload of htmlcleaner, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[PrestaShop security bypass (CVE-2023-39530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[PrestaShop security bypass (CVE-2023-39529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[PrestaShop directory traversal (CVE-2023-39528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  |[PrestaShop cross-site scripting (CVE-2023-39527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  |[PrestaShop code execution (CVE-2023-39526)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  |[PrestaShop directory traversal (CVE-2023-39525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  |[PrestaShop SQL injection (CVE-2023-39524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[FFRI Security FFRI yarai and FFRI yarai Home and Business Edition denial of service (CVE-2023-39341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
- |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
- |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951" class="noirorange"><b>Undertow</b>: denial of service via MultipartConfig Handling</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951)|An attacker can cause a fatal error of Undertow, via MultipartConfig Handling, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950" class="noirorange"><b>Gstreamer Plugins</b>: integer overflow via MDPR Chunks</a>](https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950)|An attacker can trigger an integer overflow of Gstreamer Plugins, via MDPR Chunks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949" class="noirorange"><b>htmlcleaner</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949)|An attacker can trigger an overload of htmlcleaner, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939" class="noirorange"><b>pdfcrack</b>: buffer overflow via MD5</a>](https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939)|An attacker can trigger a buffer overflow of pdfcrack, via MD5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  
 
 # EU-CERT
@@ -172,10 +158,25 @@
  |[2023-045: Microsoft July 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-045.pdf)|Microsoft has released its July 2023 Patch Tuesday security updates, addressing a total of 130 vulnerabilities, including five that were exploited in the wild as zero-day vulnerabilities. Microsoft has also issued guidance on the malicious use of Microsoft signed drivers.|Wednesday, July 12, 2023 11:41:52 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Triangle MicroWorks SCADA Data Gateway DbasSectorFileToExecuteOnReset Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1036/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway certificate Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1035/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway get_config Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1034/)|Visit link for details|2023-08-04|
+ |[Triangle MicroWorks SCADA Data Gateway Use of Hard-coded Cryptograhic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1033/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway GTWWebMonitorService Unquoted Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1032/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Trusted Certification Unrestricted Upload of File Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1031/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Workspace Unrestricted Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/)|Visit link for details|2023-08-04|
+ |[(Pwn2Own) Triangle MicroWorks SCADA Data Gateway Event Log Improper Output Neutralization For Logs Arbitrary File Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/)|Visit link for details|2023-08-04|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[43180808/23 - Vulnérabilité critique affectant PaperCut](https://www.dgssi.gov.ma//fr/content/4318080823-vulnerabilite-critique-affectant-papercut.html)|PaperCut annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter ducodearbitraire.|08 août 2023|
  |[43170708/23 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma//fr/content/4317070823-mise-jour-de-securite-pour-php.html)|Deuxvulnérabilités ont été corrigées dans PHP. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou de contourner les mesures de sécurité.|07 août 2023|
  |[43160708/23 - Vulnérabilités affectant VMwareHorizon Server](https://www.dgssi.gov.ma//fr/content/4316070823-vulnerabilites-affectant-vmware-horizon-server.html)|VMware annonce la correction de deux vulnérabilités affectant son produit Horizon Server. L'exploitation de ces vulnérabilités peut permettre à un attaquant de contourner les mesures desécurité ou d’accéder à des données...|07 août 2023|
  |[43150408/23 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma//fr/content/4315040823-vulnerabilites-affectant-des-produits-f5.html)|F5 Networks annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire ou de contourner les mesures de sécurité.|04 août 2023|
@@ -186,7 +187,6 @@
  |[43100208/23 - Vulnérabilité critique affectant Check Point Gaia Portal](https://www.dgssi.gov.ma//fr/content/4310020823-vulnerabilite-critique-affectant-check-point-gaia-portal.html)|Check pointannonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son système d’exploitation Gaia. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
  |[43090208/23 - Vulnérabilité affectant Palo Alto GlobalProtect App](https://www.dgssi.gov.ma//fr/content/4309020823-vulnerabilite-affectant-palo-alto-globalprotect-app.html)|Palo Alto Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit GlobalProtect App. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
  |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
- |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
  
 
 # CA-CCS
