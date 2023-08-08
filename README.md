@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2023 12:14:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2023 13:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,39 +45,6 @@
  |[Ivanti Releases Security Updates for EPMM to address CVE-2023-35081 ](https://www.cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081)|Visit link for details.|Jul 28, 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6267-2: Firefox regressions](https://www.linux.org/threads/usn-6267-2-firefox-regressions.46255/)|Visit link for details.|Aug 8, 2023|
- |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
- |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
- |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
- |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
- |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
- |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
- |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,17 +78,34 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230710)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-07-18] Updated Vulnerability...| Release Date: 10 Jul 2023 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6267-2: Firefox regressions](https://www.linux.org/threads/usn-6267-2-firefox-regressions.46255/)|Visit link for details.|Aug 8, 2023|
+ |[DSA-5471 libhtmlcleaner-java - security update](https://www.linux.org/threads/dsa-5471-libhtmlcleaner-java-security-update.46254/)|Visit link for details.|Aug 8, 2023|
+ |[USN-6276-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6276-1-unixodbc-vulnerability.46248/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5470 python-werkzeug - security update](https://www.linux.org/threads/dsa-5470-python-werkzeug-security-update.46245/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5469 thunderbird - security update](https://www.linux.org/threads/dsa-5469-thunderbird-security-update.46244/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5468 webkit2gtk - security update](https://www.linux.org/threads/dsa-5468-webkit2gtk-security-update.46243/)|Visit link for details.|Aug 7, 2023|
+ |[DSA-5467 chromium - security update](https://www.linux.org/threads/dsa-5467-chromium-security-update.46224/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5466 ntpsec - security update](https://www.linux.org/threads/dsa-5466-ntpsec-security-update.46221/)|Visit link for details.|Aug 5, 2023|
+ |[DSA-5465 python-django - security update](https://www.linux.org/threads/dsa-5465-python-django-security-update.46209/)|Visit link for details.|Aug 4, 2023|
+ |[DSA-5464 firefox-esr - security update](https://www.linux.org/threads/dsa-5464-firefox-esr-security-update.46208/)|Visit link for details.|Aug 4, 2023|
+ |[USN-6274-1: XMLTooling vulnerability](https://www.linux.org/threads/usn-6274-1-xmltooling-vulnerability.46206/)|Visit link for details.|Aug 3, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[PrestaShop cross-site scripting (CVE-2023-39527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[PrestaShop code execution (CVE-2023-39526)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[PrestaShop directory traversal (CVE-2023-39525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[PrestaShop SQL injection (CVE-2023-39524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[FFRI Security FFRI yarai and FFRI yarai Home and Business Edition denial of service (CVE-2023-39341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  |[Mediatek products privilege escalation (CVE-2023-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products information disclosure (CVE-2023-20789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
- |[Mediatek products privilege escalation (CVE-2023-20784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +126,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951" class="noirorange"><b>Undertow</b>: denial of service via MultipartConfig Handling</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-MultipartConfig-Handling-41951)|An attacker can cause a fatal error of Undertow, via MultipartConfig Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950" class="noirorange"><b>Gstreamer Plugins</b>: integer overflow via MDPR Chunks</a>](https://vigilance.fr/vulnerability/Gstreamer-Plugins-integer-overflow-via-MDPR-Chunks-41950)|An attacker can trigger an integer overflow of Gstreamer Plugins, via MDPR Chunks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949" class="noirorange"><b>htmlcleaner</b>: overload via Cyclic Dependencies</a>](https://vigilance.fr/vulnerability/htmlcleaner-overload-via-Cyclic-Dependencies-41949)|An attacker can trigger an overload of htmlcleaner, via Cyclic Dependencies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-41948)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946" class="noirorange"><b>IBM Java</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/IBM-Java-code-execution-via-Deserialization-41946)|An attacker can use a vulnerability of IBM Java, via Deserialization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945" class="noirorange"><b>GhostScript</b>: buffer overflow via devn_pcx_write_rle()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-devn-pcx-write-rle-41945)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
@@ -149,10 +137,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939" class="noirorange"><b>pdfcrack</b>: buffer overflow via MD5</a>](https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939)|An attacker can trigger a buffer overflow of pdfcrack, via MD5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via cxgb4_cleanup_tc_flower()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via smsusb_stop_streaming()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_crypto_sym_op_helper()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-crypto-sym-op-helper-41935)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via |Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0622/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0621/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 4 août 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0620/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 4 août 2023|
+ |[Multiples vulnérabilités dans VMware Horizon Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans VMware Horizon Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 août 2023|
  
 
 # EU-CERT
