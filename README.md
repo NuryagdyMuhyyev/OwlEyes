@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/08/2023 18:21:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/08/2023 19:17:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,19 +78,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel AMT, Standard Manageability and CSME denial of service (CVE-2022-36392)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Microsoft Windows Kernel privilege escalation (CVE-2023-38154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Zoom Desktop Client for Windows information disclosure (CVE-2023-39209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Zoom SDK denial of service (CVE-2023-39217)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Zoom clients information disclosure (CVE-2023-39218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Zoom Client SDK for Windows information disclosure (CVE-2023-39210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Zoom Desktop Client for Windows and Zoom Rooms for Windows information disclosure (CVE-2023-39211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -108,6 +95,19 @@
  |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoom SDK denial of service (CVE-2023-36533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Zoom Desktop Client Windows privilege escalation (CVE-2023-36534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Zoom clients information disclosure (CVE-2023-36535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Zoom Desktop Client for Windows privilege escalation (CVE-2023-39216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Intel AMT, Standard Manageability and CSME denial of service (CVE-2022-36392)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Microsoft Windows Kernel privilege escalation (CVE-2023-38154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Zoom Desktop Client for Windows information disclosure (CVE-2023-39209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -122,20 +122,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 4 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) Inductive Automation Ignition ConditionRefresh Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1050/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition downloadLaunchClientJar Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1049/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition SimpleXMLReader XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1048/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition ParameterVersionJavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition JavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition AbstractGatewayFunction Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1045/)|Visit link for details|2023-08-08|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1044/)|Visit link for details|2023-08-08|
- |[VBASE VISAM Automation Base VBASE-Editor GestureConfigurations File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1043/)|Visit link for details|2023-08-08|
  
 
 # OBS-Vigilance
@@ -204,4 +190,18 @@
  |[Ivanti security advisory (AV23-462)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-462)|Visit link for details|2023-08-04|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-461)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-461)|Visit link for details|2023-08-03|
  |[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.cyber.gc.ca/en/alerts-advisories/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams)|Visit link for details|2023-08-03|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) Inductive Automation Ignition ConditionRefresh Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1050/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition downloadLaunchClientJar Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1049/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition SimpleXMLReader XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1048/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition ParameterVersionJavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition JavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition AbstractGatewayFunction Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1045/)|Visit link for details|2023-08-08|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1044/)|Visit link for details|2023-08-08|
+ |[VBASE VISAM Automation Base VBASE-Editor GestureConfigurations File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1043/)|Visit link for details|2023-08-08|
  
