@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/08/2023 10:15:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/08/2023 11:21:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,23 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975" class="noirorange"><b>Microsoft Windows Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975)|An attacker can bypass restrictions of Microsoft Windows Defender, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973" class="noirorange"><b>Microsoft Teams</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967" class="noirorange"><b>FortiOS</b>: buffer overflow via Execute Extender Command</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967)|An attacker can trigger a buffer overflow of FortiOS, via Execute Extender Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965" class="noirorange"><b>RubyGem ActionPack</b>: Cross Site Scripting via redirect_to</a>](https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965)|An attacker can trigger a Cross Site Scripting of RubyGem ActionPack, via redirect_to, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964" class="noirorange"><b>Intel Processors</b>: information disclosure via Gather Data Sampling</a>](https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964)|An attacker can bypass access restrictions to data of Intel Processors, via Gather Data Sampling, in order to read sensitive information...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,40 +141,6 @@
  |[Adobe Acrobat and Adobe Reader information disclosure (CVE-2023-38242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
- |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975" class="noirorange"><b>Microsoft Windows Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975)|An attacker can bypass restrictions of Microsoft Windows Defender, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973" class="noirorange"><b>Microsoft Teams</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967" class="noirorange"><b>FortiOS</b>: buffer overflow via Execute Extender Command</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967)|An attacker can trigger a buffer overflow of FortiOS, via Execute Extender Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965" class="noirorange"><b>RubyGem ActionPack</b>: Cross Site Scripting via redirect_to</a>](https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965)|An attacker can trigger a Cross Site Scripting of RubyGem ActionPack, via redirect_to, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964" class="noirorange"><b>Intel Processors</b>: information disclosure via Gather Data Sampling</a>](https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964)|An attacker can bypass access restrictions to data of Intel Processors, via Gather Data Sampling, in order to read sensitive information...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +153,6 @@
  |[(0Day) Inductive Automation Ignition AbstractGatewayFunction Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1045/)|Visit link for details|2023-08-08|
  |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1044/)|Visit link for details|2023-08-08|
  |[VBASE VISAM Automation Base VBASE-Editor GestureConfigurations File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1043/)|Visit link for details|2023-08-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Schneider Electric security advisory (AV23-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-468)|Visit link for details|2023-08-08|
- |[[Control systems] Hitachi Energy security advisory (AV23-467)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-467)|Visit link for details|2023-08-08|
- |[Adobe security advisory (AV23-466)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-466)|Visit link for details|2023-08-08|
- |[IBM security advisory (AV23-465)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-465)|Visit link for details|2023-08-08|
- |[Android security advisory – August 2023 Monthly Rollup (AV23-464)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2023-monthly-rollup-av23-464)|Visit link for details|2023-08-08|
- |[Dell security advisory (AV23-463)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-463)|Visit link for details|2023-08-08|
- |[Ivanti security advisory (AV23-462)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-462)|Visit link for details|2023-08-04|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-461)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-461)|Visit link for details|2023-08-03|
- |[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.cyber.gc.ca/en/alerts-advisories/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams)|Visit link for details|2023-08-03|
- |[[Control systems] Sensormatic Electronics security advisory (AV23-460)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-460)|Visit link for details|2023-08-03|
- |[[Control systems] TEL-STER security advisory (AV23-459)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-tel-ster-security-advisory-av23-459)|Visit link for details|2023-08-03|
  
 
 # MA-CERT
@@ -204,4 +170,38 @@
  |[43100208/23 - Vulnérabilité critique affectant Check Point Gaia Portal](https://www.dgssi.gov.ma//fr/content/4310020823-vulnerabilite-critique-affectant-check-point-gaia-portal.html)|Check pointannonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son système d’exploitation Gaia. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
  |[43090208/23 - Vulnérabilité affectant Palo Alto GlobalProtect App](https://www.dgssi.gov.ma//fr/content/4309020823-vulnerabilite-affectant-palo-alto-globalprotect-app.html)|Palo Alto Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit GlobalProtect App. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
  |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
+ |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
+ |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
+ |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Schneider Electric security advisory (AV23-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-468)|Visit link for details|2023-08-08|
+ |[[Control systems] Hitachi Energy security advisory (AV23-467)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-467)|Visit link for details|2023-08-08|
+ |[Adobe security advisory (AV23-466)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-466)|Visit link for details|2023-08-08|
+ |[IBM security advisory (AV23-465)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-465)|Visit link for details|2023-08-08|
+ |[Android security advisory – August 2023 Monthly Rollup (AV23-464)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2023-monthly-rollup-av23-464)|Visit link for details|2023-08-08|
+ |[Dell security advisory (AV23-463)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-463)|Visit link for details|2023-08-08|
+ |[Ivanti security advisory (AV23-462)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-462)|Visit link for details|2023-08-04|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-461)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-461)|Visit link for details|2023-08-03|
+ |[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.cyber.gc.ca/en/alerts-advisories/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams)|Visit link for details|2023-08-03|
+ |[[Control systems] Sensormatic Electronics security advisory (AV23-460)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sensormatic-electronics-security-advisory-av23-460)|Visit link for details|2023-08-03|
+ |[[Control systems] TEL-STER security advisory (AV23-459)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-tel-ster-security-advisory-av23-459)|Visit link for details|2023-08-03|
  
