@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/08/2023 08:16:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/08/2023 09:19:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA and International Partner NCSC-NO Release Joint Cybersecurity Advisory on Threat Actors Exploiting Ivanti EPMM Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/08/01/cisa-and-international-partner-ncsc-no-release-joint-cybersecurity-advisory-threat-actors-exploiting)|Visit link for details.|Aug 01, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
- |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,19 +77,6 @@
  |[Mitel - CVE-2023-39292](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2023-39292-2023-08-04)|Visit link for details.|04/08/2023|
  |[D-Link - CVE-2023-36089](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-36089-2023-08-03)|Visit link for details.|03/08/2023|
  |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|03/08/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel NUC Kit and Mini PC BIOS Firmware privilege escalation (CVE-2022-37336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Adobe Acrobat and Adobe Reader code execution (CVE-2023-38222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Intel oneAPI Toolkit and component software installer privilege escalation (CVE-2023-28823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Intel NUC Pro Software Suite privilege escalation (CVE-2023-28385)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Intel Support Android App information disclosure (CVE-2023-27392)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Intel oneAPI Toolkit and component software installer privilege escalation (CVE-2023-27391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
- |[Intel Hyperscan Library denial of service (CVE-2023-28711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
  
 
 # CERT-FR
@@ -124,18 +95,50 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 août 2023|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) (Pwn2Own) Inductive Automation Ignition ConditionRefresh Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1050/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition downloadLaunchClientJar Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1049/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition SimpleXMLReader XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1048/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition ParameterVersionJavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition JavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)|Visit link for details|2023-08-08|
- |[(0Day) Inductive Automation Ignition AbstractGatewayFunction Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1045/)|Visit link for details|2023-08-08|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1044/)|Visit link for details|2023-08-08|
- |[VBASE VISAM Automation Base VBASE-Editor GestureConfigurations File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1043/)|Visit link for details|2023-08-08|
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
+ |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel SSD Tools software privilege escalation (CVE-2023-28736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2023-38233)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2023-38232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2023-38231)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2023-38230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Intel PROSet/Wireless WiFi and Killer WiFi products privilege escalation (CVE-2022-38076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ |[Microsoft GitHub Dev-Containers privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[43180808/23 - Vulnérabilité critique affectant PaperCut](https://www.dgssi.gov.ma//fr/content/4318080823-vulnerabilite-critique-affectant-papercut.html)|PaperCut annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter ducodearbitraire.|08 août 2023|
+ |[43170708/23 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma//fr/content/4317070823-mise-jour-de-securite-pour-php.html)|Deuxvulnérabilités ont été corrigées dans PHP. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou de contourner les mesures de sécurité.|07 août 2023|
+ |[43160708/23 - Vulnérabilités affectant VMwareHorizon Server](https://www.dgssi.gov.ma//fr/content/4316070823-vulnerabilites-affectant-vmware-horizon-server.html)|VMware annonce la correction de deux vulnérabilités affectant son produit Horizon Server. L'exploitation de ces vulnérabilités peut permettre à un attaquant de contourner les mesures desécurité ou d’accéder à des données...|07 août 2023|
+ |[43150408/23 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma//fr/content/4315040823-vulnerabilites-affectant-des-produits-f5.html)|F5 Networks annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire ou de contourner les mesures de sécurité.|04 août 2023|
+ |[43140408/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4314040823-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|04 août 2023|
+ |[43130408/23 - Vulnérabilité affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4313040823-vulnerabilite-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de certains de ses produits. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code arbitraire.|04 août 2023|
+ |[43120308/23 - Vulnérabilité affectantXen](https://www.dgssi.gov.ma//fr/content/4312030823-vulnerabilite-affectant-xen.html)|Xen annonce la correction d’une vulnérabilité affectant son produitXen.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer un déni service.|03 août 2023|
+ |[43110308/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4311030823-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité de mises à jour de sécurité permettant lacorrection de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|03 août 2023|
+ |[43100208/23 - Vulnérabilité critique affectant Check Point Gaia Portal](https://www.dgssi.gov.ma//fr/content/4310020823-vulnerabilite-critique-affectant-check-point-gaia-portal.html)|Check pointannonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son système d’exploitation Gaia. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
+ |[43090208/23 - Vulnérabilité affectant Palo Alto GlobalProtect App](https://www.dgssi.gov.ma//fr/content/4309020823-vulnerabilite-affectant-palo-alto-globalprotect-app.html)|Palo Alto Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit GlobalProtect App. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
+ |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
  
 
 # OBS-Vigilance
@@ -172,21 +175,18 @@
  |[2023-046: Access Control Bypass Vulnerability in Adobe ColdFusion](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-046.pdf)|Rapid7 discovered an access control bypass vulnerability in Adobe ColdFusion. This vulnerability allows an attacker to bypass access control restrictions by adding an additional forward slash to the requested URL. Adobe has released a fix for this vulnerability on July 11, 2023.|Wednesday, July 12, 2023 11:46:01 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[43180808/23 - Vulnérabilité critique affectant PaperCut](https://www.dgssi.gov.ma//fr/content/4318080823-vulnerabilite-critique-affectant-papercut.html)|PaperCut annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter ducodearbitraire.|08 août 2023|
- |[43170708/23 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma//fr/content/4317070823-mise-jour-de-securite-pour-php.html)|Deuxvulnérabilités ont été corrigées dans PHP. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou de contourner les mesures de sécurité.|07 août 2023|
- |[43160708/23 - Vulnérabilités affectant VMwareHorizon Server](https://www.dgssi.gov.ma//fr/content/4316070823-vulnerabilites-affectant-vmware-horizon-server.html)|VMware annonce la correction de deux vulnérabilités affectant son produit Horizon Server. L'exploitation de ces vulnérabilités peut permettre à un attaquant de contourner les mesures desécurité ou d’accéder à des données...|07 août 2023|
- |[43150408/23 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma//fr/content/4315040823-vulnerabilites-affectant-des-produits-f5.html)|F5 Networks annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire ou de contourner les mesures de sécurité.|04 août 2023|
- |[43140408/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4314040823-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|04 août 2023|
- |[43130408/23 - Vulnérabilité affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4313040823-vulnerabilite-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de certains de ses produits. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code arbitraire.|04 août 2023|
- |[43120308/23 - Vulnérabilité affectantXen](https://www.dgssi.gov.ma//fr/content/4312030823-vulnerabilite-affectant-xen.html)|Xen annonce la correction d’une vulnérabilité affectant son produitXen.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer un déni service.|03 août 2023|
- |[43110308/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4311030823-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité de mises à jour de sécurité permettant lacorrection de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|03 août 2023|
- |[43100208/23 - Vulnérabilité critique affectant Check Point Gaia Portal](https://www.dgssi.gov.ma//fr/content/4310020823-vulnerabilite-critique-affectant-check-point-gaia-portal.html)|Check pointannonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son système d’exploitation Gaia. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
- |[43090208/23 - Vulnérabilité affectant Palo Alto GlobalProtect App](https://www.dgssi.gov.ma//fr/content/4309020823-vulnerabilite-affectant-palo-alto-globalprotect-app.html)|Palo Alto Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit GlobalProtect App. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
- |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
+ |[(0Day) (Pwn2Own) Inductive Automation Ignition ConditionRefresh Resource Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1050/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition downloadLaunchClientJar Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1049/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition SimpleXMLReader XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1048/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition ParameterVersionJavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition JavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)|Visit link for details|2023-08-08|
+ |[(0Day) Inductive Automation Ignition AbstractGatewayFunction Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1045/)|Visit link for details|2023-08-08|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1044/)|Visit link for details|2023-08-08|
+ |[VBASE VISAM Automation Base VBASE-Editor GestureConfigurations File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1043/)|Visit link for details|2023-08-08|
  
 
 # CA-CCS
