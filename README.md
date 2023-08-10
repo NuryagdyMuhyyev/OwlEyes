@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/08/2023 19:16:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/08/2023 20:18:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -141,37 +141,6 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
- |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995" class="noirorange"><b>Linux kernel</b>: buffer overflow via exfat_get_uniname_from_ext_entry()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994" class="noirorange"><b>HAProxy</b>: header injection via Empty Content-Length Header</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994)|An attacker can add new headers on HAProxy, via Empty Content-Length Header, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992" class="noirorange"><b>MIT Kerberos</b>: double free via free_req_info()</a>](https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992)|An attacker can force a double memory free of MIT Kerberos, via free_req_info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AngularJS-overload-41987" class="noirorange"><b>AngularJS</b>: overload</a>](https://vigilance.fr/vulnerability/AngularJS-overload-41987)|An attacker can trigger an overload of AngularJS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-score-opcodes-41986" class="noirorange"><b>GNU Binutils</b>: buffer overflow via score_opcodes()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-score-opcodes-41986)|An attacker can trigger a buffer overflow of GNU Binutils, via score_opcodes(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982" class="noirorange"><b>Intel Xeon Processor</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982)|An attacker can bypass access restrictions to data of Intel Xeon Processor, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981" class="noirorange"><b>Intel Processor</b>: multiple vulnerabilities via BIOS</a>](https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981)|An attacker can use several vulnerabilities of Intel Processor, via BIOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Error-Injection-41980" class="noirorange"><b>Intel Xeon Processor</b>: privilege escalation via Error Injection</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Error-Injection-41980)|An attacker can bypass restrictions of Intel Xeon Processor, via Error Injection, in order to escalate his privileges...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -189,6 +158,20 @@
  |[43240908/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4324090823-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|09 août 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
+ |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[[Control systems] Hitachi Energy security advisory (AV23-467)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-467)|Visit link for details|2023-08-08|
  |[Adobe security advisory (AV23-466)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-466)|Visit link for details|2023-08-08|
  |[IBM security advisory (AV23-465)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-465)|Visit link for details|2023-08-08|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996" class="noirorange"><b>PostgreSQL</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995" class="noirorange"><b>Linux kernel</b>: buffer overflow via exfat_get_uniname_from_ext_entry()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994" class="noirorange"><b>HAProxy</b>: header injection via Empty Content-Length Header</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994)|An attacker can add new headers on HAProxy, via Empty Content-Length Header, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992" class="noirorange"><b>MIT Kerberos</b>: double free via free_req_info()</a>](https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992)|An attacker can force a double memory free of MIT Kerberos, via free_req_info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AngularJS-overload-41987" class="noirorange"><b>AngularJS</b>: overload</a>](https://vigilance.fr/vulnerability/AngularJS-overload-41987)|An attacker can trigger an overload of AngularJS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-score-opcodes-41986" class="noirorange"><b>GNU Binutils</b>: buffer overflow via score_opcodes()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-score-opcodes-41986)|An attacker can trigger a buffer overflow of GNU Binutils, via score_opcodes(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982" class="noirorange"><b>Intel Xeon Processor</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982)|An attacker can bypass access restrictions to data of Intel Xeon Processor, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981" class="noirorange"><b>Intel Processor</b>: multiple vulnerabilities via BIOS</a>](https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981)|An attacker can use several vulnerabilities of Intel Processor, via BIOS...|Visit link for details|
  
