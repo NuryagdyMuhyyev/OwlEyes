@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/08/2023 02:13:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/08/2023 03:14:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
- |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
- |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,21 +46,20 @@
  |[USN-4336-3: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-4336-3-gnu-binutils-vulnerabilities.46272/)|Visit link for details.|Aug 9, 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
- |[Netgear - CVE-2023-39550](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-39550-2023-08-11)|Visit link for details.|11/08/2023|
- |[Ivanti - CVE-2023-32563](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-32563-2023-08-11)|Visit link for details.|11/08/2023|
- |[Microsoft - CVE-2023-21709](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21709-2023-08-09)|Visit link for details.|11/08/2023|
- |[Zoom - CVE-2023-39213](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39213-2023-08-10)|Visit link for details.|10/08/2023|
- |[Microsoft - CVE-2023-36911](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36911-2023-08-10)|Visit link for details.|10/08/2023|
- |[Microsoft - CVE-2023-36910](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36910-2023-08-10)|Visit link for details.|10/08/2023|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
- |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|10/08/2023|
- |[Microsoft - CVE-2023-38180](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38180-2023-08-09)|Visit link for details.|09/08/2023|
- |[Microsoft - CVE-2023-35385](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35385-2023-08-09)|Visit link for details.|09/08/2023|
+ |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
+ |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
+ |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
  
 
 # CERT-FR
@@ -111,6 +94,36 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Dell Storage Integration Tools for VMware (DSITV) information disclosure (CVE-2023-39250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-39944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-40072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[ELECOM network devices buffer overflow (CVE-2023-39454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Logitec network devices security bypass (CVE-2023-38132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Logitec network devices OS command execution (CVE-2023-38576)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Netgear - CVE-2023-39550](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-39550-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Ivanti - CVE-2023-32563](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-32563-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Microsoft - CVE-2023-21709](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21709-2023-08-09)|Visit link for details.|11/08/2023|
+ |[Zoom - CVE-2023-39213](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39213-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Microsoft - CVE-2023-36911](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36911-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Microsoft - CVE-2023-36910](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36910-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
+ |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|10/08/2023|
+ |[Microsoft - CVE-2023-38180](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38180-2023-08-09)|Visit link for details.|09/08/2023|
+ |[Microsoft - CVE-2023-35385](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35385-2023-08-09)|Visit link for details.|09/08/2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -126,6 +139,20 @@
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
+ |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
  
 
 # OBS-Vigilance
@@ -145,31 +172,21 @@
  |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Dell Storage Integration Tools for VMware (DSITV) information disclosure (CVE-2023-39250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Elecom network devices OS command execution (CVE-2023-39944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Elecom network devices OS command execution (CVE-2023-40072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[ELECOM network devices buffer overflow (CVE-2023-39454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Logitec network devices security bypass (CVE-2023-38132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Logitec network devices OS command execution (CVE-2023-38576)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
- |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
+ |[[Control systems] ABB security advisory (AV23-476)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-476)|Visit link for details|2023-08-10|
+ |[HPE security advisory (AV23-475)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-475)|Visit link for details|2023-08-09|
+ |[Red Hat security advisory (AV23-474)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-474)|Visit link for details|2023-08-09|
+ |[Microsoft Edge security advisory (AV23-473)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-473)|Visit link for details|2023-08-09|
+ |[[Control systems] Siemens security advisory (AV23-472)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-472)|Visit link for details|2023-08-09|
+ |[Intel security advisory (AV23-471)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-471)|Visit link for details|2023-08-09|
+ |[Microsoft security advisory – August 2023 monthly rollup (AV23-470)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2023-monthly-rollup-av23-470)|Visit link for details|2023-08-09|
+ |[SAP security advisory – August 2023 monthly rollup (AV23-469)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2023-monthly-rollup-av23-469)|Visit link for details|2023-08-09|
+ |[[Control systems] Schneider Electric security advisory (AV23-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-468)|Visit link for details|2023-08-08|
+ |[[Control systems] Hitachi Energy security advisory (AV23-467)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-467)|Visit link for details|2023-08-08|
+ |[Adobe security advisory (AV23-466)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-466)|Visit link for details|2023-08-08|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
  |[43230908/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4323090823-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de réussir une...|09 août 2023|
  |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV23-476)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-476)|Visit link for details|2023-08-10|
- |[HPE security advisory (AV23-475)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-475)|Visit link for details|2023-08-09|
- |[Red Hat security advisory (AV23-474)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-474)|Visit link for details|2023-08-09|
- |[Microsoft Edge security advisory (AV23-473)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-473)|Visit link for details|2023-08-09|
- |[[Control systems] Siemens security advisory (AV23-472)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-472)|Visit link for details|2023-08-09|
- |[Intel security advisory (AV23-471)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-471)|Visit link for details|2023-08-09|
- |[Microsoft security advisory – August 2023 monthly rollup (AV23-470)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2023-monthly-rollup-av23-470)|Visit link for details|2023-08-09|
- |[SAP security advisory – August 2023 monthly rollup (AV23-469)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2023-monthly-rollup-av23-469)|Visit link for details|2023-08-09|
- |[[Control systems] Schneider Electric security advisory (AV23-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-468)|Visit link for details|2023-08-08|
- |[[Control systems] Hitachi Energy security advisory (AV23-467)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-467)|Visit link for details|2023-08-08|
- |[Adobe security advisory (AV23-466)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-466)|Visit link for details|2023-08-08|
  
