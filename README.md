@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2023 15:15:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2023 16:12:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +77,22 @@
  |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|10/08/2023|
  |[Microsoft - CVE-2023-38180](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38180-2023-08-09)|Visit link for details.|09/08/2023|
  |[Microsoft - CVE-2023-35385](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35385-2023-08-09)|Visit link for details.|09/08/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
  
 
 # HK-CERT
@@ -111,21 +111,17 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Intel-QAT-Engine-for-OpenSSL-privilege-escalation-42000" class="noirorange"><b>Intel QAT Engine for OpenSSL</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Intel-QAT-Engine-for-OpenSSL-privilege-escalation-42000)|An attacker can bypass restrictions of Intel QAT Engine for OpenSSL, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-result-41999" class="noirorange"><b>Linux kernel</b>: reuse after free via tcf_result</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-result-41999)|An attacker can force the reuse of a freed memory area of the Linux kernel, via tcf_result, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-read-write-access-via-local-graph-id-41998" class="noirorange"><b>Cacti</b>: read-write access via local_graph_id</a>](https://vigilance.fr/vulnerability/Cacti-read-write-access-via-local-graph-id-41998)|An attacker can bypass access restrictions of Cacti, via local_graph_id, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997" class="noirorange"><b>OpenImageIO</b>: buffer overflow via gifinput.cpp</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997)|An attacker can trigger a buffer overflow of OpenImageIO, via gifinput.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996" class="noirorange"><b>PostgreSQL</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995" class="noirorange"><b>Linux kernel</b>: buffer overflow via exfat_get_uniname_from_ext_entry()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994" class="noirorange"><b>HAProxy</b>: header injection via Empty Content-Length Header</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994)|An attacker can add new headers on HAProxy, via Empty Content-Length Header, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992" class="noirorange"><b>MIT Kerberos</b>: double free via free_req_info()</a>](https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992)|An attacker can force a double memory free of MIT Kerberos, via free_req_info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[OpenZeppelin Contracts security bypass (CVE-2023-40014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel security bypass (CVE-2023-39966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel information disclosure (CVE-2023-39965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel information disclosure (CVE-2023-39964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Nextcloud Server security bypass (CVE-2023-39963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
  
 
 # EU-CERT
@@ -145,17 +141,21 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[OpenZeppelin Contracts security bypass (CVE-2023-40014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel security bypass (CVE-2023-39966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel information disclosure (CVE-2023-39965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel information disclosure (CVE-2023-39964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Nextcloud Server security bypass (CVE-2023-39963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-QAT-Engine-for-OpenSSL-privilege-escalation-42000" class="noirorange"><b>Intel QAT Engine for OpenSSL</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Intel-QAT-Engine-for-OpenSSL-privilege-escalation-42000)|An attacker can bypass restrictions of Intel QAT Engine for OpenSSL, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-result-41999" class="noirorange"><b>Linux kernel</b>: reuse after free via tcf_result</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-result-41999)|An attacker can force the reuse of a freed memory area of the Linux kernel, via tcf_result, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-read-write-access-via-local-graph-id-41998" class="noirorange"><b>Cacti</b>: read-write access via local_graph_id</a>](https://vigilance.fr/vulnerability/Cacti-read-write-access-via-local-graph-id-41998)|An attacker can bypass access restrictions of Cacti, via local_graph_id, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997" class="noirorange"><b>OpenImageIO</b>: buffer overflow via gifinput.cpp</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997)|An attacker can trigger a buffer overflow of OpenImageIO, via gifinput.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996" class="noirorange"><b>PostgreSQL</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-two-vulnerabilities-41996)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995" class="noirorange"><b>Linux kernel</b>: buffer overflow via exfat_get_uniname_from_ext_entry()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994" class="noirorange"><b>HAProxy</b>: header injection via Empty Content-Length Header</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994)|An attacker can add new headers on HAProxy, via Empty Content-Length Header, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992" class="noirorange"><b>MIT Kerberos</b>: double free via free_req_info()</a>](https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992)|An attacker can force a double memory free of MIT Kerberos, via free_req_info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # MA-CERT
