@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2023 10:14:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2023 11:19:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
+ |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
+ |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6281-1: Velocity Engine vulnerability](https://www.linux.org/threads/usn-6281-1-velocity-engine-vulnerability.46282/)|Visit link for details.|Aug 10, 2023|
  |[USN-6243-2: Graphite-Web regression](https://www.linux.org/threads/usn-6243-2-graphite-web-regression.46276/)|Visit link for details.|Aug 9, 2023|
  |[DSA-5473 orthanc - security update](https://www.linux.org/threads/dsa-5473-orthanc-security-update.46275/)|Visit link for details.|Aug 9, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
- |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
- |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
  
 
 # CERT-FR
@@ -112,22 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
- |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -145,6 +129,35 @@
  |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
+ |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230804)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 4 Aug 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[OpenZeppelin Contracts security bypass (CVE-2023-40014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel security bypass (CVE-2023-39966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel information disclosure (CVE-2023-39965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[1Panel-dev1Panel information disclosure (CVE-2023-39964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ |[Nextcloud Server security bypass (CVE-2023-39963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -160,19 +173,6 @@
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[OpenZeppelin Contracts security bypass (CVE-2023-40014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel security bypass (CVE-2023-39966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel information disclosure (CVE-2023-39965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[1Panel-dev1Panel information disclosure (CVE-2023-39964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
- |[Nextcloud Server security bypass (CVE-2023-39963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
  
 
 # ZERODAYINITIATIVE
