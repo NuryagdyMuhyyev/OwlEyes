@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/08/2023 21:19:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/08/2023 22:14:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
- |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
- |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
- |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
- |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +46,22 @@
  |[USN-6278-2: .NET vulnerabilities](https://www.linux.org/threads/usn-6278-2-net-vulnerabilities.46291/)|Visit link for details.|Aug 11, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
+ |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
+ |[Fortinet Releases Security Update for FortiOS ](https://www.cisa.gov/news-events/alerts/2023/08/08/fortinet-releases-security-update-fortios)|Visit link for details.|Aug 08, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 08, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 07, 2023|
+ |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,19 +77,6 @@
  |[Microsoft - CVE-2023-36911](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36911-2023-08-10)|Visit link for details.|10/08/2023|
  |[Microsoft - CVE-2023-36910](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36910-2023-08-10)|Visit link for details.|10/08/2023|
  |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[Premium Packages plugin for WordPress privilege escalation (CVE-2023-4293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[PostgreSQL code execution (CVE-2023-39417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Leyka Plugin for WordPress cross-site scripting (CVE-2023-39314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
  
 
 # HK-CERT
@@ -124,35 +111,17 @@
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
- |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
- |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
- |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
+ |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
+ |[Premium Packages plugin for WordPress privilege escalation (CVE-2023-4293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[PostgreSQL code execution (CVE-2023-39417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Leyka Plugin for WordPress cross-site scripting (CVE-2023-39314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 10, 2023|
  
 
 # OBS-Vigilance
@@ -172,6 +141,20 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997" class="noirorange"><b>OpenImageIO</b>: buffer overflow via gifinput.cpp</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-gifinput-cpp-41997)|An attacker can trigger a buffer overflow of OpenImageIO, via gifinput.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
+ |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
+ |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
  |[43230908/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4323090823-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de réussir une...|09 août 2023|
  |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
+ |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
+ |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
+ |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
+ |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
 # CA-CCS
