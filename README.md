@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2023 01:16:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2023 02:14:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6278-2: .NET vulnerabilities](https://www.linux.org/threads/usn-6278-2-net-vulnerabilities.46291/)|Visit link for details.|Aug 11, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -76,6 +60,38 @@
  |[CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)|Visit link for details.|Aug 04, 2023|
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 03, 2023|
  |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
+ |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
  
 
 # CERT-SANTE
@@ -95,39 +111,6 @@
  |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
- |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
- |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
- |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
- |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
- |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
- |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
- |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
- |[43260908/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4326090823-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|09 août 2023|
- |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
- |[43230908/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4323090823-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de réussir une...|09 août 2023|
- |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,6 +122,37 @@
  |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
  |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
  |[IBM TXSeries for Multiplatforms denial of service (CVE-2023-38741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CODESYS Development System Improper Enforcement of Message Integrity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1105/)|Visit link for details|2023-08-14|
+ |[Fortinet FortiClient VPN Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1104/)|Visit link for details|2023-08-14|
+ |[Schneider Electric IGSS UpdateService Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1103/)|Visit link for details|2023-08-14|
+ |[Adobe ColdFusion copydirectory Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1102/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1101/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1100/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1099/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1098/)|Visit link for details|2023-08-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012" class="noirorange"><b>Linux kernel</b>: memory corruption via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012)|An attacker can trigger a memory corruption of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011" class="noirorange"><b>Linux kernel</b>: memory corruption via set_con2fb_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011)|An attacker can trigger a memory corruption of the Linux kernel, via set_con2fb_map(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010" class="noirorange"><b>Linux kernel</b>: use after free via vcs_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcs_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::convertToType1()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::cvtGlyph()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007" class="noirorange"><b>Python Core</b>: no log via sys.monitoring.register_callback</a>](https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007)|An attacker can perform malicious actions on Python Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006" class="noirorange"><b>Linux kernel</b>: use after free via l2cap_sock_ready_cb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005" class="noirorange"><b>Linux kernel</b>: double free via KVM VMGEXIT</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005)|An attacker can force a double memory free of the Linux kernel, via KVM VMGEXIT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Certifi-Man-in-the-Middle-via-e-Tugra-root-certificate-42004" class="noirorange"><b>Certifi</b>: Man-in-the-Middle via e-Tugra root certificate</a>](https://vigilance.fr/vulnerability/Certifi-Man-in-the-Middle-via-e-Tugra-root-certificate-42004)|An attacker can act as a Man-in-the-Middle on Certifi, via e-Tugra root certificate, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mt7921-check-offload-capability-42003" class="noirorange"><b>Linux kernel</b>: reuse after free via mt7921_check_offload_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mt7921-check-offload-capability-42003)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-42002" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-42002)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -158,18 +172,21 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[CODESYS Development System Improper Enforcement of Message Integrity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1105/)|Visit link for details|2023-08-14|
- |[Fortinet FortiClient VPN Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1104/)|Visit link for details|2023-08-14|
- |[Schneider Electric IGSS UpdateService Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1103/)|Visit link for details|2023-08-14|
- |[Adobe ColdFusion copydirectory Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1102/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1101/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1100/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1099/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1098/)|Visit link for details|2023-08-14|
+ |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
+ |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
+ |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
+ |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
+ |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
+ |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
+ |[43260908/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4326090823-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|09 août 2023|
+ |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
+ |[43230908/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4323090823-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de réussir une...|09 août 2023|
+ |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
  
 
 # CA-CCS
@@ -187,21 +204,4 @@
  |[Intel security advisory (AV23-471)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-471)|Visit link for details|2023-08-09|
  |[Microsoft security advisory – August 2023 monthly rollup (AV23-470)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2023-monthly-rollup-av23-470)|Visit link for details|2023-08-09|
  |[SAP security advisory – August 2023 monthly rollup (AV23-469)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2023-monthly-rollup-av23-469)|Visit link for details|2023-08-09|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012" class="noirorange"><b>Linux kernel</b>: memory corruption via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012)|An attacker can trigger a memory corruption of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011" class="noirorange"><b>Linux kernel</b>: memory corruption via set_con2fb_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011)|An attacker can trigger a memory corruption of the Linux kernel, via set_con2fb_map(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010" class="noirorange"><b>Linux kernel</b>: use after free via vcs_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcs_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::convertToType1()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::cvtGlyph()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007" class="noirorange"><b>Python Core</b>: no log via sys.monitoring.register_callback</a>](https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007)|An attacker can perform malicious actions on Python Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006" class="noirorange"><b>Linux kernel</b>: use after free via l2cap_sock_ready_cb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005" class="noirorange"><b>Linux kernel</b>: double free via KVM VMGEXIT</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005)|An attacker can force a double memory free of the Linux kernel, via KVM VMGEXIT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Certifi-Man-in-the-Middle-via-e-Tugra-root-certificate-42004" class="noirorange"><b>Certifi</b>: Man-in-the-Middle via e-Tugra root certificate</a>](https://vigilance.fr/vulnerability/Certifi-Man-in-the-Middle-via-e-Tugra-root-certificate-42004)|An attacker can act as a Man-in-the-Middle on Certifi, via e-Tugra root certificate, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mt7921-check-offload-capability-42003" class="noirorange"><b>Linux kernel</b>: reuse after free via mt7921_check_offload_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mt7921-check-offload-capability-42003)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-42002" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-42002)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
  
