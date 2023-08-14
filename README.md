@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2023 00:12:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2023 01:16:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,39 @@
  |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Avada Theme - CVE-2023-39312](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-theme-cve-2023-39312-2023-08-14)|Visit link for details.|14/08/2023|
+ |[WordPress Avada Builder - CVE-2023-39309](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-builder-cve-2023-39309-2023-08-14)|Visit link for details.|14/08/2023|
+ |[Ivanti Avalanche - CVE-2023-32560](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-avalanche-cve-2023-32560-2023-08-14)|Visit link for details.|14/08/2023|
+ |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Netgear - CVE-2023-39550](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-39550-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Ivanti - CVE-2023-32563](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-32563-2023-08-11)|Visit link for details.|11/08/2023|
+ |[Microsoft - CVE-2023-21709](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21709-2023-08-09)|Visit link for details.|11/08/2023|
+ |[Zoom - CVE-2023-39213](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39213-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Microsoft - CVE-2023-36911](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36911-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Microsoft - CVE-2023-36910](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36910-2023-08-10)|Visit link for details.|10/08/2023|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
+ |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -95,20 +128,17 @@
  |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
- |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- |[Microsoft Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction Bypass Microsoft Office Extremely High RiskRemote Code ExecutionInformation DisclosureSpoofingCVE-2023-36884...|Release Date: 9 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230808)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 8 Aug 2023 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20230726)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-07] Updated Impact ...| Release Date: 26 Jul 2023 |
+ |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
+ |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
+ |[Premium Packages plugin for WordPress privilege escalation (CVE-2023-4293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[PostgreSQL code execution (CVE-2023-39417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
+ |[IBM TXSeries for Multiplatforms denial of service (CVE-2023-38741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
  
 
 # EU-CERT
@@ -128,48 +158,18 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[Premium Packages plugin for WordPress privilege escalation (CVE-2023-4293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[PostgreSQL code execution (CVE-2023-39417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Apache Airflow Drill Provider information disclosure (CVE-2023-39553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[Elecom network devices OS command execution (CVE-2023-39455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- |[IBM TXSeries for Multiplatforms denial of service (CVE-2023-38741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) (Pwn2Own) Softing edgeConnector Siemens OPC UA Server Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1065/)|Visit link for details|2023-08-09|
- |[(0Day) Softing Secure Integration Server Hardcoded Cryptographic Key Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1064/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Interpretation Conflict Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1063/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server FileDirectory OPC UA Object Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1062/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server OPC UA Gateway Directory Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1061/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing Secure Integration Server Exposure of Resource to Wrong Sphere Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1060/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Permissive Cross-domain Policy with Untrusted Domains Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1059/)|Visit link for details|2023-08-09|
- |[(0Day) (Pwn2Own) Softing edgeAggregator Restore Configuration Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1058/)|Visit link for details|2023-08-09|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Avada Theme - CVE-2023-39312](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-theme-cve-2023-39312-2023-08-14)|Visit link for details.|14/08/2023|
- |[WordPress Avada Builder - CVE-2023-39309](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-builder-cve-2023-39309-2023-08-14)|Visit link for details.|14/08/2023|
- |[Ivanti Avalanche - CVE-2023-32560](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-avalanche-cve-2023-32560-2023-08-14)|Visit link for details.|14/08/2023|
- |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
- |[Netgear - CVE-2023-39550](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-39550-2023-08-11)|Visit link for details.|11/08/2023|
- |[Ivanti - CVE-2023-32563](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-32563-2023-08-11)|Visit link for details.|11/08/2023|
- |[Microsoft - CVE-2023-21709](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21709-2023-08-09)|Visit link for details.|11/08/2023|
- |[Zoom - CVE-2023-39213](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39213-2023-08-10)|Visit link for details.|10/08/2023|
- |[Microsoft - CVE-2023-36911](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36911-2023-08-10)|Visit link for details.|10/08/2023|
- |[Microsoft - CVE-2023-36910](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36910-2023-08-10)|Visit link for details.|10/08/2023|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
+ |[CODESYS Development System Improper Enforcement of Message Integrity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1105/)|Visit link for details|2023-08-14|
+ |[Fortinet FortiClient VPN Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1104/)|Visit link for details|2023-08-14|
+ |[Schneider Electric IGSS UpdateService Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1103/)|Visit link for details|2023-08-14|
+ |[Adobe ColdFusion copydirectory Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1102/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1101/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1100/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1099/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1098/)|Visit link for details|2023-08-14|
  
 
 # CA-CCS
