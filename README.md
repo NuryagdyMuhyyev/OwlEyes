@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2023 13:19:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2023 14:15:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,33 @@
  |[CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022 ](https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities)|Visit link for details.|Aug 03, 2023|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
- |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
+ |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Substance 3D Stager buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2023|
+ |[Adobe Substance 3D Stager buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2023|
+ |[Adobe Substance 3D Stager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2023|
+ |[Adobe Substance 3D Stager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2023|
+ |[Adobe Substance 3D Stager information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2023|
+ |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
+ |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +108,20 @@
  |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CODESYS Development System Improper Enforcement of Message Integrity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1105/)|Visit link for details|2023-08-14|
+ |[Fortinet FortiClient VPN Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1104/)|Visit link for details|2023-08-14|
+ |[Schneider Electric IGSS UpdateService Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1103/)|Visit link for details|2023-08-14|
+ |[Adobe ColdFusion copydirectory Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1102/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1101/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1100/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1099/)|Visit link for details|2023-08-14|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1098/)|Visit link for details|2023-08-14|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,6 +137,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007" class="noirorange"><b>Python Core</b>: no log via sys.monitoring.register_callback</a>](https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007)|An attacker can perform malicious actions on Python Core, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006" class="noirorange"><b>Linux kernel</b>: use after free via l2cap_sock_ready_cb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005" class="noirorange"><b>Linux kernel</b>: double free via KVM VMGEXIT</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005)|An attacker can force a double memory free of the Linux kernel, via KVM VMGEXIT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0647/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Vulnérabilité dans MongoDB Ops Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0646/)|Une vulnérabilité a été découverte dans MongoDB Ops Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0645/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0644/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 août 2023|
  
 
 # MA-CERT
@@ -129,22 +172,6 @@
  |[43250908/23 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4325090823-vulnerabilites-dans-microsoft-azure-patch-tuesday-aout-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft Azure susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une élévation de...|09 août 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- |[F5 BIG-IP Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-information-disclosure-vulnerability_20230809)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2023 |
- |[Fortinet FortiOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortios-remote-code-execution-vulnerability_20230809)|A vulnerability was identified in Fortinet FortiOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 9 Aug 2023 |
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -162,19 +189,6 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ECShop directory traversal (CVE-2023-39112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[PHPJabbers Ticket Support Script file upload (CVE-2023-39776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2023|
- |[Zephyr Project Zephyr buffer overflow (CVE-2023-4265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2023|
- |[CyberPower PowerPanel Enterprise command execution (CVE-2023-3267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2023|
- |[CyberPower PowerPanel Enterprise security bypass (CVE-2023-3266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2023|
- |[CyberPower PowerPanel Enterprise security bypass (CVE-2023-3265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2023|
- |[CyberPower PowerPanel Enterprise security bypass (CVE-2023-3264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[Intel security advisory (AV23-471)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-471)|Visit link for details|2023-08-09|
  |[Microsoft security advisory – August 2023 monthly rollup (AV23-470)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2023-monthly-rollup-av23-470)|Visit link for details|2023-08-09|
  |[SAP security advisory – August 2023 monthly rollup (AV23-469)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2023-monthly-rollup-av23-469)|Visit link for details|2023-08-09|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[CODESYS Development System Improper Enforcement of Message Integrity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1105/)|Visit link for details|2023-08-14|
- |[Fortinet FortiClient VPN Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1104/)|Visit link for details|2023-08-14|
- |[Schneider Electric IGSS UpdateService Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1103/)|Visit link for details|2023-08-14|
- |[Adobe ColdFusion copydirectory Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1102/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1101/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1100/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1099/)|Visit link for details|2023-08-14|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1098/)|Visit link for details|2023-08-14|
  
