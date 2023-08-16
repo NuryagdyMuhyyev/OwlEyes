@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/08/2023 08:16:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/08/2023 09:19:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,23 @@
  |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|10/08/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-nvme-directive-receive-42015" class="noirorange"><b>QEMU</b>: NULL pointer dereference via nvme_directive_receive()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-nvme-directive-receive-42015)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-42014" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-42014)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/panellayouter-file-corruption-via-applyLayout-42013" class="noirorange"><b>panellayouter</b>: file corruption via applyLayout()</a>](https://vigilance.fr/vulnerability/panellayouter-file-corruption-via-applyLayout-42013)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of panellayouter, via applyLayout()...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012" class="noirorange"><b>Linux kernel</b>: memory corruption via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012)|An attacker can trigger a memory corruption of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011" class="noirorange"><b>Linux kernel</b>: memory corruption via set_con2fb_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011)|An attacker can trigger a memory corruption of the Linux kernel, via set_con2fb_map(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010" class="noirorange"><b>Linux kernel</b>: use after free via vcs_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcs_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::convertToType1()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::cvtGlyph()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007" class="noirorange"><b>Python Core</b>: no log via sys.monitoring.register_callback</a>](https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007)|An attacker can perform malicious actions on Python Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006" class="noirorange"><b>Linux kernel</b>: use after free via l2cap_sock_ready_cb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005" class="noirorange"><b>Linux kernel</b>: double free via KVM VMGEXIT</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005)|An attacker can force a double memory free of the Linux kernel, via KVM VMGEXIT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,6 +126,23 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
  |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
+ |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
+ |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
+ |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
+ |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
+ |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
+ |[43260908/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4326090823-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|09 août 2023|
+ |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
  
 
 # EU-CERT
@@ -141,23 +175,6 @@
  |[Google Chrome buffer overflow (CVE-2023-4362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
- |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
- |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
- |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
- |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
- |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
- |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
- |[43260908/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4326090823-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|09 août 2023|
- |[43270908/23 - Vulnérabilités dans Microsoft Edge Chromium-based ](https://www.dgssi.gov.ma//fr/content/4327090823-vulnerabilites-dans-microsoft-edge-chromium-based.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge (Chromium-based). L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité.|09 août 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[Ivanti Avalanche dumpHeap Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1116/)|Visit link for details|2023-08-15|
  |[Siemens Solid Edge Viewer DWG File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1115/)|Visit link for details|2023-08-15|
  |[ESET Smart Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1114/)|Visit link for details|2023-08-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-nvme-directive-receive-42015" class="noirorange"><b>QEMU</b>: NULL pointer dereference via nvme_directive_receive()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-nvme-directive-receive-42015)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-42014" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-42014)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/panellayouter-file-corruption-via-applyLayout-42013" class="noirorange"><b>panellayouter</b>: file corruption via applyLayout()</a>](https://vigilance.fr/vulnerability/panellayouter-file-corruption-via-applyLayout-42013)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of panellayouter, via applyLayout()...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012" class="noirorange"><b>Linux kernel</b>: memory corruption via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-io-uring-42012)|An attacker can trigger a memory corruption of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011" class="noirorange"><b>Linux kernel</b>: memory corruption via set_con2fb_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-set-con2fb-map-42011)|An attacker can trigger a memory corruption of the Linux kernel, via set_con2fb_map(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010" class="noirorange"><b>Linux kernel</b>: use after free via vcs_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vcs-read-42010)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcs_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::convertToType1()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-convertToType1-42009)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008" class="noirorange"><b>Poppler</b>: denial of service via FoFiType1C::cvtGlyph()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-FoFiType1C-cvtGlyph-42008)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007" class="noirorange"><b>Python Core</b>: no log via sys.monitoring.register_callback</a>](https://vigilance.fr/vulnerability/Python-Core-no-log-via-sys-monitoring-register-callback-42007)|An attacker can perform malicious actions on Python Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006" class="noirorange"><b>Linux kernel</b>: use after free via l2cap_sock_ready_cb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-l2cap-sock-ready-cb-42006)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005" class="noirorange"><b>Linux kernel</b>: double free via KVM VMGEXIT</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-KVM-VMGEXIT-42005)|An attacker can force a double memory free of the Linux kernel, via KVM VMGEXIT, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # CA-CCS
