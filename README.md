@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/08/2023 23:19:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/08/2023 00:12:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6296-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6296-1-postgresql-vulnerabilities.46387/)|Visit link for details.|Aug 17, 2023|
- |[DSA-5478 openjdk-11 - security update](https://www.linux.org/threads/dsa-5478-openjdk-11-security-update.46379/)|Visit link for details.|Aug 17, 2023|
- |[USN-6295-1: Podman vulnerability](https://www.linux.org/threads/usn-6295-1-podman-vulnerability.46375/)|Visit link for details.|Aug 16, 2023|
- |[USN-6294-1: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-1-haproxy-vulnerability.46368/)|Visit link for details.|Aug 16, 2023|
- |[USN-6293-1: OpenStack Heat vulnerability](https://www.linux.org/threads/usn-6293-1-openstack-heat-vulnerability.46367/)|Visit link for details.|Aug 16, 2023|
- |[USN-6292-1: Ceph vulnerability](https://www.linux.org/threads/usn-6292-1-ceph-vulnerability.46366/)|Visit link for details.|Aug 16, 2023|
- |[USN-6291-1: GStreamer vulnerability](https://www.linux.org/threads/usn-6291-1-gstreamer-vulnerability.46362/)|Visit link for details.|Aug 16, 2023|
- |[USN-6290-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6290-1-libtiff-vulnerabilities.46358/)|Visit link for details.|Aug 16, 2023|
- |[USN-6289-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6289-1-webkitgtk-vulnerabilities.46356/)|Visit link for details.|Aug 15, 2023|
- |[USN-6288-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6288-1-mysql-vulnerabilities.46352/)|Visit link for details.|Aug 15, 2023|
- |[DSA-5477 samba - security update](https://www.linux.org/threads/dsa-5477-samba-security-update.46346/)|Visit link for details.|Aug 15, 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
  
 
 # US-CERT
@@ -60,22 +59,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
  |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
  
 
 # CERT-SANTE
@@ -111,6 +94,40 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035" class="noirorange"><b>SafeNet Authentication Service</b>: denial of service via Log Permissions</a>](https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035)|An attacker can cause a fatal error of SafeNet Authentication Service, via Log Permissions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033" class="noirorange"><b>ClamAV</b>: overload via HFS+ File Scanning</a>](https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033)|An attacker can trigger an overload of ClamAV, via HFS+ File Scanning, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032" class="noirorange"><b>ClamAV</b>: denial of service via AutoIt Module</a>](https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032)|An attacker can cause a fatal error of ClamAV, via AutoIt Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6296-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6296-1-postgresql-vulnerabilities.46387/)|Visit link for details.|Aug 17, 2023|
+ |[DSA-5478 openjdk-11 - security update](https://www.linux.org/threads/dsa-5478-openjdk-11-security-update.46379/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6295-1: Podman vulnerability](https://www.linux.org/threads/usn-6295-1-podman-vulnerability.46375/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6294-1: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-1-haproxy-vulnerability.46368/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6293-1: OpenStack Heat vulnerability](https://www.linux.org/threads/usn-6293-1-openstack-heat-vulnerability.46367/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6292-1: Ceph vulnerability](https://www.linux.org/threads/usn-6292-1-ceph-vulnerability.46366/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6291-1: GStreamer vulnerability](https://www.linux.org/threads/usn-6291-1-gstreamer-vulnerability.46362/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6290-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6290-1-libtiff-vulnerabilities.46358/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6289-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6289-1-webkitgtk-vulnerabilities.46356/)|Visit link for details.|Aug 15, 2023|
+ |[USN-6288-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6288-1-mysql-vulnerabilities.46352/)|Visit link for details.|Aug 15, 2023|
+ |[DSA-5477 samba - security update](https://www.linux.org/threads/dsa-5477-samba-security-update.46346/)|Visit link for details.|Aug 15, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,20 +139,6 @@
  |[Jenkins Favorite View Plugin cross-site request forgery (CVE-2023-40351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  |[Jenkins Docker Swarm Plugin cross-site scripting (CVE-2023-40350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1121/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche SecureFilter Content-Type Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1120/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1119/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche updateSkin Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1118/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1117/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche dumpHeap Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1116/)|Visit link for details|2023-08-15|
- |[Siemens Solid Edge Viewer DWG File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1115/)|Visit link for details|2023-08-15|
- |[ESET Smart Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1114/)|Visit link for details|2023-08-15|
  
 
 # EU-CERT
@@ -153,23 +156,6 @@
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035" class="noirorange"><b>SafeNet Authentication Service</b>: denial of service via Log Permissions</a>](https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035)|An attacker can cause a fatal error of SafeNet Authentication Service, via Log Permissions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033" class="noirorange"><b>ClamAV</b>: overload via HFS+ File Scanning</a>](https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033)|An attacker can trigger an overload of ClamAV, via HFS+ File Scanning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032" class="noirorange"><b>ClamAV</b>: denial of service via AutoIt Module</a>](https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032)|An attacker can cause a fatal error of ClamAV, via AutoIt Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # MA-CERT
@@ -193,6 +179,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Walchem security advisory (AV23-487)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-walchem-security-advisory-av23-487)|Visit link for details|2023-08-17|
  |[[Control systems] ICONICS security advisory (AV23-486)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-iconics-security-advisory-av23-486)|Visit link for details|2023-08-17|
  |[Cisco security advisory (AV23-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-485)|Visit link for details|2023-08-16|
  |[HPE security advisory (AV23-484)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-484)|Visit link for details|2023-08-16|
@@ -203,5 +190,10 @@
  |[Dell security advisory (AV23-479)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-479)|Visit link for details|2023-08-14|
  |[IBM security advisory (AV23-478)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-478)|Visit link for details|2023-08-14|
  |[Ubuntu security advisory (AV23-477)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-477)|Visit link for details|2023-08-14|
- |[[Control systems] ABB security advisory (AV23-476)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-476)|Visit link for details|2023-08-10|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
