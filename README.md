@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/08/2023 11:20:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/08/2023 12:14:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[USN-4897-2: Pygments vulnerabilities](https://www.linux.org/threads/usn-4897-2-pygments-vulnerabilities.46335/)|Visit link for details.|Aug 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -87,8 +103,8 @@
  |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  |[Cisco Unified Contact Center Express spoofing (CVE-2023-20232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Jenkins Folders Plugin cross-site request forgery (CVE-2023-40336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Cisco Integrated Management Controller cross-site scripting (CVE-2023-20228)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Jenkins Fortify Plugin cross-site request forgery (CVE-2023-4301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Jenkins Blue Ocean Plugin cross-site request forgery (CVE-2023-40341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  
 
@@ -108,6 +124,23 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
+ |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
+ |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
+ |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
+ |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
+ |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
+ |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
+ |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -122,20 +155,21 @@
  |[ESET Smart Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1114/)|Visit link for details|2023-08-15|
  
 
-# CERT-FR
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 août 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
+ |[Cisco security advisory (AV23-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-485)|Visit link for details|2023-08-16|
+ |[HPE security advisory (AV23-484)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-484)|Visit link for details|2023-08-16|
+ |[Atlassian security advisory (AV23-483)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-483)|Visit link for details|2023-08-16|
+ |[[Control systems] Rockwell Automation security advisory (AV23-481)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-481)|Visit link for details|2023-08-15|
+ |[[Control systems] Schneider Electric security advisory (AV23-480)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-480)|Visit link for details|2023-08-15|
+ |[Google Chrome security advisory (AV23-482)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-482)|Visit link for details|2023-08-15|
+ |[Dell security advisory (AV23-479)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-479)|Visit link for details|2023-08-14|
+ |[IBM security advisory (AV23-478)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-478)|Visit link for details|2023-08-14|
+ |[Ubuntu security advisory (AV23-477)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-477)|Visit link for details|2023-08-14|
+ |[[Control systems] ABB security advisory (AV23-476)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-476)|Visit link for details|2023-08-10|
+ |[HPE security advisory (AV23-475)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-475)|Visit link for details|2023-08-09|
  
 
 # OBS-Vigilance
@@ -170,38 +204,4 @@
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
- |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
- |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
- |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
- |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
- |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
- |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
- |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
- |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV23-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-485)|Visit link for details|2023-08-16|
- |[HPE security advisory (AV23-484)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-484)|Visit link for details|2023-08-16|
- |[Atlassian security advisory (AV23-483)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-483)|Visit link for details|2023-08-16|
- |[[Control systems] Rockwell Automation security advisory (AV23-481)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-481)|Visit link for details|2023-08-15|
- |[[Control systems] Schneider Electric security advisory (AV23-480)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-480)|Visit link for details|2023-08-15|
- |[Google Chrome security advisory (AV23-482)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-482)|Visit link for details|2023-08-15|
- |[Dell security advisory (AV23-479)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-479)|Visit link for details|2023-08-14|
- |[IBM security advisory (AV23-478)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-478)|Visit link for details|2023-08-14|
- |[Ubuntu security advisory (AV23-477)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-477)|Visit link for details|2023-08-14|
- |[[Control systems] ABB security advisory (AV23-476)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-476)|Visit link for details|2023-08-10|
- |[HPE security advisory (AV23-475)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-475)|Visit link for details|2023-08-09|
  
