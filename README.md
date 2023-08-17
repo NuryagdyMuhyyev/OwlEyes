@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/08/2023 13:19:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/08/2023 14:15:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,35 +78,6 @@
  |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 10 août 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Cisco Unified Contact Center Express spoofing (CVE-2023-20232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Jenkins Favorite View Plugin cross-site request forgery (CVE-2023-40351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[Jenkins Docker Swarm Plugin cross-site scripting (CVE-2023-40350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -124,35 +95,33 @@
  |[Zoom - CVE-2023-39213](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39213-2023-08-10)|Visit link for details.|10/08/2023|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
- |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
- |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
- |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
- |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
- |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Cisco Unified Contact Center Express spoofing (CVE-2023-20232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Cisco Prime Infrastructure and Evolved Programmable Network Manager cross-site scripting (CVE-2023-20201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Jenkins Favorite View Plugin cross-site request forgery (CVE-2023-40351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[Jenkins Docker Swarm Plugin cross-site scripting (CVE-2023-40350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2023|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1121/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche SecureFilter Content-Type Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1120/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1119/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche updateSkin Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1118/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1117/)|Visit link for details|2023-08-15|
- |[Ivanti Avalanche dumpHeap Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1116/)|Visit link for details|2023-08-15|
- |[Siemens Solid Edge Viewer DWG File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1115/)|Visit link for details|2023-08-15|
- |[ESET Smart Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1114/)|Visit link for details|2023-08-15|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-08...| Release Date: 3 Aug 2023 |
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230809)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.  |Release Date: 9 Aug 2023 |
  
 
 # OBS-Vigilance
@@ -170,6 +139,37 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-OneNote-spoofing-42023" class="noirorange"><b>Microsoft OneNote</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-OneNote-spoofing-42023)|An attacker can create spoofed data on Microsoft OneNote, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021" class="noirorange"><b>WebSphere AS</b>: denial of service via restfulWS</a>](https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021)|An attacker can cause a fatal error of WebSphere AS, via restfulWS, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1121/)|Visit link for details|2023-08-15|
+ |[Ivanti Avalanche SecureFilter Content-Type Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1120/)|Visit link for details|2023-08-15|
+ |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1119/)|Visit link for details|2023-08-15|
+ |[Ivanti Avalanche updateSkin Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1118/)|Visit link for details|2023-08-15|
+ |[Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1117/)|Visit link for details|2023-08-15|
+ |[Ivanti Avalanche dumpHeap Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1116/)|Visit link for details|2023-08-15|
+ |[Siemens Solid Edge Viewer DWG File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1115/)|Visit link for details|2023-08-15|
+ |[ESET Smart Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1114/)|Visit link for details|2023-08-15|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
+ |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
+ |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
+ |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
+ |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
+ |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
+ |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
+ |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
+ |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
 # MA-CERT
