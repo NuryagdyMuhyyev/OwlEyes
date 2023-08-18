@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/08/2023 14:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/08/2023 15:16:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5479 chromium - security update](https://www.linux.org/threads/dsa-5479-chromium-security-update.46399/)|Visit link for details.|Aug 18, 2023|
- |[USN-6299-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6299-1-poppler-vulnerabilities.46396/)|Visit link for details.|Aug 18, 2023|
- |[USN-6301-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6301-1-linux-kernel-vulnerabilities.46393/)|Visit link for details.|Aug 17, 2023|
- |[USN-6300-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6300-1-linux-kernel-vulnerabilities.46392/)|Visit link for details.|Aug 17, 2023|
- |[USN-6294-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-2-haproxy-vulnerability.46391/)|Visit link for details.|Aug 17, 2023|
- |[USN-6298-1: ZZIPlib vulnerabilities](https://www.linux.org/threads/usn-6298-1-zziplib-vulnerabilities.46390/)|Visit link for details.|Aug 17, 2023|
- |[USN-6297-1: Ghostscript vulnerability](https://www.linux.org/threads/usn-6297-1-ghostscript-vulnerability.46389/)|Visit link for details.|Aug 17, 2023|
- |[USN-6296-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6296-1-postgresql-vulnerabilities.46387/)|Visit link for details.|Aug 17, 2023|
- |[DSA-5478 openjdk-11 - security update](https://www.linux.org/threads/dsa-5478-openjdk-11-security-update.46379/)|Visit link for details.|Aug 17, 2023|
- |[USN-6295-1: Podman vulnerability](https://www.linux.org/threads/usn-6295-1-podman-vulnerability.46375/)|Visit link for details.|Aug 16, 2023|
- |[USN-6294-1: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-1-haproxy-vulnerability.46368/)|Visit link for details.|Aug 16, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,17 +45,21 @@
  |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Networks Junos OS on EX Series file upload (CVE-2023-36847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Juniper Networks Junos OS on SRX Series file upload (CVE-2023-36846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Juniper Networks Junos OS on EX Series and SRX Series security bypass (CVE-2023-36845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Juniper Networks Junos OS on EX Series security bypass (CVE-2023-36844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[DSA-5479 chromium - security update](https://www.linux.org/threads/dsa-5479-chromium-security-update.46399/)|Visit link for details.|Aug 18, 2023|
+ |[USN-6299-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6299-1-poppler-vulnerabilities.46396/)|Visit link for details.|Aug 18, 2023|
+ |[USN-6301-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6301-1-linux-kernel-vulnerabilities.46393/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6300-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6300-1-linux-kernel-vulnerabilities.46392/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6294-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-2-haproxy-vulnerability.46391/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6298-1: ZZIPlib vulnerabilities](https://www.linux.org/threads/usn-6298-1-zziplib-vulnerabilities.46390/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6297-1: Ghostscript vulnerability](https://www.linux.org/threads/usn-6297-1-ghostscript-vulnerability.46389/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6296-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6296-1-postgresql-vulnerabilities.46387/)|Visit link for details.|Aug 17, 2023|
+ |[DSA-5478 openjdk-11 - security update](https://www.linux.org/threads/dsa-5478-openjdk-11-security-update.46379/)|Visit link for details.|Aug 17, 2023|
+ |[USN-6295-1: Podman vulnerability](https://www.linux.org/threads/usn-6295-1-podman-vulnerability.46375/)|Visit link for details.|Aug 16, 2023|
+ |[USN-6294-1: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-1-haproxy-vulnerability.46368/)|Visit link for details.|Aug 16, 2023|
  
 
 # HK-CERT
@@ -91,20 +78,17 @@
  |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ |[Juniper Networks Junos OS on EX Series file upload (CVE-2023-36847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Juniper Networks Junos OS on SRX Series file upload (CVE-2023-36846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Juniper Networks Junos OS on EX Series and SRX Series security bypass (CVE-2023-36845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Juniper Networks Junos OS on EX Series security bypass (CVE-2023-36844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -138,23 +122,6 @@
  |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via btrfs_get_dev_args_from_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045" class="noirorange"><b>Apache Traffic Server</b>: ingress filtrering bypass via HTTP Request Parsing Discrepancies</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045)|An attacker can bypass filtering rules of Apache Traffic Server, via HTTP Request Parsing Discrepancies, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,6 +137,39 @@
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ |[Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/)|Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans|Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via btrfs_get_dev_args_from_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045" class="noirorange"><b>Apache Traffic Server</b>: ingress filtrering bypass via HTTP Request Parsing Discrepancies</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045)|An attacker can bypass filtering rules of Apache Traffic Server, via HTTP Request Parsing Discrepancies, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
