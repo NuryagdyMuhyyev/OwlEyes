@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/08/2023 08:16:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/08/2023 09:19:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
+ |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
+ |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2023|
+ |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
+ |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,38 +62,6 @@
  |[USN-6293-1: OpenStack Heat vulnerability](https://www.linux.org/threads/usn-6293-1-openstack-heat-vulnerability.46367/)|Visit link for details.|Aug 16, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
- |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
- |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2023|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
- |[Microsoft Releases August 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/08/08/microsoft-releases-august-2023-security-updates)|Visit link for details.|Aug 08, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
- |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -92,19 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 août 2023|
  |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 11 août 2023|
  |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 11 août 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor information disclosure (CVE-2023-39503)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[PDF-XChange Editor code execution (CVE-2023-39498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[PDF-XChange Editor information disclosure (CVE-2023-39505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Tracker Software PDF-XChange Editor code execution (CVE-2023-40471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-40473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[RARLAB WinRAR code execution (CVE-2023-40477)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[PDF-XChange Editor information disclosure (CVE-2023-39504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
  
 
 # CERT-SANTE
@@ -124,35 +95,33 @@
  |[Veritas NetBackup - CVE-2023-40256](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2023-40256-2023-08-11)|Visit link for details.|11/08/2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
+ |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39486)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor information disclosure (CVE-2023-39487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[Tracker Software PDF-XChange Editor code execution (CVE-2023-39489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035" class="noirorange"><b>SafeNet Authentication Service</b>: denial of service via Log Permissions</a>](https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035)|An attacker can cause a fatal error of SafeNet Authentication Service, via Log Permissions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033" class="noirorange"><b>ClamAV</b>: overload via HFS+ File Scanning</a>](https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033)|An attacker can trigger an overload of ClamAV, via HFS+ File Scanning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032" class="noirorange"><b>ClamAV</b>: denial of service via AutoIt Module</a>](https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032)|An attacker can cause a fatal error of ClamAV, via AutoIt Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
+ |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
  
 
 # EU-CERT
@@ -172,6 +141,23 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via vmxnet3_rq_alloc_rx_buf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035" class="noirorange"><b>SafeNet Authentication Service</b>: denial of service via Log Permissions</a>](https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035)|An attacker can cause a fatal error of SafeNet Authentication Service, via Log Permissions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033" class="noirorange"><b>ClamAV</b>: overload via HFS+ File Scanning</a>](https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033)|An attacker can trigger an overload of ClamAV, via HFS+ File Scanning, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
  |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
  |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
  
 
 # CA-CCS
