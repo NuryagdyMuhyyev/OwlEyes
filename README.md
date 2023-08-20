@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/08/2023 02:12:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2023 03:14:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
+ |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
+ |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2023|
+ |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Zyxel - CVE-2023-33013](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33013-2023-08-16)|Visit link for details.|16/08/2023|
  |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|16/08/2023|
  |[ESET - CVE-2023-3160](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2023-3160-2023-08-16)|Visit link for details.|16/08/2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
- |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
- |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2023|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/10/cisa-releases-twelve-industrial-control-systems-advisories)|Visit link for details.|Aug 10, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 09, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
  
 
 # HK-CERT
@@ -111,33 +111,6 @@
  |[Adobe Monthly Security Update (August 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskSecurity Restriction BypassDenial of ServiceInformation DisclosureRemote Code Execution APSB23-...|Release Date: 9 Aug 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[North Grid Proself information disclosure (CVE-2023-39415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2023|
- |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! information disclosure (CVE-2023-39974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! security bypass (CVE-2023-39973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! security bypass (CVE-2023-39972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! cross-site scripting (CVE-2023-39971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -153,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[North Grid Proself information disclosure (CVE-2023-39415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2023|
+ |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[AcyMailing extension for Joomla! information disclosure (CVE-2023-39974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[AcyMailing extension for Joomla! security bypass (CVE-2023-39973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[AcyMailing extension for Joomla! security bypass (CVE-2023-39972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
+ |[AcyMailing extension for Joomla! cross-site scripting (CVE-2023-39971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
  
 
 # EU-CERT
@@ -187,6 +173,20 @@
  |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
  |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
  |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
  
 
 # CA-CCS
