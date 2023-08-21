@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/08/2023 13:21:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2023 14:16:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,28 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 08, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian et DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0667/)|De multiples vulnérabilités ont été découvertes le noyau Linux de Debian et DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 août 2023|
+ |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0666/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 août 2023|
+ |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
+ |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0662/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 18 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0661/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 18 août 2023|
+ |[Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0660/)|De multiples vulnérabilités ont été corrigées dans |Publié le 18 août 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,6 +99,23 @@
  |[Zyxel - CVE-2023-33013](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-33013-2023-08-16)|Visit link for details.|16/08/2023|
  |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|16/08/2023|
  |[ESET - CVE-2023-3160](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2023-3160-2023-08-16)|Visit link for details.|16/08/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058" class="noirorange"><b>Linux kernel</b>: use after free via drivers/android/binder.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057" class="noirorange"><b>AMD Processors</b>: information disclosure via Division By Zero Error</a>](https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057)|An attacker can bypass access restrictions to data of AMD Processors, via Division By Zero Error, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056" class="noirorange"><b>Linux kernel</b>: use after free via NFTA_RULE_CHAIN_ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFTA_RULE_CHAIN_ID, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055" class="noirorange"><b>Linux kernel</b>: overload via __ipv6_addr_jhash()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053" class="noirorange"><b>procps-ng</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053)|An attacker can trigger a buffer overflow of procps-ng, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052" class="noirorange"><b>Libreswan</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052)|An attacker can use several vulnerabilities of Libreswan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050" class="noirorange"><b>mitmproxy</b>: header injection</a>](https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050)|An attacker can add new headers on mitmproxy, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047" class="noirorange"><b>re2c</b>: overload via find_fixed_tags()</a>](https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047)|An attacker can trigger an overload of re2c, via find_fixed_tags(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via btrfs_get_dev_args_from_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  
 
 # HK-CERT
@@ -95,48 +134,21 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20230810)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Aug 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[North Grid Proself information disclosure (CVE-2023-39416)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2023|
- |[North Grid Proself information disclosure (CVE-2023-39415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2023|
- |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[ASUSTOR Data Master (ADM) directory traversal (CVE-2023-3697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! information disclosure (CVE-2023-39974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! security bypass (CVE-2023-39973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- |[AcyMailing extension for Joomla! security bypass (CVE-2023-39972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053" class="noirorange"><b>procps-ng</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053)|An attacker can trigger a buffer overflow of procps-ng, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052" class="noirorange"><b>Libreswan</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052)|An attacker can use several vulnerabilities of Libreswan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050" class="noirorange"><b>mitmproxy</b>: header injection</a>](https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050)|An attacker can add new headers on mitmproxy, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047" class="noirorange"><b>re2c</b>: overload via find_fixed_tags()</a>](https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047)|An attacker can trigger an overload of re2c, via find_fixed_tags(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via btrfs_get_dev_args_from_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045" class="noirorange"><b>Apache Traffic Server</b>: ingress filtrering bypass via HTTP Request Parsing Discrepancies</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045)|An attacker can bypass filtering rules of Apache Traffic Server, via HTTP Request Parsing Discrepancies, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
+ |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
+ |[43391708/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4339170823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|17 août 2023|
+ |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
+ |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
+ |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
+ |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
+ |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
+ |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
+ |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
+ |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
  
 
 # EU-CERT
@@ -156,37 +168,18 @@
  |[2023-047: RCE Vulnerability in FortiOS and FortiProxy](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-047.pdf)|On July 11, 2023, Fortinet released an advisory regarding a critical vulnerability in FortiOS & FortiProxy that may allow remote attackers to execute arbitrary code or command via crafted packets. This vulnerability was identified as "CVE-2023-33308" with CVSS score of 9.8.|Thursday, July 13, 2023 03:58:36 PM CEST|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Debian et DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0667/)|De multiples vulnérabilités ont été découvertes le noyau Linux de Debian et DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 août 2023|
- |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0666/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 août 2023|
- |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
- |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0662/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 18 août 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0661/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 18 août 2023|
- |[Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0660/)|De multiples vulnérabilités ont été corrigées dans |Publié le 18 août 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 août 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
- |[43391708/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4339170823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|17 août 2023|
- |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
- |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
- |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
- |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
- |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
- |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
- |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor App Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1150/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JavaScript String Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1149/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1148/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor createDataObject Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1147/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1146/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1145/)|Visit link for details|2023-08-17|
  
 
 # CA-CCS
