@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/08/2023 10:14:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/08/2023 11:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,20 +78,21 @@
  |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0662/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 18 août 2023|
  
 
-# HK-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230822)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Aug 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system.|Release Date: 21 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-21] Updated System...| Release Date: 15 Aug 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
- |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
- |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ |[TP-Link - CVE-2023-39751](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39751-2023-08-21)|Visit link for details.|21/08/2023|
+ |[TP-Link - CVE-2023-39747](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39747-2023-08-21)|Visit link for details.|21/08/2023|
+ |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|21/08/2023|
+ |[D-Link - CVE-2023-39750](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39750-2023-08-21)|Visit link for details.|21/08/2023|
+ |[Cacti - CVE-2023-37543](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-37543-2023-08-21)|Visit link for details.|21/08/2023|
+ |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/08/2023|
+ |[Dell - CVE-2023-32484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32484-2023-08-18)|Visit link for details.|18/08/2023|
+ |[Dell - CVE-2023-28078](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28078-2023-08-18)|Visit link for details.|18/08/2023|
+ |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|18/08/2023|
+ |[Ivanti Avalanche - CVE-2023-32560](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-avalanche-cve-2023-32560-2023-08-14)|Visit link for details.|18/08/2023|
+ |[ClamAV - CVE-2023-20212](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20212-2023-08-17)|Visit link for details.|17/08/2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -122,37 +123,6 @@
  |[<a href="https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053" class="noirorange"><b>procps-ng</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053)|An attacker can trigger a buffer overflow of procps-ng, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052" class="noirorange"><b>Libreswan</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052)|An attacker can use several vulnerabilities of Libreswan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link - CVE-2023-39751](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39751-2023-08-21)|Visit link for details.|21/08/2023|
- |[TP-Link - CVE-2023-39747](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39747-2023-08-21)|Visit link for details.|21/08/2023|
- |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|21/08/2023|
- |[D-Link - CVE-2023-39750](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39750-2023-08-21)|Visit link for details.|21/08/2023|
- |[Cacti - CVE-2023-37543](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-37543-2023-08-21)|Visit link for details.|21/08/2023|
- |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/08/2023|
- |[Dell - CVE-2023-32484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32484-2023-08-18)|Visit link for details.|18/08/2023|
- |[Dell - CVE-2023-28078](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28078-2023-08-18)|Visit link for details.|18/08/2023|
- |[Ivanti - CVE-2023-35082](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-35082-2023-08-03)|Visit link for details.|18/08/2023|
- |[Ivanti Avalanche - CVE-2023-32560](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-avalanche-cve-2023-32560-2023-08-14)|Visit link for details.|18/08/2023|
- |[ClamAV - CVE-2023-20212](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20212-2023-08-17)|Visit link for details.|17/08/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
- |[SonicWALL GMS Virtual Appliance HttpDigestAuthenticator Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1155/)|Visit link for details|2023-08-21|
- |[SonicWALL GMS Virtual Appliance Syslog Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1154/)|Visit link for details|2023-08-21|
- |[3CX Uncontrolled Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1153/)|Visit link for details|2023-08-21|
- |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
  
 
 # EU-CERT
@@ -189,6 +159,22 @@
  |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230822)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Aug 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system.|Release Date: 21 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-21] Updated System...| Release Date: 15 Aug 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
+ |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
+ |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +190,18 @@
  |[Cisco security advisory (AV23-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-485)|Visit link for details|2023-08-16|
  |[HPE security advisory (AV23-484)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-484)|Visit link for details|2023-08-16|
  |[Atlassian security advisory (AV23-483)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-483)|Visit link for details|2023-08-16|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
+ |[SonicWALL GMS Virtual Appliance HttpDigestAuthenticator Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1155/)|Visit link for details|2023-08-21|
+ |[SonicWALL GMS Virtual Appliance Syslog Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1154/)|Visit link for details|2023-08-21|
+ |[3CX Uncontrolled Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1153/)|Visit link for details|2023-08-21|
+ |[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|Visit link for details|2023-08-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1151/)|Visit link for details|2023-08-17|
  
