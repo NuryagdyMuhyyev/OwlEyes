@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/08/2023 22:14:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/08/2023 23:19:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6294-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6294-2-haproxy-vulnerability.46391/)|Visit link for details.|Aug 17, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
- |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
- |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
- |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
- |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,21 +79,20 @@
  |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/08/2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067" class="noirorange"><b>configobj</b>: overload via Validate Function</a>](https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067)|An attacker can trigger an overload of configobj, via Validate Function, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vmxnet3-rq-cleanup-42066" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via vmxnet3_rq_cleanup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vmxnet3-rq-cleanup-42066)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-information-disclosure-via-Importing-Project-Token-42065" class="noirorange"><b>Ansible</b>: information disclosure via Importing Project Token</a>](https://vigilance.fr/vulnerability/Ansible-information-disclosure-via-Importing-Project-Token-42065)|An attacker can bypass access restrictions to data of Ansible, via Importing Project Token, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lxc-information-disclosure-via-lxc-user-nic-Error-Message-42063" class="noirorange"><b>lxc</b>: information disclosure via lxc-user-nic Error Message</a>](https://vigilance.fr/vulnerability/lxc-information-disclosure-via-lxc-user-nic-Error-Message-42063)|An attacker can bypass access restrictions to data of lxc, via lxc-user-nic Error Message, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062" class="noirorange"><b>Ivanti Sentry</b>: code execution via System Manager Portal</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062)|An attacker can use a vulnerability of Ivanti Sentry, via System Manager Portal, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-AcyMailing-Cross-Site-Scripting-42061" class="noirorange"><b>Joomla AcyMailing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-AcyMailing-Cross-Site-Scripting-42061)|An attacker can trigger a Cross Site Scripting of Joomla AcyMailing, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-shuffle-42060" class="noirorange"><b>snappy-java</b>: integer overflow via shuffle()</a>](https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-shuffle-42060)|An attacker can trigger an integer overflow of snappy-java, via shuffle(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-compress-42059" class="noirorange"><b>snappy-java</b>: integer overflow via compress()</a>](https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-compress-42059)|An attacker can trigger an integer overflow of snappy-java, via compress(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058" class="noirorange"><b>Linux kernel</b>: use after free via drivers/android/binder.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057" class="noirorange"><b>AMD Processors</b>: information disclosure via Division By Zero Error</a>](https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057)|An attacker can bypass access restrictions to data of AMD Processors, via Division By Zero Error, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056" class="noirorange"><b>Linux kernel</b>: use after free via NFTA_RULE_CHAIN_ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFTA_RULE_CHAIN_ID, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
+ |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
+ |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
+ |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
+ |[CISA Releases JCDC Remote Monitoring and Management (RMM) Cyber Defense Plan](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-releases-jcdc-remote-monitoring-and-management-rmm-cyber-defense-plan)|Visit link for details.|Aug 16, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
  
 
 # HK-CERT
@@ -128,6 +111,36 @@
  |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Virtual-Classroom-SQL-injection-42077" class="noirorange"><b>Joomla Virtual Classroom</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Virtual-Classroom-SQL-injection-42077)|An attacker can use a SQL injection of Joomla Virtual Classroom, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-SQL-injection-42076" class="noirorange"><b>Joomla Proforms Basic</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-SQL-injection-42076)|An attacker can use a SQL injection of Joomla Proforms Basic, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Plugin-Creative-Gallery-SQL-injection-42075" class="noirorange"><b>Joomla Plugin Creative Gallery</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Plugin-Creative-Gallery-SQL-injection-42075)|An attacker can use a SQL injection of Joomla Plugin Creative Gallery, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LivingWord-vulnerability-42074" class="noirorange"><b>Joomla LivingWord</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LivingWord-vulnerability-42074)|A vulnerability of Joomla LivingWord was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LivingWord-Cross-Site-Scripting-42073" class="noirorange"><b>Joomla LivingWord</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-LivingWord-Cross-Site-Scripting-42073)|An attacker can trigger a Cross Site Scripting of Joomla LivingWord, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EXTPLORER-Cross-Site-Scripting-42072" class="noirorange"><b>Joomla EXTPLORER</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EXTPLORER-Cross-Site-Scripting-42072)|An attacker can trigger a Cross Site Scripting of Joomla EXTPLORER, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-vulnerability-42071" class="noirorange"><b>Joomla Proforms Basic</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-vulnerability-42071)|A vulnerability of Joomla Proforms Basic was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Bagallery-vulnerability-42070" class="noirorange"><b>Joomla Bagallery</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-Bagallery-vulnerability-42070)|A vulnerability of Joomla Bagallery was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Admirror-Gallery-Cross-Site-Scripting-42069" class="noirorange"><b>Joomla Admirror Gallery</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Admirror-Gallery-Cross-Site-Scripting-42069)|An attacker can trigger a Cross Site Scripting of Joomla Admirror Gallery, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Evolution-file-reading-via-MailTo-Attach-42068" class="noirorange"><b>GNOME Evolution</b>: file reading via MailTo Attach</a>](https://vigilance.fr/vulnerability/GNOME-Evolution-file-reading-via-MailTo-Attach-42068)|An attacker can read a file of GNOME Evolution, via MailTo Attach, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067" class="noirorange"><b>configobj</b>: overload via Validate Function</a>](https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067)|An attacker can trigger an overload of configobj, via Validate Function, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[3CX privilege escalation (CVE-2023-27362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Ivanti Sentry security bypass (CVE-2023-38035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[EnterpriseDB Postgres Advanced Server DBMS_PROFILER security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[EnterpriseDB Postgres Advanced Server UTL_ENCODE information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -143,19 +156,6 @@
  |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
  |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
  |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda AC8V4 buffer overflow (CVE-2023-39785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Tenda AC8V4 buffer overflow (CVE-2023-39786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[3CX privilege escalation (CVE-2023-27362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Ivanti Sentry security bypass (CVE-2023-38035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[EnterpriseDB Postgres Advanced Server DBMS_PROFILER security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[EnterpriseDB Postgres Advanced Server UTL_ENCODE information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[EnterpriseDB Postgres Advanced Server get_url_as_text and get_url_as_bytea information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
  
 
 # EU-CERT
