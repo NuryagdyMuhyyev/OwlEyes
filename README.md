@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2023 04:15:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2023 06:08:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
+ |[SolarWinds - CVE-2023-35179](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35179-2023-08-22)|Visit link for details.|22/08/2023|
+ |[McAfee - CVE-2023-40352](https://www.cyberveille-sante.gouv.fr/alertes/mcafee-cve-2023-40352-2023-08-22)|Visit link for details.|22/08/2023|
+ |[Linux - CVE-2023-40283](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-40283-2023-08-22)|Visit link for details.|22/08/2023|
+ |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|22/08/2023|
+ |[TP-Link - CVE-2023-39751](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39751-2023-08-21)|Visit link for details.|21/08/2023|
+ |[TP-Link - CVE-2023-39747](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39747-2023-08-21)|Visit link for details.|21/08/2023|
+ |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|21/08/2023|
+ |[D-Link - CVE-2023-39750](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39750-2023-08-21)|Visit link for details.|21/08/2023|
+ |[Cacti - CVE-2023-37543](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-37543-2023-08-21)|Visit link for details.|21/08/2023|
+ |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/08/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,21 +111,17 @@
  |[Python Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/python-remote-code-execution-vulnerability_20230814)|A vulnerability was identified in Python. A remote attacker could exploit this vulnerability to trigger remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Aug 2023 |
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
- |[SolarWinds - CVE-2023-35179](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35179-2023-08-22)|Visit link for details.|22/08/2023|
- |[McAfee - CVE-2023-40352](https://www.cyberveille-sante.gouv.fr/alertes/mcafee-cve-2023-40352-2023-08-22)|Visit link for details.|22/08/2023|
- |[Linux - CVE-2023-40283](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-40283-2023-08-22)|Visit link for details.|22/08/2023|
- |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|22/08/2023|
- |[TP-Link - CVE-2023-39751](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39751-2023-08-21)|Visit link for details.|21/08/2023|
- |[TP-Link - CVE-2023-39747](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39747-2023-08-21)|Visit link for details.|21/08/2023|
- |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|21/08/2023|
- |[D-Link - CVE-2023-39750](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39750-2023-08-21)|Visit link for details.|21/08/2023|
- |[Cacti - CVE-2023-37543](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-37543-2023-08-21)|Visit link for details.|21/08/2023|
- |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/08/2023|
+ |[Devolutions Remote Desktop Manager security bypass (CVE-2023-4373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Devolutions Remote Desktop Manager security bypass (CVE-2023-4417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Tenda AC8V4 buffer overflow (CVE-2023-39786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[3CX privilege escalation (CVE-2023-27362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
+ |[Ivanti Sentry security bypass (CVE-2023-38035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
  
 
 # OBS-Vigilance
@@ -128,19 +141,6 @@
  |[<a href="https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067" class="noirorange"><b>configobj</b>: overload via Validate Function</a>](https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067)|An attacker can trigger an overload of configobj, via Validate Function, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Devolutions Remote Desktop Manager security bypass (CVE-2023-4373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Devolutions Remote Desktop Manager security bypass (CVE-2023-4417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Tenda AC8V4 buffer overflow (CVE-2023-39784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Tenda AC8V4 buffer overflow (CVE-2023-39785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Tenda AC8V4 buffer overflow (CVE-2023-39786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[3CX privilege escalation (CVE-2023-27362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- |[Ivanti Sentry security bypass (CVE-2023-38035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -158,20 +158,6 @@
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
- |[Parse Server transformUpdate Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1160/)|Visit link for details|2023-08-22|
- |[Apple macOS KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1159/)|Visit link for details|2023-08-22|
- |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
  |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
  |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
+ |[Parse Server transformUpdate Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1160/)|Visit link for details|2023-08-22|
+ |[Apple macOS KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1159/)|Visit link for details|2023-08-22|
+ |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
  
 
 # CA-CCS
