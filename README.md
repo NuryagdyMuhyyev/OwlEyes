@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2023 19:15:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2023 20:16:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Aruba - CVE-2023-37421](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-37421-2023-08-23)|Visit link for details.|23/08/2023|
  |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
  |[SolarWinds - CVE-2023-35179](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35179-2023-08-22)|Visit link for details.|22/08/2023|
  |[McAfee - CVE-2023-40352](https://www.cyberveille-sante.gouv.fr/alertes/mcafee-cve-2023-40352-2023-08-22)|Visit link for details.|22/08/2023|
@@ -92,7 +93,6 @@
  |[TP-Link - CVE-2023-39751](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39751-2023-08-21)|Visit link for details.|21/08/2023|
  |[TP-Link - CVE-2023-39747](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-39747-2023-08-21)|Visit link for details.|21/08/2023|
  |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|21/08/2023|
- |[D-Link - CVE-2023-39750](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39750-2023-08-21)|Visit link for details.|21/08/2023|
  
 
 # HK-CERT
@@ -124,6 +124,23 @@
  |[HPE Aruba Networking EdgeConnect SD-WAN Orchestrator cross-site scripting (CVE-2023-37421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090" class="noirorange"><b>Cacti</b>: Cross Site Scripting via auth_changepassword.php</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090)|An attacker can trigger a Cross Site Scripting of Cacti, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089" class="noirorange"><b>ImageMagick</b>: memory leak via Identify Help</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089)|An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087" class="noirorange"><b>LibTIFF</b>: overload via TIFFReadDirectory()</a>](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087)|An attacker can trigger an overload of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086" class="noirorange"><b>QEMU</b>: NULL pointer dereference via of_dpa_cmd_add_l2_flood</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085" class="noirorange"><b>ImageMagick</b>: denial of service via ReadEnhMetaFile()</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085)|An attacker can cause a fatal error of ImageMagick, via ReadEnhMetaFile(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084" class="noirorange"><b>OpenVPN</b>: denial of service via Control Channel Reset Packet</a>](https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084)|An attacker can cause a fatal error of OpenVPN, via Control Channel Reset Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083" class="noirorange"><b>Dnsmasq</b>: use after free via create_helper()</a>](https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083)|An attacker can force the reuse of a freed memory area of Dnsmasq, via create_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082" class="noirorange"><b>curl</b>: integer overflow via Retry Time Arguments</a>](https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082)|An attacker can trigger an integer overflow of curl, via Retry Time Arguments, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081" class="noirorange"><b>LibTIFF</b>: buffer overflow via LogLuvSetupEncode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080" class="noirorange"><b>GNU inetutils</b>: privilege escalation via Setid() Unchecked Return Values</a>](https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080)|An attacker can bypass restrictions of GNU inetutils, via Setid() Unchecked Return Values, in order to escalate his privileges...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -139,20 +156,6 @@
  |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
  |[2023-049: Critical Vulnerability in Cisco SD-WAN vManage](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-049.pdf)|On July 12, 2023, Cisco released an advisory to address a critical vulnerability in the request authentication validation for the REST API of Cisco SD-WAN vManage software. Cisco SD-WAN vManage API is a REST API for controlling, configuring, and monitoring the Cisco devices in an overlay network. The vulnerability could allow an unauthenticated, remote attacker to gain read permissions or limited write permissions to the configuration of an affected Cisco SD-WAN vManage instance. It is tracked as "CVE-2023-20214" and has a CVSS score of 9.1.|Monday, July 17, 2023 11:05:59 AM CEST|
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
- |[Parse Server transformUpdate Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1160/)|Visit link for details|2023-08-22|
- |[Apple macOS KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1159/)|Visit link for details|2023-08-22|
- |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
- |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
  
 
 # MA-CERT
@@ -172,27 +175,26 @@
  |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090" class="noirorange"><b>Cacti</b>: Cross Site Scripting via auth_changepassword.php</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090)|An attacker can trigger a Cross Site Scripting of Cacti, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089" class="noirorange"><b>ImageMagick</b>: memory leak via Identify Help</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089)|An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087" class="noirorange"><b>LibTIFF</b>: overload via TIFFReadDirectory()</a>](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087)|An attacker can trigger an overload of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086" class="noirorange"><b>QEMU</b>: NULL pointer dereference via of_dpa_cmd_add_l2_flood</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085" class="noirorange"><b>ImageMagick</b>: denial of service via ReadEnhMetaFile()</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085)|An attacker can cause a fatal error of ImageMagick, via ReadEnhMetaFile(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084" class="noirorange"><b>OpenVPN</b>: denial of service via Control Channel Reset Packet</a>](https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084)|An attacker can cause a fatal error of OpenVPN, via Control Channel Reset Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083" class="noirorange"><b>Dnsmasq</b>: use after free via create_helper()</a>](https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083)|An attacker can force the reuse of a freed memory area of Dnsmasq, via create_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082" class="noirorange"><b>curl</b>: integer overflow via Retry Time Arguments</a>](https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082)|An attacker can trigger an integer overflow of curl, via Retry Time Arguments, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081" class="noirorange"><b>LibTIFF</b>: buffer overflow via LogLuvSetupEncode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080" class="noirorange"><b>GNU inetutils</b>: privilege escalation via Setid() Unchecked Return Values</a>](https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080)|An attacker can bypass restrictions of GNU inetutils, via Setid() Unchecked Return Values, in order to escalate his privileges...|Visit link for details|
+ |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
+ |[Parse Server transformUpdate Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1160/)|Visit link for details|2023-08-22|
+ |[Apple macOS KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1159/)|Visit link for details|2023-08-22|
+ |[McAfee Safe Connect VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1158/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet device_status Local File Inclusion Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1157/)|Visit link for details|2023-08-21|
+ |[Advantech R-SeeNet Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1156/)|Visit link for details|2023-08-21|
  
 
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV23-499)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-499)|Visit link for details|2023-08-23|
+ |[Google Chrome security advisory (AV23-498)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-498)|Visit link for details|2023-08-23|
  |[[Control systems] Rockwell Automation security advisory (AV23-497)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-497)|Visit link for details|2023-08-22|
  |[[Control systems] Trane Technologies security advisory (AV23-496)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-trane-technologies-security-advisory-av23-496)|Visit link for details|2023-08-22|
  |[[Control systems] Hitachi Energy security advisory (AV23-495)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-495)|Visit link for details|2023-08-22|
@@ -202,6 +204,4 @@
  |[IBM security advisory (AV23-491)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-491)|Visit link for details|2023-08-21|
  |[Dell security advisory (AV23-490)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-490)|Visit link for details|2023-08-21|
  |[Juniper Networks security advisory (AV23-489)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-489)|Visit link for details|2023-08-18|
- |[HPE security advisory (AV23-488)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-488)|Visit link for details|2023-08-18|
- |[[Control systems] Walchem security advisory (AV23-487)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-walchem-security-advisory-av23-487)|Visit link for details|2023-08-17|
  
