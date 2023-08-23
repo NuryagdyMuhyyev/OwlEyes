@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/08/2023 01:16:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/08/2023 02:14:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 16, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Netgear - CVE-2023-40479](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40479-2023-08-23)|Visit link for details.|23/08/2023|
+ |[Google Chrome - CVE-2023-4430](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4430-2023-08-23)|Visit link for details.|23/08/2023|
+ |[Cacti - CVE-2022-48547](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2022-48547-2023-08-23)|Visit link for details.|23/08/2023|
+ |[Cacti - CVE-2022-48538](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2022-48538-2023-08-23)|Visit link for details.|23/08/2023|
+ |[Aruba - CVE-2023-37421](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-37421-2023-08-23)|Visit link for details.|23/08/2023|
+ |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
+ |[SolarWinds - CVE-2023-35179](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35179-2023-08-22)|Visit link for details.|22/08/2023|
+ |[McAfee - CVE-2023-40352](https://www.cyberveille-sante.gouv.fr/alertes/mcafee-cve-2023-40352-2023-08-22)|Visit link for details.|22/08/2023|
+ |[Linux - CVE-2023-40283](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-40283-2023-08-22)|Visit link for details.|22/08/2023|
+ |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|22/08/2023|
+ |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|22/08/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -94,40 +111,6 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Aug 2023 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear - CVE-2023-40479](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40479-2023-08-23)|Visit link for details.|23/08/2023|
- |[Google Chrome - CVE-2023-4430](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4430-2023-08-23)|Visit link for details.|23/08/2023|
- |[Cacti - CVE-2022-48547](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2022-48547-2023-08-23)|Visit link for details.|23/08/2023|
- |[Cacti - CVE-2022-48538](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2022-48538-2023-08-23)|Visit link for details.|23/08/2023|
- |[Aruba - CVE-2023-37421](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-37421-2023-08-23)|Visit link for details.|23/08/2023|
- |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
- |[SolarWinds - CVE-2023-35179](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35179-2023-08-22)|Visit link for details.|22/08/2023|
- |[McAfee - CVE-2023-40352](https://www.cyberveille-sante.gouv.fr/alertes/mcafee-cve-2023-40352-2023-08-22)|Visit link for details.|22/08/2023|
- |[Linux - CVE-2023-40283](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-40283-2023-08-22)|Visit link for details.|22/08/2023|
- |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|22/08/2023|
- |[SonicWall - CVE-2023-34133](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-34133-2023-07-13)|Visit link for details.|22/08/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/janino-denial-of-service-via-Evaluator-guess-Parameter-Name-Method-42098" class="noirorange"><b>janino</b>: denial of service via Evaluator.guess Parameter Name Method</a>](https://vigilance.fr/vulnerability/janino-denial-of-service-via-Evaluator-guess-Parameter-Name-Method-42098)|An attacker can cause a fatal error of janino, via Evaluator.guess Parameter Name Method, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-information-disclosure-via-ssl-SSLSocket-Closed-Sockets-42097" class="noirorange"><b>Python Core</b>: information disclosure via ssl.SSLSocket Closed Sockets</a>](https://vigilance.fr/vulnerability/Python-Core-information-disclosure-via-ssl-SSLSocket-Closed-Sockets-42097)|An attacker can bypass access restrictions to data of Python Core, via ssl.SSLSocket Closed Sockets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-Parameters-42096" class="noirorange"><b>Kubernetes kubelet</b>: privilege escalation via Windows Nodes Parameters</a>](https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-Parameters-42096)|An attacker can bypass restrictions of Kubernetes kubelet, via Windows Nodes Parameters, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kubernetes-csi-proxy-privilege-escalation-42095" class="noirorange"><b>Kubernetes kubernetes-csi-proxy</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Kubernetes-kubernetes-csi-proxy-privilege-escalation-42095)|An attacker can bypass restrictions of Kubernetes |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-Path-42094" class="noirorange"><b>Kubernetes kubelet</b>: privilege escalation via Windows Nodes Path</a>](https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-Path-42094)|An attacker can bypass restrictions of Kubernetes kubelet, via Windows Nodes Path, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-AIX-file-reading-via-OpenSSH-42093" class="noirorange"><b>IBM AIX</b>: file reading via OpenSSH</a>](https://vigilance.fr/vulnerability/IBM-AIX-file-reading-via-OpenSSH-42093)|An attacker can read a file of IBM AIX, via OpenSSH, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090" class="noirorange"><b>Cacti</b>: Cross Site Scripting via auth_changepassword.php</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090)|An attacker can trigger a Cross Site Scripting of Cacti, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089" class="noirorange"><b>ImageMagick</b>: memory leak via Identify Help</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089)|An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087" class="noirorange"><b>LibTIFF</b>: overload via TIFFReadDirectory()</a>](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087)|An attacker can trigger an overload of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086" class="noirorange"><b>QEMU</b>: NULL pointer dereference via of_dpa_cmd_add_l2_flood</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,6 +122,37 @@
  |[NETGEAR RBR760 security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2023|
  |[HPE Aruba Networking EdgeConnect SD-WAN Orchestrator cross-site scripting (CVE-2023-37423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2023|
  |[HPE Aruba Networking EdgeConnect SD-WAN Orchestrator cross-site scripting (CVE-2023-37422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zabbix Web Service Report Generation External Control of File Name Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1168/)|Visit link for details|2023-08-23|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1167/)|Visit link for details|2023-08-23|
+ |[ASUS RT-AX92U lighttpd mod_webdav.so SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1166/)|Visit link for details|2023-08-23|
+ |[7-Zip 7Z File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1165/)|Visit link for details|2023-08-23|
+ |[7-Zip SquashFS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1164/)|Visit link for details|2023-08-23|
+ |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
+ |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109" class="noirorange"><b>Drupal Data Field</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109)|An attacker can bypass access restrictions of Drupal Data Field, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108" class="noirorange"><b>Drupal SafeDelete</b>: information disclosure via Unpublished Content</a>](https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108)|An attacker can bypass access restrictions to data of Drupal SafeDelete, via Unpublished Content, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107" class="noirorange"><b>Drupal Shorthand</b>: information disclosure via Stories</a>](https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107)|An attacker can bypass access restrictions to data of Drupal Shorthand, via Stories, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106" class="noirorange"><b>Drupal Config Pages</b>: information disclosure via JSONAPI</a>](https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106)|An attacker can bypass access restrictions to data of Drupal Config Pages, via JSONAPI, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104" class="noirorange"><b>Drupal Forum Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104)|An attacker can use a vulnerability of Drupal Forum Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103" class="noirorange"><b>Drupal ACL</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103)|An attacker can use a vulnerability of Drupal ACL, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102" class="noirorange"><b>Cisco NX-OS</b>: denial of service via TACACS+ / RADIUS</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102)|An attacker can cause a fatal error of Cisco NX-OS, via TACACS+ / RADIUS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101" class="noirorange"><b>Cisco Nexus 3000/9000</b>: denial of service via IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101)|An attacker can cause a fatal error of Cisco Nexus 3000/9000, via IS-IS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100" class="noirorange"><b>Cisco UCS 6300</b>: denial of service via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100)|An attacker can cause a fatal error of Cisco UCS 6300, via SNMP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099" class="noirorange"><b>Cisco Nexus 3000/9000</b>: file read/write via SFTP Server</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099)|An attacker can bypass access restrictions of Cisco Nexus 3000/9000, via SFTP Server, in order to read or alter files...|Visit link for details|
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
  |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
  |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zabbix Web Service Report Generation External Control of File Name Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1168/)|Visit link for details|2023-08-23|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1167/)|Visit link for details|2023-08-23|
- |[ASUS RT-AX92U lighttpd mod_webdav.so SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1166/)|Visit link for details|2023-08-23|
- |[7-Zip 7Z File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1165/)|Visit link for details|2023-08-23|
- |[7-Zip SquashFS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1164/)|Visit link for details|2023-08-23|
- |[NETGEAR RAX30 Telnet CLI passwd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1163/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 DHCP Server Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1162/)|Visit link for details|2023-08-22|
- |[NETGEAR RAX30 UPnP Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1161/)|Visit link for details|2023-08-22|
  
 
 # CA-CCS
