@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/08/2023 17:31:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/08/2023 18:19:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,22 +83,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
+ |[Vulnérabilité dans Spring-Kafka](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0679/)|Une vulnérabilité a été découverte dans Spring-Kafka. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 août 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0678/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
  |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0676/)|Une vulnérabilité a été découverte dans Zimbra Collaboration Suite. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 août 2023|
  |[Multiples vulnérabilités dans Aruba EdgeConnect SD-WAN Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect SD-WAN Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des …|Publié le 23 août 2023|
- |[Vulnérabilité dans Ivanti Sentry](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0673/)|Une vulnérabilité a été découverte dans Ivanti Sentry. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 août 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0672/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 août 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0671/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 août 2023|
- |[Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0670/)|Une vulnérabilité a été découverte dans Fortinet FortiOS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 août 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 21 août 2023|
- |[Vulnérabilité dans les caméras Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0668/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian et DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0667/)|De multiples vulnérabilités ont été découvertes le noyau Linux de Debian et DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 août 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121" class="noirorange"><b>GNU indent</b>: buffer overflow via search_brace()</a>](https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121)|An attacker can trigger a buffer overflow of GNU indent, via search_brace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119" class="noirorange"><b>7-Zip</b>: memory corruption via SQFS/7Z Files</a>](https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119)|An attacker can trigger a memory corruption of 7-Zip, via SQFS/7Z Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118" class="noirorange"><b>Zabbix</b>: file reading via Web Service Report Generation</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118)|An attacker can read a file of Zabbix, via Web Service Report Generation, in order to obtain sensitive information...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114" class="noirorange"><b>Wireshark</b>: memory leak via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114)|An attacker can create a memory leak of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113" class="noirorange"><b>Wireshark</b>: overload via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113)|An attacker can trigger an overload of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112" class="noirorange"><b>Wireshark</b>: denial of service via CBOR Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112)|An attacker can cause a fatal error of Wireshark, via CBOR Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libqb-buffer-overflow-via-log-blackbox-c-42111" class="noirorange"><b>libqb</b>: buffer overflow via log_blackbox.c</a>](https://vigilance.fr/vulnerability/libqb-buffer-overflow-via-log-blackbox-c-42111)|An attacker can trigger a buffer overflow of libqb, via log_blackbox.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Postfix-file-corruption-via-config-postfix-42110" class="noirorange"><b>Postfix</b>: file corruption via config_postfix</a>](https://vigilance.fr/vulnerability/Postfix-file-corruption-via-config-postfix-42110)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Postfix, via config_postfix...|Visit link for details|
  
 
 # EU-CERT
