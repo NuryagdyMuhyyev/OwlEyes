@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/08/2023 21:21:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/08/2023 22:14:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[Atlassian Releases Security Update for Confluence Server and Data Center](https://www.cisa.gov/news-events/alerts/2023/08/17/atlassian-releases-security-update-confluence-server-and-data-center)|Visit link for details.|Aug 17, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
+ |[Vulnérabilité dans Spring-Kafka](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0679/)|Une vulnérabilité a été découverte dans Spring-Kafka. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 août 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0678/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
+ |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0676/)|Une vulnérabilité a été découverte dans Zimbra Collaboration Suite. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 août 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect SD-WAN Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect SD-WAN Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des …|Publié le 23 août 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Cacti - CVE-2022-48538](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2022-48538-2023-08-23)|Visit link for details.|23/08/2023|
  |[Aruba - CVE-2023-37421](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-37421-2023-08-23)|Visit link for details.|23/08/2023|
  |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|22/08/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
- |[Vulnérabilité dans Spring-Kafka](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0679/)|Une vulnérabilité a été découverte dans Spring-Kafka. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0678/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0676/)|Une vulnérabilité a été découverte dans Zimbra Collaboration Suite. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 août 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect SD-WAN Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect SD-WAN Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des …|Publié le 23 août 2023|
  
 
 # OBS-Vigilance
