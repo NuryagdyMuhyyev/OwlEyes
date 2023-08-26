@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/08/2023 18:17:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/08/2023 19:13:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Aug 24, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
+ |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
+ |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6267-3: Firefox regressions](https://www.linux.org/threads/usn-6267-3-firefox-regressions.46423/)|Visit link for details.|Aug 21, 2023|
  |[DSA-5481 fastdds - security update](https://www.linux.org/threads/dsa-5481-fastdds-security-update.46420/)|Visit link for details.|Aug 21, 2023|
  |[DSA-5480 linux - security update](https://www.linux.org/threads/dsa-5480-linux-security-update.46409/)|Visit link for details.|Aug 19, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Aug 24, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
- |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
- |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 17, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
  
 
 # CERT-FR
@@ -129,23 +129,6 @@
  |[2023-048: Critical Vulnerabilities in SonicWall GMS and Analytics](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-048.pdf)|On July 12, SonicWall released an Urgent Security Notice regarding a suite of vulnerabilities, among which 4 of them rated as critical, affecting SonicWall GMS and Analytics.|Thursday, July 13, 2023 03:59:02 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
- |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
- |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
- |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
- |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
- |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
- |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
- |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
- |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
- |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
- |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -160,4 +143,21 @@
  |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
  |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
+ |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
+ |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
+ |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
+ |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
+ |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
+ |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
+ |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
+ |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
+ |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
+ |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
  
