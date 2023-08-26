@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/08/2023 23:18:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2023 00:12:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5483 chromium - security update](https://www.linux.org/threads/dsa-5483-chromium-security-update.46485/)|Visit link for details.|Aug 26, 2023|
- |[DSA-5482 tryton-server - security update](https://www.linux.org/threads/dsa-5482-tryton-server-security-update.46473/)|Visit link for details.|Aug 25, 2023|
- |[USN-6307-1: JOSE for C/C++ vulnerability](https://www.linux.org/threads/usn-6307-1-jose-for-c-c-vulnerability.46470/)|Visit link for details.|Aug 25, 2023|
- |[USN-6306-1: Fast DDS vulnerabilities](https://www.linux.org/threads/usn-6306-1-fast-dds-vulnerabilities.46469/)|Visit link for details.|Aug 24, 2023|
- |[USN-6305-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6305-1-php-vulnerabilities.46457/)|Visit link for details.|Aug 23, 2023|
- |[USN-6304-1: Inetutils vulnerabilities](https://www.linux.org/threads/usn-6304-1-inetutils-vulnerabilities.46443/)|Visit link for details.|Aug 22, 2023|
- |[USN-6303-2: ClamAV vulnerability](https://www.linux.org/threads/usn-6303-2-clamav-vulnerability.46433/)|Visit link for details.|Aug 21, 2023|
- |[USN-6303-1: ClamAV vulnerability](https://www.linux.org/threads/usn-6303-1-clamav-vulnerability.46429/)|Visit link for details.|Aug 21, 2023|
- |[USN-6302-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6302-1-vim-vulnerabilities.46427/)|Visit link for details.|Aug 21, 2023|
- |[USN-6267-3: Firefox regressions](https://www.linux.org/threads/usn-6267-3-firefox-regressions.46423/)|Visit link for details.|Aug 21, 2023|
- |[DSA-5481 fastdds - security update](https://www.linux.org/threads/dsa-5481-fastdds-security-update.46420/)|Visit link for details.|Aug 21, 2023|
- 
 
 # US-CERT
 
@@ -76,6 +59,23 @@
  |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5483 chromium - security update](https://www.linux.org/threads/dsa-5483-chromium-security-update.46485/)|Visit link for details.|Aug 26, 2023|
+ |[DSA-5482 tryton-server - security update](https://www.linux.org/threads/dsa-5482-tryton-server-security-update.46473/)|Visit link for details.|Aug 25, 2023|
+ |[USN-6307-1: JOSE for C/C++ vulnerability](https://www.linux.org/threads/usn-6307-1-jose-for-c-c-vulnerability.46470/)|Visit link for details.|Aug 25, 2023|
+ |[USN-6306-1: Fast DDS vulnerabilities](https://www.linux.org/threads/usn-6306-1-fast-dds-vulnerabilities.46469/)|Visit link for details.|Aug 24, 2023|
+ |[USN-6305-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6305-1-php-vulnerabilities.46457/)|Visit link for details.|Aug 23, 2023|
+ |[USN-6304-1: Inetutils vulnerabilities](https://www.linux.org/threads/usn-6304-1-inetutils-vulnerabilities.46443/)|Visit link for details.|Aug 22, 2023|
+ |[USN-6303-2: ClamAV vulnerability](https://www.linux.org/threads/usn-6303-2-clamav-vulnerability.46433/)|Visit link for details.|Aug 21, 2023|
+ |[USN-6303-1: ClamAV vulnerability](https://www.linux.org/threads/usn-6303-1-clamav-vulnerability.46429/)|Visit link for details.|Aug 21, 2023|
+ |[USN-6302-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6302-1-vim-vulnerabilities.46427/)|Visit link for details.|Aug 21, 2023|
+ |[USN-6267-3: Firefox regressions](https://www.linux.org/threads/usn-6267-3-firefox-regressions.46423/)|Visit link for details.|Aug 21, 2023|
+ |[DSA-5481 fastdds - security update](https://www.linux.org/threads/dsa-5481-fastdds-security-update.46420/)|Visit link for details.|Aug 21, 2023|
  
 
 # CERT-SANTE
