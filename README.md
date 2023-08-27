@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/08/2023 15:16:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2023 16:12:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[DSA-5481 fastdds - security update](https://www.linux.org/threads/dsa-5481-fastdds-security-update.46420/)|Visit link for details.|Aug 21, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 août 2023|
- |[Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2023|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,21 +79,20 @@
  |[7-Zip - CVE-2023-31102](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-31102-2023-08-24)|Visit link for details.|24/08/2023|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121" class="noirorange"><b>GNU indent</b>: buffer overflow via search_brace()</a>](https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121)|An attacker can trigger a buffer overflow of GNU indent, via search_brace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119" class="noirorange"><b>7-Zip</b>: memory corruption via SQFS/7Z Files</a>](https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119)|An attacker can trigger a memory corruption of 7-Zip, via SQFS/7Z Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118" class="noirorange"><b>Zabbix</b>: file reading via Web Service Report Generation</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118)|An attacker can read a file of Zabbix, via Web Service Report Generation, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117" class="noirorange"><b>Python Core</b>: file read/write via Normpath Path Truncation</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117)|An attacker can bypass access restrictions of Python Core, via Normpath Path Truncation, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2023|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
+ |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
  
 
 # HK-CERT
@@ -126,6 +109,23 @@
  |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
  |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121" class="noirorange"><b>GNU indent</b>: buffer overflow via search_brace()</a>](https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121)|An attacker can trigger a buffer overflow of GNU indent, via search_brace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119" class="noirorange"><b>7-Zip</b>: memory corruption via SQFS/7Z Files</a>](https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119)|An attacker can trigger a memory corruption of 7-Zip, via SQFS/7Z Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118" class="noirorange"><b>Zabbix</b>: file reading via Web Service Report Generation</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118)|An attacker can read a file of Zabbix, via Web Service Report Generation, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117" class="noirorange"><b>Python Core</b>: file read/write via Normpath Path Truncation</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117)|An attacker can bypass access restrictions of Python Core, via Normpath Path Truncation, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
