@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/08/2023 07:21:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2023 08:16:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/17/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Aug 17, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/08/2023|
- |[WordPress JupiterX Core Premium - CVE-2023-38388](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-premium-cve-2023-38388-2023-08-25)|Visit link for details.|25/08/2023|
- |[Linux - CVE-2023-4387](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4387-2023-08-25)|Visit link for details.|25/08/2023|
- |[HP - CVE-2023-27971 ](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-27971-2023-08-25)|Visit link for details.|25/08/2023|
- |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|25/08/2023|
- |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|25/08/2023|
- |[RARLAB WinRAR - CVE-2023-38831](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-38831-2023-08-24)|Visit link for details.|24/08/2023|
- |[Netgear - CVE-2023-40480](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40480-2023-08-24)|Visit link for details.|24/08/2023|
- |[Cisco - CVE-2023-20017](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20017-2023-08-24)|Visit link for details.|24/08/2023|
- |[Cisco - CVE-2023-20013](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20013-2023-08-24)|Visit link for details.|24/08/2023|
- |[7-Zip - CVE-2023-31102](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-31102-2023-08-24)|Visit link for details.|24/08/2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -93,6 +76,23 @@
  |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/08/2023|
+ |[WordPress JupiterX Core Premium - CVE-2023-38388](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-premium-cve-2023-38388-2023-08-25)|Visit link for details.|25/08/2023|
+ |[Linux - CVE-2023-4387](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4387-2023-08-25)|Visit link for details.|25/08/2023|
+ |[HP - CVE-2023-27971 ](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-27971-2023-08-25)|Visit link for details.|25/08/2023|
+ |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|25/08/2023|
+ |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|25/08/2023|
+ |[RARLAB WinRAR - CVE-2023-38831](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-38831-2023-08-24)|Visit link for details.|24/08/2023|
+ |[Netgear - CVE-2023-40480](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40480-2023-08-24)|Visit link for details.|24/08/2023|
+ |[Cisco - CVE-2023-20017](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20017-2023-08-24)|Visit link for details.|24/08/2023|
+ |[Cisco - CVE-2023-20013](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20013-2023-08-24)|Visit link for details.|24/08/2023|
+ |[7-Zip - CVE-2023-31102](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-31102-2023-08-24)|Visit link for details.|24/08/2023|
  
 
 # OBS-Vigilance
