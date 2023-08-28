@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/08/2023 20:16:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/08/2023 21:20:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 28 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
@@ -74,25 +76,23 @@
  |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2023-36741](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36741-2023-08-28)|Visit link for details.|28/08/2023|
+ |[D-Link - CVE-2023-37326](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-37326-2023-08-28)|Visit link for details.|28/08/2023|
+ |[D-Link - CVE-2023-37323](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-37323-2023-08-28)|Visit link for details.|28/08/2023|
+ |[D-Link - CVE-2023-37319](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-37319-2023-08-28)|Visit link for details.|28/08/2023|
+ |[D-Link - CVE-2023-37313](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-37313-2023-08-28)|Visit link for details.|28/08/2023|
+ |[Google Chrome - CVE-2023-4430](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4430-2023-08-23)|Visit link for details.|28/08/2023|
  |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/08/2023|
  |[WordPress JupiterX Core Premium - CVE-2023-38388](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-premium-cve-2023-38388-2023-08-25)|Visit link for details.|25/08/2023|
  |[Linux - CVE-2023-4387](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4387-2023-08-25)|Visit link for details.|25/08/2023|
  |[HP - CVE-2023-27971 ](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-27971-2023-08-25)|Visit link for details.|25/08/2023|
  |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|25/08/2023|
- |[Ivanti Sentry - CVE-2023-38035](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-sentry-cve-2023-38035-2023-08-22)|Visit link for details.|25/08/2023|
- |[RARLAB WinRAR - CVE-2023-38831](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-38831-2023-08-24)|Visit link for details.|24/08/2023|
- |[Netgear - CVE-2023-40480](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40480-2023-08-24)|Visit link for details.|24/08/2023|
- |[Cisco - CVE-2023-20017](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20017-2023-08-24)|Visit link for details.|24/08/2023|
- |[Cisco - CVE-2023-20013](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20013-2023-08-24)|Visit link for details.|24/08/2023|
- |[7-Zip - CVE-2023-31102](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-31102-2023-08-24)|Visit link for details.|24/08/2023|
  
 
 # OBS-Vigilance
