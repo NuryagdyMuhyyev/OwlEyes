@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/08/2023 06:10:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/08/2023 07:21:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5484 librsvg - security update](https://www.linux.org/threads/dsa-5484-librsvg-security-update.46496/)|Visit link for details.|Aug 28, 2023|
  |[DSA-5483 chromium - security update](https://www.linux.org/threads/dsa-5483-chromium-security-update.46485/)|Visit link for details.|Aug 26, 2023|
  |[DSA-5482 tryton-server - security update](https://www.linux.org/threads/dsa-5482-tryton-server-security-update.46473/)|Visit link for details.|Aug 25, 2023|
  |[USN-6307-1: JOSE for C/C++ vulnerability](https://www.linux.org/threads/usn-6307-1-jose-for-c-c-vulnerability.46470/)|Visit link for details.|Aug 25, 2023|
@@ -43,7 +44,6 @@
  |[USN-6303-1: ClamAV vulnerability](https://www.linux.org/threads/usn-6303-1-clamav-vulnerability.46429/)|Visit link for details.|Aug 21, 2023|
  |[USN-6302-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6302-1-vim-vulnerabilities.46427/)|Visit link for details.|Aug 21, 2023|
  |[USN-6267-3: Firefox regressions](https://www.linux.org/threads/usn-6267-3-firefox-regressions.46423/)|Visit link for details.|Aug 21, 2023|
- |[DSA-5481 fastdds - security update](https://www.linux.org/threads/dsa-5481-fastdds-security-update.46420/)|Visit link for details.|Aug 21, 2023|
  
 
 # CERT-FR
@@ -133,8 +133,9 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230825)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 25 Aug 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230828)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, cross-site scripting, elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 28 Aug 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230825)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 25 Aug 2023 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230823)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 23 Aug 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230822)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Aug 2023 |
@@ -142,7 +143,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-21] Updated System...| Release Date: 15 Aug 2023 |
  |[Cisco ClamAV Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-clamav-multiple-vulnerabilities_20230818)|Multiple vulnerabilities were identified in Cisco ClamAV. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 18 Aug 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230816)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 16 Aug 2023 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
  
 
 # MA-CERT
@@ -154,8 +154,8 @@
  |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
  |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
- |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
  |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
+ |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
  |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
  |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
