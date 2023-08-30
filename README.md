@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/08/2023 07:21:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/08/2023 08:16:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6319-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-6319-1-amd-microcode-vulnerability.46521/)|Visit link for details.|Aug 30, 2023|
  |[USN-6318-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6318-1-linux-kernel-vulnerabilities.46519/)|Visit link for details.|Aug 29, 2023|
  |[USN-6317-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6317-1-linux-kernel-vulnerabilities.46518/)|Visit link for details.|Aug 29, 2023|
  |[USN-6316-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6316-1-linux-kernel-oem-vulnerabilities.46517/)|Visit link for details.|Aug 29, 2023|
@@ -43,7 +44,22 @@
  |[USN-6311-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6311-1-linux-kernel-vulnerabilities.46509/)|Visit link for details.|Aug 29, 2023|
  |[USN-6310-1: json-c vulnerability](https://www.linux.org/threads/usn-6310-1-json-c-vulnerability.46506/)|Visit link for details.|Aug 28, 2023|
  |[USN-6308-1: Libqb vulnerability](https://www.linux.org/threads/usn-6308-1-libqb-vulnerability.46505/)|Visit link for details.|Aug 28, 2023|
- |[USN-6309-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6309-1-linux-kernel-vulnerabilities.46499/)|Visit link for details.|Aug 28, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
+ |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Aug 24, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 24, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
+ |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
+ |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
  
 
 # CERT-FR
@@ -96,22 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
- |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Aug 24, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 24, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 22, 2023|
- |[CISA, NSA, and NIST Publish Factsheet on Quantum Readiness](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-nsa-and-nist-publish-factsheet-quantum-readiness)|Visit link for details.|Aug 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2023|
- |[Juniper Releases Security Advisory for Multiple Vulnerabilities in Junos OS](https://www.cisa.gov/news-events/alerts/2023/08/18/juniper-releases-security-advisory-multiple-vulnerabilities-junos-os)|Visit link for details.|Aug 18, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -154,10 +154,10 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Aug 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230829)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 29 Aug 2023 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-29] Proof of Concept exploit code...| Release Date: 21 Aug 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230828)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, cross-site scripting, elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 28 Aug 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230803)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2023-...| Release Date: 3 Aug 2023 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230825)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 25 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
  
