@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/08/2023 23:20:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/09/2023 00:11:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[USN-6318-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6318-1-linux-kernel-vulnerabilities.46519/)|Visit link for details.|Aug 29, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Qnap - CVE-2023-23355](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23355-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
- |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
- |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
- |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-08-30)|Visit link for details.|30/08/2023|
- |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|30/08/2023|
- |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|30/08/2023|
- |[VMware - CVE-2023-34039](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34039-2023-08-30)|Visit link for details.|30/08/2023|
- |[WordPress Forminator - CVE-2023-4596](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-forminator-cve-2023-4596-2023-08-30)|Visit link for details.|30/08/2023|
- |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|30/08/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -73,7 +56,7 @@
  |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
  |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
  |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
- |[Mozilla Releases Security Updates for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-firefox-and-firefox-esr)|Visit link for details.|Aug 30, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
  |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
  |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
@@ -93,6 +76,23 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
  |[Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/)|Une vulnérabilité a été découverte dans |Publié le 29 août 2023|
  |[Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/)|Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service.|Publié le 29 août 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Qnap - CVE-2023-23355](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23355-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-08-30)|Visit link for details.|30/08/2023|
+ |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|30/08/2023|
+ |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|30/08/2023|
+ |[VMware - CVE-2023-34039](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34039-2023-08-30)|Visit link for details.|30/08/2023|
+ |[WordPress Forminator - CVE-2023-4596](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-forminator-cve-2023-4596-2023-08-30)|Visit link for details.|30/08/2023|
+ |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|30/08/2023|
  
 
 # OBS-Vigilance
