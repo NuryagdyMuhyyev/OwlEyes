@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/08/2023 22:14:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/08/2023 23:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6318-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6318-1-linux-kernel-vulnerabilities.46519/)|Visit link for details.|Aug 29, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
- |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0700/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS-Switch. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
- |[Multiples vulnérabilités dans Trend Micro Mobile Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Mobile Security. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
- |[Multiples vulnérabilités Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0698/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
- |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0697/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
- |[Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/)|Une vulnérabilité a été découverte dans |Publié le 29 août 2023|
- |[Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/)|Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service.|Publié le 29 août 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,10 +63,43 @@
  |[RARLAB WinRAR - CVE-2023-40477](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-40477-2023-08-21)|Visit link for details.|30/08/2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-firefox-and-firefox-esr)|Visit link for details.|Aug 30, 2023|
+ |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
+ |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
+ |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0700/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS-Switch. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans Trend Micro Mobile Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Mobile Security. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
+ |[Multiples vulnérabilités Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0698/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0697/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
+ |[Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/)|Une vulnérabilité a été découverte dans |Publié le 29 août 2023|
+ |[Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/)|Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service.|Publié le 29 août 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-42172" class="noirorange"><b>Go</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Go-vulnerability-42172)|A vulnerability of Go was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
@@ -93,7 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Printf-Search-Function-42164" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Printf Search Function</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Printf-Search-Function-42164)|An attacker can cause a fatal error of Splunk Enterprise, via Printf Search Function, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-SAML-Request-42163" class="noirorange"><b>Splunk Enterprise</b>: denial of service via SAML Request</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-SAML-Request-42163)|An attacker can cause a fatal error of Splunk Enterprise, via SAML Request, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-42162" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via /app/search/table</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-42162)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via /app/search/table, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/elfutils-overload-via-handle-symtab-42160" class="noirorange"><b>elfutils</b>: overload via handle_symtab()</a>](https://vigilance.fr/vulnerability/elfutils-overload-via-handle-symtab-42160)|An attacker can trigger an overload of elfutils, via handle_symtab(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -128,22 +144,6 @@
  |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
  |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
- |[Mozilla Releases Security Updates for Firefox and Firefox ESR](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-firefox-and-firefox-esr)|Visit link for details.|Aug 30, 2023|
- |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
- |[CISA’s VDP Platform 2022 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2023/08/25/cisas-vdp-platform-2022-annual-report-showcases-success)|Visit link for details.|Aug 25, 2023|
  
 
 # HK-CERT
