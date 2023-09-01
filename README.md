@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/09/2023 14:16:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/09/2023 15:17:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
