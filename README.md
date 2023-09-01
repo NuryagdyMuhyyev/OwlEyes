@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/09/2023 04:16:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/09/2023 06:14:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,17 +33,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6332-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6332-1-linux-kernel-azure-vulnerabilities.46546/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6331-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6331-1-linux-kernel-azure-vulnerabilities.46545/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6330-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6330-1-linux-kernel-gcp-vulnerabilities.46544/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6328-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6328-1-linux-kernel-oracle-vulnerabilities.46542/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6327-1: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6327-1-linux-kernel-kvm-vulnerabilities.46541/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6326-1: GitPython vulnerability](https://www.linux.org/threads/usn-6326-1-gitpython-vulnerability.46540/)|Visit link for details.|Sep 1, 2023|
  |[USN-6325-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6325-1-linux-kernel-vulnerabilities.46538/)|Visit link for details.|Aug 31, 2023|
  |[USN-6324-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6324-1-linux-kernel-gke-vulnerabilities.46537/)|Visit link for details.|Aug 31, 2023|
  |[USN-6323-1: FRR vulnerability](https://www.linux.org/threads/usn-6323-1-frr-vulnerability.46534/)|Visit link for details.|Aug 31, 2023|
  |[DSA-5486 json-c - security update](https://www.linux.org/threads/dsa-5486-json-c-security-update.46533/)|Visit link for details.|Aug 31, 2023|
- |[DSA-5485 firefox-esr - security update](https://www.linux.org/threads/dsa-5485-firefox-esr-security-update.46532/)|Visit link for details.|Aug 31, 2023|
- |[USN-6322-1: elfutils vulnerabilities](https://www.linux.org/threads/usn-6322-1-elfutils-vulnerabilities.46528/)|Visit link for details.|Aug 30, 2023|
- |[USN-6321-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6321-1-linux-kernel-vulnerabilities.46526/)|Visit link for details.|Aug 30, 2023|
- |[USN-6263-2: OpenJDK regression](https://www.linux.org/threads/usn-6263-2-openjdk-regression.46525/)|Visit link for details.|Aug 30, 2023|
- |[USN-6320-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6320-1-firefox-vulnerabilities.46523/)|Visit link for details.|Aug 30, 2023|
- |[USN-6319-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-6319-1-amd-microcode-vulnerability.46521/)|Visit link for details.|Aug 30, 2023|
- |[USN-6318-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6318-1-linux-kernel-vulnerabilities.46519/)|Visit link for details.|Aug 29, 2023|
  
 
 # US-CERT
