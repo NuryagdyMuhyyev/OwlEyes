@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2023 03:14:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/09/2023 04:14:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6323-1: FRR vulnerability](https://www.linux.org/threads/usn-6323-1-frr-vulnerability.46534/)|Visit link for details.|Aug 31, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
+ |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -63,20 +79,20 @@
  |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-08-30)|Visit link for details.|30/08/2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
- |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
+ |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
 
 # OBS-Vigilance
@@ -144,20 +160,4 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230829)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 29 Aug 2023 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system. [Updated on 2023-08-29] Proof of Concept exploit code...| Release Date: 21 Aug 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230828)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, cross-site scripting, elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 28 Aug 2023 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
- |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
