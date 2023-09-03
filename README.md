@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2023 00:12:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2023 01:15:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6323-1: FRR vulnerability](https://www.linux.org/threads/usn-6323-1-frr-vulnerability.46534/)|Visit link for details.|Aug 31, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
- |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -93,6 +77,22 @@
  |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
  |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
  |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-08-30)|Visit link for details.|30/08/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
+ |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
 
 # OBS-Vigilance
