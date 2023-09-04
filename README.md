@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2023 20:16:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2023 21:20:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|04/09/2023|
- |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
- |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
- |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
- |[Synology - CVE-2023-41738](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-41738-2023-09-01)|Visit link for details.|01/09/2023|
- |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
- |[Acronis - CVE-2022-45451](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-45451-2023-09-01)|Visit link for details.|01/09/2023|
- |[Qnap - CVE-2023-23355](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23355-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
- |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,6 +93,23 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Acronis - CVE-2023-41746](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41746-2023-09-04)|Visit link for details.|04/09/2023|
+ |[Dell - CVE-2023-32457](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32457-2023-09-04)|Visit link for details.|04/09/2023|
+ |[D-Link - CVE-2023-4711](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-4711-2023-09-04)|Visit link for details.|04/09/2023|
+ |[Linux - CVE-2023-4004](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4004-2023-09-04)|Visit link for details.|04/09/2023|
+ |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|04/09/2023|
+ |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
+ |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|04/09/2023|
+ |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
+ |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Synology - CVE-2023-41738](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-41738-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
  
 
 # HK-CERT
