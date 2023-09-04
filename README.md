@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2023 23:19:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2023 00:12:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6335-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6335-1-busybox-vulnerabilities.46580/)|Visit link for details.|Sep 4, 2023|
+ |[USN-6334-1: atftp vulnerabilities](https://www.linux.org/threads/usn-6334-1-atftp-vulnerabilities.46579/)|Visit link for details.|Sep 4, 2023|
+ |[USN-6333-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6333-1-thunderbird-vulnerabilities.46577/)|Visit link for details.|Sep 4, 2023|
+ |[DSA-5487 chromium - security update](https://www.linux.org/threads/dsa-5487-chromium-security-update.46547/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6332-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6332-1-linux-kernel-azure-vulnerabilities.46546/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6331-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6331-1-linux-kernel-azure-vulnerabilities.46545/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6330-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6330-1-linux-kernel-gcp-vulnerabilities.46544/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6328-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6328-1-linux-kernel-oracle-vulnerabilities.46542/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6327-1: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6327-1-linux-kernel-kvm-vulnerabilities.46541/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6326-1: GitPython vulnerability](https://www.linux.org/threads/usn-6326-1-gitpython-vulnerability.46540/)|Visit link for details.|Sep 1, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6335-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6335-1-busybox-vulnerabilities.46580/)|Visit link for details.|Sep 4, 2023|
- |[USN-6334-1: atftp vulnerabilities](https://www.linux.org/threads/usn-6334-1-atftp-vulnerabilities.46579/)|Visit link for details.|Sep 4, 2023|
- |[USN-6333-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6333-1-thunderbird-vulnerabilities.46577/)|Visit link for details.|Sep 4, 2023|
- |[DSA-5487 chromium - security update](https://www.linux.org/threads/dsa-5487-chromium-security-update.46547/)|Visit link for details.|Sep 1, 2023|
- |[USN-6332-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6332-1-linux-kernel-azure-vulnerabilities.46546/)|Visit link for details.|Sep 1, 2023|
- |[USN-6331-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6331-1-linux-kernel-azure-vulnerabilities.46545/)|Visit link for details.|Sep 1, 2023|
- |[USN-6330-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6330-1-linux-kernel-gcp-vulnerabilities.46544/)|Visit link for details.|Sep 1, 2023|
- |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
- |[USN-6328-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6328-1-linux-kernel-oracle-vulnerabilities.46542/)|Visit link for details.|Sep 1, 2023|
- |[USN-6327-1: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6327-1-linux-kernel-kvm-vulnerabilities.46541/)|Visit link for details.|Sep 1, 2023|
- |[USN-6326-1: GitPython vulnerability](https://www.linux.org/threads/usn-6326-1-gitpython-vulnerability.46540/)|Visit link for details.|Sep 1, 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
+ |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
 
 # CERT-SANTE
@@ -79,22 +95,6 @@
  |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
- |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,22 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230829)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 29 Aug 2023 |
  
 
 # EU-CERT
@@ -160,4 +144,20 @@
  |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
  |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
  |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230829)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 29 Aug 2023 |
  
