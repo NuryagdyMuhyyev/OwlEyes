@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2023 18:20:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2023 19:15:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6335-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6335-1-busybox-vulnerabilities.46580/)|Visit link for details.|Sep 4, 2023|
+ |[USN-6334-1: atftp vulnerabilities](https://www.linux.org/threads/usn-6334-1-atftp-vulnerabilities.46579/)|Visit link for details.|Sep 4, 2023|
+ |[USN-6333-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6333-1-thunderbird-vulnerabilities.46577/)|Visit link for details.|Sep 4, 2023|
+ |[DSA-5487 chromium - security update](https://www.linux.org/threads/dsa-5487-chromium-security-update.46547/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6332-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6332-1-linux-kernel-azure-vulnerabilities.46546/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6331-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6331-1-linux-kernel-azure-vulnerabilities.46545/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6330-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6330-1-linux-kernel-gcp-vulnerabilities.46544/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6328-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6328-1-linux-kernel-oracle-vulnerabilities.46542/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6327-1: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6327-1-linux-kernel-kvm-vulnerabilities.46541/)|Visit link for details.|Sep 1, 2023|
+ |[USN-6326-1: GitPython vulnerability](https://www.linux.org/threads/usn-6326-1-gitpython-vulnerability.46540/)|Visit link for details.|Sep 1, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,40 +60,6 @@
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
  |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 29, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6333-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6333-1-thunderbird-vulnerabilities.46577/)|Visit link for details.|Sep 4, 2023|
- |[DSA-5487 chromium - security update](https://www.linux.org/threads/dsa-5487-chromium-security-update.46547/)|Visit link for details.|Sep 1, 2023|
- |[USN-6332-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6332-1-linux-kernel-azure-vulnerabilities.46546/)|Visit link for details.|Sep 1, 2023|
- |[USN-6331-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6331-1-linux-kernel-azure-vulnerabilities.46545/)|Visit link for details.|Sep 1, 2023|
- |[USN-6330-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6330-1-linux-kernel-gcp-vulnerabilities.46544/)|Visit link for details.|Sep 1, 2023|
- |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
- |[USN-6328-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6328-1-linux-kernel-oracle-vulnerabilities.46542/)|Visit link for details.|Sep 1, 2023|
- |[USN-6327-1: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6327-1-linux-kernel-kvm-vulnerabilities.46541/)|Visit link for details.|Sep 1, 2023|
- |[USN-6326-1: GitPython vulnerability](https://www.linux.org/threads/usn-6326-1-gitpython-vulnerability.46540/)|Visit link for details.|Sep 1, 2023|
- |[USN-6325-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6325-1-linux-kernel-vulnerabilities.46538/)|Visit link for details.|Aug 31, 2023|
- |[USN-6324-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6324-1-linux-kernel-gke-vulnerabilities.46537/)|Visit link for details.|Aug 31, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
- |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
- |[Synology - CVE-2023-41738](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-41738-2023-09-01)|Visit link for details.|01/09/2023|
- |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
- |[Acronis - CVE-2022-45451](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-45451-2023-09-01)|Visit link for details.|01/09/2023|
- |[Qnap - CVE-2023-23355](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23355-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
- |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
- |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
- |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
- |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-08-30)|Visit link for details.|30/08/2023|
  
 
 # CERT-FR
@@ -95,6 +78,23 @@
  |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
+ |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
+ |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Synology - CVE-2023-41738](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-41738-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Acronis - CVE-2022-45451](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-45451-2023-09-01)|Visit link for details.|01/09/2023|
+ |[Qnap - CVE-2023-23355](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23355-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
+ |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,23 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
- |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
- |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
- |[43543108/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|31 août 2023|
- |[43533008/23 - Vulnérabilités critiques affectant VMware Aria Operations Networks](https://www.dgssi.gov.ma//fr/content/4353300823-vulnerabilites-critiques-affectant-vmware-aria-operations-networks.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles.|31 août 2023|
- |[43522808/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4352280823-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de contourner la politique de sécurité.|28 août 2023|
- |[43512808/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4351280823-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|28 août 2023|
- |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
- |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
- |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
- |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  
 
 # HK-CERT
@@ -160,4 +143,21 @@
  |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
  |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
  |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
+ |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
+ |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
+ |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
+ |[43543108/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|31 août 2023|
+ |[43533008/23 - Vulnérabilités critiques affectant VMware Aria Operations Networks](https://www.dgssi.gov.ma//fr/content/4353300823-vulnerabilites-critiques-affectant-vmware-aria-operations-networks.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles.|31 août 2023|
+ |[43522808/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4352280823-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de contourner la politique de sécurité.|28 août 2023|
+ |[43512808/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4351280823-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|28 août 2023|
+ |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
+ |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
+ |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
  
