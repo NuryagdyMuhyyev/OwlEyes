@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2023 19:15:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2023 20:16:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|04/09/2023|
  |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
  |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
  |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
@@ -92,7 +93,6 @@
  |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|31/08/2023|
  |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|31/08/2023|
  |[Netgear - CVE-2023-41183](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41183-2023-08-31)|Visit link for details.|31/08/2023|
- |[Juniper - CVE-2023-4481](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-4481-2023-08-31)|Visit link for details.|31/08/2023|
  
 
 # OBS-Vigilance
