@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/09/2023 12:15:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2023 13:21:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[USN-6329-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6329-1-linux-kernel-vulnerabilities.46543/)|Visit link for details.|Sep 1, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
- |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,10 +79,29 @@
  |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 août 2023|
+ |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 31 août 2023|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182" class="noirorange"><b>libtommath</b>: integer overflow via mp_grow()</a>](https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182)|An attacker can trigger an integer overflow of libtommath, via mp_grow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pyramid-directory-traversal-via-index-html-42181" class="noirorange"><b>Pyramid</b>: directory traversal via index.html</a>](https://vigilance.fr/vulnerability/Pyramid-directory-traversal-via-index-html-42181)|An attacker can traverse directories of Pyramid, via index.html, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/File-out-of-bounds-memory-reading-via-file-copystr-42180" class="noirorange"><b>File</b>: out-of-bounds memory reading via file_copystr()</a>](https://vigilance.fr/vulnerability/File-out-of-bounds-memory-reading-via-file-copystr-42180)|An attacker can force a read at an invalid memory address of File, via file_copystr(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nft-set-elem-mark-busy-42179" class="noirorange"><b>Linux kernel</b>: double free via nft_set_elem_mark_busy()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nft-set-elem-mark-busy-42179)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178" class="noirorange"><b>GStreamer</b>: buffer overflow via RealMedia File Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178)|An attacker can trigger a buffer overflow of GStreamer, via RealMedia File Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -107,9 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173" class="noirorange"><b>GitPython</b>: read-write access via Clone Non-multi Options</a>](https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173)|An attacker can bypass access restrictions of GitPython, via Clone Non-multi Options, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-42172" class="noirorange"><b>Go</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Go-vulnerability-42172)|A vulnerability of Go was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
