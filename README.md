@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/09/2023 01:17:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/09/2023 02:14:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,23 @@
  |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191" class="noirorange"><b>exempi</b>: buffer overflow via WEBP_Support.cpp</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191)|An attacker can trigger a buffer overflow of exempi, via WEBP_Support.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44EncodeCodec.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190)|An attacker can cause a fatal error of DjVuLibre, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44Image.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189)|An attacker can cause a fatal error of DjVuLibre, via IW44Image.cpp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188" class="noirorange"><b>Keylime</b>: spoofing via Agent Registration</a>](https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188)|An attacker can create spoofed data on Keylime, via Agent Registration, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187" class="noirorange"><b>sccache</b>: privilege escalation via LD_PRELOAD</a>](https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187)|An attacker can bypass restrictions of sccache, via LD_PRELOAD, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186" class="noirorange"><b>GSL</b>: buffer overflow via gsl_stats_quantile_from_sorted_data()</a>](https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186)|An attacker can trigger a buffer overflow of GSL, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185" class="noirorange"><b>Zope AccessControl</b>: information disclosure via format_map</a>](https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185)|An attacker can bypass access restrictions to data of Zope AccessControl, via format_map, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184" class="noirorange"><b>Zope RestrictedPython</b>: code execution via Format Sandbox Escape</a>](https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184)|An attacker can use a vulnerability of Zope RestrictedPython, via Format Sandbox Escape, in order to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,23 +126,6 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191" class="noirorange"><b>exempi</b>: buffer overflow via WEBP_Support.cpp</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191)|An attacker can trigger a buffer overflow of exempi, via WEBP_Support.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44EncodeCodec.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190)|An attacker can cause a fatal error of DjVuLibre, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44Image.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189)|An attacker can cause a fatal error of DjVuLibre, via IW44Image.cpp, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188" class="noirorange"><b>Keylime</b>: spoofing via Agent Registration</a>](https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188)|An attacker can create spoofed data on Keylime, via Agent Registration, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187" class="noirorange"><b>sccache</b>: privilege escalation via LD_PRELOAD</a>](https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187)|An attacker can bypass restrictions of sccache, via LD_PRELOAD, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186" class="noirorange"><b>GSL</b>: buffer overflow via gsl_stats_quantile_from_sorted_data()</a>](https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186)|An attacker can trigger a buffer overflow of GSL, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185" class="noirorange"><b>Zope AccessControl</b>: information disclosure via format_map</a>](https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185)|An attacker can bypass access restrictions to data of Zope AccessControl, via format_map, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184" class="noirorange"><b>Zope RestrictedPython</b>: code execution via Format Sandbox Escape</a>](https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184)|An attacker can use a vulnerability of Zope RestrictedPython, via Format Sandbox Escape, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183" class="noirorange"><b>Cacti</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183)|An attacker can use several vulnerabilities of Cacti...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182" class="noirorange"><b>libtommath</b>: integer overflow via mp_grow()</a>](https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182)|An attacker can trigger an integer overflow of libtommath, via mp_grow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
