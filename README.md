@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/09/2023 20:17:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2023 21:21:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
- |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
- 
 
 # LINUX-SEC
 
@@ -82,17 +66,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Linux - CVE-2023-3567](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3567-2023-09-05)|Visit link for details.|05/09/2023|
+ |[Netgear - CVE-2023-41182](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41182-2023-09-05)|Visit link for details.|05/09/2023|
+ |[TP-Link - CVE-2023-41184](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-41184-2023-09-05)|Visit link for details.|05/09/2023|
+ |[WordPress Essential Addons for Elementor Pro - CVE-2023-32241](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-pro-cve-2023-32241-2023-09-05)|Visit link for details.|05/09/2023|
+ |[Zimbra - CVE-2023-41106](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-41106-2023-09-05)|Visit link for details.|05/09/2023|
+ |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|05/09/2023|
  |[Acronis - CVE-2023-41746](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41746-2023-09-04)|Visit link for details.|04/09/2023|
  |[Dell - CVE-2023-32457](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32457-2023-09-04)|Visit link for details.|04/09/2023|
  |[D-Link - CVE-2023-4711](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-4711-2023-09-04)|Visit link for details.|04/09/2023|
  |[Linux - CVE-2023-4004](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4004-2023-09-04)|Visit link for details.|04/09/2023|
- |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|04/09/2023|
  |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
- |[Google Chrome - CVE-2023-4572](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4572-2023-08-30)|Visit link for details.|04/09/2023|
- |[Zscaler - CVE-2023-28801](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28801-2023-09-01)|Visit link for details.|01/09/2023|
- |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|01/09/2023|
- |[Synology - CVE-2023-41738](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-41738-2023-09-01)|Visit link for details.|01/09/2023|
- |[Acronis - CVE-2023-41743](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41743-2023-09-01)|Visit link for details.|01/09/2023|
  
 
 # OBS-Vigilance
@@ -110,22 +94,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184" class="noirorange"><b>Zope RestrictedPython</b>: code execution via Format Sandbox Escape</a>](https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184)|An attacker can use a vulnerability of Zope RestrictedPython, via Format Sandbox Escape, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183" class="noirorange"><b>Cacti</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183)|An attacker can use several vulnerabilities of Cacti...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182" class="noirorange"><b>libtommath</b>: integer overflow via mp_grow()</a>](https://vigilance.fr/vulnerability/libtommath-integer-overflow-via-mp-grow-42182)|An attacker can trigger an integer overflow of libtommath, via mp_grow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
  
 
 # EU-CERT
@@ -160,4 +128,36 @@
  |[43522808/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4352280823-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de contourner la politique de sécurité.|28 août 2023|
  |[43512808/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4351280823-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|28 août 2023|
  |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230815)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-08-...| Release Date: 15 Aug 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service condition, elevation of privilege and security restriction bypass on the targeted system. [Updated on...| Release Date: 2 Aug 2023 |
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
+ |[CISA Releases IOCs Associated with Malicious Barracuda Activity](https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity)|Visit link for details.|Aug 29, 2023|
  
