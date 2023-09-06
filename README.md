@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/09/2023 20:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/09/2023 21:21:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
- |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/08/30/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Aug 30, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,39 @@
  |[USN-6338-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-1-linux-kernel-vulnerabilities.46602/)|Visit link for details.|Sep 6, 2023|
  |[USN-6336-1: Docker Registry vulnerabilities](https://www.linux.org/threads/usn-6336-1-docker-registry-vulnerabilities.46593/)|Visit link for details.|Sep 5, 2023|
  |[DSA-5489 file - security update](https://www.linux.org/threads/dsa-5489-file-security-update.46588/)|Visit link for details.|Sep 5, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
+ |[Juniper Networks Releases Security Advisory for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2023/08/30/juniper-networks-releases-security-advisory-junos-os-and-junos-os-evolved)|Visit link for details.|Aug 30, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|06/09/2023|
+ |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|06/09/2023|
+ |[Linux - CVE-2023-3106](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3106-2023-09-06)|Visit link for details.|06/09/2023|
+ |[Cacti - CVE-2023-39357](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39357-2023-09-06)|Visit link for details.|06/09/2023|
+ |[Cacti - CVE-2023-39361](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39361-2023-09-06)|Visit link for details.|06/09/2023|
+ |[Linux - CVE-2023-3567](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3567-2023-09-05)|Visit link for details.|05/09/2023|
+ |[Netgear - CVE-2023-41182](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41182-2023-09-05)|Visit link for details.|05/09/2023|
+ |[TP-Link - CVE-2023-41184](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-41184-2023-09-05)|Visit link for details.|05/09/2023|
+ |[WordPress Essential Addons for Elementor Pro - CVE-2023-32241](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-pro-cve-2023-32241-2023-09-05)|Visit link for details.|05/09/2023|
+ |[Zimbra - CVE-2023-41106](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-41106-2023-09-05)|Visit link for details.|05/09/2023|
+ |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|05/09/2023|
  
 
 # CERT-FR
@@ -82,6 +99,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201" class="noirorange"><b>WALLIX Bastion</b>: information disclosure via Administration Web Interface</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201)|An attacker can bypass access restrictions to data of WALLIX Bastion, via Administration Web Interface, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200" class="noirorange"><b>Notepad++</b>: information disclosure via CharDistributionAnalysis::HandleOneChar()</a>](https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200)|An attacker can bypass access restrictions to data of Notepad++, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199" class="noirorange"><b>Eclipse Jetty</b>: external XML entity injection via XmlParser</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199)|An attacker can transmit malicious XML data to Eclipse Jetty, via XmlParser, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
@@ -90,26 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191" class="noirorange"><b>exempi</b>: buffer overflow via WEBP_Support.cpp</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191)|An attacker can trigger a buffer overflow of exempi, via WEBP_Support.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44EncodeCodec.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190)|An attacker can cause a fatal error of DjVuLibre, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44Image.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189)|An attacker can cause a fatal error of DjVuLibre, via IW44Image.cpp, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188" class="noirorange"><b>Keylime</b>: spoofing via Agent Registration</a>](https://vigilance.fr/vulnerability/Keylime-spoofing-via-Agent-Registration-42188)|An attacker can create spoofed data on Keylime, via Agent Registration, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187" class="noirorange"><b>sccache</b>: privilege escalation via LD_PRELOAD</a>](https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187)|An attacker can bypass restrictions of sccache, via LD_PRELOAD, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186" class="noirorange"><b>GSL</b>: buffer overflow via gsl_stats_quantile_from_sorted_data()</a>](https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186)|An attacker can trigger a buffer overflow of GSL, via |Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux - CVE-2023-3567](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-3567-2023-09-05)|Visit link for details.|05/09/2023|
- |[Netgear - CVE-2023-41182](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-41182-2023-09-05)|Visit link for details.|05/09/2023|
- |[TP-Link - CVE-2023-41184](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-41184-2023-09-05)|Visit link for details.|05/09/2023|
- |[WordPress Essential Addons for Elementor Pro - CVE-2023-32241](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-pro-cve-2023-32241-2023-09-05)|Visit link for details.|05/09/2023|
- |[Zimbra - CVE-2023-41106](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2023-41106-2023-09-05)|Visit link for details.|05/09/2023|
- |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|05/09/2023|
- |[Acronis - CVE-2023-41746](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41746-2023-09-04)|Visit link for details.|04/09/2023|
- |[Dell - CVE-2023-32457](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32457-2023-09-04)|Visit link for details.|04/09/2023|
- |[D-Link - CVE-2023-4711](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-4711-2023-09-04)|Visit link for details.|04/09/2023|
- |[Linux - CVE-2023-4004](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-4004-2023-09-04)|Visit link for details.|04/09/2023|
- |[Mozilla Firefox - CVE-2023-4576](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-4576-2023-08-30)|Visit link for details.|04/09/2023|
  
 
 # EU-CERT
@@ -129,6 +129,22 @@
  |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
+ |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -144,20 +160,4 @@
  |[43543108/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|31 août 2023|
  |[43533008/23 - Vulnérabilités critiques affectant VMware Aria Operations Networks](https://www.dgssi.gov.ma//fr/content/4353300823-vulnerabilites-critiques-affectant-vmware-aria-operations-networks.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles.|31 août 2023|
  |[43522808/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4352280823-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de contourner la politique de sécurité.|28 août 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
- |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
  
