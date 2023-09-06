@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2023 00:13:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2023 01:17:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,49 +33,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6350-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6350-1-linux-kernel-vulnerabilities.46620/)|Visit link for details.|Sep 6, 2023|
+ |[USN-6349-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6349-1-linux-kernel-azure-vulnerabilities.46619/)|Visit link for details.|Sep 6, 2023|
+ |[USN-6348-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6348-1-linux-kernel-vulnerabilities.46618/)|Visit link for details.|Sep 6, 2023|
+ |[USN-6347-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6347-1-linux-kernel-azure-cvm-vulnerabilities.46617/)|Visit link for details.|Sep 6, 2023|
+ |[USN-6345-1: SoX vulnerability](https://www.linux.org/threads/usn-6345-1-sox-vulnerability.46616/)|Visit link for details.|Sep 6, 2023|
+ |[USN-6346-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6346-1-linux-kernel-raspberry-pi-vulnerabilities.46615/)|Visit link for details.|Sep 6, 2023|
  |[USN-6344-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6344-1-linux-kernel-azure-vulnerabilities.46613/)|Visit link for details.|Sep 6, 2023|
  |[USN-6343-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6343-1-linux-kernel-oem-vulnerabilities.46612/)|Visit link for details.|Sep 6, 2023|
  |[DSA-5490 aom - security update](https://www.linux.org/threads/dsa-5490-aom-security-update.46611/)|Visit link for details.|Sep 6, 2023|
  |[LSN-0097-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0097-1-kernel-live-patch-security-notice.46609/)|Visit link for details.|Sep 6, 2023|
  |[USN-6342-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6342-1-linux-kernel-vulnerabilities.46606/)|Visit link for details.|Sep 6, 2023|
- |[USN-6341-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6341-1-linux-kernel-vulnerabilities.46605/)|Visit link for details.|Sep 6, 2023|
- |[USN-6340-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6340-1-linux-kernel-vulnerabilities.46604/)|Visit link for details.|Sep 6, 2023|
- |[USN-6339-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-1-linux-kernel-vulnerabilities.46603/)|Visit link for details.|Sep 6, 2023|
- |[USN-6338-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-1-linux-kernel-vulnerabilities.46602/)|Visit link for details.|Sep 6, 2023|
- |[USN-6336-1: Docker Registry vulnerabilities](https://www.linux.org/threads/usn-6336-1-docker-registry-vulnerabilities.46593/)|Visit link for details.|Sep 5, 2023|
- |[DSA-5489 file - security update](https://www.linux.org/threads/dsa-5489-file-security-update.46588/)|Visit link for details.|Sep 5, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0714/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0713/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0712/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0711/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 5 septembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
  
 
 # CERT-SANTE
@@ -95,21 +63,37 @@
  |[VMware - CVE-2023-20890](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20890-2023-09-04)|Visit link for details.|05/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0714/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 septembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0713/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0712/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 septembre 2023|
+ |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0711/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
+ |[Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 5 septembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206" class="noirorange"><b>ArubaOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-ingress-filtrering-bypass-via-SORT-RO-ACL-Configuration-42205" class="noirorange"><b>Redis</b>: ingress filtrering bypass via SORT_RO ACL Configuration</a>](https://vigilance.fr/vulnerability/Redis-ingress-filtrering-bypass-via-SORT-RO-ACL-Configuration-42205)|An attacker can bypass filtering rules of Redis, via SORT_RO ACL Configuration, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-WebProfiler-Cross-Site-Scripting-42204" class="noirorange"><b>Drupal WebProfiler</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-WebProfiler-Cross-Site-Scripting-42204)|An attacker can trigger a Cross Site Scripting of Drupal WebProfiler, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Highlight-php-Cross-Site-Scripting-42203" class="noirorange"><b>Drupal Highlight.php</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Highlight-php-Cross-Site-Scripting-42203)|An attacker can trigger a Cross Site Scripting of Drupal Highlight.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Brute-Force-Attack-42202" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: user access via Brute Force Attack</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Brute-Force-Attack-42202)|An attacker can bypass restrictions of Cisco Adaptive Security Appliance, via Brute Force Attack, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201" class="noirorange"><b>WALLIX Bastion</b>: information disclosure via Administration Web Interface</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201)|An attacker can bypass access restrictions to data of WALLIX Bastion, via Administration Web Interface, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200" class="noirorange"><b>Notepad++</b>: information disclosure via CharDistributionAnalysis::HandleOneChar()</a>](https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200)|An attacker can bypass access restrictions to data of Notepad++, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199" class="noirorange"><b>Eclipse Jetty</b>: external XML entity injection via XmlParser</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199)|An attacker can transmit malicious XML data to Eclipse Jetty, via XmlParser, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191" class="noirorange"><b>exempi</b>: buffer overflow via WEBP_Support.cpp</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-WEBP-Support-cpp-42191)|An attacker can trigger a buffer overflow of exempi, via WEBP_Support.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44EncodeCodec.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44EncodeCodec-cpp-42190)|An attacker can cause a fatal error of DjVuLibre, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189" class="noirorange"><b>DjVuLibre</b>: denial of service via IW44Image.cpp</a>](https://vigilance.fr/vulnerability/DjVuLibre-denial-of-service-via-IW44Image-cpp-42189)|An attacker can cause a fatal error of DjVuLibre, via IW44Image.cpp, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -160,4 +144,20 @@
  |[VMWare Aria Operations for Networks Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-networks-multiple-vulnerabilities_20230831)|Multiple vulnerabilities were identified in VMWare Aria Operations for Networks. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 31 Aug 2023 |
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and cross-site scripting on the targeted system.|Release Date: 30 Aug 2023 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230830)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Aug 2023 |
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
  
