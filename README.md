@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2023 12:15:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2023 13:20:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6352-1: Apache Shiro vulnerabilities](https://www.linux.org/threads/usn-6352-1-apache-shiro-vulnerabilities.46626/)|Visit link for details.|Sep 7, 2023|
  |[USN-6351-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6351-1-linux-kernel-gke-vulnerabilities.46623/)|Visit link for details.|Sep 7, 2023|
  |[USN-6350-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6350-1-linux-kernel-vulnerabilities.46620/)|Visit link for details.|Sep 6, 2023|
  |[USN-6349-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6349-1-linux-kernel-azure-vulnerabilities.46619/)|Visit link for details.|Sep 6, 2023|
@@ -43,7 +44,6 @@
  |[USN-6344-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6344-1-linux-kernel-azure-vulnerabilities.46613/)|Visit link for details.|Sep 6, 2023|
  |[USN-6343-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6343-1-linux-kernel-oem-vulnerabilities.46612/)|Visit link for details.|Sep 6, 2023|
  |[DSA-5490 aom - security update](https://www.linux.org/threads/dsa-5490-aom-security-update.46611/)|Visit link for details.|Sep 6, 2023|
- |[LSN-0097-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0097-1-kernel-live-patch-security-notice.46609/)|Visit link for details.|Sep 6, 2023|
  
 
 # US-CERT
@@ -83,17 +83,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213" class="noirorange"><b>Vim</b>: use after free via is_qf_win()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213)|An attacker can force the reuse of a freed memory area of Vim, via is_qf_win(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212" class="noirorange"><b>Vim</b>: use after free via ins_compl_get_exp()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-do-ecmd-42211" class="noirorange"><b>Vim</b>: use after free via do_ecmd()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-do-ecmd-42211)|An attacker can force the reuse of a freed memory area of Vim, via do_ecmd(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofs-read-one-data-42210" class="noirorange"><b>erofs-utils</b>: buffer overflow via erofs_read_one_data()</a>](https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofs-read-one-data-42210)|An attacker can trigger a buffer overflow of erofs-utils, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofsfsck-dirent-iter-42209" class="noirorange"><b>erofs-utils</b>: buffer overflow via erofsfsck_dirent_iter()</a>](https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofsfsck-dirent-iter-42209)|An attacker can trigger a buffer overflow of erofs-utils, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tinyexr-out-of-bounds-memory-reading-via-tinyexr-DecodePixelData-42208" class="noirorange"><b>tinyexr</b>: out-of-bounds memory reading via tinyexr::DecodePixelData()</a>](https://vigilance.fr/vulnerability/tinyexr-out-of-bounds-memory-reading-via-tinyexr-DecodePixelData-42208)|An attacker can force a read at an invalid memory address of tinyexr, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHPMailer-Cross-Site-Scripting-via-DSN-Support-42207" class="noirorange"><b>PHPMailer</b>: Cross Site Scripting via DSN Support</a>](https://vigilance.fr/vulnerability/PHPMailer-Cross-Site-Scripting-via-DSN-Support-42207)|An attacker can trigger a Cross Site Scripting of PHPMailer, via DSN Support, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206" class="noirorange"><b>ArubaOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-ingress-filtrering-bypass-via-SORT-RO-ACL-Configuration-42205" class="noirorange"><b>Redis</b>: ingress filtrering bypass via SORT_RO ACL Configuration</a>](https://vigilance.fr/vulnerability/Redis-ingress-filtrering-bypass-via-SORT-RO-ACL-Configuration-42205)|An attacker can bypass filtering rules of Redis, via SORT_RO ACL Configuration, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-WebProfiler-Cross-Site-Scripting-42204" class="noirorange"><b>Drupal WebProfiler</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-WebProfiler-Cross-Site-Scripting-42204)|An attacker can trigger a Cross Site Scripting of Drupal WebProfiler, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Highlight-php-Cross-Site-Scripting-42203" class="noirorange"><b>Drupal Highlight.php</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Highlight-php-Cross-Site-Scripting-42203)|An attacker can trigger a Cross Site Scripting of Drupal Highlight.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Brute-Force-Attack-42202" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: user access via Brute Force Attack</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Brute-Force-Attack-42202)|An attacker can bypass restrictions of Cisco Adaptive Security Appliance, via Brute Force Attack, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201" class="noirorange"><b>WALLIX Bastion</b>: information disclosure via Administration Web Interface</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-information-disclosure-via-Administration-Web-Interface-42201)|An attacker can bypass access restrictions to data of WALLIX Bastion, via Administration Web Interface, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200" class="noirorange"><b>Notepad++</b>: information disclosure via CharDistributionAnalysis::HandleOneChar()</a>](https://vigilance.fr/vulnerability/Notepad-information-disclosure-via-CharDistributionAnalysis-HandleOneChar-42200)|An attacker can bypass access restrictions to data of Notepad++, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199" class="noirorange"><b>Eclipse Jetty</b>: external XML entity injection via XmlParser</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-external-XML-entity-injection-via-XmlParser-42199)|An attacker can transmit malicious XML data to Eclipse Jetty, via XmlParser, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42198)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  
 
 # EU-CERT
@@ -150,14 +150,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0714/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0713/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0712/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0711/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 septembre 2023|
- |[Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 5 septembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 septembre 2023|
  
