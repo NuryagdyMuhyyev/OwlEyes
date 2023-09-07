@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/09/2023 01:16:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/09/2023 02:14:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
+ |[Xen Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/xen-information-disclosure-vulnerability_20230907)|A vulnerability was identified in Xen. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 7 Sep 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 7 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
+ |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
+ |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -113,12 +129,6 @@
  |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -136,18 +146,8 @@
  |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
- |[Xen Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/xen-information-disclosure-vulnerability_20230907)|A vulnerability was identified in Xen. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 7 Sep 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 7 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
- |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
- |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
  
