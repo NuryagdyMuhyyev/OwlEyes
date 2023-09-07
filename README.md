@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2023 22:14:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2023 23:20:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -130,6 +130,12 @@
  |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -144,10 +150,4 @@
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
  |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20230904)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege, denial of service and cross-site scripting on the targeted system.|Release Date: 4 Sep 2023 |
  |[Juniper Junos OS Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20230831)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.|Release Date: 31 Aug 2023 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
