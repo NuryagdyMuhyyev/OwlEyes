@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2023 07:21:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2023 08:16:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
+ |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
+ |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6343-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6343-1-linux-kernel-oem-vulnerabilities.46612/)|Visit link for details.|Sep 6, 2023|
  |[DSA-5490 aom - security update](https://www.linux.org/threads/dsa-5490-aom-security-update.46611/)|Visit link for details.|Sep 6, 2023|
  |[LSN-0097-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0097-1-kernel-live-patch-security-notice.46609/)|Visit link for details.|Sep 6, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Aug 31, 2023|
- |[CISA and FBI Publish Joint Advisory on QakBot Infrastructure](https://www.cisa.gov/news-events/alerts/2023/08/30/cisa-and-fbi-publish-joint-advisory-qakbot-infrastructure)|Visit link for details.|Aug 30, 2023|
- |[VMware Releases Security Updates for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2023/08/30/vmware-releases-security-updates-aria-operations-networks)|Visit link for details.|Aug 30, 2023|
  
 
 # CERT-FR
