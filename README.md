@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/09/2023 13:20:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/09/2023 14:15:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,30 +62,14 @@
  |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222" class="noirorange"><b>Django</b>: overload via django.utils.encoding.uri_to_iri()</a>](https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222)|An attacker can trigger an overload of Django, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221" class="noirorange"><b>memcached</b>: NULL pointer dereference via UDP Multi-packet Uploads</a>](https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221)|An attacker can force a NULL pointer to be dereferenced on memcached, via UDP Multi-packet Uploads, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via Audit Log</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219)|An attacker can read logs of Elasticsearch, via Audit Log, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218" class="noirorange"><b>Linux kernel</b>: use after free via nf_tables_set_elem_destroy()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-sendpage-42217" class="noirorange"><b>Linux kernel</b>: use after free via unix_stream_sendpage()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-sendpage-42217)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216" class="noirorange"><b>Linux kernel</b>: use after free via hfsc_change_class()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213" class="noirorange"><b>Vim</b>: use after free via is_qf_win()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213)|An attacker can force the reuse of a freed memory area of Vim, via is_qf_win(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212" class="noirorange"><b>Vim</b>: use after free via ins_compl_get_exp()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
  |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
  |[Fortinet – CVE-2022-42475](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42475-2022-12-13)|Visit link for details.|08/09/2023|
+ |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
+ |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
  |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
  |[Aruba - CVE-2023-39266](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-39266-2023-09-07)|Visit link for details.|07/09/2023|
  |[Cacti - CVE-2023-39358](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39358-2023-09-07)|Visit link for details.|07/09/2023|
@@ -93,7 +77,6 @@
  |[Cisco - CVE-2023-20243](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20243-2023-09-07)|Visit link for details.|07/09/2023|
  |[Citrix - CVE-2023-3519](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-3519-2023-07-19)|Visit link for details.|07/09/2023|
  |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|07/09/2023|
- |[Acronis - CVE-2023-41746](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-41746-2023-09-04)|Visit link for details.|07/09/2023|
  
 
 # EU-CERT
@@ -113,10 +96,21 @@
  |[2023-050: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-050.pdf)|On July 18, 2023, Citrix released a security bulletin regarding one critical vulnerability and two high severity vulnerabilities affecting Citrix NetScaler Application delivery controllers (ADCs) and Netscaler Gateway. |Wednesday, July 19, 2023 10:39:48 AM CEST|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222" class="noirorange"><b>Django</b>: overload via django.utils.encoding.uri_to_iri()</a>](https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222)|An attacker can trigger an overload of Django, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221" class="noirorange"><b>memcached</b>: NULL pointer dereference via UDP Multi-packet Uploads</a>](https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221)|An attacker can force a NULL pointer to be dereferenced on memcached, via UDP Multi-packet Uploads, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via Audit Log</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219)|An attacker can read logs of Elasticsearch, via Audit Log, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218" class="noirorange"><b>Linux kernel</b>: use after free via nf_tables_set_elem_destroy()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-sendpage-42217" class="noirorange"><b>Linux kernel</b>: use after free via unix_stream_sendpage()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-sendpage-42217)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216" class="noirorange"><b>Linux kernel</b>: use after free via hfsc_change_class()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213" class="noirorange"><b>Vim</b>: use after free via is_qf_win()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213)|An attacker can force the reuse of a freed memory area of Vim, via is_qf_win(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212" class="noirorange"><b>Vim</b>: use after free via ins_compl_get_exp()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
  
 
 # MA-CERT
@@ -134,6 +128,12 @@
  |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
  |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
  |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
