@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/09/2023 04:15:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/09/2023 06:07:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6338-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-2-linux-kernel-vulnerabilities.46646/)|Visit link for details.|Sep 9, 2023|
+ |[USN-6339-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-2-linux-kernel-vulnerabilities.46645/)|Visit link for details.|Sep 9, 2023|
+ |[USN-6340-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6340-2-linux-kernel-vulnerabilities.46644/)|Visit link for details.|Sep 9, 2023|
+ |[USN-6342-2: Linux kernel (Azure)](https://www.linux.org/threads/usn-6342-2-linux-kernel-azure.46643/)|Visit link for details.|Sep 9, 2023|
  |[USN-6355-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6355-1-grub2-vulnerabilities.46634/)|Visit link for details.|Sep 8, 2023|
  |[DSA-5491 chromium - security update](https://www.linux.org/threads/dsa-5491-chromium-security-update.46633/)|Visit link for details.|Sep 8, 2023|
  |[USN-6354-1: Python vulnerability](https://www.linux.org/threads/usn-6354-1-python-vulnerability.46630/)|Visit link for details.|Sep 7, 2023|
@@ -40,27 +44,6 @@
  |[USN-6352-1: Apache Shiro vulnerabilities](https://www.linux.org/threads/usn-6352-1-apache-shiro-vulnerabilities.46626/)|Visit link for details.|Sep 7, 2023|
  |[USN-6351-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6351-1-linux-kernel-gke-vulnerabilities.46623/)|Visit link for details.|Sep 7, 2023|
  |[USN-6350-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6350-1-linux-kernel-vulnerabilities.46620/)|Visit link for details.|Sep 6, 2023|
- |[USN-6349-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6349-1-linux-kernel-azure-vulnerabilities.46619/)|Visit link for details.|Sep 6, 2023|
- |[USN-6348-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6348-1-linux-kernel-vulnerabilities.46618/)|Visit link for details.|Sep 6, 2023|
- |[USN-6347-1: Linux kernel (Azure CVM) vulnerabilities](https://www.linux.org/threads/usn-6347-1-linux-kernel-azure-cvm-vulnerabilities.46617/)|Visit link for details.|Sep 6, 2023|
- |[USN-6345-1: SoX vulnerability](https://www.linux.org/threads/usn-6345-1-sox-vulnerability.46616/)|Visit link for details.|Sep 6, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear - CVE-2023-36187](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-36187-2023-09-08)|Visit link for details.|08/09/2023|
- |[Hewlett Packard Enterprise - CVE-2023-30908](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2023-30908-2023-09-08)|Visit link for details.|08/09/2023|
- |[Cacti - CVE-2023-39359](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39359-2023-09-08)|Visit link for details.|08/09/2023|
- |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|08/09/2023|
- |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
- |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
- |[Fortinet – CVE-2022-42475](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42475-2022-12-13)|Visit link for details.|08/09/2023|
- |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|08/09/2023|
- |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
- |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
- |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
  
 
 # US-CERT
@@ -93,6 +76,23 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
  |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Netgear - CVE-2023-36187](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-36187-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Hewlett Packard Enterprise - CVE-2023-30908](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2023-30908-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Cacti - CVE-2023-39359](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39359-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
+ |[Fortinet – CVE-2022-42475](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42475-2022-12-13)|Visit link for details.|08/09/2023|
+ |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|08/09/2023|
+ |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
+ |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
+ |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
  
 
 # OBS-Vigilance
