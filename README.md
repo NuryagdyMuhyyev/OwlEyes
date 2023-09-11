@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2023 03:15:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2023 04:17:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,26 +29,13 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
- |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 07, 2023|
- |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
  |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
  |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
  |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
@@ -57,9 +44,6 @@
  |[DSA-5492 linux - security update](https://www.linux.org/threads/dsa-5492-linux-security-update.46653/)|Visit link for details.|Sep 10, 2023|
  |[USN-6338-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-2-linux-kernel-vulnerabilities.46646/)|Visit link for details.|Sep 9, 2023|
  |[USN-6339-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-2-linux-kernel-vulnerabilities.46645/)|Visit link for details.|Sep 9, 2023|
- |[USN-6340-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6340-2-linux-kernel-vulnerabilities.46644/)|Visit link for details.|Sep 9, 2023|
- |[USN-6342-2: Linux kernel (Azure)](https://www.linux.org/threads/usn-6342-2-linux-kernel-azure.46643/)|Visit link for details.|Sep 9, 2023|
- |[USN-6355-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6355-1-grub2-vulnerabilities.46634/)|Visit link for details.|Sep 8, 2023|
  
 
 # CERT-SANTE
@@ -93,6 +77,22 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
  |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
+ |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 07, 2023|
+ |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
  
 
 # OBS-Vigilance
