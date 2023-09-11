@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 22:15:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2023 23:21:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246" class="noirorange"><b>Polycom DMA  Clariti Core</b>: privilege escalation via Administrator UI</a>](https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246)|An attacker can bypass restrictions of Polycom DMA  Clariti Core, via Administrator UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245" class="noirorange"><b>Symfony Ux-autocomplete</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245)|An attacker can bypass access restrictions to data of Symfony Ux-autocomplete, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution via Javascript</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, via Javascript, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Wildcards Domains</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Wildcards Domains, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -107,9 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238" class="noirorange"><b>IBM Security Directory Integrator</b>: directory traversal</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238)|An attacker can traverse directories of IBM Security Directory Integrator, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237" class="noirorange"><b>xrdp</b>: ingress filtrering bypass via PAM Session Restrictions</a>](https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237)|An attacker can bypass filtering rules of xrdp, via PAM Session Restrictions, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236" class="noirorange"><b>Mutt</b>: NULL pointer dereference via userhdrs</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236)|An attacker can force a NULL pointer to be dereferenced on Mutt, via userhdrs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235" class="noirorange"><b>Mutt</b>: NULL pointer dereference via write_one_header()</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235)|An attacker can force a NULL pointer to be dereferenced on Mutt, via write_one_header(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234" class="noirorange"><b>FRRouting</b>: denial of service via NLRI Zero Attribute Length</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234)|An attacker can cause a fatal error of FRRouting, via NLRI Zero Attribute Length, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
