@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 23:21:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2023 00:13:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
  |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5494 mutt - security update](https://www.linux.org/threads/dsa-5494-mutt-security-update.46666/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5493 open-vm-tools - security update](https://www.linux.org/threads/dsa-5493-open-vm-tools-security-update.46665/)|Visit link for details.|Sep 11, 2023|
@@ -42,8 +44,6 @@
  |[USN-6340-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6340-2-linux-kernel-vulnerabilities.46644/)|Visit link for details.|Sep 9, 2023|
  |[USN-6342-2: Linux kernel (Azure)](https://www.linux.org/threads/usn-6342-2-linux-kernel-azure.46643/)|Visit link for details.|Sep 9, 2023|
  |[USN-6355-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6355-1-grub2-vulnerabilities.46634/)|Visit link for details.|Sep 8, 2023|
- |[DSA-5491 chromium - security update](https://www.linux.org/threads/dsa-5491-chromium-security-update.46633/)|Visit link for details.|Sep 8, 2023|
- |[USN-6354-1: Python vulnerability](https://www.linux.org/threads/usn-6354-1-python-vulnerability.46630/)|Visit link for details.|Sep 7, 2023|
  
 
 # US-CERT
