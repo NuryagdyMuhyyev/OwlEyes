@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 21:21:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2023 22:15:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
- |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,10 +79,30 @@
  |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
+ |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution via Javascript</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, via Javascript, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Wildcards Domains</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Wildcards Domains, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241" class="noirorange"><b>flac</b>: buffer overflow via bitwriter_grow_()</a>](https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241)|An attacker can trigger a buffer overflow of flac, via bitwriter_grow_(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-42240" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-42240)|A vulnerability of XnView was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238" class="noirorange"><b>IBM Security Directory Integrator</b>: directory traversal</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238)|An attacker can traverse directories of IBM Security Directory Integrator, in order to read or write a file outside the service root path...|Visit link for details|
@@ -106,10 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236" class="noirorange"><b>Mutt</b>: NULL pointer dereference via userhdrs</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236)|An attacker can force a NULL pointer to be dereferenced on Mutt, via userhdrs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235" class="noirorange"><b>Mutt</b>: NULL pointer dereference via write_one_header()</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235)|An attacker can force a NULL pointer to be dereferenced on Mutt, via write_one_header(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234" class="noirorange"><b>FRRouting</b>: denial of service via NLRI Zero Attribute Length</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234)|An attacker can cause a fatal error of FRRouting, via NLRI Zero Attribute Length, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233" class="noirorange"><b>FRRouting</b>: denial of service via BGP Update Tunnel Encapsulation</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233)|An attacker can cause a fatal error of FRRouting, via BGP Update Tunnel Encapsulation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Ends Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Ends Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # EU-CERT
