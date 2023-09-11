@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 17:32:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2023 18:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[USN-6353-1: PLIB vulnerability](https://www.linux.org/threads/usn-6353-1-plib-vulnerability.46629/)|Visit link for details.|Sep 7, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear - CVE-2023-36187](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-36187-2023-09-08)|Visit link for details.|08/09/2023|
- |[Hewlett Packard Enterprise - CVE-2023-30908](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2023-30908-2023-09-08)|Visit link for details.|08/09/2023|
- |[Cacti - CVE-2023-39359](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39359-2023-09-08)|Visit link for details.|08/09/2023|
- |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|08/09/2023|
- |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
- |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
- |[Fortinet – CVE-2022-42475](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42475-2022-12-13)|Visit link for details.|08/09/2023|
- |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|08/09/2023|
- |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
- |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
- |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -95,10 +78,28 @@
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Netgear - CVE-2023-36187](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-36187-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Hewlett Packard Enterprise - CVE-2023-30908](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2023-30908-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Cacti - CVE-2023-39359](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39359-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
+ |[Nessus Network Monitor – CVE-2022-31129](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-31129-2022-12-21)|Visit link for details.|08/09/2023|
+ |[Fortinet – CVE-2022-42475](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-42475-2022-12-13)|Visit link for details.|08/09/2023|
+ |[Cisco - CVE-2023-20200](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20200-2023-08-25)|Visit link for details.|08/09/2023|
+ |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
+ |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
+ |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-42240" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-42240)|A vulnerability of XnView was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238" class="noirorange"><b>IBM Security Directory Integrator</b>: directory traversal</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238)|An attacker can traverse directories of IBM Security Directory Integrator, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237" class="noirorange"><b>xrdp</b>: ingress filtrering bypass via PAM Session Restrictions</a>](https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237)|An attacker can bypass filtering rules of xrdp, via PAM Session Restrictions, in order to send malicious data...|Visit link for details|
@@ -109,7 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Ends Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Ends Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-stretch-42227" class="noirorange"><b>LibRaw</b>: buffer overflow via stretch()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-stretch-42227)|An attacker can trigger a buffer overflow of LibRaw, via stretch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
