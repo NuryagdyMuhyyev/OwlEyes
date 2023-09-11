@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 06:11:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2023 07:22:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6351-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6351-1-linux-kernel-gke-vulnerabilities.46623/)|Visit link for details.|Sep 7, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
- |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,6 +61,22 @@
  |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
  |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
  |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 07, 2023|
+ |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
+ |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
+ |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
  
 
 # OBS-Vigilance
@@ -96,20 +96,20 @@
  |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 07, 2023|
- |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
- |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- |[CISA and International Partners Release Malware Analysis Report on Infamous Chisel Mobile Malware](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-and-international-partners-release-malware-analysis-report-infamous-chisel-mobile-malware)|Visit link for details.|Aug 31, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
+ |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
  
 
 # EU-CERT
@@ -150,6 +150,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...|Release Date: 8 Sep 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 8 Sep 2023 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
@@ -159,5 +160,4 @@
  |[ASUS Router Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230906)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 6 Sep 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230830)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-05...| Release Date: 30 Aug 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230904)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Sep 2023 |
  
