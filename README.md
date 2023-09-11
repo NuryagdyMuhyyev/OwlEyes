@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2023 19:15:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2023 20:17:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5494 mutt - security update](https://www.linux.org/threads/dsa-5494-mutt-security-update.46666/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5493 open-vm-tools - security update](https://www.linux.org/threads/dsa-5493-open-vm-tools-security-update.46665/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5492 linux - security update](https://www.linux.org/threads/dsa-5492-linux-security-update.46653/)|Visit link for details.|Sep 10, 2023|
@@ -59,23 +60,6 @@
  |[USN-6355-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6355-1-grub2-vulnerabilities.46634/)|Visit link for details.|Sep 8, 2023|
  |[DSA-5491 chromium - security update](https://www.linux.org/threads/dsa-5491-chromium-security-update.46633/)|Visit link for details.|Sep 8, 2023|
  |[USN-6354-1: Python vulnerability](https://www.linux.org/threads/usn-6354-1-python-vulnerability.46630/)|Visit link for details.|Sep 7, 2023|
- |[USN-6353-1: PLIB vulnerability](https://www.linux.org/threads/usn-6353-1-plib-vulnerability.46629/)|Visit link for details.|Sep 7, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
- |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
  
 
 # CERT-SANTE
@@ -93,6 +77,22 @@
  |[Google Chrome - CVE-2023-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4761-2023-09-06)|Visit link for details.|08/09/2023|
  |[ManageEngine – CVE-2022-47966](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2022-47966-2023-01-18)|Visit link for details.|08/09/2023|
  |[Acronis - CVE-2022-41748](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2022-41748-2023-09-07)|Visit link for details.|07/09/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
+ |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
  
 
 # OBS-Vigilance
@@ -132,6 +132,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
  |[2023-060: Critical Vulnerability in VMware Aria Operations for Networks ](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-060.pdf)|On August 29, VMware released security updates to patch one critical (CVE-2023-34039) and one high-severity (CVE-2023-20890) vulnerability in Aria Operations for Networks, its enterprise network monitoring tool. The flaws were responsibly reported to the vendor and as of the time of writing, there is no evidence of exploitation in the wild.|Thursday, August 31, 2023 04:26:11 PM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, August 29, 2023 05:14:09 PM CEST|
@@ -142,13 +143,13 @@
  |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
  |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
  |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
- |[2023-051: RCE Vulnerability in "ssh-agent" of OpenSSH](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-051.pdf)|On July 19, 2023, OpenSSH released an update regarding a vulnerability, identified as "CVE-2023-38408". This vulnerability was discovered by the Qualys Security Advisory team and allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH’s forwarded "ssh-agent". |Thursday, July 20, 2023 02:36:21 PM CEST|
  
 
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[43651109/23 - Vulnérabilités dans les produits QNAP](https://www.dgssi.gov.ma//fr/content/4365110923-vulnerabilites-dans-les-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plu-sieurs vulnérabilités affectant ses produits. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à...|11 septembre 2023|
  |[43640809/23 - Vulnérabilités « Zero-day »affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4364080923-vulnerabilites-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deux vulnérabilités critiques affectant ses produitssusmentionnés. Ces vulnérabilités sont des « Zero-day »activement exploités et peuventpermettre à un attaquant distant d’exécuter du...|08 septembre 2023|
  |[43630709/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4363070923-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges de contourner les mesures de...|07 septembre 2023|
  |[43620709/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4362070923-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 septembre 2023|
@@ -159,5 +160,4 @@
  |[43580509/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4358050923-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|05 septembre 2023|
  |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
  |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
- |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
  
