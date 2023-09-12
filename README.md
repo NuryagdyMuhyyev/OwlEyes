@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2023 19:15:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2023 20:17:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
  |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
  |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
@@ -75,30 +76,13 @@
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2023|
  |[VMware Releases Security Update for Tools](https://www.cisa.gov/news-events/alerts/2023/09/01/vmware-releases-security-update-tools)|Visit link for details.|Sep 01, 2023|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252" class="noirorange"><b>QEMU</b>: denial of service via scsi_disk_reset()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252)|An attacker, in a guest system, can cause a fatal error of QEMU, via scsi_disk_reset(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251" class="noirorange"><b>Linux kernel</b>: buffer overflow via netfilter/nft_exthdr.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250" class="noirorange"><b>cookiejar</b>: overload via Cookie.parse Regular Expression</a>](https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250)|An attacker can trigger an overload of cookiejar, via Cookie.parse Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249" class="noirorange"><b>Chrome</b>: buffer overflow via WebP</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249)|An attacker can trigger a buffer overflow of Chrome, via WebP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246" class="noirorange"><b>Polycom DMA  Clariti Core</b>: privilege escalation via Administrator UI</a>](https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246)|An attacker can bypass restrictions of Polycom DMA  Clariti Core, via Administrator UI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245" class="noirorange"><b>Symfony Ux-autocomplete</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245)|An attacker can bypass access restrictions to data of Symfony Ux-autocomplete, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution via Javascript</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, via Javascript, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Wildcards Domains</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Wildcards Domains, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241" class="noirorange"><b>flac</b>: buffer overflow via bitwriter_grow_()</a>](https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241)|An attacker can trigger a buffer overflow of flac, via bitwriter_grow_(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|12/09/2023|
  |[Wordpress - CVE-2023-40555](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-40555-2023-09-11)|Visit link for details.|11/09/2023|
  |[Wireshark - CVE-2023-4511](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2023-4511-2023-09-11)|Visit link for details.|11/09/2023|
  |[Google Chrome - CVE-2023-4762](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4762-2023-09-11)|Visit link for details.|11/09/2023|
@@ -109,7 +93,23 @@
  |[Hewlett Packard Enterprise - CVE-2023-30908](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2023-30908-2023-09-08)|Visit link for details.|08/09/2023|
  |[Cacti - CVE-2023-39359](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-39359-2023-09-08)|Visit link for details.|08/09/2023|
  |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|08/09/2023|
- |[Apple - CVE-2023-41061](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41061-2023-09-08)|Visit link for details.|08/09/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256" class="noirorange"><b>SAP</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255" class="noirorange"><b>FileZilla Server</b>: vulnerability</a>](https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255)|A vulnerability of FileZilla Server was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254" class="noirorange"><b>SIMATIC  WinCC</b>: buffer overflow via CodeMeter Runtime</a>](https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254)|An attacker can trigger a buffer overflow of SIMATIC  WinCC, via CodeMeter Runtime, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-overload-via-ANSI-C-OPC-UA-SDK-42253" class="noirorange"><b>SIMATIC</b>: overload via ANSI C OPC UA SDK</a>](https://vigilance.fr/vulnerability/SIMATIC-overload-via-ANSI-C-OPC-UA-SDK-42253)|An attacker can trigger an overload of SIMATIC, via ANSI C OPC UA SDK, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252" class="noirorange"><b>QEMU</b>: denial of service via scsi_disk_reset()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252)|An attacker, in a guest system, can cause a fatal error of QEMU, via scsi_disk_reset(), in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251" class="noirorange"><b>Linux kernel</b>: buffer overflow via netfilter/nft_exthdr.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250" class="noirorange"><b>cookiejar</b>: overload via Cookie.parse Regular Expression</a>](https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250)|An attacker can trigger an overload of cookiejar, via Cookie.parse Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249" class="noirorange"><b>Chrome</b>: buffer overflow via WebP</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249)|An attacker can trigger a buffer overflow of Chrome, via WebP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246" class="noirorange"><b>Polycom DMA  Clariti Core</b>: privilege escalation via Administrator UI</a>](https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246)|An attacker can bypass restrictions of Polycom DMA  Clariti Core, via Administrator UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245" class="noirorange"><b>Symfony Ux-autocomplete</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245)|An attacker can bypass access restrictions to data of Symfony Ux-autocomplete, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -129,6 +129,22 @@
  |[2023-052: RCE Vulnerabilities in Atlassian Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-052.pdf)|On July 18, 2023, Atlassian has released its Security Bulletin for July 2023 to address vulnerabilities (RCE) in Confluence Data Center & Server (CVE-2023-22505 and CVE-2023-22508) and Bamboo Data Center (CVE-2023-22506). An attacker can exploit these vulnerabilities to take control of an affected system.|Monday, July 24, 2023 11:10:35 AM CEST|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230912)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. Google is aware that...|Release Date: 12 Sep 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...| Release Date: 8 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
+ |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Notepad++ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/notepad-plus-plus-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Notepad++. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 11 Sep 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 8 Sep 2023 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -144,20 +160,4 @@
  |[43590509/23 - Campagne Ransomeware ciblant les serveurs MSSQL](https://www.dgssi.gov.ma//fr/content/4359050923-campagne-ransomeware-ciblant-les-serveurs-mssql.html)|Des chercheurs en sécurité informatique annoncent l’indentification d’une campagne malicieuse par Ransomware ciblant les entités disposant de serveursMicrosoft SQL.|05 septembre 2023|
  |[43580509/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4358050923-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|05 septembre 2023|
  |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230912)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. Google is aware that...|Release Date: 12 Sep 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...| Release Date: 8 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
- |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
- |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
- |[Notepad++ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/notepad-plus-plus-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Notepad++. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 11 Sep 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 8 Sep 2023 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
  
