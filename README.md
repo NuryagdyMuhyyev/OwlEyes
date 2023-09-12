@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2023 13:20:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2023 14:16:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252" class="noirorange"><b>QEMU</b>: denial of service via scsi_disk_reset()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252)|An attacker, in a guest system, can cause a fatal error of QEMU, via scsi_disk_reset(), in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251" class="noirorange"><b>Linux kernel</b>: buffer overflow via netfilter/nft_exthdr.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250" class="noirorange"><b>cookiejar</b>: overload via Cookie.parse Regular Expression</a>](https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250)|An attacker can trigger an overload of cookiejar, via Cookie.parse Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249" class="noirorange"><b>Chrome</b>: buffer overflow via WebP</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249)|An attacker can trigger a buffer overflow of Chrome, via WebP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Wildcards Domains</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Wildcards Domains, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241" class="noirorange"><b>flac</b>: buffer overflow via bitwriter_grow_()</a>](https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241)|An attacker can trigger a buffer overflow of flac, via bitwriter_grow_(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-42240" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-42240)|A vulnerability of XnView was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
