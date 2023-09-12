@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2023 08:16:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2023 09:19:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5494 mutt - security update](https://www.linux.org/threads/dsa-5494-mutt-security-update.46666/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5493 open-vm-tools - security update](https://www.linux.org/threads/dsa-5493-open-vm-tools-security-update.46665/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5492 linux - security update](https://www.linux.org/threads/dsa-5492-linux-security-update.46653/)|Visit link for details.|Sep 10, 2023|
+ |[USN-6338-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-2-linux-kernel-vulnerabilities.46646/)|Visit link for details.|Sep 9, 2023|
+ |[USN-6339-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-2-linux-kernel-vulnerabilities.46645/)|Visit link for details.|Sep 9, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2023/08/31/cisa-warns-hurricane-related-scams)|Visit link for details.|Aug 31, 2023|
  
 
-# LINUX-SEC
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
- |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
- |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
- |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
- |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5494 mutt - security update](https://www.linux.org/threads/dsa-5494-mutt-security-update.46666/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5493 open-vm-tools - security update](https://www.linux.org/threads/dsa-5493-open-vm-tools-security-update.46665/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5492 linux - security update](https://www.linux.org/threads/dsa-5492-linux-security-update.46653/)|Visit link for details.|Sep 10, 2023|
- |[USN-6338-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-2-linux-kernel-vulnerabilities.46646/)|Visit link for details.|Sep 9, 2023|
- |[USN-6339-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-2-linux-kernel-vulnerabilities.46645/)|Visit link for details.|Sep 9, 2023|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230912)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. Google is aware that...|Release Date: 12 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
+ |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Notepad++ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/notepad-plus-plus-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Notepad++. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 11 Sep 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...|Release Date: 8 Sep 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 8 Sep 2023 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
  
 
 # CERT-SANTE
@@ -110,22 +126,6 @@
  |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-42240" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-42240)|A vulnerability of XnView was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238" class="noirorange"><b>IBM Security Directory Integrator</b>: directory traversal</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238)|An attacker can traverse directories of IBM Security Directory Integrator, in order to read or write a file outside the service root path...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230912)|A vulnerability was identified in Google Chrome.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. Google is aware that...|Release Date: 12 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
- |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
- |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
- |[Notepad++ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/notepad-plus-plus-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Notepad++. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-35674...|Release Date: 11 Sep 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...|Release Date: 8 Sep 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system.|Release Date: 8 Sep 2023 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20230907)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 7 Sep 2023 |
  
 
 # EU-CERT
