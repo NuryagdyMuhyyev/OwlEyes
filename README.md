@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 00:12:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 01:17:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6360-1: FLAC vulnerability](https://www.linux.org/threads/usn-6360-1-flac-vulnerability.46685/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
  |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
  |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
@@ -41,41 +44,22 @@
  |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5494 mutt - security update](https://www.linux.org/threads/dsa-5494-mutt-security-update.46666/)|Visit link for details.|Sep 11, 2023|
  |[DSA-5493 open-vm-tools - security update](https://www.linux.org/threads/dsa-5493-open-vm-tools-security-update.46665/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5492 linux - security update](https://www.linux.org/threads/dsa-5492-linux-security-update.46653/)|Visit link for details.|Sep 10, 2023|
- |[USN-6338-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6338-2-linux-kernel-vulnerabilities.46646/)|Visit link for details.|Sep 9, 2023|
- |[USN-6339-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-2-linux-kernel-vulnerabilities.46645/)|Visit link for details.|Sep 9, 2023|
  
 
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
  |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
  |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
  |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
  |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 07, 2023|
  |[CISA Releases Update to Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-update-threat-actors-exploiting-citrix-cve-2023-3519-implant-webshells)|Visit link for details.|Sep 06, 2023|
- |[CISA Releases Capacity Enhancement Guide to Strengthen Agency Resilience to DDoS Attack](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-releases-capacity-enhancement-guide-strengthen-agency-resilience-ddos-attack)|Visit link for details.|Sep 06, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/06/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 06, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 septembre 2023|
- |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
  
 
 # CERT-SANTE
@@ -95,21 +79,37 @@
  |[D-Link - CVE-2023-41187](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-41187-2023-09-11)|Visit link for details.|11/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 septembre 2023|
+ |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.|Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260)|An attacker can bypass filtering rules of Microsoft Defender, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-September-2023-42258" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-September-2023-42258)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257" class="noirorange"><b>Adobe Acrobat/Reader</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257)|An attacker can trigger a buffer overflow of Adobe Acrobat/Reader, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256" class="noirorange"><b>SAP</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255" class="noirorange"><b>FileZilla Server</b>: vulnerability</a>](https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255)|A vulnerability of FileZilla Server was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254" class="noirorange"><b>SIMATIC  WinCC</b>: buffer overflow via CodeMeter Runtime</a>](https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254)|An attacker can trigger a buffer overflow of SIMATIC  WinCC, via CodeMeter Runtime, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-overload-via-ANSI-C-OPC-UA-SDK-42253" class="noirorange"><b>SIMATIC</b>: overload via ANSI C OPC UA SDK</a>](https://vigilance.fr/vulnerability/SIMATIC-overload-via-ANSI-C-OPC-UA-SDK-42253)|An attacker can trigger an overload of SIMATIC, via ANSI C OPC UA SDK, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252" class="noirorange"><b>QEMU</b>: denial of service via scsi_disk_reset()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-scsi-disk-reset-42252)|An attacker, in a guest system, can cause a fatal error of QEMU, via scsi_disk_reset(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251" class="noirorange"><b>Linux kernel</b>: buffer overflow via netfilter/nft_exthdr.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-netfilter-nft-exthdr-c-42251)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250" class="noirorange"><b>cookiejar</b>: overload via Cookie.parse Regular Expression</a>](https://vigilance.fr/vulnerability/cookiejar-overload-via-Cookie-parse-Regular-Expression-42250)|An attacker can trigger an overload of cookiejar, via Cookie.parse Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249" class="noirorange"><b>Chrome</b>: buffer overflow via WebP</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249)|An attacker can trigger a buffer overflow of Chrome, via WebP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246" class="noirorange"><b>Polycom DMA  Clariti Core</b>: privilege escalation via Administrator UI</a>](https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246)|An attacker can bypass restrictions of Polycom DMA  Clariti Core, via Administrator UI, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
