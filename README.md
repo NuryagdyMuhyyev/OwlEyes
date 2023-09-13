@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 21:20:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 22:14:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,26 +46,12 @@
  |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 septembre 2023|
- |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
+ |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
  |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
  |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
@@ -74,8 +60,22 @@
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
  |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
- |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/)|Une vulnérabilité a été corrigée dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 septembre 2023|
+ |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
+ |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
  
 
 # CERT-SANTE
@@ -122,6 +122,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Wednesday, September 13, 2023 06:47:27 PM CEST|
+ |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
+ |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Tuesday, September 12, 2023 06:20:21 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
@@ -130,9 +133,6 @@
  |[2023-058: Critical Vulnerability in MobileIron Sentry](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-058.pdf)|On July 24, 2023, Ivanti published a security advisory about a vulnerability discovered in Ivanti Sentry, formerly known as MobileIron Sentry. The vulnerability tracked as CVE-2023-38035 is an API authentication bypass being exploited in the wild. A successful exploitation allows an attacker to change configuration, run system commands, or write files onto systems.|Tuesday, August 22, 2023 10:45:45 AM CEST|
  |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, July 31, 2023 09:56:28 AM CEST|
- |[2023-054: Privilege Escalation Vulnerabilities in Ubuntu](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-054.pdf)|On the 24th of July, 2023, Ubuntu issued a fix for two local privilege escalation vulnerabilities, CVE-2023-2640 and CVE-2023-32629, that were discovered in the OverlayFS module of its Linux kernel.|Monday, July 31, 2023 09:54:55 AM CEST|
- |[2023-053: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-053.pdf)|On July 24, 2023, US-based IT software company Ivanti disclosed a zero-day authentication bypass vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Tuesday, July 25, 2023 10:53:34 AM CEST|
  
 
 # HK-CERT
