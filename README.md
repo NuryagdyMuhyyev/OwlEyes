@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 20:17:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 21:20:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
  |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
  |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
  |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
@@ -43,23 +44,6 @@
  |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
  |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
  |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
- |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
- |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
- |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
  
 
 # CERT-FR
@@ -78,21 +62,37 @@
  |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
+ |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
+ |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2023-36802](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36802-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-36792](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36792-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Adobe Acrobat - CVE-2023-26369](https://www.cyberveille-sante.gouv.fr/alertes/adobe-acrobat-cve-2023-26369-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-38148](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38148-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-36761](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36761-2023-09-13)|Visit link for details.|13/09/2023|
  |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|13/09/2023|
  |[SAP - CVE-2023-40309](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-40309-2023-09-12)|Visit link for details.|12/09/2023|
  |[Android - CVE-2023-35674](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-35674-2023-09-12)|Visit link for details.|12/09/2023|
  |[Snapd - CVE-2023-1523](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2023-1523-2023-09-12)|Visit link for details.|12/09/2023|
  |[SAP - CVE-2023-40622](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-40622-2023-09-12)|Visit link for details.|12/09/2023|
  |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|12/09/2023|
- |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|12/09/2023|
- |[Wordpress - CVE-2023-40555](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-40555-2023-09-11)|Visit link for details.|11/09/2023|
- |[Wireshark - CVE-2023-4511](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2023-4511-2023-09-11)|Visit link for details.|11/09/2023|
- |[Google Chrome - CVE-2023-4762](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4762-2023-09-11)|Visit link for details.|11/09/2023|
- |[D-Link - CVE-2023-41187](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-41187-2023-09-11)|Visit link for details.|11/09/2023|
  
 
 # OBS-Vigilance
