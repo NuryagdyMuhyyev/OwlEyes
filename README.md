@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 19:15:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 20:17:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,37 +62,37 @@
  |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 septembre 2023|
+ |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.|Publié le 12 septembre 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|13/09/2023|
  |[SAP - CVE-2023-40309](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-40309-2023-09-12)|Visit link for details.|12/09/2023|
  |[Android - CVE-2023-35674](https://www.cyberveille-sante.gouv.fr/alertes/android-cve-2023-35674-2023-09-12)|Visit link for details.|12/09/2023|
  |[Snapd - CVE-2023-1523](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2023-1523-2023-09-12)|Visit link for details.|12/09/2023|
  |[SAP - CVE-2023-40622](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-40622-2023-09-12)|Visit link for details.|12/09/2023|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|12/09/2023|
  |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|12/09/2023|
  |[Apple - CVE-2023-41064](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41064-2023-09-08)|Visit link for details.|12/09/2023|
  |[Wordpress - CVE-2023-40555](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-40555-2023-09-11)|Visit link for details.|11/09/2023|
  |[Wireshark - CVE-2023-4511](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2023-4511-2023-09-11)|Visit link for details.|11/09/2023|
  |[Google Chrome - CVE-2023-4762](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4762-2023-09-11)|Visit link for details.|11/09/2023|
  |[D-Link - CVE-2023-41187](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-41187-2023-09-11)|Visit link for details.|11/09/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/)|Une vulnérabilité a été corrigée dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
  
 
 # OBS-Vigilance
@@ -110,6 +110,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260)|An attacker can bypass filtering rules of Microsoft Defender, in order to send malicious data...|Visit link for details|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -143,10 +149,4 @@
  |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
  |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
