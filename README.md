@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/09/2023 00:13:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/09/2023 01:14:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,39 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
- |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
- |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
- |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
- |[USN-6360-1: FLAC vulnerability](https://www.linux.org/threads/usn-6360-1-flac-vulnerability.46685/)|Visit link for details.|Sep 12, 2023|
- |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
- |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
- |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
- |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
- |[USN-6164-2: c-ares vulnerabilities](https://www.linux.org/threads/usn-6164-2-c-ares-vulnerabilities.46673/)|Visit link for details.|Sep 11, 2023|
- |[USN-6357-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6357-1-linux-kernel-ibm-vulnerabilities.46672/)|Visit link for details.|Sep 11, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 septembre 2023|
- |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/)|Une vulnérabilité a été découverte dans |Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.|Publié le 12 septembre 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -76,6 +43,39 @@
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
  |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/)|Une vulnérabilité a été corrigée dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 septembre 2023|
+ |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
+ |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6366-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6366-1-postgresql-vulnerability.46698/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6365-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-1-open-vm-tools-vulnerability.46697/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6360-1: FLAC vulnerability](https://www.linux.org/threads/usn-6360-1-flac-vulnerability.46685/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6339-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6339-3-linux-kernel-vulnerabilities.46678/)|Visit link for details.|Sep 11, 2023|
+ |[USN-6237-3: curl vulnerabilities](https://www.linux.org/threads/usn-6237-3-curl-vulnerabilities.46677/)|Visit link for details.|Sep 11, 2023|
+ |[DSA-5495 frr - security update](https://www.linux.org/threads/dsa-5495-frr-security-update.46676/)|Visit link for details.|Sep 11, 2023|
  
 
 # CERT-SANTE
@@ -93,23 +93,6 @@
  |[Snapd - CVE-2023-1523](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2023-1523-2023-09-12)|Visit link for details.|12/09/2023|
  |[SAP - CVE-2023-40622](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-40622-2023-09-12)|Visit link for details.|12/09/2023|
  |[TP-Link - CVE-2023-32619](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-32619-2023-08-22)|Visit link for details.|12/09/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278)|An attacker can bypass restrictions of Cisco IOS XR, via Image Verification, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via iPXE Boot Signature Bypass</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277)|An attacker can bypass restrictions of Cisco IOS XR, via iPXE Boot Signature Bypass, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Connectivity Fault Management</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276)|An attacker can cause a fatal error of Cisco IOS XR, via Connectivity Fault Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via MPLS Interfaces</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275)|An attacker can bypass filtering rules of Cisco IOS XR, via MPLS Interfaces, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via Software Compression</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274)|An attacker can bypass filtering rules of Cisco IOS XR, via Software Compression, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273" class="noirorange"><b>Rails HTML Sanitizer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273)|An attacker can use several vulnerabilities of Rails HTML Sanitizer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272" class="noirorange"><b>Apache Struts</b>: denial of service via Denied File Upload Disk Usage</a>](https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272)|An attacker can cause a fatal error of Apache Struts, via Denied File Upload Disk Usage, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Guest Management Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271)|An attacker can trigger a Cross Site Scripting of FortiOS, via Guest Management Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270" class="noirorange"><b>Linux kernel</b>: use after free via qfq_dequeue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qfq_dequeue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268" class="noirorange"><b>cURL</b>: memory leak via HTTP Headers</a>](https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268)|An attacker can create a memory leak of cURL, via HTTP Headers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  
 
 # MA-CERT
@@ -149,4 +132,21 @@
  |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
  |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 20/09/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281)|A vulnerability of ISC BIND will be unveiled on 20/09/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280" class="noirorange"><b>Drupal Mail Login</b>: user access via Brute Force</a>](https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280)|An attacker can bypass restrictions of Drupal Mail Login, via Brute Force, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278)|An attacker can bypass restrictions of Cisco IOS XR, via Image Verification, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via iPXE Boot Signature Bypass</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277)|An attacker can bypass restrictions of Cisco IOS XR, via iPXE Boot Signature Bypass, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Connectivity Fault Management</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276)|An attacker can cause a fatal error of Cisco IOS XR, via Connectivity Fault Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via MPLS Interfaces</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275)|An attacker can bypass filtering rules of Cisco IOS XR, via MPLS Interfaces, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via Software Compression</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274)|An attacker can bypass filtering rules of Cisco IOS XR, via Software Compression, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273" class="noirorange"><b>Rails HTML Sanitizer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273)|An attacker can use several vulnerabilities of Rails HTML Sanitizer...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272" class="noirorange"><b>Apache Struts</b>: denial of service via Denied File Upload Disk Usage</a>](https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272)|An attacker can cause a fatal error of Apache Struts, via Denied File Upload Disk Usage, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Guest Management Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271)|An attacker can trigger a Cross Site Scripting of FortiOS, via Guest Management Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270" class="noirorange"><b>Linux kernel</b>: use after free via qfq_dequeue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qfq_dequeue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
