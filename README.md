@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 09:20:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 10:15:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6356-1: OpenDMARC vulnerabilities](https://www.linux.org/threads/usn-6356-1-opendmarc-vulnerabilities.46670/)|Visit link for details.|Sep 11, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
- |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
- |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -93,6 +77,22 @@
  |[Wireshark - CVE-2023-4511](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2023-4511-2023-09-11)|Visit link for details.|11/09/2023|
  |[Google Chrome - CVE-2023-4762](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4762-2023-09-11)|Visit link for details.|11/09/2023|
  |[D-Link - CVE-2023-41187](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-41187-2023-09-11)|Visit link for details.|11/09/2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
+ |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
+ |[CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475](https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and)|Visit link for details.|Sep 07, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/09/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 07, 2023|
  
 
 # OBS-Vigilance
