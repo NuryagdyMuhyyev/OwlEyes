@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/09/2023 18:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/09/2023 19:15:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Guest Management Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271)|An attacker can trigger a Cross Site Scripting of FortiOS, via Guest Management Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270" class="noirorange"><b>Linux kernel</b>: use after free via qfq_dequeue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qfq_dequeue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268" class="noirorange"><b>cURL</b>: memory leak via HTTP Headers</a>](https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268)|An attacker can create a memory leak of cURL, via HTTP Headers, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
@@ -109,13 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260)|An attacker can bypass filtering rules of Microsoft Defender, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -149,4 +143,10 @@
  |[Juniper Junos OS Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/juniper-junos-os-data-manipulation-vulnerability_20230911)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger data manipulation on the targeted system.|Release Date: 11 Sep 2023 |
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20230911)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 11 Sep 2023 |
  |[Memcached Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/memcached-denial-of-service-vulnerability_20230914)|A vulnerability was identified in Memcached, a remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 11 Sep 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
