@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/09/2023 19:15:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/09/2023 20:17:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
+ |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
+ |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
+ |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,36 +62,20 @@
  |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
- |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
- |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
- |[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)|Visit link for details.|Sep 12, 2023|
- |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/11/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 11, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0745/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 14 septembre 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
  |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/)|Une vulnérabilité a été corrigée dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
  
 
 # CERT-SANTE
@@ -99,17 +99,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294" class="noirorange"><b>Linux kernel</b>: use after free via vmw_execbuf_tie_context()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-view-bindings-add-42293" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_view_bindings_add()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-view-bindings-add-42293)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-cmd-res-check-42292" class="noirorange"><b>Linux kernel</b>: use after free via vmw_cmd_res_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-cmd-res-check-42292)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-touchscreen-cyttsp4-core-c-42291" class="noirorange"><b>Linux kernel</b>: use after free via touchscreen/cyttsp4_core.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-touchscreen-cyttsp4-core-c-42291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-information-disclosure-via-Administration-Console-42290" class="noirorange"><b>SIMATIC PCS neo</b>: information disclosure via Administration Console</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-information-disclosure-via-Administration-Console-42290)|An attacker can bypass access restrictions to data of SIMATIC PCS neo, via Administration Console, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-read-write-access-via-API-42289" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: read-write access via API</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-read-write-access-via-API-42289)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via API, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-information-disclosure-via-REST-API-Configuration-Files-Authentication-42288" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: information disclosure via REST API Configuration Files Authentication</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-information-disclosure-via-REST-API-Configuration-Files-Authentication-42288)|An attacker can bypass access restrictions to data of Skyhigh Secure Web Gateway, via REST API Configuration Files Authentication, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Libarchive-four-vulnerabilities-via-PAX-Writer-42287" class="noirorange"><b>Libarchive</b>: four vulnerabilities via PAX Writer</a>](https://vigilance.fr/vulnerability/Libarchive-four-vulnerabilities-via-PAX-Writer-42287)|An attacker can use several vulnerabilities of Libarchive, via PAX Writer...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-clj-media-size-42284" class="noirorange"><b>GhostScript</b>: buffer overflow via clj_media_size()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-clj-media-size-42284)|An attacker can trigger a buffer overflow of GhostScript, via clj_media_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-denial-of-service-via-eps-print-page-42283" class="noirorange"><b>GhostScript</b>: denial of service via eps_print_page()</a>](https://vigilance.fr/vulnerability/GhostScript-denial-of-service-via-eps-print-page-42283)|An attacker can cause a fatal error of GhostScript, via eps_print_page(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 20/09/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281)|A vulnerability of ISC BIND will be unveiled on 20/09/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280" class="noirorange"><b>Drupal Mail Login</b>: user access via Brute Force</a>](https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280)|An attacker can bypass restrictions of Drupal Mail Login, via Brute Force, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278)|An attacker can bypass restrictions of Cisco IOS XR, via Image Verification, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via iPXE Boot Signature Bypass</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277)|An attacker can bypass restrictions of Cisco IOS XR, via iPXE Boot Signature Bypass, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Connectivity Fault Management</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276)|An attacker can cause a fatal error of Cisco IOS XR, via Connectivity Fault Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via MPLS Interfaces</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275)|An attacker can bypass filtering rules of Cisco IOS XR, via MPLS Interfaces, in order to send malicious data...|Visit link for details|
  
 
 # MA-CERT
