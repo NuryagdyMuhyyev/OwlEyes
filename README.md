@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/09/2023 01:17:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/09/2023 02:14:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
- |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
- |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
- |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
- |[USN-6364-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6364-1-ghostscript-vulnerabilities.46702/)|Visit link for details.|Sep 14, 2023|
- |[USN-6366-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6366-1-postgresql-vulnerability.46698/)|Visit link for details.|Sep 13, 2023|
- |[USN-6365-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-1-open-vm-tools-vulnerability.46697/)|Visit link for details.|Sep 13, 2023|
- |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
- |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
- |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
- |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,37 @@
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5497 libwebp - security update](https://www.linux.org/threads/dsa-5497-libwebp-security-update.46720/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5496 firefox-esr - security update](https://www.linux.org/threads/dsa-5496-firefox-esr-security-update.46719/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6364-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6364-1-ghostscript-vulnerabilities.46702/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6366-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6366-1-postgresql-vulnerability.46698/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6365-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-1-open-vm-tools-vulnerability.46697/)|Visit link for details.|Sep 13, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0745/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 14 septembre 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
  |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/)|Une vulnérabilité a été corrigée dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
- |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
  
 
 # CERT-SANTE
