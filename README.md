@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/09/2023 14:16:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/09/2023 15:18:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
- |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
- |[USN-6364-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6364-1-ghostscript-vulnerabilities.46702/)|Visit link for details.|Sep 14, 2023|
- |[USN-6366-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6366-1-postgresql-vulnerability.46698/)|Visit link for details.|Sep 13, 2023|
- |[USN-6365-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-1-open-vm-tools-vulnerability.46697/)|Visit link for details.|Sep 13, 2023|
- |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
- |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
- |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
- |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
- |[USN-6360-1: FLAC vulnerability](https://www.linux.org/threads/usn-6360-1-flac-vulnerability.46685/)|Visit link for details.|Sep 12, 2023|
- |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
- 
 
 # US-CERT
 
@@ -76,6 +59,23 @@
  |[Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 septembre 2023|
  |[Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/)|Une vulnérabilité a été découverte dans |Publié le 13 septembre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6364-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6364-1-ghostscript-vulnerabilities.46702/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6366-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6366-1-postgresql-vulnerability.46698/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6365-1: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-1-open-vm-tools-vulnerability.46697/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6363-1: curl vulnerability](https://www.linux.org/threads/usn-6363-1-curl-vulnerability.46693/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6358-1: RedCloth vulnerability](https://www.linux.org/threads/usn-6358-1-redcloth-vulnerability.46690/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6362-1: .NET vulnerability](https://www.linux.org/threads/usn-6362-1-net-vulnerability.46687/)|Visit link for details.|Sep 13, 2023|
+ |[USN-6361-1: CUPS vulnerability](https://www.linux.org/threads/usn-6361-1-cups-vulnerability.46686/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6360-1: FLAC vulnerability](https://www.linux.org/threads/usn-6360-1-flac-vulnerability.46685/)|Visit link for details.|Sep 12, 2023|
+ |[USN-6359-1: file vulnerability](https://www.linux.org/threads/usn-6359-1-file-vulnerability.46684/)|Visit link for details.|Sep 12, 2023|
  
 
 # CERT-SANTE
