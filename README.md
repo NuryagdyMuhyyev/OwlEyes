@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/09/2023 00:13:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/09/2023 01:17:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
  |Title|Description|Date|
  |---|---|---|
  |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
+ |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
@@ -42,7 +43,6 @@
  |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
  |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2023|
  
 
 # CERT-FR
