@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/09/2023 18:19:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/09/2023 19:14:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6375-1: atftp vulnerability](https://www.linux.org/threads/usn-6375-1-atftp-vulnerability.46729/)|Visit link for details.|Sep 15, 2023|
- |[USN-6374-1: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-1-mutt-vulnerabilities.46724/)|Visit link for details.|Sep 15, 2023|
- |[USN-6373-1: gawk vulnerability](https://www.linux.org/threads/usn-6373-1-gawk-vulnerability.46723/)|Visit link for details.|Sep 15, 2023|
- |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
- |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
- |[DSA-5497 libwebp - security update](https://www.linux.org/threads/dsa-5497-libwebp-security-update.46720/)|Visit link for details.|Sep 14, 2023|
- |[DSA-5496 firefox-esr - security update](https://www.linux.org/threads/dsa-5496-firefox-esr-security-update.46719/)|Visit link for details.|Sep 14, 2023|
- |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
- |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
- |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
- |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
  
 
 # US-CERT
@@ -62,37 +61,21 @@
  |[CISA Adds Two Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-adds-two-known-vulnerabilities-catalog)|Visit link for details.|Sep 12, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0745/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 14 septembre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 septembre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet - CVE-2023-29183](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29183-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-39332](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-39332-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36796](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36796-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36793](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36793-2023-09-14)|Visit link for details.|14/09/2023|
- |[Apple - CVE-2023-41990](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41990-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36802](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36802-2023-09-13)|Visit link for details.|13/09/2023|
- |[Microsoft - CVE-2023-36792](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36792-2023-09-13)|Visit link for details.|13/09/2023|
- |[Adobe Acrobat - CVE-2023-26369](https://www.cyberveille-sante.gouv.fr/alertes/adobe-acrobat-cve-2023-26369-2023-09-13)|Visit link for details.|13/09/2023|
- |[Microsoft - CVE-2023-38148](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38148-2023-09-13)|Visit link for details.|13/09/2023|
- |[Microsoft - CVE-2023-36761](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36761-2023-09-13)|Visit link for details.|13/09/2023|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|13/09/2023|
+ |[USN-6375-1: atftp vulnerability](https://www.linux.org/threads/usn-6375-1-atftp-vulnerability.46729/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6374-1: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-1-mutt-vulnerabilities.46724/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6373-1: gawk vulnerability](https://www.linux.org/threads/usn-6373-1-gawk-vulnerability.46723/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5497 libwebp - security update](https://www.linux.org/threads/dsa-5497-libwebp-security-update.46720/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5496 firefox-esr - security update](https://www.linux.org/threads/dsa-5496-firefox-esr-security-update.46719/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
  
 
 # OBS-Vigilance
@@ -110,6 +93,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296" class="noirorange"><b>Eclipse Jetty</b>: code execution via CGI Servlet Command Quoting</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296)|An attacker can use a vulnerability of Eclipse Jetty, via CGI Servlet Command Quoting, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295" class="noirorange"><b>Eclipse Jetty</b>: header injection via Content-Length Plus</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295)|An attacker can add new headers on Eclipse Jetty, via Content-Length Plus, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294" class="noirorange"><b>Linux kernel</b>: use after free via vmw_execbuf_tie_context()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet - CVE-2023-29183](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29183-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-39332](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-39332-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36796](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36796-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36793](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36793-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Apple - CVE-2023-41990](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41990-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36802](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36802-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-36792](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36792-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Adobe Acrobat - CVE-2023-26369](https://www.cyberveille-sante.gouv.fr/alertes/adobe-acrobat-cve-2023-26369-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-38148](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38148-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Microsoft - CVE-2023-36761](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36761-2023-09-13)|Visit link for details.|13/09/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|13/09/2023|
  
 
 # MA-CERT
