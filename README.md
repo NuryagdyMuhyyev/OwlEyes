@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/09/2023 03:15:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/09/2023 04:15:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ 
 
 # LINUX-SEC
 
@@ -60,22 +76,6 @@
  |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
  |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
  
 
 # CERT-SANTE
