@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/09/2023 17:29:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/09/2023 18:17:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
+ |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
+ |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
+ |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
+ |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,23 +60,6 @@
  |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
  |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
  |[USN-6367-1: Firefox vulnerability](https://www.linux.org/threads/usn-6367-1-firefox-vulnerability.46704/)|Visit link for details.|Sep 14, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress - CVE-2023-41955](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-41955-2023-09-15)|Visit link for details.|15/09/2023|
- |[Microsoft - CVE-2023-38146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38146-2023-09-15)|Visit link for details.|15/09/2023|
- |[HPE - CVE-2023-30909](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30909-2023-09-15)|Visit link for details.|15/09/2023|
- |[D-Link - CVE-2023-39638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39638-2023-09-15)|Visit link for details.|15/09/2023|
- |[Cisco - CVE-2023-20269](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20269-2023-09-15)|Visit link for details.|15/09/2023|
- |[Fortinet - CVE-2023-29183](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29183-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-39332](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-39332-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36796](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36796-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36793](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36793-2023-09-14)|Visit link for details.|14/09/2023|
- |[Apple - CVE-2023-41990](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41990-2023-09-14)|Visit link for details.|14/09/2023|
- |[Microsoft - CVE-2023-36802](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36802-2023-09-13)|Visit link for details.|13/09/2023|
  
 
 # CERT-FR
@@ -79,20 +78,21 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
- |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
- |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
- |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
- |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
+ |[WordPress - CVE-2023-41955](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-41955-2023-09-15)|Visit link for details.|15/09/2023|
+ |[Microsoft - CVE-2023-38146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38146-2023-09-15)|Visit link for details.|15/09/2023|
+ |[HPE - CVE-2023-30909](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30909-2023-09-15)|Visit link for details.|15/09/2023|
+ |[D-Link - CVE-2023-39638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39638-2023-09-15)|Visit link for details.|15/09/2023|
+ |[Cisco - CVE-2023-20269](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20269-2023-09-15)|Visit link for details.|15/09/2023|
+ |[Fortinet - CVE-2023-29183](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-29183-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-39332](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-39332-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36796](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36796-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36793](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36793-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Apple - CVE-2023-41990](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41990-2023-09-14)|Visit link for details.|14/09/2023|
+ |[Microsoft - CVE-2023-36802](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36802-2023-09-13)|Visit link for details.|13/09/2023|
  
 
 # OBS-Vigilance
