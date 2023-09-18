@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2023 16:14:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2023 17:32:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -116,6 +116,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
+ |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Friday, September 15, 2023 01:55:59 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
@@ -125,8 +127,12 @@
  |[2023-060: Critical Vulnerability in VMware Aria Operations for Networks ](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-060.pdf)|On August 29, VMware released security updates to patch one critical (CVE-2023-34039) and one high-severity (CVE-2023-20890) vulnerability in Aria Operations for Networks, its enterprise network monitoring tool. The flaws were responsibly reported to the vendor and as of the time of writing, there is no evidence of exploitation in the wild.|Thursday, August 31, 2023 04:26:11 PM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, August 29, 2023 05:14:09 PM CEST|
  |[2023-058: Critical Vulnerability in MobileIron Sentry](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-058.pdf)|On July 24, 2023, Ivanti published a security advisory about a vulnerability discovered in Ivanti Sentry, formerly known as MobileIron Sentry. The vulnerability tracked as CVE-2023-38035 is an API authentication bypass being exploited in the wild. A successful exploitation allows an attacker to change configuration, run system commands, or write files onto systems.|Tuesday, August 22, 2023 10:45:45 AM CEST|
- |[2023-057: Microsoft August 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-057.pdf)|Microsoft has released its August 2023 Patch Tuesday Security Updates, addressing a total of 74 Microsoft|Thursday, August 10, 2023 01:52:15 PM CEST|
- |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Tuesday, August 08, 2023 01:01:13 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -143,10 +149,4 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230913)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 13 Sep 2023 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...| Release Date: 8 Sep 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-09-06] Updated Impact...| Release Date: 5 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
