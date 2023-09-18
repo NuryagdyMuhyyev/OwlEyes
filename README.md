@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/09/2023 03:15:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/09/2023 04:16:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,27 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
+ |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
+ |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
+ |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6381-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6381-1-gnu-binutils-vulnerabilities.46763/)|Visit link for details.|Sep 18, 2023|
  |[USN-6339-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6339-4-linux-kernel-intel-iotg-vulnerabilities.46762/)|Visit link for details.|Sep 18, 2023|
  |[USN-6379-1: vsftpd vulnerability](https://www.linux.org/threads/usn-6379-1-vsftpd-vulnerability.46761/)|Visit link for details.|Sep 18, 2023|
  |[USN-6378-1: Django vulnerability](https://www.linux.org/threads/usn-6378-1-django-vulnerability.46760/)|Visit link for details.|Sep 18, 2023|
@@ -43,7 +60,6 @@
  |[USN-6374-1: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-1-mutt-vulnerabilities.46724/)|Visit link for details.|Sep 15, 2023|
  |[USN-6373-1: gawk vulnerability](https://www.linux.org/threads/usn-6373-1-gawk-vulnerability.46723/)|Visit link for details.|Sep 15, 2023|
  |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
- |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
  
 
 # CERT-FR
@@ -62,22 +78,6 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
- |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Sep 14, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
- |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
- |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,12 +93,6 @@
  |[HPE - CVE-2023-30909](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30909-2023-09-15)|Visit link for details.|15/09/2023|
  |[D-Link - CVE-2023-39638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39638-2023-09-15)|Visit link for details.|15/09/2023|
  |[Cisco - CVE-2023-20269](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20269-2023-09-15)|Visit link for details.|15/09/2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -133,6 +127,12 @@
  |[2023-060: Critical Vulnerability in VMware Aria Operations for Networks ](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-060.pdf)|On August 29, VMware released security updates to patch one critical (CVE-2023-34039) and one high-severity (CVE-2023-20890) vulnerability in Aria Operations for Networks, its enterprise network monitoring tool. The flaws were responsibly reported to the vendor and as of the time of writing, there is no evidence of exploitation in the wild.|Thursday, August 31, 2023 04:26:11 PM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, August 29, 2023 05:14:09 PM CEST|
  |[2023-058: Critical Vulnerability in MobileIron Sentry](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-058.pdf)|On July 24, 2023, Ivanti published a security advisory about a vulnerability discovered in Ivanti Sentry, formerly known as MobileIron Sentry. The vulnerability tracked as CVE-2023-38035 is an API authentication bypass being exploited in the wild. A successful exploitation allows an attacker to change configuration, run system commands, or write files onto systems.|Tuesday, August 22, 2023 10:45:45 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
