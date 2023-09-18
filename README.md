@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2023 12:15:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2023 13:21:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Disable-Outbound-Federation-42313" class="noirorange"><b>Matrix Synapse</b>: denial of service via Disable Outbound Federation</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Disable-Outbound-Federation-42313)|An attacker can cause a fatal error of Matrix Synapse, via Disable Outbound Federation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Same-Room-Rejected-Events-42312" class="noirorange"><b>Matrix Synapse</b>: denial of service via Same Room Rejected Events</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Same-Room-Rejected-Events-42312)|An attacker can cause a fatal error of Matrix Synapse, via Same Room Rejected Events, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-out-of-bounds-memory-reading-via-decompress-smooth-data-42311" class="noirorange"><b>libjpeg-turbo</b>: out-of-bounds memory reading via decompress_smooth_data()</a>](https://vigilance.fr/vulnerability/libjpeg-turbo-out-of-bounds-memory-reading-via-decompress-smooth-data-42311)|An attacker can force a read at an invalid memory address of libjpeg-turbo, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42310" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42310)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/atftpd-denial-of-service-via-Non-existent-File-42309" class="noirorange"><b>atftpd</b>: denial of service via Non-existent File</a>](https://vigilance.fr/vulnerability/atftpd-denial-of-service-via-Non-existent-File-42309)|An attacker can cause a fatal error of atftpd, via Non-existent File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42308" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42308)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
@@ -107,9 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305" class="noirorange"><b>c-ares</b>: buffer overflow via ares_parse_soa_reply()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305)|An attacker can trigger a buffer overflow of c-ares, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299" class="noirorange"><b>Apereo CAS Server</b>: user access via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299)|An attacker can bypass restrictions of Apereo CAS Server, via OAuth/OpenID Connect, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/borgbackup-denial-of-service-via-Fake-Archives-42298" class="noirorange"><b>borgbackup</b>: denial of service via Fake Archives</a>](https://vigilance.fr/vulnerability/borgbackup-denial-of-service-via-Fake-Archives-42298)|An attacker can cause a fatal error of borgbackup, via Fake Archives, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-user-access-via-OpenId-Revoked-Authentication-42297" class="noirorange"><b>Eclipse Jetty</b>: user access via OpenId Revoked Authentication</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-user-access-via-OpenId-Revoked-Authentication-42297)|An attacker can bypass restrictions of Eclipse Jetty, via OpenId Revoked Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296" class="noirorange"><b>Eclipse Jetty</b>: code execution via CGI Servlet Command Quoting</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296)|An attacker can use a vulnerability of Eclipse Jetty, via CGI Servlet Command Quoting, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295" class="noirorange"><b>Eclipse Jetty</b>: header injection via Content-Length Plus</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295)|An attacker can add new headers on Eclipse Jetty, via Content-Length Plus, in order to alter the service behavior...|Visit link for details|
  
 
 # MA-CERT
