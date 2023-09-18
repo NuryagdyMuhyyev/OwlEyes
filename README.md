@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2023 18:18:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2023 19:16:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5498 thunderbird - security update](https://www.linux.org/threads/dsa-5498-thunderbird-security-update.46746/)|Visit link for details.|Sep 17, 2023|
- |[USN-6375-1: atftp vulnerability](https://www.linux.org/threads/usn-6375-1-atftp-vulnerability.46729/)|Visit link for details.|Sep 15, 2023|
- |[USN-6374-1: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-1-mutt-vulnerabilities.46724/)|Visit link for details.|Sep 15, 2023|
- |[USN-6373-1: gawk vulnerability](https://www.linux.org/threads/usn-6373-1-gawk-vulnerability.46723/)|Visit link for details.|Sep 15, 2023|
- |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
- |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
- |[DSA-5497 libwebp - security update](https://www.linux.org/threads/dsa-5497-libwebp-security-update.46720/)|Visit link for details.|Sep 14, 2023|
- |[DSA-5496 firefox-esr - security update](https://www.linux.org/threads/dsa-5496-firefox-esr-security-update.46719/)|Visit link for details.|Sep 14, 2023|
- |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
- |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
- |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
  
 
 # US-CERT
@@ -62,20 +61,21 @@
  |[CISA Releases its Open Source Software Security Roadmap](https://www.cisa.gov/news-events/alerts/2023/09/12/cisa-releases-its-open-source-software-security-roadmap)|Visit link for details.|Sep 12, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans IBM DB2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0748/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0747/)|Une vulnérabilité a été découverte dans |Publié le 14 septembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 septembre 2023|
+ |[DSA-5498 thunderbird - security update](https://www.linux.org/threads/dsa-5498-thunderbird-security-update.46746/)|Visit link for details.|Sep 17, 2023|
+ |[USN-6375-1: atftp vulnerability](https://www.linux.org/threads/usn-6375-1-atftp-vulnerability.46729/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6374-1: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-1-mutt-vulnerabilities.46724/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6373-1: gawk vulnerability](https://www.linux.org/threads/usn-6373-1-gawk-vulnerability.46723/)|Visit link for details.|Sep 15, 2023|
+ |[USN-6372-1: DBus vulnerability](https://www.linux.org/threads/usn-6372-1-dbus-vulnerability.46722/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6371-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6371-1-libssh2-vulnerability.46721/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5497 libwebp - security update](https://www.linux.org/threads/dsa-5497-libwebp-security-update.46720/)|Visit link for details.|Sep 14, 2023|
+ |[DSA-5496 firefox-esr - security update](https://www.linux.org/threads/dsa-5496-firefox-esr-security-update.46719/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6370-1: ModSecurity vulnerabilities](https://www.linux.org/threads/usn-6370-1-modsecurity-vulnerabilities.46718/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6369-1: libwebp vulnerability](https://www.linux.org/threads/usn-6369-1-libwebp-vulnerability.46717/)|Visit link for details.|Sep 14, 2023|
+ |[USN-6368-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6368-1-thunderbird-vulnerabilities.46705/)|Visit link for details.|Sep 14, 2023|
  
 
 # CERT-SANTE
