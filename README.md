@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2023 11:22:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2023 12:15:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42310" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42310)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/atftpd-denial-of-service-via-Non-existent-File-42309" class="noirorange"><b>atftpd</b>: denial of service via Non-existent File</a>](https://vigilance.fr/vulnerability/atftpd-denial-of-service-via-Non-existent-File-42309)|An attacker can cause a fatal error of atftpd, via Non-existent File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42308" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42308)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-F-Secure-Anti-Virus-denial-of-service-via-Aerdl-dll-Unpacker-Function-42307" class="noirorange"><b>WithSecure Endpoint Protection  F-Secure Anti-Virus</b>: denial of service via Aerdl.dll Unpacker Function</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-F-Secure-Anti-Virus-denial-of-service-via-Aerdl-dll-Unpacker-Function-42307)|An attacker can cause a fatal error of WithSecure Endpoint Protection  F-Secure Anti-Virus, via Aerdl.dll Unpacker Function, in order to trigger a denial of service...|Visit link for details|
@@ -109,7 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-user-access-via-OpenId-Revoked-Authentication-42297" class="noirorange"><b>Eclipse Jetty</b>: user access via OpenId Revoked Authentication</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-user-access-via-OpenId-Revoked-Authentication-42297)|An attacker can bypass restrictions of Eclipse Jetty, via OpenId Revoked Authentication, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296" class="noirorange"><b>Eclipse Jetty</b>: code execution via CGI Servlet Command Quoting</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296)|An attacker can use a vulnerability of Eclipse Jetty, via CGI Servlet Command Quoting, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295" class="noirorange"><b>Eclipse Jetty</b>: header injection via Content-Length Plus</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295)|An attacker can add new headers on Eclipse Jetty, via Content-Length Plus, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294" class="noirorange"><b>Linux kernel</b>: use after free via vmw_execbuf_tie_context()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # MA-CERT
