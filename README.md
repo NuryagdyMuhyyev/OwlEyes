@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/09/2023 20:17:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/09/2023 21:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6380-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6380-1-node-js-vulnerabilities.46777/)|Visit link for details.|Sep 19, 2023|
+ |[DSA-5502 xrdp - security update](https://www.linux.org/threads/dsa-5502-xrdp-security-update.46770/)|Visit link for details.|Sep 19, 2023|
+ |[DSA-5501 gnome-shell - security update](https://www.linux.org/threads/dsa-5501-gnome-shell-security-update.46769/)|Visit link for details.|Sep 19, 2023|
+ |[DSA-5500 flac - security update](https://www.linux.org/threads/dsa-5500-flac-security-update.46768/)|Visit link for details.|Sep 19, 2023|
+ |[DSA-5499 chromium - security update](https://www.linux.org/threads/dsa-5499-chromium-security-update.46767/)|Visit link for details.|Sep 19, 2023|
+ |[USN-6381-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6381-1-gnu-binutils-vulnerabilities.46763/)|Visit link for details.|Sep 18, 2023|
+ |[USN-6339-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6339-4-linux-kernel-intel-iotg-vulnerabilities.46762/)|Visit link for details.|Sep 18, 2023|
+ |[USN-6379-1: vsftpd vulnerability](https://www.linux.org/threads/usn-6379-1-vsftpd-vulnerability.46761/)|Visit link for details.|Sep 18, 2023|
+ |[USN-6378-1: Django vulnerability](https://www.linux.org/threads/usn-6378-1-django-vulnerability.46760/)|Visit link for details.|Sep 18, 2023|
+ |[USN-6377-1: LibRaw vulnerability](https://www.linux.org/threads/usn-6377-1-libraw-vulnerability.46759/)|Visit link for details.|Sep 18, 2023|
+ |[USN-6376-1: c-ares vulnerability](https://www.linux.org/threads/usn-6376-1-c-ares-vulnerability.46758/)|Visit link for details.|Sep 18, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
  |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
  |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/15/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Sep 15, 2023|
  |[CISA Releases Continuous Diagnostics and Mitigation Program: Identity, Credential, and Access Management (ICAM) Reference Architecture](https://www.cisa.gov/news-events/alerts/2023/09/15/cisa-releases-continuous-diagnostics-and-mitigation-program-identity-credential-and-access)|Visit link for details.|Sep 15, 2023|
@@ -41,8 +60,6 @@
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
  |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
  |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
- |[Microsoft Releases September 2023 Updates](https://www.cisa.gov/news-events/alerts/2023/09/12/microsoft-releases-september-2023-updates)|Visit link for details.|Sep 12, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2023|
  
 
 # CERT-FR
@@ -61,38 +78,21 @@
  |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6380-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6380-1-node-js-vulnerabilities.46777/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5502 xrdp - security update](https://www.linux.org/threads/dsa-5502-xrdp-security-update.46770/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5501 gnome-shell - security update](https://www.linux.org/threads/dsa-5501-gnome-shell-security-update.46769/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5500 flac - security update](https://www.linux.org/threads/dsa-5500-flac-security-update.46768/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5499 chromium - security update](https://www.linux.org/threads/dsa-5499-chromium-security-update.46767/)|Visit link for details.|Sep 19, 2023|
- |[USN-6381-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6381-1-gnu-binutils-vulnerabilities.46763/)|Visit link for details.|Sep 18, 2023|
- |[USN-6339-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6339-4-linux-kernel-intel-iotg-vulnerabilities.46762/)|Visit link for details.|Sep 18, 2023|
- |[USN-6379-1: vsftpd vulnerability](https://www.linux.org/threads/usn-6379-1-vsftpd-vulnerability.46761/)|Visit link for details.|Sep 18, 2023|
- |[USN-6378-1: Django vulnerability](https://www.linux.org/threads/usn-6378-1-django-vulnerability.46760/)|Visit link for details.|Sep 18, 2023|
- |[USN-6377-1: LibRaw vulnerability](https://www.linux.org/threads/usn-6377-1-libraw-vulnerability.46759/)|Visit link for details.|Sep 18, 2023|
- |[USN-6376-1: c-ares vulnerability](https://www.linux.org/threads/usn-6376-1-c-ares-vulnerability.46758/)|Visit link for details.|Sep 18, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
+ |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Cisco - CVE-2023-20236](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20236-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|19/09/2023|
+ |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|19/09/2023|
  |[Fortinet - CVE-2022-35849](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-35849-2023-09-18)|Visit link for details.|18/09/2023|
  |[Zoom - CVE-2023-39208](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39208-2023-09-18)|Visit link for details.|18/09/2023|
  |[QNAP - CVE-2023-23362](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23362-2023-09-18)|Visit link for details.|18/09/2023|
  |[Fortinet - CVE-2023-34984](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34984-2023-09-18)|Visit link for details.|18/09/2023|
- |[Microsoft Edge - CVE-2023-36735](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36735-2023-09-18)|Visit link for details.|18/09/2023|
- |[Aruba - CVE-2023-38485](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-38485-2023-09-11)|Visit link for details.|18/09/2023|
- |[WordPress - CVE-2023-41955](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-41955-2023-09-15)|Visit link for details.|15/09/2023|
- |[Microsoft - CVE-2023-38146](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38146-2023-09-15)|Visit link for details.|15/09/2023|
- |[HPE - CVE-2023-30909](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30909-2023-09-15)|Visit link for details.|15/09/2023|
- |[D-Link - CVE-2023-39638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-39638-2023-09-15)|Visit link for details.|15/09/2023|
- |[Cisco - CVE-2023-20269](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20269-2023-09-15)|Visit link for details.|15/09/2023|
  
 
 # OBS-Vigilance
@@ -112,12 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-display-debug-section-42319" class="noirorange"><b>GNU Binutils readelf</b>: buffer overflow via display_debug_section()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-display-debug-section-42319)|An attacker can trigger a buffer overflow of GNU Binutils readelf, via |Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,6 +127,12 @@
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
  |[2023-060: Critical Vulnerability in VMware Aria Operations for Networks ](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-060.pdf)|On August 29, VMware released security updates to patch one critical (CVE-2023-34039) and one high-severity (CVE-2023-20890) vulnerability in Aria Operations for Networks, its enterprise network monitoring tool. The flaws were responsibly reported to the vendor and as of the time of writing, there is no evidence of exploitation in the wild.|Thursday, August 31, 2023 04:26:11 PM CEST|
  |[2023-058: Critical Vulnerability in MobileIron Sentry](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-058.pdf)|On July 24, 2023, Ivanti published a security advisory about a vulnerability discovered in Ivanti Sentry, formerly known as MobileIron Sentry. The vulnerability tracked as CVE-2023-38035 is an API authentication bypass being exploited in the wild. A successful exploitation allows an attacker to change configuration, run system commands, or write files onto systems.|Tuesday, August 22, 2023 10:45:45 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
