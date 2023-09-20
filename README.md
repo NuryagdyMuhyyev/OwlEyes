@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/09/2023 00:13:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/09/2023 01:17:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
- |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
- |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
- |[USN-6386-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-1-linux-kernel-vulnerabilities.46788/)|Visit link for details.|Sep 20, 2023|
- |[USN-6385-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6385-1-linux-kernel-oem-vulnerabilities.46786/)|Visit link for details.|Sep 19, 2023|
- |[USN-6384-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6384-1-linux-kernel-oem-vulnerabilities.46785/)|Visit link for details.|Sep 19, 2023|
- |[USN-6383-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6383-1-linux-kernel-vulnerabilities.46784/)|Visit link for details.|Sep 19, 2023|
- |[USN-6382-1: Memcached vulnerability](https://www.linux.org/threads/usn-6382-1-memcached-vulnerability.46783/)|Visit link for details.|Sep 19, 2023|
- |[USN-6380-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6380-1-node-js-vulnerabilities.46777/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5502 xrdp - security update](https://www.linux.org/threads/dsa-5502-xrdp-security-update.46770/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5501 gnome-shell - security update](https://www.linux.org/threads/dsa-5501-gnome-shell-security-update.46769/)|Visit link for details.|Sep 19, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/14/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Sep 14, 2023|
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
  |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6392-1: libppd vulnerability](https://www.linux.org/threads/usn-6392-1-libppd-vulnerability.46806/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6386-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-1-linux-kernel-vulnerabilities.46788/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6385-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6385-1-linux-kernel-oem-vulnerabilities.46786/)|Visit link for details.|Sep 19, 2023|
+ |[USN-6384-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6384-1-linux-kernel-oem-vulnerabilities.46785/)|Visit link for details.|Sep 19, 2023|
+ |[USN-6383-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6383-1-linux-kernel-vulnerabilities.46784/)|Visit link for details.|Sep 19, 2023|
+ |[USN-6382-1: Memcached vulnerability](https://www.linux.org/threads/usn-6382-1-memcached-vulnerability.46783/)|Visit link for details.|Sep 19, 2023|
  
 
 # CERT-FR
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344" class="noirorange"><b>GNU Binutils addr2line</b>: out-of-bounds memory reading via parse_module()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344)|An attacker can force a read at an invalid memory address of GNU Binutils addr2line, via parse_module(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,12 +133,6 @@
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
