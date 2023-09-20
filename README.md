@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2023 20:16:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2023 21:22:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
  |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
  |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
  |[USN-6386-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-1-linux-kernel-vulnerabilities.46788/)|Visit link for details.|Sep 20, 2023|
@@ -43,7 +44,6 @@
  |[USN-6380-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6380-1-node-js-vulnerabilities.46777/)|Visit link for details.|Sep 19, 2023|
  |[DSA-5502 xrdp - security update](https://www.linux.org/threads/dsa-5502-xrdp-security-update.46770/)|Visit link for details.|Sep 19, 2023|
  |[DSA-5501 gnome-shell - security update](https://www.linux.org/threads/dsa-5501-gnome-shell-security-update.46769/)|Visit link for details.|Sep 19, 2023|
- |[DSA-5500 flac - security update](https://www.linux.org/threads/dsa-5500-flac-security-update.46768/)|Visit link for details.|Sep 19, 2023|
  
 
 # US-CERT
@@ -62,10 +62,47 @@
  |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|20/09/2023|
+ |[Solarwinds - CVE-2023-23845](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23845-2023-09-20)|Visit link for details.|20/09/2023|
+ |[Solarwinds - CVE-2023-23840](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23840-2023-09-20)|Visit link for details.|20/09/2023|
+ |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|20/09/2023|
+ |[GitLab - CVE-2023-5009](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5009-2023-09-20)|Visit link for details.|20/09/2023|
+ |[Linux - CVE-2022-4744](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2022-4744-2023-03-31)|Visit link for details.|20/09/2023|
+ |[Cisco - CVE-2023-20243](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20243-2023-09-07)|Visit link for details.|20/09/2023|
+ |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
+ |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357" class="noirorange"><b>Jenkins Build Failure Analyzer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357)|An attacker can use several vulnerabilities of Jenkins Build Failure Analyzer...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities via 2.4.2</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356)|An attacker can use several vulnerabilities of Jenkins Core LTS, via 2.4.2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352" class="noirorange"><b>Xen</b>: privilege escalation via Shadow Paging Mode</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352)|An attacker, in a guest system, can bypass restrictions of Xen, via Shadow Paging Mode, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351" class="noirorange"><b>Intel SSD Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351)|An attacker can use several vulnerabilities of Intel SSD Tools...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350" class="noirorange"><b>Aaugustin Websockets</b>: overload via Highly Compressed Data</a>](https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350)|An attacker can trigger an overload of Aaugustin Websockets, via Highly Compressed Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349" class="noirorange"><b>GNU Binutils</b>: denial of service via concat_filename()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349)|An attacker can cause a fatal error of GNU Binutils, via concat_filename(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348" class="noirorange"><b>GNU Binutils</b>: memory leak via find_abstract_instance()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348)|An attacker can create a memory leak of GNU Binutils, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347" class="noirorange"><b>GNU Binutils</b>: overload via bfd_dwarf2_find_nearest_line_with_alt()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346" class="noirorange"><b>GNU Binutils</b>: overload via load_separate_debug_files()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-objdump-denial-of-service-via-compare-symbols-42345" class="noirorange"><b>GNU Binutils objdump</b>: denial of service via compare_symbols()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-objdump-denial-of-service-via-compare-symbols-42345)|An attacker can cause a fatal error of GNU Binutils objdump, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344" class="noirorange"><b>GNU Binutils addr2line</b>: out-of-bounds memory reading via parse_module()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344)|An attacker can force a read at an invalid memory address of GNU Binutils addr2line, via parse_module(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
  |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
@@ -73,43 +110,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
- |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
- |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
- |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
- |[Cisco - CVE-2023-20236](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20236-2023-09-19)|Visit link for details.|19/09/2023|
- |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|19/09/2023|
- |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|19/09/2023|
- |[Fortinet - CVE-2022-35849](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-35849-2023-09-18)|Visit link for details.|18/09/2023|
- |[Zoom - CVE-2023-39208](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39208-2023-09-18)|Visit link for details.|18/09/2023|
- |[QNAP - CVE-2023-23362](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23362-2023-09-18)|Visit link for details.|18/09/2023|
- |[Fortinet - CVE-2023-34984](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34984-2023-09-18)|Visit link for details.|18/09/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339" class="noirorange"><b>ISC BIND</b>: denial of service via DNS-over-TLS Query Load</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339)|An attacker can cause a fatal error of ISC BIND, via DNS-over-TLS Query Load, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-overload-via-Network-42338" class="noirorange"><b>Atlassian Confluence Server/DC</b>: overload via Network</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-overload-via-Network-42338)|An attacker can trigger an overload of Atlassian Confluence Server/DC, via Network, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336" class="noirorange"><b>libpano13</b>: vulnerability via Command-line Tools</a>](https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336)|A vulnerability of libpano13, via Command-line Tools, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via bgp_nlri_parse_flowspec()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334" class="noirorange"><b>FRRouting</b>: buffer overflow via Rcv Software Version Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334)|An attacker can trigger a buffer overflow of FRRouting, via Rcv Software Version Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-ORF-Header-42333" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via ORF Header</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-ORF-Header-42333)|An attacker can force a read at an invalid memory address of FRRouting, via ORF Header, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libyang-eight-vulnerabilities-42332" class="noirorange"><b>libyang</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/libyang-eight-vulnerabilities-42332)|An attacker can use several vulnerabilities of libyang...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331" class="noirorange"><b>Linux kernel</b>: privilege escalation via arm64 mem_protect.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331)|An attacker can bypass restrictions of the Linux kernel, via arm64 mem_protect.c, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330" class="noirorange"><b>Linux kernel</b>: memory reading via cec-api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330)|An attacker can read a memory fragment of the Linux kernel, via cec-api.c, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328" class="noirorange"><b>Elasticsearch</b>: denial of service via _search API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328)|An attacker can cause a fatal error of Elasticsearch, via _search API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327" class="noirorange"><b>Linux kernel</b>: integer overflow via kmalloc_reserve()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327)|An attacker can trigger an integer overflow of the Linux kernel, via kmalloc_reserve(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -122,6 +122,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-068: High Severity Vulnerability in Bitbucket Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-068.pdf)|On September 19, Atlassian released a security bulletin addressing several vulnerabilities among which a high severity vulnerability, identified by "CVE-2023-22513", that could allow an authenticated attacker to execute arbitrary code on the server.|Wednesday, September 20, 2023 05:17:50 PM CEST|
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
@@ -132,7 +133,6 @@
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
- |[2023-060: Critical Vulnerability in VMware Aria Operations for Networks ](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-060.pdf)|On August 29, VMware released security updates to patch one critical (CVE-2023-34039) and one high-severity (CVE-2023-20890) vulnerability in Aria Operations for Networks, its enterprise network monitoring tool. The flaws were responsibly reported to the vendor and as of the time of writing, there is no evidence of exploitation in the wild.|Thursday, August 31, 2023 04:26:11 PM CEST|
  
 
 # HK-CERT
