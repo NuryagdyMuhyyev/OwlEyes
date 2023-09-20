@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2023 12:15:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2023 13:21:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
- |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,10 +79,27 @@
  |[Fortinet - CVE-2023-34984](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34984-2023-09-18)|Visit link for details.|18/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
+ |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-overload-via-Network-42338" class="noirorange"><b>Atlassian Confluence Server/DC</b>: overload via Network</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-overload-via-Network-42338)|An attacker can trigger an overload of Atlassian Confluence Server/DC, via Network, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336" class="noirorange"><b>libpano13</b>: vulnerability via Command-line Tools</a>](https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336)|A vulnerability of libpano13, via Command-line Tools, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via bgp_nlri_parse_flowspec()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334" class="noirorange"><b>FRRouting</b>: buffer overflow via Rcv Software Version Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334)|An attacker can trigger a buffer overflow of FRRouting, via Rcv Software Version Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -109,7 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328" class="noirorange"><b>Elasticsearch</b>: denial of service via _search API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328)|An attacker can cause a fatal error of Elasticsearch, via _search API, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327" class="noirorange"><b>Linux kernel</b>: integer overflow via kmalloc_reserve()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327)|An attacker can trigger an integer overflow of the Linux kernel, via kmalloc_reserve(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326" class="noirorange"><b>Netatalk</b>: memory corruption via dalloc_value_for_key()</a>](https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326)|An attacker can trigger a memory corruption of Netatalk, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325" class="noirorange"><b>GitLab CE/EE</b>: code execution via Scan Execution Policies</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325)|An attacker can use a vulnerability of GitLab CE/EE, via Scan Execution Policies, in order to run code...|Visit link for details|
  
 
 # MA-CERT
