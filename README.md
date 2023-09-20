@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2023 21:22:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2023 22:15:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -94,22 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346" class="noirorange"><b>GNU Binutils</b>: overload via load_separate_debug_files()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-objdump-denial-of-service-via-compare-symbols-42345" class="noirorange"><b>GNU Binutils objdump</b>: denial of service via compare_symbols()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-objdump-denial-of-service-via-compare-symbols-42345)|An attacker can cause a fatal error of GNU Binutils objdump, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344" class="noirorange"><b>GNU Binutils addr2line</b>: out-of-bounds memory reading via parse_module()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-addr2line-out-of-bounds-memory-reading-via-parse-module-42344)|An attacker can force a read at an invalid memory address of GNU Binutils addr2line, via parse_module(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
- |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
  
 
 # MA-CERT
