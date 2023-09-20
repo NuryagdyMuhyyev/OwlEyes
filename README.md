@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2023 11:22:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2023 12:15:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5500 flac - security update](https://www.linux.org/threads/dsa-5500-flac-security-update.46768/)|Visit link for details.|Sep 19, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
- |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/13/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 13, 2023|
  |[CISA Adds Three Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/13/cisa-adds-three-known-vulnerabilities-catalog)|Visit link for details.|Sep 13, 2023|
  |[Apple Releases Security Updates for iOS and macOS](https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos)|Visit link for details.|Sep 12, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
+ |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
  
 
 # CERT-SANTE
@@ -99,17 +99,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336" class="noirorange"><b>libpano13</b>: vulnerability via Command-line Tools</a>](https://vigilance.fr/vulnerability/libpano13-vulnerability-via-Command-line-Tools-42336)|A vulnerability of libpano13, via Command-line Tools, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via bgp_nlri_parse_flowspec()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-bgp-nlri-parse-flowspec-42335)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334" class="noirorange"><b>FRRouting</b>: buffer overflow via Rcv Software Version Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334)|An attacker can trigger a buffer overflow of FRRouting, via Rcv Software Version Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-ORF-Header-42333" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via ORF Header</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-ORF-Header-42333)|An attacker can force a read at an invalid memory address of FRRouting, via ORF Header, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-eight-vulnerabilities-42332" class="noirorange"><b>libyang</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/libyang-eight-vulnerabilities-42332)|An attacker can use several vulnerabilities of libyang...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331" class="noirorange"><b>Linux kernel</b>: privilege escalation via arm64 mem_protect.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331)|An attacker can bypass restrictions of the Linux kernel, via arm64 mem_protect.c, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330" class="noirorange"><b>Linux kernel</b>: memory reading via cec-api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330)|An attacker can read a memory fragment of the Linux kernel, via cec-api.c, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328" class="noirorange"><b>Elasticsearch</b>: denial of service via _search API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328)|An attacker can cause a fatal error of Elasticsearch, via _search API, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327" class="noirorange"><b>Linux kernel</b>: integer overflow via kmalloc_reserve()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327)|An attacker can trigger an integer overflow of the Linux kernel, via kmalloc_reserve(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326" class="noirorange"><b>Netatalk</b>: memory corruption via dalloc_value_for_key()</a>](https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326)|An attacker can trigger a memory corruption of Netatalk, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325" class="noirorange"><b>GitLab CE/EE</b>: code execution via Scan Execution Policies</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325)|An attacker can use a vulnerability of GitLab CE/EE, via Scan Execution Policies, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324" class="noirorange"><b>giflib</b>: memory corruption via getarg.c</a>](https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324)|An attacker can trigger a memory corruption of giflib, via getarg.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323" class="noirorange"><b>GNOME Screenshot</b>: information disclosure via Locked Session Keyboard Shortcut</a>](https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323)|An attacker can bypass access restrictions to data of GNOME Screenshot, via Locked Session Keyboard Shortcut, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322" class="noirorange"><b>GNU Binutils objdump</b>: NULL pointer dereference via bfd_mach_o_get_synthetic_symtab()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322)|An attacker can force a NULL pointer to be dereferenced on GNU Binutils objdump, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321" class="noirorange"><b>GNU Binutils readelf</b>: buffer overflow via find_section_in_set()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321)|An attacker can trigger a buffer overflow of GNU Binutils readelf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320" class="noirorange"><b>GNU Binutils</b>: memory reading via tic4x_print_cond()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320)|An attacker can read a memory fragment of GNU Binutils, via tic4x_print_cond(), in order to obtain sensitive information...|Visit link for details|
  
 
 # MA-CERT
