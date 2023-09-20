@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2023 04:15:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2023 06:10:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[DSA-5500 flac - security update](https://www.linux.org/threads/dsa-5500-flac-security-update.46768/)|Visit link for details.|Sep 19, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
- |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
- |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
- |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
- |[Cisco - CVE-2023-20236](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20236-2023-09-19)|Visit link for details.|19/09/2023|
- |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|19/09/2023|
- |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|19/09/2023|
- |[Fortinet - CVE-2022-35849](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-35849-2023-09-18)|Visit link for details.|18/09/2023|
- |[Zoom - CVE-2023-39208](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39208-2023-09-18)|Visit link for details.|18/09/2023|
- |[QNAP - CVE-2023-23362](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23362-2023-09-18)|Visit link for details.|18/09/2023|
- |[Fortinet - CVE-2023-34984](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34984-2023-09-18)|Visit link for details.|18/09/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -83,39 +66,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
+ |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
+ |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0753/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Vulnérabilité dans Apache Struts](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0750/)|Une vulnérabilité a été découverte dans Apache|Publié le 14 septembre 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331" class="noirorange"><b>Linux kernel</b>: privilege escalation via arm64 mem_protect.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331)|An attacker can bypass restrictions of the Linux kernel, via arm64 mem_protect.c, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330" class="noirorange"><b>Linux kernel</b>: memory reading via cec-api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330)|An attacker can read a memory fragment of the Linux kernel, via cec-api.c, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328" class="noirorange"><b>Elasticsearch</b>: denial of service via _search API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328)|An attacker can cause a fatal error of Elasticsearch, via _search API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327" class="noirorange"><b>Linux kernel</b>: integer overflow via kmalloc_reserve()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327)|An attacker can trigger an integer overflow of the Linux kernel, via kmalloc_reserve(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326" class="noirorange"><b>Netatalk</b>: memory corruption via dalloc_value_for_key()</a>](https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326)|An attacker can trigger a memory corruption of Netatalk, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325" class="noirorange"><b>GitLab CE/EE</b>: code execution via Scan Execution Policies</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325)|An attacker can use a vulnerability of GitLab CE/EE, via Scan Execution Policies, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324" class="noirorange"><b>giflib</b>: memory corruption via getarg.c</a>](https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324)|An attacker can trigger a memory corruption of giflib, via getarg.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323" class="noirorange"><b>GNOME Screenshot</b>: information disclosure via Locked Session Keyboard Shortcut</a>](https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323)|An attacker can bypass access restrictions to data of GNOME Screenshot, via Locked Session Keyboard Shortcut, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322" class="noirorange"><b>GNU Binutils objdump</b>: NULL pointer dereference via bfd_mach_o_get_synthetic_symtab()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322)|An attacker can force a NULL pointer to be dereferenced on GNU Binutils objdump, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321" class="noirorange"><b>GNU Binutils readelf</b>: buffer overflow via find_section_in_set()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321)|An attacker can trigger a buffer overflow of GNU Binutils readelf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320" class="noirorange"><b>GNU Binutils</b>: memory reading via tic4x_print_cond()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320)|An attacker can read a memory fragment of GNU Binutils, via tic4x_print_cond(), in order to obtain sensitive information...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
+ |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
+ |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Cisco - CVE-2023-20236](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20236-2023-09-19)|Visit link for details.|19/09/2023|
+ |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|19/09/2023|
+ |[Google Chrome - CVE-2023-4352](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4352-2023-08-16)|Visit link for details.|19/09/2023|
+ |[Fortinet - CVE-2022-35849](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2022-35849-2023-09-18)|Visit link for details.|18/09/2023|
+ |[Zoom - CVE-2023-39208](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2023-39208-2023-09-18)|Visit link for details.|18/09/2023|
+ |[QNAP - CVE-2023-23362](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23362-2023-09-18)|Visit link for details.|18/09/2023|
+ |[Fortinet - CVE-2023-34984](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34984-2023-09-18)|Visit link for details.|18/09/2023|
  
 
 # EU-CERT
@@ -135,6 +112,12 @@
  |[2023-058: Critical Vulnerability in MobileIron Sentry](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-058.pdf)|On July 24, 2023, Ivanti published a security advisory about a vulnerability discovered in Ivanti Sentry, formerly known as MobileIron Sentry. The vulnerability tracked as CVE-2023-38035 is an API authentication bypass being exploited in the wild. A successful exploitation allows an attacker to change configuration, run system commands, or write files onto systems.|Tuesday, August 22, 2023 10:45:45 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -149,4 +132,21 @@
  |[Adobe Monthly Security Update (September 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Connect Medium RiskCross-site ScriptingRemote Code Execution APSB23-33Adobe Acrobat and Reader Extremely...|Release Date: 13 Sep 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230913)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 13 Sep 2023 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230908)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:For CVE-2023-41064,  processing a maliciously crafted image may lead to arbitrary...| Release Date: 8 Sep 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331" class="noirorange"><b>Linux kernel</b>: privilege escalation via arm64 mem_protect.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-arm64-mem-protect-c-42331)|An attacker can bypass restrictions of the Linux kernel, via arm64 mem_protect.c, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330" class="noirorange"><b>Linux kernel</b>: memory reading via cec-api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-cec-api-c-42330)|An attacker can read a memory fragment of the Linux kernel, via cec-api.c, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328" class="noirorange"><b>Elasticsearch</b>: denial of service via _search API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-search-API-42328)|An attacker can cause a fatal error of Elasticsearch, via _search API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327" class="noirorange"><b>Linux kernel</b>: integer overflow via kmalloc_reserve()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kmalloc-reserve-42327)|An attacker can trigger an integer overflow of the Linux kernel, via kmalloc_reserve(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326" class="noirorange"><b>Netatalk</b>: memory corruption via dalloc_value_for_key()</a>](https://vigilance.fr/vulnerability/Netatalk-memory-corruption-via-dalloc-value-for-key-42326)|An attacker can trigger a memory corruption of Netatalk, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325" class="noirorange"><b>GitLab CE/EE</b>: code execution via Scan Execution Policies</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-Scan-Execution-Policies-42325)|An attacker can use a vulnerability of GitLab CE/EE, via Scan Execution Policies, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324" class="noirorange"><b>giflib</b>: memory corruption via getarg.c</a>](https://vigilance.fr/vulnerability/giflib-memory-corruption-via-getarg-c-42324)|An attacker can trigger a memory corruption of giflib, via getarg.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323" class="noirorange"><b>GNOME Screenshot</b>: information disclosure via Locked Session Keyboard Shortcut</a>](https://vigilance.fr/vulnerability/GNOME-Screenshot-information-disclosure-via-Locked-Session-Keyboard-Shortcut-42323)|An attacker can bypass access restrictions to data of GNOME Screenshot, via Locked Session Keyboard Shortcut, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322" class="noirorange"><b>GNU Binutils objdump</b>: NULL pointer dereference via bfd_mach_o_get_synthetic_symtab()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-objdump-NULL-pointer-dereference-via-bfd-mach-o-get-synthetic-symtab-42322)|An attacker can force a NULL pointer to be dereferenced on GNU Binutils objdump, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321" class="noirorange"><b>GNU Binutils readelf</b>: buffer overflow via find_section_in_set()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-readelf-buffer-overflow-via-find-section-in-set-42321)|An attacker can trigger a buffer overflow of GNU Binutils readelf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320" class="noirorange"><b>GNU Binutils</b>: memory reading via tic4x_print_cond()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-reading-via-tic4x-print-cond-42320)|An attacker can read a memory fragment of GNU Binutils, via tic4x_print_cond(), in order to obtain sensitive information...|Visit link for details|
  
