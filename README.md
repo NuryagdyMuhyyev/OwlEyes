@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/09/2023 20:16:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/09/2023 21:20:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5503 netatalk - security update](https://www.linux.org/threads/dsa-5503-netatalk-security-update.46810/)|Visit link for details.|Sep 21, 2023|
- |[USN-6392-1: libppd vulnerability](https://www.linux.org/threads/usn-6392-1-libppd-vulnerability.46806/)|Visit link for details.|Sep 20, 2023|
- |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
- |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
- |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
- |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
- |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
- |[USN-6386-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-1-linux-kernel-vulnerabilities.46788/)|Visit link for details.|Sep 20, 2023|
- |[USN-6385-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6385-1-linux-kernel-oem-vulnerabilities.46786/)|Visit link for details.|Sep 19, 2023|
- |[USN-6384-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6384-1-linux-kernel-oem-vulnerabilities.46785/)|Visit link for details.|Sep 19, 2023|
- |[USN-6383-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6383-1-linux-kernel-vulnerabilities.46784/)|Visit link for details.|Sep 19, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,9 +49,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
  |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
@@ -76,23 +56,43 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
+ |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6391-2: CUPS vulnerability](https://www.linux.org/threads/usn-6391-2-cups-vulnerability.46815/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6393-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6393-1-imagemagick-vulnerability.46814/)|Visit link for details.|Sep 21, 2023|
+ |[DSA-5503 netatalk - security update](https://www.linux.org/threads/dsa-5503-netatalk-security-update.46810/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6392-1: libppd vulnerability](https://www.linux.org/threads/usn-6392-1-libppd-vulnerability.46806/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6386-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-1-linux-kernel-vulnerabilities.46788/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6385-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6385-1-linux-kernel-oem-vulnerabilities.46786/)|Visit link for details.|Sep 19, 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|21/09/2023|
+ |[MOVEit - CVE-2023-42660](https://www.cyberveille-sante.gouv.fr/alertes/moveit-cve-2023-42660-2023-09-21)|Visit link for details.|21/09/2023|
+ |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|21/09/2023|
+ |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|21/09/2023|
+ |[D-Link - CVE-2023-5074](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5074-2023-09-21)|Visit link for details.|21/09/2023|
  |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|20/09/2023|
  |[Solarwinds - CVE-2023-23845](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23845-2023-09-20)|Visit link for details.|20/09/2023|
  |[Solarwinds - CVE-2023-23840](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23840-2023-09-20)|Visit link for details.|20/09/2023|
  |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|20/09/2023|
  |[GitLab - CVE-2023-5009](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5009-2023-09-20)|Visit link for details.|20/09/2023|
- |[Linux - CVE-2022-4744](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2022-4744-2023-03-31)|Visit link for details.|20/09/2023|
  |[Cisco - CVE-2023-20243](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20243-2023-09-07)|Visit link for details.|20/09/2023|
- |[PHP - CVE-2023-3824](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3824-2023-09-19)|Visit link for details.|19/09/2023|
- |[PHP - CVE-2023-3823](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2023-3823-2023-09-19)|Visit link for details.|19/09/2023|
- |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/09/2023|
- |[Zoho ManageEngine - CVE-2023-38743](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2023-38743-2023-09-19)|Visit link for details.|19/09/2023|
  
 
 # OBS-Vigilance
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350" class="noirorange"><b>Aaugustin Websockets</b>: overload via Highly Compressed Data</a>](https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350)|An attacker can trigger an overload of Aaugustin Websockets, via Highly Compressed Data, in order to trigger a denial of service...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,12 +133,6 @@
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
