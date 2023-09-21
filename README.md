@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/09/2023 07:21:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/09/2023 08:16:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
  |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
@@ -73,9 +76,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
  |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Deep Discovery Inspector](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0756/)|De multiples vulnérabilités ont été découverte dans TrendMicro Deep Discovery Inspector. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0755/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0754/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 septembre 2023|
  
 
 # CERT-SANTE
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346" class="noirorange"><b>GNU Binutils</b>: overload via load_separate_debug_files()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -126,12 +132,6 @@
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230913)|A vulnerability was identified in Mozilla Products, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. It is aware that...|Release Date: 13 Sep 2023 |
  |[Adobe Monthly Security Update (September 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Connect Medium RiskCross-site ScriptingRemote Code Execution APSB23-33Adobe Acrobat and Reader Extremely...|Release Date: 13 Sep 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230913)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 13 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
