@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2023 17:31:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2023 18:20:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,10 +95,18 @@
  |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base32-Base64-42370" class="noirorange"><b>Apache Commons Codec</b>: information disclosure via Base32 / Base64</a>](https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base32-Base64-42370)|An attacker can bypass access restrictions to data of Apache Commons Codec, via Base32 / Base64, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via rcube_string_replacer.php</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369)|An attacker can trigger a Cross Site Scripting of Roundcube, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368" class="noirorange"><b>Ivanti Endpoint Manager</b>: file reading</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368)|An attacker can read a file of Ivanti Endpoint Manager, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367" class="noirorange"><b>Ivanti Endpoint Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367)|An attacker can transmit malicious XML data to Ivanti Endpoint Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
@@ -108,14 +116,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360" class="noirorange"><b>Open Virtual Network OVN</b>: overload via Service Monitor MAC Flow</a>](https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360)|An attacker can trigger an overload of Open Virtual Network OVN, via Service Monitor MAC Flow, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359" class="noirorange"><b>OpenBSD</b>: denial of service via Npppd L2tp Message AVP Length</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359)|An attacker can cause a fatal error of OpenBSD, via Npppd L2tp Message AVP Length, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357" class="noirorange"><b>Jenkins Build Failure Analyzer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357)|An attacker can use several vulnerabilities of Jenkins Build Failure Analyzer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities via 2.4.2</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356)|An attacker can use several vulnerabilities of Jenkins Core LTS, via 2.4.2...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
