@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2023 12:15:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2023 13:20:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368" class="noirorange"><b>Ivanti Endpoint Manager</b>: file reading</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368)|An attacker can read a file of Ivanti Endpoint Manager, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367" class="noirorange"><b>Ivanti Endpoint Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367)|An attacker can transmit malicious XML data to Ivanti Endpoint Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363" class="noirorange"><b>Cargo</b>: Cross Site Scripting via Feature Names</a>](https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363)|An attacker can trigger a Cross Site Scripting of Cargo, via Feature Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362" class="noirorange"><b>Zope</b>: Cross Site Scripting via SVG Images</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362)|An attacker can trigger a Cross Site Scripting of Zope, via SVG Images, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357" class="noirorange"><b>Jenkins Build Failure Analyzer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357)|An attacker can use several vulnerabilities of Jenkins Build Failure Analyzer...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities via 2.4.2</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356)|An attacker can use several vulnerabilities of Jenkins Core LTS, via 2.4.2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352" class="noirorange"><b>Xen</b>: privilege escalation via Shadow Paging Mode</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352)|An attacker, in a guest system, can bypass restrictions of Xen, via Shadow Paging Mode, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351" class="noirorange"><b>Intel SSD Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351)|An attacker can use several vulnerabilities of Intel SSD Tools...|Visit link for details|
  
 
 # MA-CERT
