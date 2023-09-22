@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2023 20:17:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2023 21:21:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,33 +66,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
  |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
  |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
- |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|22/09/2023|
  |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|21/09/2023|
  |[MOVEit - CVE-2023-42660](https://www.cyberveille-sante.gouv.fr/alertes/moveit-cve-2023-42660-2023-09-21)|Visit link for details.|21/09/2023|
  |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|21/09/2023|
  |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|21/09/2023|
  |[D-Link - CVE-2023-5074](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5074-2023-09-21)|Visit link for details.|21/09/2023|
- |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|20/09/2023|
- |[Solarwinds - CVE-2023-23845](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23845-2023-09-20)|Visit link for details.|20/09/2023|
- |[Solarwinds - CVE-2023-23840](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-23840-2023-09-20)|Visit link for details.|20/09/2023|
- |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|20/09/2023|
- |[GitLab - CVE-2023-5009](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5009-2023-09-20)|Visit link for details.|20/09/2023|
- |[Cisco - CVE-2023-20243](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20243-2023-09-07)|Visit link for details.|20/09/2023|
  
 
 # OBS-Vigilance
