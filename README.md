@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2023 08:16:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2023 09:19:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6360-2: FLAC vulnerability](https://www.linux.org/threads/usn-6360-2-flac-vulnerability.46823/)|Visit link for details.|Sep 22, 2023|
  |[USN-6395-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6395-1-gnome-shell-vulnerability.46820/)|Visit link for details.|Sep 21, 2023|
  |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
  |[USN-6391-2: CUPS vulnerability](https://www.linux.org/threads/usn-6391-2-cups-vulnerability.46815/)|Visit link for details.|Sep 21, 2023|
@@ -43,7 +44,6 @@
  |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
  |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
  |[USN-6388-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6388-1-linux-kernel-vulnerabilities.46790/)|Visit link for details.|Sep 20, 2023|
- |[USN-6387-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-1-linux-kernel-vulnerabilities.46789/)|Visit link for details.|Sep 20, 2023|
  
 
 # US-CERT
