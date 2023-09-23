@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/09/2023 20:14:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/09/2023 21:19:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,21 +46,20 @@
  |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
- |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|22/09/2023|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|22/09/2023|
- |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|21/09/2023|
- |[MOVEit - CVE-2023-42660](https://www.cyberveille-sante.gouv.fr/alertes/moveit-cve-2023-42660-2023-09-21)|Visit link for details.|21/09/2023|
- |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|21/09/2023|
- |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|21/09/2023|
- |[D-Link - CVE-2023-5074](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5074-2023-09-21)|Visit link for details.|21/09/2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
+ |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
+ |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
  
 
 # CERT-FR
@@ -79,6 +78,23 @@
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|22/09/2023|
+ |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|21/09/2023|
+ |[MOVEit - CVE-2023-42660](https://www.cyberveille-sante.gouv.fr/alertes/moveit-cve-2023-42660-2023-09-21)|Visit link for details.|21/09/2023|
+ |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|21/09/2023|
+ |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|21/09/2023|
+ |[D-Link - CVE-2023-5074](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5074-2023-09-21)|Visit link for details.|21/09/2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -94,22 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363" class="noirorange"><b>Cargo</b>: Cross Site Scripting via Feature Names</a>](https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363)|An attacker can trigger a Cross Site Scripting of Cargo, via Feature Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362" class="noirorange"><b>Zope</b>: Cross Site Scripting via SVG Images</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362)|An attacker can trigger a Cross Site Scripting of Zope, via SVG Images, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361" class="noirorange"><b>AMD Processors</b>: memory leak via DXE Driver</a>](https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361)|An attacker can create a memory leak of AMD Processors, via DXE Driver, in order to trigger a denial of service...|Visit link for details|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
- |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
- |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
  
 
 # MA-CERT
