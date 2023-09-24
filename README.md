@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/09/2023 20:15:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/09/2023 21:19:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -129,6 +129,12 @@
  |[2023-061: Zero-Click Vulnerabilities in Apple Operating Systems](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-061.pdf)|In an article published on September 7 2023, Citizen Lab uncovered an actively exploited zero-click vulnerability used to deliver NSO Group's Pegasus spyware on an employee of a Washington DC based civil society organisation. This exploit, named "BLASTPASS" could compromise iPhones running the latest iOS version without user interaction. The exploit involved "PassKit" attachments containing malicious images sent from an attacker iMessage account to the victim.|Friday, September 08, 2023 12:08:31 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -143,10 +149,4 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 15 Sep 2023 |
  |[Microsoft Monthly Security Update (September 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low Risk  Windows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassCVE...| Release Date: 13 Sep 2023 |
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230913)|A vulnerability was identified in Mozilla Products, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-4863, heap buffer overflow in WebP may lead to arbitrary code execution. It is aware that...|Release Date: 13 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
