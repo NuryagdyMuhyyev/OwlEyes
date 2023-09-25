@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 00:13:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 01:17:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-5143](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5143-2023-09-25)|Visit link for details.|25/09/2023|
- |[Linux - CVE-2023-42753](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-42753-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|25/09/2023|
- |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
- |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -83,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
@@ -91,14 +76,32 @@
  |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
  |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-5143](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5143-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Linux - CVE-2023-42753](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-42753-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|25/09/2023|
+ |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382" class="noirorange"><b>Centreon Web</b>: SQL injection via centreonLogAction.class.php</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382)|An attacker can use a SQL injection of Centreon Web, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381" class="noirorange"><b>ModSecurity</b>: overload via Algorithmic Complexity</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381)|An attacker can trigger an overload of ModSecurity, via Algorithmic Complexity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
@@ -107,9 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374" class="noirorange"><b>Apache Tomcat Connectors</b>: information disclosure via mod_jk ForwardDirectories</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374)|An attacker can bypass access restrictions to data of Apache Tomcat Connectors, via mod_jk ForwardDirectories, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372" class="noirorange"><b>exempi</b>: buffer overflow via ID3_Support::ID3v2Frame::getFrameValue()</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372)|An attacker can trigger a buffer overflow of exempi, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371" class="noirorange"><b>Elasticsearch</b>: overload via HTTP Requests</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371)|An attacker can trigger an overload of Elasticsearch, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base32-Base64-42370" class="noirorange"><b>Apache Commons Codec</b>: information disclosure via Base32 / Base64</a>](https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base32-Base64-42370)|An attacker can bypass access restrictions to data of Apache Commons Codec, via Base32 / Base64, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via rcube_string_replacer.php</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369)|An attacker can trigger a Cross Site Scripting of Roundcube, via |Visit link for details|
  
 
 # MA-CERT
