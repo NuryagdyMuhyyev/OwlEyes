@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 02:14:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 03:15:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-5143](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5143-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Linux - CVE-2023-42753](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-42753-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|25/09/2023|
+ |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
+ |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +95,21 @@
  |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-5143](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5143-2023-09-25)|Visit link for details.|25/09/2023|
- |[Linux - CVE-2023-42753](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-42753-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|25/09/2023|
- |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
- |[Nagios - CVE-2023-40933](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40933-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|22/09/2023|
- |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382" class="noirorange"><b>Centreon Web</b>: SQL injection via centreonLogAction.class.php</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382)|An attacker can use a SQL injection of Centreon Web, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381" class="noirorange"><b>ModSecurity</b>: overload via Algorithmic Complexity</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381)|An attacker can trigger an overload of ModSecurity, via Algorithmic Complexity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via ip_set_hash_netportnet</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374" class="noirorange"><b>Apache Tomcat Connectors</b>: information disclosure via mod_jk ForwardDirectories</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374)|An attacker can bypass access restrictions to data of Apache Tomcat Connectors, via mod_jk ForwardDirectories, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372" class="noirorange"><b>exempi</b>: buffer overflow via ID3_Support::ID3v2Frame::getFrameValue()</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372)|An attacker can trigger a buffer overflow of exempi, via |Visit link for details|
  
 
 # MA-CERT
@@ -132,21 +149,4 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230912)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-4863, ...| Release Date: 12 Sep 2023 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 15 Sep 2023 |
  |[Microsoft Monthly Security Update (September 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low Risk  Windows High RiskElevation of PrivilegeDenial of ServiceInformation DisclosureRemote Code ExecutionSecurity Restriction BypassCVE...| Release Date: 13 Sep 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382" class="noirorange"><b>Centreon Web</b>: SQL injection via centreonLogAction.class.php</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382)|An attacker can use a SQL injection of Centreon Web, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381" class="noirorange"><b>ModSecurity</b>: overload via Algorithmic Complexity</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381)|An attacker can trigger an overload of ModSecurity, via Algorithmic Complexity, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via ip_set_hash_netportnet</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374" class="noirorange"><b>Apache Tomcat Connectors</b>: information disclosure via mod_jk ForwardDirectories</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374)|An attacker can bypass access restrictions to data of Apache Tomcat Connectors, via mod_jk ForwardDirectories, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372" class="noirorange"><b>exempi</b>: buffer overflow via ID3_Support::ID3v2Frame::getFrameValue()</a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372)|An attacker can trigger a buffer overflow of exempi, via |Visit link for details|
  
