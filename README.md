@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/09/2023 12:15:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/09/2023 13:22:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5504 bind9 - security update](https://www.linux.org/threads/dsa-5504-bind9-security-update.46830/)|Visit link for details.|Sep 23, 2023|
- |[USN-6360-2: FLAC vulnerability](https://www.linux.org/threads/usn-6360-2-flac-vulnerability.46823/)|Visit link for details.|Sep 22, 2023|
- |[USN-6395-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6395-1-gnome-shell-vulnerability.46820/)|Visit link for details.|Sep 21, 2023|
- |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
- |[USN-6391-2: CUPS vulnerability](https://www.linux.org/threads/usn-6391-2-cups-vulnerability.46815/)|Visit link for details.|Sep 21, 2023|
- |[USN-6393-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6393-1-imagemagick-vulnerability.46814/)|Visit link for details.|Sep 21, 2023|
- |[DSA-5503 netatalk - security update](https://www.linux.org/threads/dsa-5503-netatalk-security-update.46810/)|Visit link for details.|Sep 21, 2023|
- |[USN-6392-1: libppd vulnerability](https://www.linux.org/threads/usn-6392-1-libppd-vulnerability.46806/)|Visit link for details.|Sep 20, 2023|
- |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
- |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
- |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/18/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ |[DSA-5504 bind9 - security update](https://www.linux.org/threads/dsa-5504-bind9-security-update.46830/)|Visit link for details.|Sep 23, 2023|
+ |[USN-6360-2: FLAC vulnerability](https://www.linux.org/threads/usn-6360-2-flac-vulnerability.46823/)|Visit link for details.|Sep 22, 2023|
+ |[USN-6395-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6395-1-gnome-shell-vulnerability.46820/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6391-2: CUPS vulnerability](https://www.linux.org/threads/usn-6391-2-cups-vulnerability.46815/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6393-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6393-1-imagemagick-vulnerability.46814/)|Visit link for details.|Sep 21, 2023|
+ |[DSA-5503 netatalk - security update](https://www.linux.org/threads/dsa-5503-netatalk-security-update.46810/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6392-1: libppd vulnerability](https://www.linux.org/threads/usn-6392-1-libppd-vulnerability.46806/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6390-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6390-1-bind-vulnerabilities.46804/)|Visit link for details.|Sep 20, 2023|
+ |[USN-6389-1: Indent vulnerability](https://www.linux.org/threads/usn-6389-1-indent-vulnerability.46802/)|Visit link for details.|Sep 20, 2023|
  
 
 # CERT-SANTE
@@ -95,10 +79,28 @@
  |[D-Link - CVE-2023-5074](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5074-2023-09-21)|Visit link for details.|21/09/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via ip_set_hash_netportnet</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374" class="noirorange"><b>Apache Tomcat Connectors</b>: information disclosure via mod_jk ForwardDirectories</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374)|An attacker can bypass access restrictions to data of Apache Tomcat Connectors, via mod_jk ForwardDirectories, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via rcube_string_replacer.php</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369)|An attacker can trigger a Cross Site Scripting of Roundcube, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368" class="noirorange"><b>Ivanti Endpoint Manager</b>: file reading</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368)|An attacker can read a file of Ivanti Endpoint Manager, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367" class="noirorange"><b>Ivanti Endpoint Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367)|An attacker can transmit malicious XML data to Ivanti Endpoint Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363" class="noirorange"><b>Cargo</b>: Cross Site Scripting via Feature Names</a>](https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363)|An attacker can trigger a Cross Site Scripting of Cargo, via Feature Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # MA-CERT
