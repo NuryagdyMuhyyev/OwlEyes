@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 18:20:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 19:16:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385" class="noirorange"><b>Linux kernel</b>: denial of service via vringh_kiov_advance()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Rsvp Traffic Classifier</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Rsvp Traffic Classifier, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cadence-file-corruption-42383" class="noirorange"><b>Cadence</b>: file corruption</a>](https://vigilance.fr/vulnerability/Cadence-file-corruption-42383)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Cadence...|Visit link for details|
@@ -109,13 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via ip_set_hash_netportnet</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -133,6 +127,12 @@
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
