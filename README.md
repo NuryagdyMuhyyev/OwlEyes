@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2023 01:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2023 02:14:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,26 +46,13 @@
  |[DSA-5503 netatalk - security update](https://www.linux.org/threads/dsa-5503-netatalk-security-update.46810/)|Visit link for details.|Sep 21, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
- |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
- |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
@@ -73,9 +60,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
  
 
 # CERT-SANTE
@@ -110,6 +94,22 @@
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
+ |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
+ |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
  
 
 # HK-CERT
