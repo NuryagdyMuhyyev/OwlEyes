@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 06:11:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 07:23:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,20 +46,20 @@
  |[USN-6391-1: CUPS vulnerability](https://www.linux.org/threads/usn-6391-1-cups-vulnerability.46805/)|Visit link for details.|Sep 20, 2023|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
+ |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
+ |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
  
 
 # CERT-SANTE
@@ -79,20 +79,20 @@
  |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|22/09/2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
- |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
- |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  
 
 # OBS-Vigilance
