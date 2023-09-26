@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 20:18:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 21:21:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
@@ -59,7 +60,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
  |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2023|
  
 
 # CERT-FR
@@ -82,17 +82,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Docker Desktop - CVE-2023-0626](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0626-2023-09-26)|Visit link for details.|26/09/2023|
+ |[WordPress - CVE-2023-4274](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-4274-2023-09-26)|Visit link for details.|26/09/2023|
+ |[QNAP - CVE-2023-23363](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23363-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Google WebP - CVE-2023-5129](https://www.cyberveille-sante.gouv.fr/alertes/google-webp-cve-2023-5129-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
  |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|26/09/2023|
  |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|26/09/2023|
  |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|26/09/2023|
  |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
  |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
  |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-5143](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-5143-2023-09-25)|Visit link for details.|25/09/2023|
- |[Linux - CVE-2023-42753](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-42753-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40931](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40931-2023-09-20)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43196](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43196-2023-09-21)|Visit link for details.|25/09/2023|
- |[TP-Link - CVE-2023-43135](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-43135-2023-09-22)|Visit link for details.|22/09/2023|
  
 
 # OBS-Vigilance
