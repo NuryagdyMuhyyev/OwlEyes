@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2023 21:21:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2023 22:15:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,9 +66,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
@@ -76,6 +73,9 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
  
 
 # CERT-SANTE
