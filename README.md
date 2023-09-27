@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2023 17:33:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2023 18:20:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,20 +46,21 @@
  |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Docker Desktop - CVE-2023-0626](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0626-2023-09-26)|Visit link for details.|26/09/2023|
+ |[WordPress - CVE-2023-4274](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-4274-2023-09-26)|Visit link for details.|26/09/2023|
+ |[QNAP - CVE-2023-23363](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23363-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Google WebP - CVE-2023-5129](https://www.cyberveille-sante.gouv.fr/alertes/google-webp-cve-2023-5129-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|26/09/2023|
+ |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|26/09/2023|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|26/09/2023|
+ |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
+ |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
  
 
 # US-CERT
@@ -78,21 +79,20 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Docker Desktop - CVE-2023-0626](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0626-2023-09-26)|Visit link for details.|26/09/2023|
- |[WordPress - CVE-2023-4274](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-4274-2023-09-26)|Visit link for details.|26/09/2023|
- |[QNAP - CVE-2023-23363](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23363-2023-09-26)|Visit link for details.|26/09/2023|
- |[Google WebP - CVE-2023-5129](https://www.cyberveille-sante.gouv.fr/alertes/google-webp-cve-2023-5129-2023-09-26)|Visit link for details.|26/09/2023|
- |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
- |[Apple - CVE-2023-41991](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41991-2023-09-22)|Visit link for details.|26/09/2023|
- |[Apple - CVE-2023-41992](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41992-2023-09-22)|Visit link for details.|26/09/2023|
- |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|26/09/2023|
- |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
- |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
- |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  
 
 # OBS-Vigilance
@@ -110,6 +110,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385" class="noirorange"><b>Linux kernel</b>: denial of service via vringh_kiov_advance()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Rsvp Traffic Classifier</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Rsvp Traffic Classifier, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cadence-file-corruption-42383" class="noirorange"><b>Cadence</b>: file corruption</a>](https://vigilance.fr/vulnerability/Cadence-file-corruption-42383)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Cadence...|Visit link for details|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -143,10 +149,4 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20230920)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Sep 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230918)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-4863, ...|Release Date: 18 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
