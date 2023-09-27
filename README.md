@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2023 12:15:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2023 13:21:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
- |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
- |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
- |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
- |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
- |[USN-6365-2: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-2-open-vm-tools-vulnerability.46848/)|Visit link for details.|Sep 25, 2023|
- |[USN-6190-2: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-2-accountsservice-vulnerability.46847/)|Visit link for details.|Sep 25, 2023|
- |[DSA-5504 bind9 - security update](https://www.linux.org/threads/dsa-5504-bind9-security-update.46830/)|Visit link for details.|Sep 23, 2023|
- |[USN-6360-2: FLAC vulnerability](https://www.linux.org/threads/usn-6360-2-flac-vulnerability.46823/)|Visit link for details.|Sep 22, 2023|
- |[USN-6395-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6395-1-gnome-shell-vulnerability.46820/)|Visit link for details.|Sep 21, 2023|
- |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
- 
 
 # US-CERT
 
@@ -78,6 +61,23 @@
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
+ |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
+ |[USN-6365-2: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-2-open-vm-tools-vulnerability.46848/)|Visit link for details.|Sep 25, 2023|
+ |[USN-6190-2: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-2-accountsservice-vulnerability.46847/)|Visit link for details.|Sep 25, 2023|
+ |[DSA-5504 bind9 - security update](https://www.linux.org/threads/dsa-5504-bind9-security-update.46830/)|Visit link for details.|Sep 23, 2023|
+ |[USN-6360-2: FLAC vulnerability](https://www.linux.org/threads/usn-6360-2-flac-vulnerability.46823/)|Visit link for details.|Sep 22, 2023|
+ |[USN-6395-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6395-1-gnome-shell-vulnerability.46820/)|Visit link for details.|Sep 21, 2023|
+ |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -99,6 +99,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Gopher-Gateway-Responses-42390" class="noirorange"><b>Squid</b>: NULL pointer dereference via Gopher Gateway Responses</a>](https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Gopher-Gateway-Responses-42390)|An attacker can force a NULL pointer to be dereferenced on Squid, via Gopher Gateway Responses, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Gopher-Gateway-Protocol-Responses-42389" class="noirorange"><b>Squid</b>: buffer overflow via Gopher Gateway Protocol Responses</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Gopher-Gateway-Protocol-Responses-42389)|An attacker can trigger a buffer overflow of Squid, via Gopher Gateway Protocol Responses, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387" class="noirorange"><b>Node.js semver</b>: overload via New Range Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387)|An attacker can trigger an overload of Node.js semver, via New Range Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382" class="noirorange"><b>Centreon Web</b>: SQL injection via centreonLogAction.class.php</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-centreonLogAction-class-php-42382)|An attacker can use a SQL injection of Centreon Web, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381" class="noirorange"><b>ModSecurity</b>: overload via Algorithmic Complexity</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-Algorithmic-Complexity-42381)|An attacker can trigger an overload of ModSecurity, via Algorithmic Complexity, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
  
 
 # MA-CERT
