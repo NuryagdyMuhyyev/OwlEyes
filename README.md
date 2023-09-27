@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2023 16:13:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2023 17:33:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6394-1: Python vulnerability](https://www.linux.org/threads/usn-6394-1-python-vulnerability.46819/)|Visit link for details.|Sep 21, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
- |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
- |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
+ |[Atlassian Releases September Security Bulletin](https://www.cisa.gov/news-events/alerts/2023/09/21/atlassian-releases-september-security-bulletin)|Visit link for details.|Sep 21, 2023|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2023/09/21/isc-releases-security-advisories-bind-9)|Visit link for details.|Sep 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/09/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Sep 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 21, 2023|
+ |[FBI and CISA Release Advisory on Snatch Ransomware](https://www.cisa.gov/news-events/alerts/2023/09/20/fbi-and-cisa-release-advisory-snatch-ransomware)|Visit link for details.|Sep 20, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
  
 
 # CERT-SANTE
@@ -112,12 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cadence-file-corruption-42383" class="noirorange"><b>Cadence</b>: file corruption</a>](https://vigilance.fr/vulnerability/Cadence-file-corruption-42383)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Cadence...|Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -149,4 +143,10 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20230920)|A vulnerability was identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Sep 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230918)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-4863, ...|Release Date: 18 Sep 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
