@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2023 08:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2023 09:19:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 19, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[QNAP - CVE-2023-23364](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23364-2023-09-25)|Visit link for details.|25/09/2023|
  |[Nagios - CVE-2023-40934](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-40934-2023-09-25)|Visit link for details.|25/09/2023|
  |[D-Link - CVE-2023-43197](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43197-2023-09-25)|Visit link for details.|25/09/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0770/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  
 
 # OBS-Vigilance
@@ -112,12 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,6 +127,12 @@
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
