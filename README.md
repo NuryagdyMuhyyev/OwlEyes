@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/09/2023 02:14:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/09/2023 03:15:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
+ |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
+ |[USN-6365-2: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-2-open-vm-tools-vulnerability.46848/)|Visit link for details.|Sep 25, 2023|
+ |[USN-6190-2: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-2-accountsservice-vulnerability.46847/)|Visit link for details.|Sep 25, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/21/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 21, 2023|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
- |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
- |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
- |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
- |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
- |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
- |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
- |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
- |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
- |[USN-6365-2: Open VM Tools vulnerability](https://www.linux.org/threads/usn-6365-2-open-vm-tools-vulnerability.46848/)|Visit link for details.|Sep 25, 2023|
- |[USN-6190-2: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-2-accountsservice-vulnerability.46847/)|Visit link for details.|Sep 25, 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans Symantec Protection Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0782/)|Une vulnérabilité a été découverte dans Symantec Protection Engine. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
  
 
 # CERT-SANTE
@@ -79,22 +95,6 @@
  |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|27/09/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans Symantec Protection Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0782/)|Une vulnérabilité a été découverte dans Symantec Protection Engine. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -112,6 +112,28 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated...| Release Date: 15 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, spoofing, data manipulation, information disclosure, denial of service and security restriction bypass on the targeted system. Note:For...|Release Date: 27 Sep 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-4863, heap...|Release Date: 27 Sep 2023 |
+ |[Palo Alto Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-denial-of-service-vulnerability_20230927)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 27 Sep 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230925)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 25 Sep 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230922)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-41991, a malicious app may be able...|Release Date: 22 Sep 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230922)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 22 Sep 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,26 +149,4 @@
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated...| Release Date: 15 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, spoofing, data manipulation, information disclosure, denial of service and security restriction bypass on the targeted system. Note:For...|Release Date: 27 Sep 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-4863, heap...|Release Date: 27 Sep 2023 |
- |[Palo Alto Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-denial-of-service-vulnerability_20230927)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 27 Sep 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230925)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system.|Release Date: 25 Sep 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230922)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and security restriction bypass on the targeted system. Note:For CVE-2023-41991, a malicious app may be able...|Release Date: 22 Sep 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230922)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 22 Sep 2023 |
  
