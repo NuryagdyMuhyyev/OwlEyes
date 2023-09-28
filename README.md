@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/09/2023 08:16:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/09/2023 09:19:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[DSA-5504 bind9 - security update](https://www.linux.org/threads/dsa-5504-bind9-security-update.46830/)|Visit link for details.|Sep 23, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
- |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|27/09/2023|
- |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|27/09/2023|
- |[Apple - CVE-2023-40451](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40451-2023-09-27)|Visit link for details.|27/09/2023|
- |[Apple - CVE-2023-40432](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40432-2023-09-27)|Visit link for details.|27/09/2023|
- |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|27/09/2023|
- |[Docker Desktop - CVE-2023-0626](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0626-2023-09-26)|Visit link for details.|26/09/2023|
- |[WordPress - CVE-2023-4274](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-4274-2023-09-26)|Visit link for details.|26/09/2023|
- |[QNAP - CVE-2023-23363](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23363-2023-09-26)|Visit link for details.|26/09/2023|
- |[Google WebP - CVE-2023-5129](https://www.cyberveille-sante.gouv.fr/alertes/google-webp-cve-2023-5129-2023-09-26)|Visit link for details.|26/09/2023|
- |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -83,16 +66,33 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans Symantec Protection Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0782/)|Une vulnérabilité a été découverte dans Symantec Protection Engine. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
+ |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|27/09/2023|
+ |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|27/09/2023|
+ |[Apple - CVE-2023-40451](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40451-2023-09-27)|Visit link for details.|27/09/2023|
+ |[Apple - CVE-2023-40432](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40432-2023-09-27)|Visit link for details.|27/09/2023|
+ |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|27/09/2023|
+ |[Docker Desktop - CVE-2023-0626](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0626-2023-09-26)|Visit link for details.|26/09/2023|
+ |[WordPress - CVE-2023-4274](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-4274-2023-09-26)|Visit link for details.|26/09/2023|
+ |[QNAP - CVE-2023-23363](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23363-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Google WebP - CVE-2023-5129](https://www.cyberveille-sante.gouv.fr/alertes/google-webp-cve-2023-5129-2023-09-26)|Visit link for details.|26/09/2023|
+ |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
  
 
 # OBS-Vigilance
