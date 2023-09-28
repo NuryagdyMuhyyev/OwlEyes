@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/09/2023 15:17:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/09/2023 16:13:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6190-2: AccountsService vulnerability](https://www.linux.org/threads/usn-6190-2-accountsservice-vulnerability.46847/)|Visit link for details.|Sep 25, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans Symantec Protection Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0782/)|Une vulnérabilité a été découverte dans Symantec Protection Engine. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
+ |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -79,22 +95,6 @@
  |[Docker Desktop - CVE-2023-0625](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2023-0625-2023-09-26)|Visit link for details.|26/09/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0774/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 septembre 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-privilege-escalation-via-Command-Authorization-42404" class="noirorange"><b>Cisco IOS  IOS XE</b>: privilege escalation via Command Authorization</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-privilege-escalation-via-Command-Authorization-42404)|An attacker can bypass restrictions of Cisco IOS  IOS XE, via Command Authorization, in order to escalate his privileges...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,12 +133,6 @@
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
  |[2023-064: Microsoft September 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-064.pdf)|Microsoft has released its September 2023 Patch Tuesday Security Updates, addressing a total of 59 |Wednesday, September 13, 2023 06:41:04 PM CEST|
  |[2023-062: Cisco Remote Access VPN Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-062.pdf)|On July 12, 2023, Cisco released an advisory to address a vulnerability in the remote access VPN feature of Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defence (FTD) software. It could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or an authenticated, remote attacker to establish a client-less SSL VPN session with an unauthorised user.|Monday, September 11, 2023 05:04:13 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
