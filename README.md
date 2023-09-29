@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/09/2023 18:20:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/09/2023 19:14:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
+ |[DSA-5506 firefox-esr - security update](https://www.linux.org/threads/dsa-5506-firefox-esr-security-update.46891/)|Visit link for details.|Sep 29, 2023|
+ |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
+ |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
+ 
 
 # US-CERT
 
@@ -61,30 +78,13 @@
  |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
- |[DSA-5506 firefox-esr - security update](https://www.linux.org/threads/dsa-5506-firefox-esr-security-update.46891/)|Visit link for details.|Sep 29, 2023|
- |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
- |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
- |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
- |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
- |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
- |[USN-6397-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6397-1-linux-kernel-bluefield-vulnerabilities.46873/)|Visit link for details.|Sep 27, 2023|
- |[USN-6396-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6396-1-linux-kernel-vulnerabilities.46872/)|Visit link for details.|Sep 27, 2023|
- |[USN-6361-2: CUPS vulnerability](https://www.linux.org/threads/usn-6361-2-cups-vulnerability.46866/)|Visit link for details.|Sep 26, 2023|
- |[DSA-5505 lldpd - security update](https://www.linux.org/threads/dsa-5505-lldpd-security-update.46857/)|Visit link for details.|Sep 26, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
  |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
  |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|28/09/2023|
  |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
  |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
  |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
