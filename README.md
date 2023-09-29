@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/09/2023 15:17:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/09/2023 16:13:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
@@ -73,9 +76,6 @@
  |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
  |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0778/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0777/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0776/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 septembre 2023|
  
 
 # CERT-SANTE
