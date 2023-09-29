@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/09/2023 19:14:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/09/2023 20:17:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
- |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
- |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
- |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
- |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|27/09/2023|
- |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|27/09/2023|
- |[Apple - CVE-2023-40451](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40451-2023-09-27)|Visit link for details.|27/09/2023|
- |[Apple - CVE-2023-40432](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40432-2023-09-27)|Visit link for details.|27/09/2023|
- |[Microsoft - CVE-2023-33137](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-33137-2023-06-28)|Visit link for details.|27/09/2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,6 +93,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411" class="noirorange"><b>Linux kernel</b>: assertion error via IPSET_CMD_ADD / IPSET_CMD_SWAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411)|An attacker can force an assertion error of the Linux kernel, via IPSET_CMD_ADD / IPSET_CMD_SWAP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
+ |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Acronis - CVE-2023-44206](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44206-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
+ |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
+ |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
  
 
 # MA-CERT
