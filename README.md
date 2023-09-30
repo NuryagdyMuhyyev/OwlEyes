@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/09/2023 16:12:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/09/2023 17:29:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5510 libvpx - security update](https://www.linux.org/threads/dsa-5510-libvpx-security-update.46905/)|Visit link for details.|Sep 30, 2023|
+ |[DSA-5509 firefox-esr - security update](https://www.linux.org/threads/dsa-5509-firefox-esr-security-update.46904/)|Visit link for details.|Sep 30, 2023|
+ |[DSA-5508 chromium - security update](https://www.linux.org/threads/dsa-5508-chromium-security-update.46903/)|Visit link for details.|Sep 30, 2023|
+ |[USN-6386-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6386-2-linux-kernel-raspberry-pi-vulnerabilities.46898/)|Visit link for details.|Sep 29, 2023|
+ |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
+ |[DSA-5506 firefox-esr - security update](https://www.linux.org/threads/dsa-5506-firefox-esr-security-update.46891/)|Visit link for details.|Sep 29, 2023|
+ |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
+ |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
+ |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
+ 
 
 # US-CERT
 
@@ -59,23 +76,6 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
  |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5510 libvpx - security update](https://www.linux.org/threads/dsa-5510-libvpx-security-update.46905/)|Visit link for details.|Sep 30, 2023|
- |[DSA-5509 firefox-esr - security update](https://www.linux.org/threads/dsa-5509-firefox-esr-security-update.46904/)|Visit link for details.|Sep 30, 2023|
- |[DSA-5508 chromium - security update](https://www.linux.org/threads/dsa-5508-chromium-security-update.46903/)|Visit link for details.|Sep 30, 2023|
- |[USN-6386-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6386-2-linux-kernel-raspberry-pi-vulnerabilities.46898/)|Visit link for details.|Sep 29, 2023|
- |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
- |[DSA-5506 firefox-esr - security update](https://www.linux.org/threads/dsa-5506-firefox-esr-security-update.46891/)|Visit link for details.|Sep 29, 2023|
- |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
- |[USN-6400-1: Python vulnerability](https://www.linux.org/threads/usn-6400-1-python-vulnerability.46884/)|Visit link for details.|Sep 28, 2023|
- |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
- |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
- |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
  
 
 # CERT-SANTE
