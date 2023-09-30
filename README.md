@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/09/2023 04:16:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/09/2023 06:09:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
  |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0784/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 septembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans Symantec Protection Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0782/)|Une vulnérabilité a été découverte dans Symantec Protection Engine. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0781/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0780/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2023|
- |[Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0779/)|Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2023|
  
 
 # CERT-SANTE
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,12 +133,6 @@
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
  |[2023-065: Adobe Acrobat and Reader Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-065.pdf)|On September 12, 2023, Adobe released a security update that addresses a critical, zero-day vulnerability, which has been exploited in the wild. The vulnerability affects both Windows and MacOS systems and is being tracked as CVE-2023-26369.|Wednesday, September 13, 2023 06:44:05 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
