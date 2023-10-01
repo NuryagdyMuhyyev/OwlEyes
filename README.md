@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/10/2023 06:20:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/10/2023 07:28:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
- |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,23 +44,6 @@
  |[USN-6399-1: Puma vulnerability](https://www.linux.org/threads/usn-6399-1-puma-vulnerability.46880/)|Visit link for details.|Sep 27, 2023|
  |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
  |[USN-6387-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6387-2-linux-kernel-vulnerabilities.46874/)|Visit link for details.|Sep 27, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
- |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|29/09/2023|
- |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
- |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
- |[Acronis - CVE-2023-44206](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44206-2023-09-29)|Visit link for details.|29/09/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
- |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
- |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
- |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
  
 
 # US-CERT
@@ -95,6 +62,22 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,6 +93,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412" class="noirorange"><b>Drupal Entity Cache</b>: information disclosure via Wildcard Characters</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412)|An attacker can bypass access restrictions to data of Drupal Entity Cache, via Wildcard Characters, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411" class="noirorange"><b>Linux kernel</b>: assertion error via IPSET_CMD_ADD / IPSET_CMD_SWAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411)|An attacker can force an assertion error of the Linux kernel, via IPSET_CMD_ADD / IPSET_CMD_SWAP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
+ |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Acronis - CVE-2023-44206](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44206-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
+ |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
+ |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
+ |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
  
 
 # MA-CERT
