@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/10/2023 20:18:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/10/2023 21:21:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6398-1: ReadyMedia vulnerabilities](https://www.linux.org/threads/usn-6398-1-readymedia-vulnerabilities.46879/)|Visit link for details.|Sep 27, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
- |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/22/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 22, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -82,17 +66,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[WebKitGTK et WPE WebKit - CVE-2023-39928](https://www.cyberveille-sante.gouv.fr/alertes/webkitgtk-et-wpe-webkit-cve-2023-39928-2023-10-02)|Visit link for details.|02/10/2023|
+ |[SonicWall - CVE-2023-44218](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44218-2023-10-02)|Visit link for details.|02/10/2023|
+ |[SonicWall - CVE-2023-44217](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44217-2023-10-02)|Visit link for details.|02/10/2023|
+ |[GitLab - CVE-2023-5207](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5207-2023-10-02)|Visit link for details.|02/10/2023|
+ |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|02/10/2023|
+ |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|02/10/2023|
+ |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|02/10/2023|
+ |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|02/10/2023|
  |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
- |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|29/09/2023|
  |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
  |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
- |[Acronis - CVE-2023-44206](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44206-2023-09-29)|Visit link for details.|29/09/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|29/09/2023|
- |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|28/09/2023|
- |[Acronis - CVE-2023-44152](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44152-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20252-2023-09-28)|Visit link for details.|28/09/2023|
- |[Cisco - CVE-2023-20231](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20231-2023-09-28)|Visit link for details.|28/09/2023|
- |[PgAdmin - CVE-2023-5002](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2023-5002-2023-09-27)|Visit link for details.|27/09/2023|
  
 
 # OBS-Vigilance
@@ -116,6 +100,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
+ |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
  
 
 # EU-CERT
