@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2023 03:15:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2023 04:16:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,39 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6386-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-3-linux-kernel-vulnerabilities.46958/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6409-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6409-1-gnu-c-library-vulnerabilities.46957/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6408-1: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-1-libxpm-vulnerabilities.46956/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6407-1: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-1-libx11-vulnerabilities.46955/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5514 glibc - security update](https://www.linux.org/threads/dsa-5514-glibc-security-update.46954/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5513 thunderbird - security update](https://www.linux.org/threads/dsa-5513-thunderbird-security-update.46953/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6406-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6406-1-spidermonkey-vulnerabilities.46951/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5512 exim4 - security update](https://www.linux.org/threads/dsa-5512-exim4-security-update.46936/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6403-1: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-1-libvpx-vulnerabilities.46934/)|Visit link for details.|Oct 2, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
+ |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -43,23 +76,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5514 glibc - security update](https://www.linux.org/threads/dsa-5514-glibc-security-update.46954/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5513 thunderbird - security update](https://www.linux.org/threads/dsa-5513-thunderbird-security-update.46953/)|Visit link for details.|Oct 3, 2023|
- |[USN-6406-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6406-1-spidermonkey-vulnerabilities.46951/)|Visit link for details.|Oct 3, 2023|
- |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
- |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5512 exim4 - security update](https://www.linux.org/threads/dsa-5512-exim4-security-update.46936/)|Visit link for details.|Oct 3, 2023|
- |[USN-6403-1: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-1-libvpx-vulnerabilities.46934/)|Visit link for details.|Oct 2, 2023|
- |[USN-6402-1: LibTomMath vulnerability](https://www.linux.org/threads/usn-6402-1-libtommath-vulnerability.46931/)|Visit link for details.|Oct 2, 2023|
- |[DSA-5511 mosquitto - security update](https://www.linux.org/threads/dsa-5511-mosquitto-security-update.46926/)|Visit link for details.|Oct 2, 2023|
- |[DSA-5510 libvpx - security update](https://www.linux.org/threads/dsa-5510-libvpx-security-update.46905/)|Visit link for details.|Sep 30, 2023|
- |[DSA-5509 firefox-esr - security update](https://www.linux.org/threads/dsa-5509-firefox-esr-security-update.46904/)|Visit link for details.|Sep 30, 2023|
  
 
 # CERT-SANTE
@@ -94,22 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443" class="noirorange"><b>IBM GSKit-Crypto</b>: information disclosure via RSA Decryption</a>](https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443)|An attacker can bypass access restrictions to data of IBM GSKit-Crypto, via RSA Decryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442" class="noirorange"><b>Ghostscript</b>: code execution via IJS</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442)|An attacker can use a vulnerability of Ghostscript, via IJS, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ipv4_send_dest_unreach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
- |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
  
 
 # MA-CERT
