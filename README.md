@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2023 08:17:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2023 09:19:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,21 +46,20 @@
  |[USN-6369-2: libwebp vulnerability](https://www.linux.org/threads/usn-6369-2-libwebp-vulnerability.46886/)|Visit link for details.|Sep 28, 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[WebKitGTK et WPE WebKit - CVE-2023-39928](https://www.cyberveille-sante.gouv.fr/alertes/webkitgtk-et-wpe-webkit-cve-2023-39928-2023-10-02)|Visit link for details.|02/10/2023|
- |[SonicWall - CVE-2023-44218](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44218-2023-10-02)|Visit link for details.|02/10/2023|
- |[SonicWall - CVE-2023-44217](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44217-2023-10-02)|Visit link for details.|02/10/2023|
- |[GitLab - CVE-2023-5207](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5207-2023-10-02)|Visit link for details.|02/10/2023|
- |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|02/10/2023|
- |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|02/10/2023|
- |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|02/10/2023|
- |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|02/10/2023|
- |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
- |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
- |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
+ |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
  
 
 # CERT-FR
@@ -77,6 +76,23 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WebKitGTK et WPE WebKit - CVE-2023-39928](https://www.cyberveille-sante.gouv.fr/alertes/webkitgtk-et-wpe-webkit-cve-2023-39928-2023-10-02)|Visit link for details.|02/10/2023|
+ |[SonicWall - CVE-2023-44218](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44218-2023-10-02)|Visit link for details.|02/10/2023|
+ |[SonicWall - CVE-2023-44217](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44217-2023-10-02)|Visit link for details.|02/10/2023|
+ |[GitLab - CVE-2023-5207](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5207-2023-10-02)|Visit link for details.|02/10/2023|
+ |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|02/10/2023|
+ |[Progress Software - CVE-2023-40044](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-40044-2023-09-29)|Visit link for details.|02/10/2023|
+ |[Mozilla Firefox - CVE-2023-5173](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5173-2023-09-27)|Visit link for details.|02/10/2023|
+ |[Mozilla Firefox - CVE-2023-5176](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2023-5176-2023-09-27)|Visit link for details.|02/10/2023|
+ |[Progress Software - CVE-2023-42657](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42657-2023-09-29)|Visit link for details.|29/09/2023|
+ |[Hospital Management System - CVE-2023-5004](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2023-5004-2023-09-29)|Visit link for details.|29/09/2023|
+ |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
  
 
 # OBS-Vigilance
@@ -96,42 +112,10 @@
  |[<a href="https://vigilance.fr/vulnerability/ReportLab-code-execution-via-paraparser-start-unichar-42422" class="noirorange"><b>ReportLab</b>: code execution via paraparser start_unichar()</a>](https://vigilance.fr/vulnerability/ReportLab-code-execution-via-paraparser-start-unichar-42422)|An attacker can use a vulnerability of ReportLab, via paraparser start_unichar(), in order to run code...|Visit link for details|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
- |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
- |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure data manipulation on the targeted system. Note:For CVE-2023-20109...|Release Date: 29 Sep 2023 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated...| Release Date: 15 Sep 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, spoofing, data manipulation, information disclosure, denial of service and security restriction bypass on the targeted system. Note:For...|Release Date: 27 Sep 2023 |
  
 
 # EU-CERT
@@ -149,4 +133,20 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
+ |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure data manipulation on the targeted system. Note:For CVE-2023-20109...|Release Date: 29 Sep 2023 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230915)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated...| Release Date: 15 Sep 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230905)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-09-...| Release Date: 5 Sep 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230927)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, spoofing, data manipulation, information disclosure, denial of service and security restriction bypass on the targeted system. Note:For...|Release Date: 27 Sep 2023 |
  
