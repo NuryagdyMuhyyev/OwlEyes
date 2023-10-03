@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2023 12:15:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2023 13:21:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,6 +99,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434" class="noirorange"><b>aes-gcm</b>: weak encryption via decrypt_in_place_detached()</a>](https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434)|An attacker can access data on aes-gcm, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tungstenite-overload-via-HTTP-Header-Length-42433" class="noirorange"><b>Tungstenite</b>: overload via HTTP Header Length</a>](https://vigilance.fr/vulnerability/Tungstenite-overload-via-HTTP-Header-Length-42433)|An attacker can trigger an overload of Tungstenite, via HTTP Header Length, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2023-42432" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2023-42432)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/python-bugzilla-information-disclosure-via-API-Key-42431" class="noirorange"><b>python-bugzilla</b>: information disclosure via API Key</a>](https://vigilance.fr/vulnerability/python-bugzilla-information-disclosure-via-API-Key-42431)|An attacker can bypass access restrictions to data of python-bugzilla, via API Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-xfrm-dump-sa-42430" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via xfrm_dump_sa()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-xfrm-dump-sa-42430)|An attacker can force a read at an invalid memory address of the Linux kernel, via xfrm_dump_sa(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -108,8 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426" class="noirorange"><b>libvpx</b>: buffer overflow via VP9 Encoding Widths</a>](https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426)|An attacker can trigger a buffer overflow of libvpx, via VP9 Encoding Widths, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redmine-Cross-Site-Scripting-42425" class="noirorange"><b>Redmine</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Redmine-Cross-Site-Scripting-42425)|An attacker can trigger a Cross Site Scripting of Redmine, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-overload-via-User-property-Properties-42424" class="noirorange"><b>Eclipse Mosquitto</b>: overload via User-property Properties</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-overload-via-User-property-Properties-42424)|An attacker can trigger an overload of Eclipse Mosquitto, via User-property Properties, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gerbv-denial-of-service-via-RS-274X-File-42423" class="noirorange"><b>Gerbv</b>: denial of service via RS-274X File</a>](https://vigilance.fr/vulnerability/Gerbv-denial-of-service-via-RS-274X-File-42423)|An attacker can cause a fatal error of Gerbv, via RS-274X File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReportLab-code-execution-via-paraparser-start-unichar-42422" class="noirorange"><b>ReportLab</b>: code execution via paraparser start_unichar()</a>](https://vigilance.fr/vulnerability/ReportLab-code-execution-via-paraparser-start-unichar-42422)|An attacker can use a vulnerability of ReportLab, via paraparser start_unichar(), in order to run code...|Visit link for details|
  
 
 # MA-CERT
