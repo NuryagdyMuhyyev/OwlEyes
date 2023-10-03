@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2023 19:16:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2023 20:18:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5512 exim4 - security update](https://www.linux.org/threads/dsa-5512-exim4-security-update.46936/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6403-1: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-1-libvpx-vulnerabilities.46934/)|Visit link for details.|Oct 2, 2023|
+ |[USN-6402-1: LibTomMath vulnerability](https://www.linux.org/threads/usn-6402-1-libtommath-vulnerability.46931/)|Visit link for details.|Oct 2, 2023|
+ |[DSA-5511 mosquitto - security update](https://www.linux.org/threads/dsa-5511-mosquitto-security-update.46926/)|Visit link for details.|Oct 2, 2023|
+ |[DSA-5510 libvpx - security update](https://www.linux.org/threads/dsa-5510-libvpx-security-update.46905/)|Visit link for details.|Sep 30, 2023|
+ |[DSA-5509 firefox-esr - security update](https://www.linux.org/threads/dsa-5509-firefox-esr-security-update.46904/)|Visit link for details.|Sep 30, 2023|
+ |[DSA-5508 chromium - security update](https://www.linux.org/threads/dsa-5508-chromium-security-update.46903/)|Visit link for details.|Sep 30, 2023|
+ |[USN-6386-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6386-2-linux-kernel-raspberry-pi-vulnerabilities.46898/)|Visit link for details.|Sep 29, 2023|
+ |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 25, 2023|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
- |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5512 exim4 - security update](https://www.linux.org/threads/dsa-5512-exim4-security-update.46936/)|Visit link for details.|Oct 3, 2023|
- |[USN-6403-1: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-1-libvpx-vulnerabilities.46934/)|Visit link for details.|Oct 2, 2023|
- |[USN-6402-1: LibTomMath vulnerability](https://www.linux.org/threads/usn-6402-1-libtommath-vulnerability.46931/)|Visit link for details.|Oct 2, 2023|
- |[DSA-5511 mosquitto - security update](https://www.linux.org/threads/dsa-5511-mosquitto-security-update.46926/)|Visit link for details.|Oct 2, 2023|
- |[DSA-5510 libvpx - security update](https://www.linux.org/threads/dsa-5510-libvpx-security-update.46905/)|Visit link for details.|Sep 30, 2023|
- |[DSA-5509 firefox-esr - security update](https://www.linux.org/threads/dsa-5509-firefox-esr-security-update.46904/)|Visit link for details.|Sep 30, 2023|
- |[DSA-5508 chromium - security update](https://www.linux.org/threads/dsa-5508-chromium-security-update.46903/)|Visit link for details.|Sep 30, 2023|
- |[USN-6386-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6386-2-linux-kernel-raspberry-pi-vulnerabilities.46898/)|Visit link for details.|Sep 29, 2023|
- |[DSA-5507 jetty9 - security update](https://www.linux.org/threads/dsa-5507-jetty9-security-update.46896/)|Visit link for details.|Sep 29, 2023|
+ |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0786/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 septembre 2023|
  
 
 # CERT-SANTE
@@ -79,26 +95,11 @@
  |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|29/09/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
- |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0796/)|Une vulnérabilité a été découverte dans |Publié le 2 octobre 2023|
- |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
- |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443" class="noirorange"><b>IBM GSKit-Crypto</b>: information disclosure via RSA Decryption</a>](https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443)|An attacker can bypass access restrictions to data of IBM GSKit-Crypto, via RSA Decryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442" class="noirorange"><b>Ghostscript</b>: code execution via IJS</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442)|An attacker can use a vulnerability of Ghostscript, via IJS, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ipv4_send_dest_unreach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434" class="noirorange"><b>aes-gcm</b>: weak encryption via decrypt_in_place_detached()</a>](https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434)|An attacker can access data on aes-gcm, via |Visit link for details|
@@ -109,13 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-sctp-mt-check-42429" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via sctp_mt_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-sctp-mt-check-42429)|An attacker can force a read at an invalid memory address of the Linux kernel, via sctp_mt_check(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-netfilter-xt-u32-c-42428" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via netfilter/xt_u32.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-netfilter-xt-u32-c-42428)|An attacker can force a read at an invalid memory address of the Linux kernel, via netfilter/xt_u32.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-eBPF-42427" class="noirorange"><b>Linux kernel</b>: privilege escalation via eBPF</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-eBPF-42427)|An attacker can bypass restrictions of the Linux kernel, via eBPF, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426" class="noirorange"><b>libvpx</b>: buffer overflow via VP9 Encoding Widths</a>](https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426)|An attacker can trigger a buffer overflow of libvpx, via VP9 Encoding Widths, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -133,6 +127,12 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
