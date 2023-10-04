@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2023 12:15:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2023 13:21:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
- |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 octobre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0796/)|Une vulnérabilité a été découverte dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
@@ -74,8 +60,22 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
+ |[NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors](https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors)|Visit link for details.|Sep 27, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/26/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +95,23 @@
  |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|02/10/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Arm64-Speculative-Execution-Protections-42461" class="noirorange"><b>FreeBSD</b>: information disclosure via Arm64 Speculative Execution Protections</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Arm64-Speculative-Execution-Protections-42461)|An attacker can bypass access restrictions to data of FreeBSD, via Arm64 Speculative Execution Protections, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-read-write-via-copy-file-range-42460" class="noirorange"><b>FreeBSD</b>: file read/write via copy_file_range()</a>](https://vigilance.fr/vulnerability/FreeBSD-file-read-write-via-copy-file-range-42460)|An attacker can bypass access restrictions of FreeBSD, via copy_file_range(), in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-msdosfs-42459" class="noirorange"><b>FreeBSD</b>: file reading via msdosfs</a>](https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-msdosfs-42459)|An attacker can read a file of FreeBSD, via msdosfs, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458" class="noirorange"><b>GRUB2</b>: out-of-bounds memory reading via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458)|An attacker can force a read at an invalid memory address of GRUB2, via File System Image, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457" class="noirorange"><b>GRUB2</b>: privilege escalation via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457)|An attacker can bypass restrictions of GRUB2, via File System Image, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456" class="noirorange"><b>Poppler</b>: assertion error via Object.h</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456)|An attacker can force an assertion error of Poppler, via Object.h, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455" class="noirorange"><b>Poppler</b>: assertion error via pdfunite.cc</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455)|An attacker can force an assertion error of Poppler, via pdfunite.cc, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454" class="noirorange"><b>Poppler</b>: denial of service via PDFDoc::savePageAs()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42453" class="noirorange"><b>libeconf</b>: buffer overflow via econf_writeFile()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42453)|An attacker can trigger a buffer overflow of libeconf, via econf_writeFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42452" class="noirorange"><b>libeconf</b>: buffer overflow via econf_writeFile()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42452)|An attacker can trigger a buffer overflow of libeconf, via econf_writeFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451" class="noirorange"><b>IBM i</b>: privilege escalation via Integrated Application Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451)|An attacker can bypass restrictions of IBM i, via Integrated Application Server, in order to escalate his privileges...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,29 +126,6 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458" class="noirorange"><b>GRUB2</b>: out-of-bounds memory reading via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458)|An attacker can force a read at an invalid memory address of GRUB2, via File System Image, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457" class="noirorange"><b>GRUB2</b>: privilege escalation via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457)|An attacker can bypass restrictions of GRUB2, via File System Image, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456" class="noirorange"><b>Poppler</b>: assertion error via Object.h</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456)|An attacker can force an assertion error of Poppler, via Object.h, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455" class="noirorange"><b>Poppler</b>: assertion error via pdfunite.cc</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455)|An attacker can force an assertion error of Poppler, via pdfunite.cc, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454" class="noirorange"><b>Poppler</b>: denial of service via PDFDoc::savePageAs()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42453" class="noirorange"><b>libeconf</b>: buffer overflow via econf_writeFile()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42453)|An attacker can trigger a buffer overflow of libeconf, via econf_writeFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42452" class="noirorange"><b>libeconf</b>: buffer overflow via econf_writeFile()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-econf-writeFile-42452)|An attacker can trigger a buffer overflow of libeconf, via econf_writeFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451" class="noirorange"><b>IBM i</b>: privilege escalation via Integrated Application Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451)|An attacker can bypass restrictions of IBM i, via Integrated Application Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-getaddrinfo-42450" class="noirorange"><b>glibc</b>: use after free via getaddrinfo()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-getaddrinfo-42450)|An attacker can force the reuse of a freed memory area of glibc, via getaddrinfo(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-out-of-bounds-memory-reading-via-AF-UNSPEC-Address-Family-42449" class="noirorange"><b>glibc</b>: out-of-bounds memory reading via AF_UNSPEC Address Family</a>](https://vigilance.fr/vulnerability/glibc-out-of-bounds-memory-reading-via-AF-UNSPEC-Address-Family-42449)|An attacker can force a read at an invalid memory address of glibc, via AF_UNSPEC Address Family, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-privilege-escalation-via-GLIBC-TUNABLES-42448" class="noirorange"><b>glibc</b>: privilege escalation via GLIBC_TUNABLES</a>](https://vigilance.fr/vulnerability/glibc-privilege-escalation-via-GLIBC-TUNABLES-42448)|An attacker can bypass restrictions of glibc, via GLIBC_TUNABLES, in order to escalate his privileges...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -149,4 +143,10 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
