@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2023 19:16:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2023 20:18:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6410-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6410-1-grub2-vulnerabilities.46960/)|Visit link for details.|Oct 4, 2023|
- |[USN-6386-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-3-linux-kernel-vulnerabilities.46958/)|Visit link for details.|Oct 3, 2023|
- |[USN-6409-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6409-1-gnu-c-library-vulnerabilities.46957/)|Visit link for details.|Oct 3, 2023|
- |[USN-6408-1: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-1-libxpm-vulnerabilities.46956/)|Visit link for details.|Oct 3, 2023|
- |[USN-6407-1: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-1-libx11-vulnerabilities.46955/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5514 glibc - security update](https://www.linux.org/threads/dsa-5514-glibc-security-update.46954/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5513 thunderbird - security update](https://www.linux.org/threads/dsa-5513-thunderbird-security-update.46953/)|Visit link for details.|Oct 3, 2023|
- |[USN-6406-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6406-1-spidermonkey-vulnerabilities.46951/)|Visit link for details.|Oct 3, 2023|
- |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
- |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
- |[DSA-5512 exim4 - security update](https://www.linux.org/threads/dsa-5512-exim4-security-update.46936/)|Visit link for details.|Oct 3, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,8 +49,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 octobre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0796/)|Une vulnérabilité a été découverte dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
@@ -76,6 +57,25 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6401-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6401-1-freerdp-vulnerabilities.46965/)|Visit link for details.|Oct 4, 2023|
+ |[USN-6410-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6410-1-grub2-vulnerabilities.46960/)|Visit link for details.|Oct 4, 2023|
+ |[USN-6386-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6386-3-linux-kernel-vulnerabilities.46958/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6409-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6409-1-gnu-c-library-vulnerabilities.46957/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6408-1: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-1-libxpm-vulnerabilities.46956/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6407-1: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-1-libx11-vulnerabilities.46955/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5514 glibc - security update](https://www.linux.org/threads/dsa-5514-glibc-security-update.46954/)|Visit link for details.|Oct 3, 2023|
+ |[DSA-5513 thunderbird - security update](https://www.linux.org/threads/dsa-5513-thunderbird-security-update.46953/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6406-1: SpiderMonkey vulnerabilities](https://www.linux.org/threads/usn-6406-1-spidermonkey-vulnerabilities.46951/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6405-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6405-1-thunderbird-vulnerabilities.46942/)|Visit link for details.|Oct 3, 2023|
+ |[USN-6404-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6404-1-firefox-vulnerabilities.46939/)|Visit link for details.|Oct 3, 2023|
  
 
 # CERT-SANTE
@@ -129,12 +129,6 @@
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -149,4 +143,10 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
