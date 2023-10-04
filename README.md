@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2023 17:34:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2023 18:22:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,6 +82,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|04/10/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|04/10/2023|
  |[Linux - CVE-2023-44466](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-44466-2023-10-03)|Visit link for details.|03/10/2023|
  |[GLPI - CVE-2023-41324](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41324-2023-10-03)|Visit link for details.|03/10/2023|
  |[Exim - CVE-2023-42117](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2023-42117-2023-10-03)|Visit link for details.|03/10/2023|
@@ -91,47 +93,23 @@
  |[WebKitGTK et WPE WebKit - CVE-2023-39928](https://www.cyberveille-sante.gouv.fr/alertes/webkitgtk-et-wpe-webkit-cve-2023-39928-2023-10-02)|Visit link for details.|02/10/2023|
  |[SonicWall - CVE-2023-44218](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44218-2023-10-02)|Visit link for details.|02/10/2023|
  |[SonicWall - CVE-2023-44217](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44217-2023-10-02)|Visit link for details.|02/10/2023|
- |[GitLab - CVE-2023-5207](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-5207-2023-10-02)|Visit link for details.|02/10/2023|
- |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|02/10/2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Title-Property-42473" class="noirorange"><b>Zope</b>: Cross Site Scripting via Title Property</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Title-Property-42473)|An attacker can trigger a Cross Site Scripting of Zope, via Title Property, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-privilege-escalation-via-Invitation-Component-42472" class="noirorange"><b>TYPO3 femanager</b>: privilege escalation via Invitation Component</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-privilege-escalation-via-Invitation-Component-42472)|An attacker can bypass restrictions of TYPO3 femanager, via Invitation Component, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-progressive-decompress-42471" class="noirorange"><b>FreeRDP</b>: buffer overflow via progressive_decompress()</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-progressive-decompress-42471)|An attacker can trigger a buffer overflow of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-clear-decompress-bands-data-42470" class="noirorange"><b>FreeRDP</b>: buffer overflow via clear_decompress_bands_data()</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-clear-decompress-bands-data-42470)|An attacker can trigger a buffer overflow of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-gdi-CreateSurface-42469" class="noirorange"><b>FreeRDP</b>: integer overflow via gdi_CreateSurface()</a>](https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-gdi-CreateSurface-42469)|An attacker can trigger an integer overflow of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-ncrush-decompress-42468" class="noirorange"><b>FreeRDP</b>: buffer overflow via ncrush_decompress()</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-ncrush-decompress-42468)|An attacker can trigger a buffer overflow of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-general-LumaToYUV444-42467" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via general_LumaToYUV444()</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-general-LumaToYUV444-42467)|An attacker can force a read at an invalid memory address of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-zgfx-decompress-segment-42466" class="noirorange"><b>FreeRDP</b>: integer overflow via zgfx_decompress_segment()</a>](https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-zgfx-decompress-segment-42466)|An attacker can trigger an integer overflow of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-four-vulnerabilities-42465" class="noirorange"><b>FreeRDP</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-four-vulnerabilities-42465)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-42464" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-42464)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-smb3-fs-context-parse-param-42463" class="noirorange"><b>Linux kernel</b>: double free via smb3_fs_context_parse_param()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-smb3-fs-context-parse-param-42463)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-denial-of-service-via-Unrevoked-Certificates-42462" class="noirorange"><b>Puppet Enterprise</b>: denial of service via Unrevoked Certificates</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-denial-of-service-via-Unrevoked-Certificates-42462)|An attacker can cause a fatal error of Puppet Enterprise, via Unrevoked Certificates, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Arm64-Speculative-Execution-Protections-42461" class="noirorange"><b>FreeBSD</b>: information disclosure via Arm64 Speculative Execution Protections</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Arm64-Speculative-Execution-Protections-42461)|An attacker can bypass access restrictions to data of FreeBSD, via Arm64 Speculative Execution Protections, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-read-write-via-copy-file-range-42460" class="noirorange"><b>FreeBSD</b>: file read/write via copy_file_range()</a>](https://vigilance.fr/vulnerability/FreeBSD-file-read-write-via-copy-file-range-42460)|An attacker can bypass access restrictions of FreeBSD, via copy_file_range(), in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-msdosfs-42459" class="noirorange"><b>FreeBSD</b>: file reading via msdosfs</a>](https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-msdosfs-42459)|An attacker can read a file of FreeBSD, via msdosfs, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458" class="noirorange"><b>GRUB2</b>: out-of-bounds memory reading via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-out-of-bounds-memory-reading-via-File-System-Image-42458)|An attacker can force a read at an invalid memory address of GRUB2, via File System Image, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457" class="noirorange"><b>GRUB2</b>: privilege escalation via File System Image</a>](https://vigilance.fr/vulnerability/GRUB2-privilege-escalation-via-File-System-Image-42457)|An attacker can bypass restrictions of GRUB2, via File System Image, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456" class="noirorange"><b>Poppler</b>: assertion error via Object.h</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-h-42456)|An attacker can force an assertion error of Poppler, via Object.h, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455" class="noirorange"><b>Poppler</b>: assertion error via pdfunite.cc</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-pdfunite-cc-42455)|An attacker can force an assertion error of Poppler, via pdfunite.cc, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454" class="noirorange"><b>Poppler</b>: denial of service via PDFDoc::savePageAs()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PDFDoc-savePageAs-42454)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
- |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
- |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure data manipulation on the targeted system. Note:For CVE-2023-20109...|Release Date: 29 Sep 2023 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -149,4 +127,26 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
  |[2023-066: Mozilla Firefox and Thunderbird Zero-Day Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-066.pdf)|On September 12, 2023, Mozilla released an emergency security update that addresses a zero-day vulnerability, which has been exploited in the wild. The vulnerability impacts its Firefox web browser and Thunderbird email client and is being tracked as CVE-2023-4863. The issue is being exploited in the wild.|Thursday, September 14, 2023 06:26:54 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
+ |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
+ |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure data manipulation on the targeted system. Note:For CVE-2023-20109...|Release Date: 29 Sep 2023 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 29 Sep 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-5217, Heap buffer overflow in...|Release Date: 28 Sep 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230928)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system.|Release Date: 28 Sep 2023 |
  
