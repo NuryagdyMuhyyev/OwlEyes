@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2023 09:20:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2023 10:15:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,8 +66,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 octobre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0796/)|Une vulnérabilité a été découverte dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
@@ -76,6 +74,8 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
  
 
 # CERT-SANTE
