@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/10/2023 15:18:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/10/2023 16:14:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
  |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
  |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
  |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
@@ -43,7 +44,6 @@
  |[USN-6412-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6412-1-linux-kernel-vulnerabilities.46968/)|Visit link for details.|Oct 4, 2023|
  |[USN-6411-1: Exim vulnerabilities](https://www.linux.org/threads/usn-6411-1-exim-vulnerabilities.46967/)|Visit link for details.|Oct 4, 2023|
  |[USN-6401-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6401-1-freerdp-vulnerabilities.46965/)|Visit link for details.|Oct 4, 2023|
- |[USN-6410-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6410-1-grub2-vulnerabilities.46960/)|Visit link for details.|Oct 4, 2023|
  
 
 # US-CERT
@@ -112,12 +112,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Binutils-memory-leak-via-pr-function-type-42483" class="noirorange"><b>Binutils</b>: memory leak via pr_function_type()</a>](https://vigilance.fr/vulnerability/Binutils-memory-leak-via-pr-function-type-42483)|An attacker can create a memory leak of Binutils, via pr_function_type(), in order to trigger a denial of service...|Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,6 +127,12 @@
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
