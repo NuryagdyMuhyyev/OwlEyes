@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/10/2023 13:22:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/10/2023 14:17:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6411-1: Exim vulnerabilities](https://www.linux.org/threads/usn-6411-1-exim-vulnerabilities.46967/)|Visit link for details.|Oct 4, 2023|
  |[USN-6401-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6401-1-freerdp-vulnerabilities.46965/)|Visit link for details.|Oct 4, 2023|
  |[USN-6410-1: GRUB2 vulnerabilities](https://www.linux.org/threads/usn-6410-1-grub2-vulnerabilities.46960/)|Visit link for details.|Oct 4, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/29/mozilla-releases-security-updates-multiple-products)|Visit link for details.|Sep 29, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
+ |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
  
 
 # CERT-FR
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Iframe-Dialog-42478" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via Iframe Dialog</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Iframe-Dialog-42478)|An attacker can trigger a Cross Site Scripting of CKEditor4, via Iframe Dialog, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -126,12 +132,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230929)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure data manipulation on the targeted system. Note:For CVE-2023-20109...|Release Date: 29 Sep 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
