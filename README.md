@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/10/2023 19:15:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/10/2023 20:18:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
  |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
@@ -59,7 +60,23 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 28, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/09/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 28, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/09/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 28, 2023|
- |[Mozilla Releases Security Advisories for Thunderbird and Firefox](https://www.cisa.gov/news-events/alerts/2023/09/27/mozilla-releases-security-advisories-thunderbird-and-firefox)|Visit link for details.|Sep 27, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|04/10/2023|
+ |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|04/10/2023|
+ |[D-Link - CVE-2023-43129](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43129-2023-10-04)|Visit link for details.|04/10/2023|
+ |[Apple - CVE-2023-40455](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40455-2023-10-04)|Visit link for details.|04/10/2023|
+ |[Apple - CVE-2023-38586](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38586-2023-10-04)|Visit link for details.|04/10/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|04/10/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|04/10/2023|
+ |[Linux - CVE-2023-44466](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-44466-2023-10-03)|Visit link for details.|03/10/2023|
+ |[GLPI - CVE-2023-41324](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41324-2023-10-03)|Visit link for details.|03/10/2023|
+ |[Exim - CVE-2023-42117](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2023-42117-2023-10-03)|Visit link for details.|03/10/2023|
+ |[Dell - CVE-2023-28055](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28055-2023-10-03)|Visit link for details.|03/10/2023|
  
 
 # CERT-FR
@@ -95,21 +112,10 @@
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-privilege-escalation-via-Administrator-Accounts-Creation-42488" class="noirorange"><b>Atlassian Confluence Server/DC</b>: privilege escalation via Administrator Accounts Creation</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-privilege-escalation-via-Administrator-Accounts-Creation-42488)|An attacker can bypass restrictions of Atlassian Confluence Server/DC, via Administrator Accounts Creation, in order to escalate his privileges...|Visit link for details|
  
 
-# CERT-SANTE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|04/10/2023|
- |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|04/10/2023|
- |[D-Link - CVE-2023-43129](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43129-2023-10-04)|Visit link for details.|04/10/2023|
- |[Apple - CVE-2023-40455](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40455-2023-10-04)|Visit link for details.|04/10/2023|
- |[Apple - CVE-2023-38586](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38586-2023-10-04)|Visit link for details.|04/10/2023|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|04/10/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|04/10/2023|
- |[Linux - CVE-2023-44466](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-44466-2023-10-03)|Visit link for details.|03/10/2023|
- |[GLPI - CVE-2023-41324](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41324-2023-10-03)|Visit link for details.|03/10/2023|
- |[Exim - CVE-2023-42117](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2023-42117-2023-10-03)|Visit link for details.|03/10/2023|
- |[Dell - CVE-2023-28055](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28055-2023-10-03)|Visit link for details.|03/10/2023|
  
 
 # EU-CERT
@@ -127,12 +133,6 @@
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  |[2023-056: Critical Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-056.pdf)|On August 2, Ivanti disclosed a Remote Unauthenticated API Access Vulnerability affecting EPMM (MobileIron Core) running outdated versions (11.2 and below). On August 7, Ivanti added more recent and supported versions on the list of affected products.|Monday, September 18, 2023 01:44:58 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
