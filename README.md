@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/10/2023 09:19:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/10/2023 10:15:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6414-2: Django vulnerabilities](https://www.linux.org/threads/usn-6414-2-django-vulnerabilities.46972/)|Visit link for details.|Oct 4, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ |[Vulnérabilité dans GNU LIBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0804/)|Une vulnérabilité a été découverte dans GNU LIBC. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0803/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 octobre 2023|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0802/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 octobre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0800/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Apple - CVE-2023-40455](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-40455-2023-10-04)|Visit link for details.|04/10/2023|
  |[Apple - CVE-2023-38586](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38586-2023-10-04)|Visit link for details.|04/10/2023|
  |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|04/10/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
- |[Vulnérabilité dans GNU LIBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0804/)|Une vulnérabilité a été découverte dans GNU LIBC. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0803/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 octobre 2023|
- |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0802/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 octobre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0800/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
  
 
 # OBS-Vigilance
