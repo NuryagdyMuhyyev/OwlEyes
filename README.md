@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/10/2023 19:13:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/10/2023 20:15:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
- |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
- |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
- |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
- |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
- |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
- |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
- |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
- 
 
 # US-CERT
 
@@ -78,20 +61,34 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 6 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...|Release Date: 5 Oct 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
- |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
- |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
+ |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
+ |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
+ |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft PC Manager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Microsoft PC Manager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Milesight routers cross-site scripting (CVE-2023-43260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Pigcms file upload (CVE-2023-43269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Dell EMC SmartFabric software packages command execution (CVE-2023-43068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Dell EMC SmartFabric software packages command execution (CVE-2023-43069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  
 
 # CERT-SANTE
@@ -111,17 +108,43 @@
  |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft PC Manager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Microsoft PC Manager code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Milesight routers cross-site scripting (CVE-2023-43260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Pigcms file upload (CVE-2023-43269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Dell EMC SmartFabric software packages command execution (CVE-2023-43068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Dell EMC SmartFabric software packages command execution (CVE-2023-43069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
- |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512" class="noirorange"><b>IBM Db2</b>: denial of service via Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512)|An attacker can cause a fatal error of IBM Db2, via Query Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511" class="noirorange"><b>IBM Db2</b>: denial of service via XML Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511)|An attacker can cause a fatal error of IBM Db2, via XML Query Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507" class="noirorange"><b>Tacacs+</b>: ingress filtrering bypass via author_data</a>](https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507)|An attacker can bypass filtering rules of Tacacs+, via author_data, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506" class="noirorange"><b>xrdp</b>: out-of-bounds memory reading via Font Glyphs</a>](https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506)|An attacker can force a read at an invalid memory address of xrdp, via Font Glyphs, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505" class="noirorange"><b>Synapse</b>: spoofing via Read Receipts</a>](https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505)|An attacker can create spoofed data on Synapse, via Read Receipts, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 6 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...|Release Date: 5 Oct 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
+ |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
+ |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -153,29 +176,6 @@
  |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512" class="noirorange"><b>IBM Db2</b>: denial of service via Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512)|An attacker can cause a fatal error of IBM Db2, via Query Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511" class="noirorange"><b>IBM Db2</b>: denial of service via XML Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511)|An attacker can cause a fatal error of IBM Db2, via XML Query Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507" class="noirorange"><b>Tacacs+</b>: ingress filtrering bypass via author_data</a>](https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507)|An attacker can bypass filtering rules of Tacacs+, via author_data, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506" class="noirorange"><b>xrdp</b>: out-of-bounds memory reading via Font Glyphs</a>](https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506)|An attacker can force a read at an invalid memory address of xrdp, via Font Glyphs, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505" class="noirorange"><b>Synapse</b>: spoofing via Read Receipts</a>](https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505)|An attacker can create spoofed data on Synapse, via Read Receipts, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CA-CCS
