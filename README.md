@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/10/2023 10:14:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/10/2023 11:20:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
- |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
- |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
- |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
- |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
- |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
- |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
- |[DSA-5515 chromium - security update](https://www.linux.org/threads/dsa-5515-chromium-security-update.46974/)|Visit link for details.|Oct 5, 2023|
- 
 
 # US-CERT
 
@@ -76,6 +59,23 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
+ |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
+ |[DSA-5515 chromium - security update](https://www.linux.org/threads/dsa-5515-chromium-security-update.46974/)|Visit link for details.|Oct 5, 2023|
  
 
 # CERT-SANTE
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -143,10 +149,4 @@
  |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
