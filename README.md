@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2023 02:13:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/10/2023 03:14:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -78,6 +62,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,23 +92,6 @@
  |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-remote-code-execution-vulnerability_20231003)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to denial of service and remote code execution on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in libvpx. It is aware that an exploit...|Release Date: 3 Oct 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512" class="noirorange"><b>IBM Db2</b>: denial of service via Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512)|An attacker can cause a fatal error of IBM Db2, via Query Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511" class="noirorange"><b>IBM Db2</b>: denial of service via XML Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511)|An attacker can cause a fatal error of IBM Db2, via XML Query Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507" class="noirorange"><b>Tacacs+</b>: ingress filtrering bypass via author_data</a>](https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507)|An attacker can bypass filtering rules of Tacacs+, via author_data, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506" class="noirorange"><b>xrdp</b>: out-of-bounds memory reading via Font Glyphs</a>](https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506)|An attacker can force a read at an invalid memory address of xrdp, via Font Glyphs, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505" class="noirorange"><b>Synapse</b>: spoofing via Read Receipts</a>](https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505)|An attacker can create spoofed data on Synapse, via Read Receipts, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
  
 
 # CERT-SANTE
@@ -141,6 +124,43 @@
  |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512" class="noirorange"><b>IBM Db2</b>: denial of service via Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512)|An attacker can cause a fatal error of IBM Db2, via Query Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511" class="noirorange"><b>IBM Db2</b>: denial of service via XML Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511)|An attacker can cause a fatal error of IBM Db2, via XML Query Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507" class="noirorange"><b>Tacacs+</b>: ingress filtrering bypass via author_data</a>](https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507)|An attacker can bypass filtering rules of Tacacs+, via author_data, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506" class="noirorange"><b>xrdp</b>: out-of-bounds memory reading via Font Glyphs</a>](https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506)|An attacker can force a read at an invalid memory address of xrdp, via Font Glyphs, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505" class="noirorange"><b>Synapse</b>: spoofing via Read Receipts</a>](https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505)|An attacker can create spoofed data on Synapse, via Read Receipts, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,26 +176,6 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
 
 # CA-CCS
