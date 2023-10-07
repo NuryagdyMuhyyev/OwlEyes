@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/10/2023 07:21:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/10/2023 08:16:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[DSA-5515 chromium - security update](https://www.linux.org/threads/dsa-5515-chromium-security-update.46974/)|Visit link for details.|Oct 5, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,22 +95,6 @@
  |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -112,6 +112,12 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,12 +133,6 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
