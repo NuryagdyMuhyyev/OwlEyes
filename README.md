@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2023 19:13:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/10/2023 20:15:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +62,20 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
- |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
- |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
- |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
- |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
- |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|06/10/2023|
- |[Linux - CVE-2023-23003](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-23003-2023-03-10)|Visit link for details.|06/10/2023|
- |[Microsoft - CVE-2023-28229](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28229-2023-10-05)|Visit link for details.|05/10/2023|
- |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|05/10/2023|
- |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
 # HK-CERT
@@ -122,6 +105,23 @@
  |[Dell EMC SmartFabric software packages command execution (CVE-2023-43068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  |[Dell EMC SmartFabric software packages command execution (CVE-2023-43069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
+ |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
+ |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
+ |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|06/10/2023|
+ |[Linux - CVE-2023-23003](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-23003-2023-03-10)|Visit link for details.|06/10/2023|
+ |[Microsoft - CVE-2023-28229](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28229-2023-10-05)|Visit link for details.|05/10/2023|
+ |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|05/10/2023|
+ |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
  
 
 # OBS-Vigilance
@@ -155,12 +155,6 @@
  |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -176,6 +170,12 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CA-CCS
