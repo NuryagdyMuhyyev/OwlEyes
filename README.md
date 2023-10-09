@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/10/2023 12:15:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/10/2023 13:22:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
  |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
  |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
 # CERT-FR
@@ -93,23 +93,6 @@
  |[Microsoft - CVE-2023-28229](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28229-2023-10-05)|Visit link for details.|05/10/2023|
  |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|05/10/2023|
  |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526" class="noirorange"><b>LemonLDAP-NG</b>: Server-Side Request Forgery via OpenID Connect Issuer</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526)|An attacker can trigger a Server-Side Request Forgery of LemonLDAP::NG, via OpenID Connect Issuer, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-Cookie-Header-HTTP-Redirect-42525" class="noirorange"><b>Python urllib3</b>: information disclosure via Cookie Header HTTP Redirect</a>](https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-Cookie-Header-HTTP-Redirect-42525)|An attacker can bypass access restrictions to data of Python urllib3, via Cookie Header HTTP Redirect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Alertmanager-code-execution-via-api-v1-alerts-42524" class="noirorange"><b>Alertmanager</b>: code execution via /api/v1/alerts</a>](https://vigilance.fr/vulnerability/Alertmanager-code-execution-via-api-v1-alerts-42524)|An attacker can use a vulnerability of Alertmanager, via /api/v1/alerts, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-gdi-multi-opaque-rect-42523" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via gdi_multi_opaque_rect()</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-gdi-multi-opaque-rect-42523)|An attacker can force a read at an invalid memory address of FreeRDP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522" class="noirorange"><b>FreeRDP</b>: use after free via RDPGFX_CMDID_RESETGRAPHICS</a>](https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522)|An attacker can force the reuse of a freed memory area of FreeRDP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521" class="noirorange"><b>FreeRDP</b>: buffer overflow via Rect Equals Surface</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521)|An attacker can trigger a buffer overflow of FreeRDP, via Rect Equals Surface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-BRMS-42520" class="noirorange"><b>IBM i</b>: privilege escalation via BRMS</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-BRMS-42520)|An attacker can bypass restrictions of IBM i, via BRMS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-ALTER-TABLE-Statement-42519" class="noirorange"><b>IBM Db2</b>: denial of service via ALTER TABLE Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-ALTER-TABLE-Statement-42519)|An attacker can cause a fatal error of IBM Db2, via ALTER TABLE Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-DPF-Database-Deactivation-42518" class="noirorange"><b>IBM Db2</b>: denial of service via DPF Database Deactivation</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-DPF-Database-Deactivation-42518)|An attacker can cause a fatal error of IBM Db2, via DPF Database Deactivation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Common-Table-Expressions-42517" class="noirorange"><b>IBM Db2</b>: denial of service via Common Table Expressions</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Common-Table-Expressions-42517)|An attacker can cause a fatal error of IBM Db2, via Common Table Expressions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-External-Tables-42516" class="noirorange"><b>IBM Db2</b>: denial of service via SQL External Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-External-Tables-42516)|An attacker can cause a fatal error of IBM Db2, via SQL External Tables, in order to trigger a denial of service...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -176,6 +159,23 @@
  |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530" class="noirorange"><b>Vim</b>: buffer overflow via trunc_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530)|An attacker can trigger a buffer overflow of Vim, via trunc_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529" class="noirorange"><b>FreeImage</b>: buffer overflow via ofLoad()</a>](https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529)|An attacker can trigger a buffer overflow of FreeImage, via ofLoad(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527" class="noirorange"><b>FreeImage</b>: NULL pointer dereference via ReadPalette()</a>](https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527)|An attacker can force a NULL pointer to be dereferenced on FreeImage, via ReadPalette(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526" class="noirorange"><b>LemonLDAP-NG</b>: Server-Side Request Forgery via OpenID Connect Issuer</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526)|An attacker can trigger a Server-Side Request Forgery of LemonLDAP::NG, via OpenID Connect Issuer, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-Cookie-Header-HTTP-Redirect-42525" class="noirorange"><b>Python urllib3</b>: information disclosure via Cookie Header HTTP Redirect</a>](https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-Cookie-Header-HTTP-Redirect-42525)|An attacker can bypass access restrictions to data of Python urllib3, via Cookie Header HTTP Redirect, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Alertmanager-code-execution-via-api-v1-alerts-42524" class="noirorange"><b>Alertmanager</b>: code execution via /api/v1/alerts</a>](https://vigilance.fr/vulnerability/Alertmanager-code-execution-via-api-v1-alerts-42524)|An attacker can use a vulnerability of Alertmanager, via /api/v1/alerts, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-gdi-multi-opaque-rect-42523" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via gdi_multi_opaque_rect()</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-gdi-multi-opaque-rect-42523)|An attacker can force a read at an invalid memory address of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522" class="noirorange"><b>FreeRDP</b>: use after free via RDPGFX_CMDID_RESETGRAPHICS</a>](https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522)|An attacker can force the reuse of a freed memory area of FreeRDP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521" class="noirorange"><b>FreeRDP</b>: buffer overflow via Rect Equals Surface</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521)|An attacker can trigger a buffer overflow of FreeRDP, via Rect Equals Surface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # CA-CCS
