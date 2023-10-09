@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/10/2023 14:18:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/10/2023 15:19:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6420-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6420-1-vim-vulnerabilities.47032/)|Visit link for details.|Oct 9, 2023|
  |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
  |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
  |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
@@ -43,7 +44,6 @@
  |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
  |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
  |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
- |[USN-6415-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6415-1-linux-kernel-oem-vulnerabilities.46975/)|Visit link for details.|Oct 5, 2023|
  
 
 # US-CERT
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
+ |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
+ |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
+ |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|06/10/2023|
+ |[Linux - CVE-2023-23003](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-23003-2023-03-10)|Visit link for details.|06/10/2023|
+ |[Microsoft - CVE-2023-28229](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28229-2023-10-05)|Visit link for details.|05/10/2023|
+ |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|05/10/2023|
+ |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -107,40 +124,6 @@
  |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
- |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
- |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
- |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
- |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
- |[Google Chrome - CVE-2023-5346](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5346-2023-10-04)|Visit link for details.|06/10/2023|
- |[Linux - CVE-2023-23003](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-23003-2023-03-10)|Visit link for details.|06/10/2023|
- |[Microsoft - CVE-2023-28229](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28229-2023-10-05)|Visit link for details.|05/10/2023|
- |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|05/10/2023|
- |[Cisco - CVE-2023-20101](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20101-2023-10-05)|Visit link for details.|05/10/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535" class="noirorange"><b>IBM Storage Protect</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535)|An attacker can create a malicious DLL for IBM Storage Protect, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534" class="noirorange"><b>Netatalk</b>: file write via SMB / AFP</a>](https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534)|An attacker can bypass access restrictions of Netatalk, via SMB / AFP, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533" class="noirorange"><b>libxml2</b>: use after free via tree.c</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533)|An attacker can force the reuse of a freed memory area of libxml2, via tree.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532" class="noirorange"><b>Avahi</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532)|An attacker can use several vulnerabilities of Avahi...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530" class="noirorange"><b>Vim</b>: buffer overflow via trunc_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530)|An attacker can trigger a buffer overflow of Vim, via trunc_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529" class="noirorange"><b>FreeImage</b>: buffer overflow via ofLoad()</a>](https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529)|An attacker can trigger a buffer overflow of FreeImage, via ofLoad(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527" class="noirorange"><b>FreeImage</b>: NULL pointer dereference via ReadPalette()</a>](https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527)|An attacker can force a NULL pointer to be dereferenced on FreeImage, via ReadPalette(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526" class="noirorange"><b>LemonLDAP-NG</b>: Server-Side Request Forgery via OpenID Connect Issuer</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526)|An attacker can trigger a Server-Side Request Forgery of LemonLDAP::NG, via OpenID Connect Issuer, in order to force the server to send queries...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,12 +136,6 @@
  |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -176,6 +153,29 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539" class="noirorange"><b>Spring Security</b>: user access via Logout Support</a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539)|An attacker can bypass restrictions of Spring Security, via Logout Support, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538" class="noirorange"><b>Spring Security</b>: privilege escalation via OAuth2 Access Token Response</a>](https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538)|An attacker can bypass restrictions of Spring Security, via OAuth2 Access Token Response, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535" class="noirorange"><b>IBM Storage Protect</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535)|An attacker can create a malicious DLL for IBM Storage Protect, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534" class="noirorange"><b>Netatalk</b>: file write via SMB / AFP</a>](https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534)|An attacker can bypass access restrictions of Netatalk, via SMB / AFP, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533" class="noirorange"><b>libxml2</b>: use after free via tree.c</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533)|An attacker can force the reuse of a freed memory area of libxml2, via tree.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532" class="noirorange"><b>Avahi</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532)|An attacker can use several vulnerabilities of Avahi...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CA-CCS
