@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/10/2023 15:19:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/10/2023 16:14:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6418-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6418-1-node-js-vulnerabilities.46981/)|Visit link for details.|Oct 5, 2023|
  |[USN-6417-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6417-1-linux-kernel-vulnerabilities.46977/)|Visit link for details.|Oct 5, 2023|
  |[USN-6416-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-1-linux-kernel-vulnerabilities.46976/)|Visit link for details.|Oct 5, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
 # CERT-FR
@@ -124,6 +124,23 @@
  |[Dell EMC SmartFabric software packages directory traversal (CVE-2023-43070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539" class="noirorange"><b>Spring Security</b>: user access via Logout Support</a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539)|An attacker can bypass restrictions of Spring Security, via Logout Support, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538" class="noirorange"><b>Spring Security</b>: privilege escalation via OAuth2 Access Token Response</a>](https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538)|An attacker can bypass restrictions of Spring Security, via OAuth2 Access Token Response, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535" class="noirorange"><b>IBM Storage Protect</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535)|An attacker can create a malicious DLL for IBM Storage Protect, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534" class="noirorange"><b>Netatalk</b>: file write via SMB / AFP</a>](https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534)|An attacker can bypass access restrictions of Netatalk, via SMB / AFP, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533" class="noirorange"><b>libxml2</b>: use after free via tree.c</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533)|An attacker can force the reuse of a freed memory area of libxml2, via tree.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532" class="noirorange"><b>Avahi</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532)|An attacker can use several vulnerabilities of Avahi...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,29 +172,6 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539" class="noirorange"><b>Spring Security</b>: user access via Logout Support</a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539)|An attacker can bypass restrictions of Spring Security, via Logout Support, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538" class="noirorange"><b>Spring Security</b>: privilege escalation via OAuth2 Access Token Response</a>](https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538)|An attacker can bypass restrictions of Spring Security, via OAuth2 Access Token Response, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535" class="noirorange"><b>IBM Storage Protect</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535)|An attacker can create a malicious DLL for IBM Storage Protect, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534" class="noirorange"><b>Netatalk</b>: file write via SMB / AFP</a>](https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534)|An attacker can bypass access restrictions of Netatalk, via SMB / AFP, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533" class="noirorange"><b>libxml2</b>: use after free via tree.c</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533)|An attacker can force the reuse of a freed memory area of libxml2, via tree.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532" class="noirorange"><b>Avahi</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532)|An attacker can use several vulnerabilities of Avahi...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -193,4 +187,10 @@
  |[Red Hat security advisory (AV23-600)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-600)|Visit link for details|2023-10-04|
  |[Cisco security advisory (AV23-599)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-599)|Visit link for details|2023-10-04|
  |[Google Chrome security advisory (AV23-598)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-598)|Visit link for details|2023-10-04|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
