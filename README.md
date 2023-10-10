@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 18:21:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 19:15:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -142,8 +142,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/shadow-information-disclosure-via-gpasswd-42564" class="noirorange"><b>shadow</b>: information disclosure via gpasswd</a>](https://vigilance.fr/vulnerability/shadow-information-disclosure-via-gpasswd-42564)|An attacker can bypass access restrictions to data of shadow, via gpasswd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-42563" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-42563)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562" class="noirorange"><b>Apache Tomcat</b>: header injection via HTTP Trailer Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562)|An attacker can add new headers on Apache Tomcat, via HTTP Trailer Headers, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-Apache-Tomcat-denial-of-service-via-HTTP-2-Rapid-Reset-42561" class="noirorange"><b>Eclipse Jetty  Apache Tomcat</b>: denial of service via HTTP/2 Rapid Reset</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-Apache-Tomcat-denial-of-service-via-HTTP-2-Rapid-Reset-42561)|An attacker can cause a fatal error of Eclipse Jetty  Apache Tomcat, via HTTP/2 Rapid Reset, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTTP-2-denial-of-service-via-Rapid-Reset-42561" class="noirorange"><b>HTTP/2</b>: denial of service via Rapid Reset</a>](https://vigilance.fr/vulnerability/HTTP-2-denial-of-service-via-Rapid-Reset-42561)|An attacker can cause a fatal error of HTTP/2, via Rapid Reset, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete Recycling Process</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete Recycling Process, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559" class="noirorange"><b>Apache Tomcat</b>: denial of service via Commons FileUpload Fork</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559)|An attacker can cause a fatal error of Apache Tomcat, via Commons FileUpload Fork, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558" class="noirorange"><b>Xen</b>: two vulnerabilities via Debug Mask Handling</a>](https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558)|An attacker, in a guest system, can use several vulnerabilities of Xen, via Debug Mask Handling sur le système hôte...|Visit link for details|
@@ -151,8 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556" class="noirorange"><b>Xen</b>: denial of service via Missing IOMMU TLB Flushing</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556)|An attacker can cause a fatal error of Xen, via Missing IOMMU TLB Flushing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Event Handling</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Event Handling, in order to trigger a denial of service on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554" class="noirorange"><b>Xen</b>: denial of service via Xenstored Transaction Conflict</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored Transaction Conflict, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-integer-overflow-via-HTTP-2-HPACK-42553" class="noirorange"><b>Eclipse Jetty</b>: integer overflow via HTTP/2 HPACK</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-integer-overflow-via-HTTP-2-HPACK-42553)|An attacker can trigger an integer overflow of Eclipse Jetty, via HTTP/2 HPACK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-MSA-Storage-denial-of-service-via-Remote-Desync-42552" class="noirorange"><b>HPE MSA Storage</b>: denial of service via Remote Desync</a>](https://vigilance.fr/vulnerability/HPE-MSA-Storage-denial-of-service-via-Remote-Desync-42552)|An attacker can cause a fatal error of HPE MSA Storage, via Remote Desync, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -193,7 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal Advisory for publication (AV23-608 )](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
+ |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
  |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
  |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
