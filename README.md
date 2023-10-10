@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2023 01:15:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 02:14:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
  |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
  |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
  |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
@@ -59,7 +60,6 @@
  |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,19 @@
  |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple vendors Rapid Reset denial of service (CVE-2023-44487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Azure DevOps Server code execution (CVE-2023-36415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Azure Identity SDK code execution (CVE-2023-36414)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-36416)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Azure RTOS GUIX Studi code execution (CVE-2023-36418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows MSHTML Platform code execution (CVE-2023-36436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Office Graphics privilege escalation (CVE-2023-36565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,19 +124,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple vendors Rapid Reset denial of service (CVE-2023-44487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Azure DevOps Server code execution (CVE-2023-36415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Azure Identity SDK code execution (CVE-2023-36414)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-36416)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Azure RTOS GUIX Studi code execution (CVE-2023-36418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Windows MSHTML Platform code execution (CVE-2023-36436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Office Graphics privilege escalation (CVE-2023-36565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,6 +136,23 @@
  |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
  |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSL VPN Component</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSL VPN Component, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SAML / Security Fabric</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SAML / Security Fabric, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585" class="noirorange"><b>PowerShell</b>: vulnerability via Help</a>](https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585)|A vulnerability of PowerShell, via Help, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581" class="noirorange"><b>Microsoft SQL Server</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581)|An attacker can cause a fatal error of Microsoft SQL Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -172,27 +189,13 @@
  |[ 44060310/23 - Vulnérabilités critiques dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-android-0)| Plusieurs vulnérabilités critiques ont été corrigées dont deux zero-day affectant le système d’exploitation Android. Les deux zero-day concernés sont :CVE-2023-4863 : Un débordement de tampon dans…| 03 octobre 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSL VPN Component</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSL VPN Component, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SAML / Security Fabric</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SAML / Security Fabric, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585" class="noirorange"><b>PowerShell</b>: vulnerability via Help</a>](https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585)|A vulnerability of PowerShell, via Help, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581" class="noirorange"><b>Microsoft SQL Server</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581)|An attacker can cause a fatal error of Microsoft SQL Server, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet security advisory (AV23-616)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-616)|Visit link for details|2023-10-10|
+ |[Microsoft security advisory – October 2023 monthly rollup (AV23-615)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-615)|Visit link for details|2023-10-10|
+ |[Citrix security advisory (AV23-614)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-614)|Visit link for details|2023-10-10|
  |[SAP security advisory – October 2023 monthly rollup (AV23-613)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2023-monthly-rollup-av23-613)|Visit link for details|2023-10-10|
  |[[Control systems] Schneider Electric security advisory (AV23-612)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-612)|Visit link for details|2023-10-10|
  |[Ubuntu security advisory (AV23-611)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-611)|Visit link for details|2023-10-10|
@@ -201,7 +204,4 @@
  |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
  |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
  |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
- |[SonicWall security advisory (AV23-604)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-604)|Visit link for details|2023-10-05|
- |[Microsoft Edge security advisory (AV23-603)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-603)|Visit link for details|2023-10-05|
  
