@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 12:15:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 13:21:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,35 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...|Release Date: 5 Oct 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
+ |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,26 +124,26 @@
  |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...|Release Date: 5 Oct 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231004)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 4 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2023 |
- |[Exim Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/exim-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Exim. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-03] For CVE-2023-42117, CVE-2023-42118...|Release Date: 3 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549" class="noirorange"><b>libcue</b>: buffer overflow via Sheet</a>](https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549)|An attacker can trigger a buffer overflow of libcue, via Sheet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548" class="noirorange"><b>Go</b>: code execution via Build Line Directives</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548)|An attacker can use a vulnerability of Go, via Build Line Directives, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547" class="noirorange"><b>ansible-galaxy</b>: file write via Symlinks</a>](https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547)|An attacker can bypass access restrictions of ansible-galaxy, via Symlinks, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546" class="noirorange"><b>Hot Rod Client</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546)|An attacker can act as a Man-in-the-Middle on Hot Rod Client, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545" class="noirorange"><b>snappy-java</b>: denial of service via SnappyInputStream</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545)|An attacker can cause a fatal error of snappy-java, via SnappyInputStream, in order to trigger a denial of service...|Visit link for details|
@@ -124,27 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539" class="noirorange"><b>Spring Security</b>: user access via Logout Support</a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539)|An attacker can bypass restrictions of Spring Security, via Logout Support, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538" class="noirorange"><b>Spring Security</b>: privilege escalation via OAuth2 Access Token Response</a>](https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538)|An attacker can bypass restrictions of Spring Security, via OAuth2 Access Token Response, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
- |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -164,18 +172,10 @@
  |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
 
 # CA-CCS
