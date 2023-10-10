@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 17:53:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 18:21:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
- |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
  |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
  |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 05, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 05, 2023|
+ |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
 # CERT-FR
@@ -94,19 +94,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
- |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
  |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
  |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,17 +142,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-two-vulnerabilities-via-HTTP-2-42553" class="noirorange"><b>Eclipse Jetty</b>: two vulnerabilities via HTTP/2</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-two-vulnerabilities-via-HTTP-2-42553)|An attacker can use several vulnerabilities of Eclipse Jetty, via HTTP/2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562" class="noirorange"><b>Apache Tomcat</b>: header injection via HTTP Trailer Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562)|An attacker can add new headers on Apache Tomcat, via HTTP Trailer Headers, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-Apache-Tomcat-denial-of-service-via-HTTP-2-Rapid-Reset-42561" class="noirorange"><b>Eclipse Jetty  Apache Tomcat</b>: denial of service via HTTP/2 Rapid Reset</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-Apache-Tomcat-denial-of-service-via-HTTP-2-Rapid-Reset-42561)|An attacker can cause a fatal error of Eclipse Jetty  Apache Tomcat, via HTTP/2 Rapid Reset, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete Recycling Process</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete Recycling Process, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559" class="noirorange"><b>Apache Tomcat</b>: denial of service via Commons FileUpload Fork</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559)|An attacker can cause a fatal error of Apache Tomcat, via Commons FileUpload Fork, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558" class="noirorange"><b>Xen</b>: two vulnerabilities via Debug Mask Handling</a>](https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558)|An attacker, in a guest system, can use several vulnerabilities of Xen, via Debug Mask Handling sur le système hôte...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-libfsimage-42557" class="noirorange"><b>Xen</b>: privilege escalation via libfsimage</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-libfsimage-42557)|An attacker, in a guest system, can bypass restrictions of Xen, via libfsimage, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556" class="noirorange"><b>Xen</b>: denial of service via Missing IOMMU TLB Flushing</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556)|An attacker can cause a fatal error of Xen, via Missing IOMMU TLB Flushing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Event Handling</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Event Handling, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554" class="noirorange"><b>Xen</b>: denial of service via Xenstored Transaction Conflict</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored Transaction Conflict, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-integer-overflow-via-HTTP-2-HPACK-42553" class="noirorange"><b>Eclipse Jetty</b>: integer overflow via HTTP/2 HPACK</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-integer-overflow-via-HTTP-2-HPACK-42553)|An attacker can trigger an integer overflow of Eclipse Jetty, via HTTP/2 HPACK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-MSA-Storage-denial-of-service-via-Remote-Desync-42552" class="noirorange"><b>HPE MSA Storage</b>: denial of service via Remote Desync</a>](https://vigilance.fr/vulnerability/HPE-MSA-Storage-denial-of-service-via-Remote-Desync-42552)|An attacker can cause a fatal error of HPE MSA Storage, via Remote Desync, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-osf-match-one-42550" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_osf_match_one()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-osf-match-one-42550)|An attacker can force a read at an invalid memory address of the Linux kernel, via nf_osf_match_one(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549" class="noirorange"><b>libcue</b>: buffer overflow via Sheet</a>](https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549)|An attacker can trigger a buffer overflow of libcue, via Sheet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548" class="noirorange"><b>Go</b>: code execution via Build Line Directives</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548)|An attacker can use a vulnerability of Go, via Build Line Directives, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547" class="noirorange"><b>ansible-galaxy</b>: file write via Symlinks</a>](https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547)|An attacker can bypass access restrictions of ansible-galaxy, via Symlinks, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546" class="noirorange"><b>Hot Rod Client</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546)|An attacker can act as a Man-in-the-Middle on Hot Rod Client, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545" class="noirorange"><b>snappy-java</b>: denial of service via SnappyInputStream</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545)|An attacker can cause a fatal error of snappy-java, via SnappyInputStream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544" class="noirorange"><b>OpenStack Keystone</b>: user access via Tokens Expiration</a>](https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544)|An attacker can bypass restrictions of OpenStack Keystone, via Tokens Expiration, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543" class="noirorange"><b>ImageMagick</b>: buffer overflow via BMP</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543)|An attacker can trigger a buffer overflow of ImageMagick, via BMP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
  
 
 # EU-CERT
