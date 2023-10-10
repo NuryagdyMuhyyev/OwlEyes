@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 23:21:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 00:11:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6426-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6426-1-webkitgtk-vulnerabilities.47056/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6425-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6425-1-samba-vulnerabilities.47055/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6407-2: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-2-libx11-vulnerabilities.47054/)|Visit link for details.|Oct 10, 2023|
+ |[LSN-0098-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0098-1-kernel-live-patch-security-notice.47053/)|Visit link for details.|Oct 10, 2023|
  |[USN-6424-1: kramdown vulnerability](https://www.linux.org/threads/usn-6424-1-kramdown-vulnerability.47050/)|Visit link for details.|Oct 10, 2023|
  |[USN-6423-1: CUE vulnerability](https://www.linux.org/threads/usn-6423-1-cue-vulnerability.47045/)|Visit link for details.|Oct 9, 2023|
  |[USN-6422-1: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-1-ring-vulnerabilities.47039/)|Visit link for details.|Oct 9, 2023|
@@ -40,10 +44,6 @@
  |[USN-6420-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6420-1-vim-vulnerabilities.47032/)|Visit link for details.|Oct 9, 2023|
  |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
  |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
- |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
  
 
 # US-CERT
@@ -76,6 +76,23 @@
  |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581" class="noirorange"><b>Microsoft SQL Server</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581)|An attacker can cause a fatal error of Microsoft SQL Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577" class="noirorange"><b>Linux kernel</b>: use after free via smb2_is_status_io_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576" class="noirorange"><b>WebKitGTK</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575" class="noirorange"><b>Samba</b>: denial of service via AD DC Incompatible RPC Listeners</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575)|An attacker can cause a fatal error of Samba, via AD DC Incompatible RPC Listeners, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574" class="noirorange"><b>Samba</b>: denial of service via rpcecho sleep</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574)|An attacker can cause a fatal error of Samba, via rpcecho sleep, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573" class="noirorange"><b>Samba</b>: information disclosure via GET_CHANGES</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573)|An attacker can bypass access restrictions to data of Samba, via GET_CHANGES, in order to read sensitive information...|Visit link for details|
  
 
 # CERT-SANTE
@@ -116,26 +133,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Multiple vendors Rapid Reset denial of service (CVE-2023-44487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Windows Layer 2 Tunneling Protocol code execution (CVE-2023-341767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Windows Client Server Run-time Subsystem (CSRSS) privilege escalation (CVE-2023-341766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Windows Layer 2 Tunneling Protocol code execution (CVE-2023-341765)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Skype for Business privilege escalation (CVE-2023-341763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Microsoft Azure Network Watcher VM Extension privilege escalation (CVE-2023-336737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ |[Microsoft Skype for Business code execution (CVE-2023-36780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft SQL ODBC Driver code execution (CVE-2023-36785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Skype for Business code execution (CVE-2023-36786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Skype for Business privilege escalation (CVE-2023-36789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows RDP Encoder Mirror Driver privilege escalation (CVE-2023-36790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows Graphics privilege escalation (CVE-2023-38159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
  
 
 # EU-CERT
@@ -155,6 +158,20 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[ 44080410/23 - Vulnérabilités critiques dans les produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft)| Microsoft a publié des correctifs de sécurité liés aux deux vulnérabilités CVE-2023-4863 et CVE-2023-5217 qui sont activement exploitées. Ces vulnérabilités affectent les produits de Microsoft…| 04 octobre 2023|
  |[ 44070310/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-3)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 03 octobre 2023|
  |[ 44060310/23 - Vulnérabilités critiques dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-android-0)| Plusieurs vulnérabilités critiques ont été corrigées dont deux zero-day affectant le système d’exploitation Android. Les deux zero-day concernés sont :CVE-2023-4863 : Un débordement de tampon dans…| 03 octobre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577" class="noirorange"><b>Linux kernel</b>: use after free via smb2_is_status_io_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576" class="noirorange"><b>WebKitGTK</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575" class="noirorange"><b>Samba</b>: denial of service via AD DC Incompatible RPC Listeners</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575)|An attacker can cause a fatal error of Samba, via AD DC Incompatible RPC Listeners, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574" class="noirorange"><b>Samba</b>: denial of service via rpcecho sleep</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574)|An attacker can cause a fatal error of Samba, via rpcecho sleep, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573" class="noirorange"><b>Samba</b>: information disclosure via GET_CHANGES</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573)|An attacker can bypass access restrictions to data of Samba, via GET_CHANGES, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572" class="noirorange"><b>Samba</b>: denial of service via acl_xattr File Truncation</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572)|An attacker can cause a fatal error of Samba, via acl_xattr File Truncation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571" class="noirorange"><b>Samba</b>: read-write access via Unix Domain Sockets</a>](https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571)|An attacker can bypass access restrictions of Samba, via Unix Domain Sockets, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570" class="noirorange"><b>SAP</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567" class="noirorange"><b>SQLite JDBC</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567)|An attacker can use a vulnerability of SQLite JDBC, via URL, in order to run code...|Visit link for details|
  
 
 # CA-CCS
