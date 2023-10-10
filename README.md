@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 22:13:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 23:21:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,35 +93,6 @@
  |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
  |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
  |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple vendors Rapid Reset denial of service (CVE-2023-44487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[GEO my WordPress plugin for WordPress cross-site scripting (CVE-2023-5467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Slick Contact Forms plugin for WordPress cross-site scripting (CVE-2023-5468)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
  
 
 # HK-CERT
@@ -124,21 +111,17 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577" class="noirorange"><b>Linux kernel</b>: use after free via smb2_is_status_io_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576" class="noirorange"><b>WebKitGTK</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575" class="noirorange"><b>Samba</b>: denial of service via AD DC Incompatible RPC Listeners</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575)|An attacker can cause a fatal error of Samba, via AD DC Incompatible RPC Listeners, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574" class="noirorange"><b>Samba</b>: denial of service via rpcecho sleep</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574)|An attacker can cause a fatal error of Samba, via rpcecho sleep, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573" class="noirorange"><b>Samba</b>: information disclosure via GET_CHANGES</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573)|An attacker can bypass access restrictions to data of Samba, via GET_CHANGES, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572" class="noirorange"><b>Samba</b>: denial of service via acl_xattr File Truncation</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572)|An attacker can cause a fatal error of Samba, via acl_xattr File Truncation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571" class="noirorange"><b>Samba</b>: read-write access via Unix Domain Sockets</a>](https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571)|An attacker can bypass access restrictions of Samba, via Unix Domain Sockets, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570" class="noirorange"><b>SAP</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567" class="noirorange"><b>SQLite JDBC</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567)|An attacker can use a vulnerability of SQLite JDBC, via URL, in order to run code...|Visit link for details|
+ |[Multiple vendors Rapid Reset denial of service (CVE-2023-44487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows Layer 2 Tunneling Protocol code execution (CVE-2023-341767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows Client Server Run-time Subsystem (CSRSS) privilege escalation (CVE-2023-341766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Windows Layer 2 Tunneling Protocol code execution (CVE-2023-341765)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Skype for Business privilege escalation (CVE-2023-341763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Microsoft Azure Network Watcher VM Extension privilege escalation (CVE-2023-336737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +155,6 @@
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
- |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
- |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
- |[SonicWall security advisory (AV23-604)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-604)|Visit link for details|2023-10-05|
- |[Microsoft Edge security advisory (AV23-603)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-603)|Visit link for details|2023-10-05|
- |[Atlassian security advisory (AV23-602)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-602)|Visit link for details|2023-10-05|
- |[Apple security advisory (AV23-601)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-601)|Visit link for details|2023-10-04|
- |[Red Hat security advisory (AV23-600)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-600)|Visit link for details|2023-10-04|
- |[Cisco security advisory (AV23-599)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-599)|Visit link for details|2023-10-04|
- |[Google Chrome security advisory (AV23-598)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-598)|Visit link for details|2023-10-04|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +170,38 @@
  |[ 44080410/23 - Vulnérabilités critiques dans les produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft)| Microsoft a publié des correctifs de sécurité liés aux deux vulnérabilités CVE-2023-4863 et CVE-2023-5217 qui sont activement exploitées. Ces vulnérabilités affectent les produits de Microsoft…| 04 octobre 2023|
  |[ 44070310/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-3)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 03 octobre 2023|
  |[ 44060310/23 - Vulnérabilités critiques dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-android-0)| Plusieurs vulnérabilités critiques ont été corrigées dont deux zero-day affectant le système d’exploitation Android. Les deux zero-day concernés sont :CVE-2023-4863 : Un débordement de tampon dans…| 03 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577" class="noirorange"><b>Linux kernel</b>: use after free via smb2_is_status_io_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-smb2-is-status-io-timeout-42577)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576" class="noirorange"><b>WebKitGTK</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-six-vulnerabilities-42576)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575" class="noirorange"><b>Samba</b>: denial of service via AD DC Incompatible RPC Listeners</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-AD-DC-Incompatible-RPC-Listeners-42575)|An attacker can cause a fatal error of Samba, via AD DC Incompatible RPC Listeners, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574" class="noirorange"><b>Samba</b>: denial of service via rpcecho sleep</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-rpcecho-sleep-42574)|An attacker can cause a fatal error of Samba, via rpcecho sleep, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573" class="noirorange"><b>Samba</b>: information disclosure via GET_CHANGES</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-GET-CHANGES-42573)|An attacker can bypass access restrictions to data of Samba, via GET_CHANGES, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572" class="noirorange"><b>Samba</b>: denial of service via acl_xattr File Truncation</a>](https://vigilance.fr/vulnerability/Samba-denial-of-service-via-acl-xattr-File-Truncation-42572)|An attacker can cause a fatal error of Samba, via acl_xattr File Truncation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571" class="noirorange"><b>Samba</b>: read-write access via Unix Domain Sockets</a>](https://vigilance.fr/vulnerability/Samba-read-write-access-via-Unix-Domain-Sockets-42571)|An attacker can bypass access restrictions of Samba, via Unix Domain Sockets, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570" class="noirorange"><b>SAP</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567" class="noirorange"><b>SQLite JDBC</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567)|An attacker can use a vulnerability of SQLite JDBC, via URL, in order to run code...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu security advisory (AV23-611)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-611)|Visit link for details|2023-10-10|
+ |[IBM security advisory (AV23-610)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-610)|Visit link for details|2023-10-10|
+ |[Dell security advisory (AV23-609)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-609)|Visit link for details|2023-10-10|
+ |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
+ |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
+ |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
+ |[SonicWall security advisory (AV23-604)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-604)|Visit link for details|2023-10-05|
+ |[Microsoft Edge security advisory (AV23-603)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-603)|Visit link for details|2023-10-05|
+ |[Atlassian security advisory (AV23-602)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-602)|Visit link for details|2023-10-05|
+ |[Apple security advisory (AV23-601)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-601)|Visit link for details|2023-10-04|
  
