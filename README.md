@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 19:15:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 20:17:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,10 +46,28 @@
  |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|09/10/2023|
+ |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
+ |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
+ |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
  |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
  |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
  |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
@@ -59,16 +77,12 @@
  |[CISA and NSA Release New Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management)|Visit link for details.|Oct 04, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs](https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs)|Visit link for details.|Oct 04, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
@@ -76,6 +90,22 @@
  |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 octobre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
+ |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
+ |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
  
 
 # HK-CERT
@@ -94,65 +124,38 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|09/10/2023|
- |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|09/10/2023|
- |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
- |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
- |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
- |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
- |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
- |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
- |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
- |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Libcue code execution (CVE-2023-43641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[Atos Unify OpenScape 4000 Platform and Atos Unify OpenScape 4000 Manager Platform command execution (CVE-2023-45356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 8, 2023|
- |[GNOME libxml2 denial of service (CVE-2023-45322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2023|
- |[Kofax Power PDF code execution (CVE-2023-42127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[e-Gov Client Application for Windows and e-Gov Client Application for macOS open redirect (CVE-2023-44689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
+ |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
+ |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
+ |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
+ |[SonicWall security advisory (AV23-604)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-604)|Visit link for details|2023-10-05|
+ |[Microsoft Edge security advisory (AV23-603)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-603)|Visit link for details|2023-10-05|
+ |[Atlassian security advisory (AV23-602)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-602)|Visit link for details|2023-10-05|
+ |[Apple security advisory (AV23-601)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-601)|Visit link for details|2023-10-04|
+ |[Red Hat security advisory (AV23-600)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-600)|Visit link for details|2023-10-04|
+ |[Cisco security advisory (AV23-599)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-599)|Visit link for details|2023-10-04|
+ |[Google Chrome security advisory (AV23-598)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-598)|Visit link for details|2023-10-04|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570" class="noirorange"><b>SAP</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2023-42570)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569" class="noirorange"><b>IBM QRadar SIEM</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-weak-encryption-42569)|An attacker can access data on IBM QRadar SIEM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42568)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567" class="noirorange"><b>SQLite JDBC</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/SQLite-JDBC-code-execution-via-URL-42567)|An attacker can use a vulnerability of SQLite JDBC, via URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Direct-Memory-Access-42566" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via Direct Memory Access</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Direct-Memory-Access-42566)|An attacker can use several vulnerabilities of SIMATIC, via Direct Memory Access...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/shadow-information-disclosure-via-gpasswd-42564" class="noirorange"><b>shadow</b>: information disclosure via gpasswd</a>](https://vigilance.fr/vulnerability/shadow-information-disclosure-via-gpasswd-42564)|An attacker can bypass access restrictions to data of shadow, via gpasswd, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-42563" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-42563)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562" class="noirorange"><b>Apache Tomcat</b>: header injection via HTTP Trailer Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-HTTP-Trailer-Headers-42562)|An attacker can add new headers on Apache Tomcat, via HTTP Trailer Headers, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTTP-2-denial-of-service-via-Rapid-Reset-42561" class="noirorange"><b>HTTP/2</b>: denial of service via Rapid Reset</a>](https://vigilance.fr/vulnerability/HTTP-2-denial-of-service-via-Rapid-Reset-42561)|An attacker can cause a fatal error of HTTP/2, via Rapid Reset, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete Recycling Process</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-Recycling-Process-42560)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete Recycling Process, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559" class="noirorange"><b>Apache Tomcat</b>: denial of service via Commons FileUpload Fork</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Commons-FileUpload-Fork-42559)|An attacker can cause a fatal error of Apache Tomcat, via Commons FileUpload Fork, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558" class="noirorange"><b>Xen</b>: two vulnerabilities via Debug Mask Handling</a>](https://vigilance.fr/vulnerability/Xen-two-vulnerabilities-via-Debug-Mask-Handling-42558)|An attacker, in a guest system, can use several vulnerabilities of Xen, via Debug Mask Handling sur le système hôte...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-libfsimage-42557" class="noirorange"><b>Xen</b>: privilege escalation via libfsimage</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-libfsimage-42557)|An attacker, in a guest system, can bypass restrictions of Xen, via libfsimage, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556" class="noirorange"><b>Xen</b>: denial of service via Missing IOMMU TLB Flushing</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Missing-IOMMU-TLB-Flushing-42556)|An attacker can cause a fatal error of Xen, via Missing IOMMU TLB Flushing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Event Handling</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Event-Handling-42555)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Event Handling, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554" class="noirorange"><b>Xen</b>: denial of service via Xenstored Transaction Conflict</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-Transaction-Conflict-42554)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored Transaction Conflict, in order to trigger a denial of service on the host system...|Visit link for details|
  
 
 # EU-CERT
@@ -189,19 +192,16 @@
  |[ 44060310/23 - Vulnérabilités critiques dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-android-0)| Plusieurs vulnérabilités critiques ont été corrigées dont deux zero-day affectant le système d’exploitation Android. Les deux zero-day concernés sont :CVE-2023-4863 : Un débordement de tampon dans…| 03 octobre 2023|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
- |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
- |[[Control systems] Hitachi security advisory (AV23-606)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-606)|Visit link for details|2023-10-05|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-605)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-605)|Visit link for details|2023-10-05|
- |[SonicWall security advisory (AV23-604)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-604)|Visit link for details|2023-10-05|
- |[Microsoft Edge security advisory (AV23-603)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-603)|Visit link for details|2023-10-05|
- |[Atlassian security advisory (AV23-602)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-602)|Visit link for details|2023-10-05|
- |[Apple security advisory (AV23-601)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-601)|Visit link for details|2023-10-04|
- |[Red Hat security advisory (AV23-600)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-600)|Visit link for details|2023-10-04|
- |[Cisco security advisory (AV23-599)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-599)|Visit link for details|2023-10-04|
- |[Google Chrome security advisory (AV23-598)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-598)|Visit link for details|2023-10-04|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
