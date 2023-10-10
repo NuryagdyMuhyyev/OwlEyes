@@ -25,20 +25,18 @@ class MACertSpider(scrapy.Spider):
 
     name = "MA-CERT"
     max_items = 10
-    start_urls = ["https://www.dgssi.gov.ma/fr/macert/bulletins-de-securite.html"]
-    block_selector = "div.event_row1"
-    link_selector = "descendant-or-self::h4/a/@href"
-    date_selector = "span.event_date::text"
-    title_selector = "descendant-or-self::h4/a[2]/text()"
-    description_selector = (
-        "descendant-or-self::p[contains(@class,'body-evenement')]/text()"
-    )
+    start_urls = ["https://www.dgssi.gov.ma/fr/bulletins-securite"]
+    block_selector = "//div[contains(@class,'single-blog-content')]"
+    link_selector = "descendant-or-self::h3/a/@href"
+    date_selector = "descendant-or-self::li/text()[2]"
+    title_selector = "descendant-or-self::h3/a/text()"
+    description_selector = ("descendant-or-self::p/text()")
 
     def parse(self, response):
         """
         Parsing the response.
         """
-        for idx, bulletin in enumerate(response.css(self.block_selector)):
+        for idx, bulletin in enumerate(response.xpath(self.block_selector)):
 
             if idx > self.max_items:
                 break
@@ -46,8 +44,8 @@ class MACertSpider(scrapy.Spider):
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()
-            item["link"] = "https://www.dgssi.gov.ma/"+bulletin.xpath(self.link_selector).get()
-            item["date"] = bulletin.css(self.date_selector).get()
+            item["link"] = bulletin.xpath(self.link_selector).get()
+            item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = bulletin.xpath(self.description_selector).get()
 
             yield item
