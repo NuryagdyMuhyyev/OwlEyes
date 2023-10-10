@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2023 09:19:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2023 10:15:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6423-1: CUE vulnerability](https://www.linux.org/threads/usn-6423-1-cue-vulnerability.47045/)|Visit link for details.|Oct 9, 2023|
- |[USN-6422-1: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-1-ring-vulnerabilities.47039/)|Visit link for details.|Oct 9, 2023|
- |[USN-6421-1: Bind vulnerability](https://www.linux.org/threads/usn-6421-1-bind-vulnerability.47035/)|Visit link for details.|Oct 9, 2023|
- |[USN-6420-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6420-1-vim-vulnerabilities.47032/)|Visit link for details.|Oct 9, 2023|
- |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
- |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
- |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
- |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
- |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
- 
 
 # US-CERT
 
@@ -94,21 +77,21 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231003)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system. Note:CVE-2023-5217: Heap buffer overflow in vp8...|Release Date: 3 Oct 2023 |
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|09/10/2023|
- |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|09/10/2023|
- |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
- |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
- |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
- |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
- |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
- |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
- |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
- |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
+ |[USN-6423-1: CUE vulnerability](https://www.linux.org/threads/usn-6423-1-cue-vulnerability.47045/)|Visit link for details.|Oct 9, 2023|
+ |[USN-6422-1: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-1-ring-vulnerabilities.47039/)|Visit link for details.|Oct 9, 2023|
+ |[USN-6421-1: Bind vulnerability](https://www.linux.org/threads/usn-6421-1-bind-vulnerability.47035/)|Visit link for details.|Oct 9, 2023|
+ |[USN-6420-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6420-1-vim-vulnerabilities.47032/)|Visit link for details.|Oct 9, 2023|
+ |[DSA-5519 grub2 - security update](https://www.linux.org/threads/dsa-5519-grub2-security-update.47019/)|Visit link for details.|Oct 7, 2023|
+ |[USN-6416-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6416-2-linux-kernel-vulnerabilities.47012/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5518 libvpx - security update](https://www.linux.org/threads/dsa-5518-libvpx-security-update.46999/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5517 libx11 - security update](https://www.linux.org/threads/dsa-5517-libx11-security-update.46998/)|Visit link for details.|Oct 6, 2023|
+ |[DSA-5516 libxpm - security update](https://www.linux.org/threads/dsa-5516-libxpm-security-update.46997/)|Visit link for details.|Oct 6, 2023|
+ |[USN-6396-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6396-2-linux-kernel-kvm-vulnerabilities.46986/)|Visit link for details.|Oct 5, 2023|
+ |[USN-6419-1: jQuery UI vulnerabilities](https://www.linux.org/threads/usn-6419-1-jquery-ui-vulnerabilities.46985/)|Visit link for details.|Oct 5, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,41 +107,21 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2023|
  
 
-# MA-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
- |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-073: Access Control Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-073.pdf)|Atlassian has been made aware of a critical vulnerability, CVE-2023-22515, a Broken Access Control vulnerability in Confluence Data Center and Server. External attackers may exploit this vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorised Confluence administrator accounts and access Confluence instances. Atlassian Cloud sites are not affected by this vulnerability.|Friday, October 06, 2023 10:23:58 AM CEST|
- |[2023-069: Zero-Day Vulnerabilities in Apple Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-069.pdf)|On September 21, Apple issued emergency patches for three zero-day bugs, identified by "CVE-2023-41992", "CVE-2023-41991" and "CVE-2023-41993". These vulnerabilities are affecting iOS, iPadOS, and macOS devices and are currently being used in the wild for spyware installation purposes.|Friday, October 06, 2023 10:12:24 AM CEST|
- |[2023-072: GNU C Library Dynamic Loader Buffer Overflow Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-072.pdf)|A critical buffer overflow vulnerability, identified as "CVE-2023-4911", has been discovered by Qualys Research Labs in the GNU C Library's dynamic loader when processing the "GLIBC_TUNABLES" environment variable. This vulnerability can be exploited to obtain full root privileges, impacting several major Linux distributions.|Wednesday, October 04, 2023 05:41:05 PM CEST|
- |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-071.pdf)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
- |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
- |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
- |[2023-068: High Severity Vulnerability in Bitbucket Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-068.pdf)|On September 19, Atlassian released a security bulletin addressing several vulnerabilities among which a high severity vulnerability, identified by "CVE-2023-22513", that could allow an authenticated attacker to execute arbitrary code on the server.|Wednesday, September 20, 2023 05:17:50 PM CEST|
- |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
- |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
- |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
+ |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|09/10/2023|
+ |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
+ |[Acronis - CVE-2023-44208](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44208-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Dell - CVE-2023-32485](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32485-2023-10-06)|Visit link for details.|06/10/2023|
+ |[D-Link - CVE-2023-44411](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44411-2023-10-06)|Visit link for details.|06/10/2023|
+ |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Ivanti - CVE-2023-28323](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-28323-2023-10-06)|Visit link for details.|06/10/2023|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|06/10/2023|
  
 
 # OBS-Vigilance
@@ -178,6 +141,29 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-073: Access Control Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-073.pdf)|Atlassian has been made aware of a critical vulnerability, CVE-2023-22515, a Broken Access Control vulnerability in Confluence Data Center and Server. External attackers may exploit this vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorised Confluence administrator accounts and access Confluence instances. Atlassian Cloud sites are not affected by this vulnerability.|Friday, October 06, 2023 10:23:58 AM CEST|
+ |[2023-069: Zero-Day Vulnerabilities in Apple Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-069.pdf)|On September 21, Apple issued emergency patches for three zero-day bugs, identified by "CVE-2023-41992", "CVE-2023-41991" and "CVE-2023-41993". These vulnerabilities are affecting iOS, iPadOS, and macOS devices and are currently being used in the wild for spyware installation purposes.|Friday, October 06, 2023 10:12:24 AM CEST|
+ |[2023-072: GNU C Library Dynamic Loader Buffer Overflow Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-072.pdf)|A critical buffer overflow vulnerability, identified as "CVE-2023-4911", has been discovered by Qualys Research Labs in the GNU C Library's dynamic loader when processing the "GLIBC_TUNABLES" environment variable. This vulnerability can be exploited to obtain full root privileges, impacting several major Linux distributions.|Wednesday, October 04, 2023 05:41:05 PM CEST|
+ |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-071.pdf)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
+ |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
+ |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
+ |[2023-068: High Severity Vulnerability in Bitbucket Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-068.pdf)|On September 19, Atlassian released a security bulletin addressing several vulnerabilities among which a high severity vulnerability, identified by "CVE-2023-22513", that could allow an authenticated attacker to execute arbitrary code on the server.|Wednesday, September 20, 2023 05:17:50 PM CEST|
+ |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
+ |[2023-059: Multiple Junos OS Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-059.pdf)|Juniper Networks has released fixes to address several vulnerabilities. These vulnerabilities could potentially be chained together to allow unauthorised remote code execution (RCE) on SRX and EX series devices. The combined CVSS score for these flaws is 9.8 (Critical) and a PoC exploit has been publicly released. Therefore, CERT-EU strongly advises users to promptly update their devices to the latest versions, or apply the provided workaround.|Tuesday, September 19, 2023 11:36:53 AM CEST|
+ |[2023-055: High Vulnerability in Endpoint Manager Mobile (MobileIron Core)](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-055.pdf)|On July 28, 2023, US-based IT software company Ivanti disclosed a Remote File Write vulnerability in its Endpoint Manager Mobile (EPMM) software, previously known as MobileIron Core.|Monday, September 18, 2023 01:49:27 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -193,4 +179,10 @@
  |[Red Hat security advisory (AV23-600)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-600)|Visit link for details|2023-10-04|
  |[Cisco security advisory (AV23-599)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-599)|Visit link for details|2023-10-04|
  |[Google Chrome security advisory (AV23-598)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-598)|Visit link for details|2023-10-04|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
