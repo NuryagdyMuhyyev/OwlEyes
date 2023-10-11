@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2023 13:21:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 14:17:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/05/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Oct 05, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +77,22 @@
  |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
  |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
  |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
  
 
 # HK-CERT
@@ -117,28 +117,25 @@
  |---|---|---|
  |[cURL libcurl security bypass (CVE-2023-38546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
  |[libcurl and cURL buffer overflow (CVE-2023-38545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-34988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Unisoc Chipsets privilege escalation (CVE-2023-40654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Unisoc Chipsets privilege escalation (CVE-2023-40653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Unisoc Chipsets denial of service (CVE-2023-40652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Unisoc Chipsets denial of service (CVE-2023-40651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiClient information disclosure (CVE-2023-37939)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiOS information disclosure (CVE-2023-37935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiMail cross-site scripting (CVE-2023-36637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiWLM command execution (CVE-2023-34985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiWLM command execution (CVE-2023-34986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596" class="noirorange"><b>MediaWiki</b>: code execution via XML Instance Administrator</a>](https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596)|An attacker can use a vulnerability of MediaWiki, via XML Instance Administrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594" class="noirorange"><b>libnotify</b>: vulnerability via Flatpak</a>](https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594)|A vulnerability of libnotify, via Flatpak, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593" class="noirorange"><b>curl</b>: write access via None File Cookie Injection</a>](https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593)|An attacker can bypass access restrictions of curl, via None File Cookie Injection, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractImageSection()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSL VPN Component</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSL VPN Component, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SAML / Security Fabric</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SAML / Security Fabric, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCalendar Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1531/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadTag Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1530/)|Visit link for details|2023-10-05|
+ |[Delta Electronics DIAEnergie HandlerUploadCarbon Use Of Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1529/)|Visit link for details|2023-10-05|
  
 
 # EU-CERT
@@ -156,6 +153,23 @@
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  |[2023-068: High Severity Vulnerability in Bitbucket Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-068.pdf)|On September 19, Atlassian released a security bulletin addressing several vulnerabilities among which a high severity vulnerability, identified by "CVE-2023-22513", that could allow an authenticated attacker to execute arbitrary code on the server.|Wednesday, September 20, 2023 05:17:50 PM CEST|
  |[2023-067: Critical Flaw in GitLab](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-067.pdf)|On September 18, GitLab has released security updates to address a critical flaw identified by "CVE-2023-4998" that, if exploited, would allow an attacker to run code, modify data or trigger specific events within the GitLab system. This could result in loss of intellectual property, damaging data leaks, supply chain attacks, and other high-risk scenarios.|Wednesday, September 20, 2023 10:29:51 AM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597" class="noirorange"><b>Intel oneVPL GPU Runtime</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597)|An attacker can use several vulnerabilities of Intel oneVPL GPU Runtime...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596" class="noirorange"><b>MediaWiki</b>: code execution via XML Instance Administrator</a>](https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596)|An attacker can use a vulnerability of MediaWiki, via XML Instance Administrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594" class="noirorange"><b>libnotify</b>: vulnerability via Flatpak</a>](https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594)|A vulnerability of libnotify, via Flatpak, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593" class="noirorange"><b>curl</b>: write access via None File Cookie Injection</a>](https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593)|An attacker can bypass access restrictions of curl, via None File Cookie Injection, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractImageSection()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSL VPN Component</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSL VPN Component, in order to read sensitive information...|Visit link for details|
  
 
 # CA-CCS
@@ -190,10 +204,4 @@
  |[ 44080410/23 - Vulnérabilités critiques dans les produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft)| Microsoft a publié des correctifs de sécurité liés aux deux vulnérabilités CVE-2023-4863 et CVE-2023-5217 qui sont activement exploitées. Ces vulnérabilités affectent les produits de Microsoft…| 04 octobre 2023|
  |[ 44070310/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-3)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 03 octobre 2023|
  |[ 44060310/23 - Vulnérabilités critiques dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-android-0)| Plusieurs vulnérabilités critiques ont été corrigées dont deux zero-day affectant le système d’exploitation Android. Les deux zero-day concernés sont :CVE-2023-4863 : Un débordement de tampon dans…| 03 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
