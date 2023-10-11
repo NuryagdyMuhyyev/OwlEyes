@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2023 20:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 21:21:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6407-2: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-2-libx11-vulnerabilities.47054/)|Visit link for details.|Oct 10, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -62,52 +78,6 @@
  |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiMail security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[cURL libcurl security bypass (CVE-2023-38546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[libcurl and cURL buffer overflow (CVE-2023-38545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Keyence KV STUDIO and KV REPLAY VIEWER code execution (CVE-2023-42138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-36547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-36548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-36549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
- |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
- |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
- |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
- |[ClamAV - CVE-2023-20032](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20032-2023-02-16)|Visit link for details.|10/10/2023|
- |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|09/10/2023|
- |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|09/10/2023|
- |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
- |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +92,36 @@
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiMail security bypass (CVE-2023-36556)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[cURL libcurl security bypass (CVE-2023-38546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[libcurl and cURL buffer overflow (CVE-2023-38545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Apache Tomcat HTTP request smuggling (CVE-2023-45648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Keyence KV STUDIO and KV REPLAY VIEWER code execution (CVE-2023-42138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiWLM command execution (CVE-2023-36547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiWLM command execution (CVE-2023-36548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
+ |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
+ |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
+ |[ClamAV - CVE-2023-20032](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20032-2023-02-16)|Visit link for details.|10/10/2023|
  
 
 # OBS-Vigilance
@@ -141,10 +141,25 @@
  |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Photoshop PSD File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1539/)|Visit link for details|2023-10-11|
+ |[Adobe Bridge Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1538/)|Visit link for details|2023-10-11|
+ |[Adobe Bridge Font Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1537/)|Visit link for details|2023-10-11|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-077.pdf)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  |[2023-074: HTTP/2 Rapid Reset DDoS Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-074.pdf)|On October 10, 2023, Cloudflare, Google and Amazon AWS, jointly disclosed a vulnerability affecting the HTTP/2 protocol. Named as "CVE-2023-44487", this vulnerability impacts various web services and cloud customers. This vulnerability is being actively exploited and has led to Distributed Denial of Service (DDoS) attacks that are significantly larger than previous Layer 7 attacks.|Wednesday, October 11, 2023 02:13:58 PM CEST|
  |[2023-076: Vulnerability in cURL and libcurl](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-076.pdf)|A security vulnerability in the cURL tool and libcurl library has been identified. This flaw enables a heap-based buffer overflow during the SOCKS5 proxy handshake, potentially allowing malicious actors to execute arbitrary code (RCE). At this time, CERT-EU is not aware of any active exploits leveraging this vulnerability. The vulnerability affects libcurl versions 7.69.0 to 8.3.0. The issue was reported on September 30, 2023, and a patch has been released in curl version 8.4.0. The vulnerability is tracked as "CVE-2023-38545".|Wednesday, October 11, 2023 01:06:46 PM CEST|
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-075.pdf)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Tuesday, October 10, 2023 09:18:38 PM CEST|
@@ -155,7 +170,6 @@
  |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
- |[2023-068: High Severity Vulnerability in Bitbucket Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-068.pdf)|On September 19, Atlassian released a security bulletin addressing several vulnerabilities among which a high severity vulnerability, identified by "CVE-2023-22513", that could allow an authenticated attacker to execute arbitrary code on the server.|Wednesday, September 20, 2023 05:17:50 PM CEST|
  
 
 # MA-CERT
@@ -190,18 +204,4 @@
  |[Dell security advisory (AV23-609)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-609)|Visit link for details|2023-10-10|
  |[Drupal Advisory for publication (AV23-608)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-advisory-publication-av23-608)|Visit link for details|2023-10-06|
  |[[Control systems] Qognify security advisory (AV23-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qognify-security-advisory-av23-607)|Visit link for details|2023-10-05|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Photoshop PSD File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1539/)|Visit link for details|2023-10-11|
- |[Adobe Bridge Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1538/)|Visit link for details|2023-10-11|
- |[Adobe Bridge Font Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1537/)|Visit link for details|2023-10-11|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
  
