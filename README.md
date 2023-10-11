@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2023 21:21:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 22:15:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FBI and CISA Release Update on AvosLocker Advisory](https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory)|Visit link for details.|Oct 11, 2023|
+ |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates)|Visit link for details.|Oct 10, 2023|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
+ |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
+ |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
+ |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
+ |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,38 +60,6 @@
  |[USN-6426-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6426-1-webkitgtk-vulnerabilities.47056/)|Visit link for details.|Oct 10, 2023|
  |[USN-6425-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6425-1-samba-vulnerabilities.47055/)|Visit link for details.|Oct 10, 2023|
  |[USN-6407-2: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-2-libx11-vulnerabilities.47054/)|Visit link for details.|Oct 10, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[FBI and CISA Release Update on AvosLocker Advisory](https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory)|Visit link for details.|Oct 11, 2023|
- |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates)|Visit link for details.|Oct 10, 2023|
- |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
- |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
- |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
- |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
- |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/10/05/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Oct 05, 2023|
  
 
 # HK-CERT
@@ -94,17 +78,20 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiMail security bypass (CVE-2023-36556)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[cURL libcurl security bypass (CVE-2023-38546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[libcurl and cURL buffer overflow (CVE-2023-38545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Apache Tomcat HTTP request smuggling (CVE-2023-45648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Keyence KV STUDIO and KV REPLAY VIEWER code execution (CVE-2023-42138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-36547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Fortinet FortiWLM command execution (CVE-2023-36548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0817/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0816/)|Une vulnérabilité a été découverte dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 octobre 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/)|Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 octobre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 5 octobre 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
  
 
 # CERT-SANTE
@@ -124,6 +111,33 @@
  |[ClamAV - CVE-2023-20032](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20032-2023-02-16)|Visit link for details.|10/10/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiMail security bypass (CVE-2023-36556)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[cURL libcurl security bypass (CVE-2023-38546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[libcurl and cURL buffer overflow (CVE-2023-38545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[ReachFar information disclosure (CVE-2023-5499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Apache Tomcat denial of service (CVE-2023-42794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Apache Tomcat information disclosure (CVE-2023-42795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Apache Tomcat HTTP request smuggling (CVE-2023-45648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Photoshop PSD File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1539/)|Visit link for details|2023-10-11|
+ |[Adobe Bridge Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1538/)|Visit link for details|2023-10-11|
+ |[Adobe Bridge Font Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1537/)|Visit link for details|2023-10-11|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
+ |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
+ |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
+ |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libcurl-write-access-via-None-File-Cookie-Injection-42593" class="noirorange"><b>libcurl</b>: write access via None File Cookie Injection</a>](https://vigilance.fr/vulnerability/libcurl-write-access-via-None-File-Cookie-Injection-42593)|An attacker can bypass access restrictions of libcurl, via None File Cookie Injection, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractImageSection()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Photoshop PSD File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1539/)|Visit link for details|2023-10-11|
- |[Adobe Bridge Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1538/)|Visit link for details|2023-10-11|
- |[Adobe Bridge Font Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1537/)|Visit link for details|2023-10-11|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1536/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1535/)|Visit link for details|2023-10-06|
- |[Microsoft Windows UMPDDrvLineTo Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1534/)|Visit link for details|2023-10-06|
- |[Magnet Forensics AXIOM Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1533/)|Visit link for details|2023-10-06|
- |[Ivanti Endpoint Manager ProcessEPMAuthToken Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1532/)|Visit link for details|2023-10-05|
  
 
 # EU-CERT
