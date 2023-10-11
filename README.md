@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2023 11:23:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2023 12:15:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -61,23 +61,6 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/)|Une vulnérabilité a été découverte dans |Publié le 5 octobre 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5522 tomcat9 - security update](https://www.linux.org/threads/dsa-5522-tomcat9-security-update.47064/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5521 tomcat10 - security update](https://www.linux.org/threads/dsa-5521-tomcat10-security-update.47063/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5520 mediawiki - security update](https://www.linux.org/threads/dsa-5520-mediawiki-security-update.47061/)|Visit link for details.|Oct 11, 2023|
- |[USN-6427-1: .NET vulnerability](https://www.linux.org/threads/usn-6427-1-net-vulnerability.47059/)|Visit link for details.|Oct 10, 2023|
- |[USN-6426-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6426-1-webkitgtk-vulnerabilities.47056/)|Visit link for details.|Oct 10, 2023|
- |[USN-6425-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6425-1-samba-vulnerabilities.47055/)|Visit link for details.|Oct 10, 2023|
- |[USN-6407-2: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-2-libx11-vulnerabilities.47054/)|Visit link for details.|Oct 10, 2023|
- |[LSN-0098-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0098-1-kernel-live-patch-security-notice.47053/)|Visit link for details.|Oct 10, 2023|
- |[USN-6424-1: kramdown vulnerability](https://www.linux.org/threads/usn-6424-1-kramdown-vulnerability.47050/)|Visit link for details.|Oct 10, 2023|
- |[USN-6423-1: CUE vulnerability](https://www.linux.org/threads/usn-6423-1-cue-vulnerability.47045/)|Visit link for details.|Oct 9, 2023|
- |[USN-6422-1: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-1-ring-vulnerabilities.47039/)|Visit link for details.|Oct 9, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,6 +75,36 @@
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231005)|A vulnerability was identified in Microsoft Edge.  A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 5 Oct 2023 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 5 Oct 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2023-4863...|Release Date: 4 Oct 2023 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5522 tomcat9 - security update](https://www.linux.org/threads/dsa-5522-tomcat9-security-update.47064/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5521 tomcat10 - security update](https://www.linux.org/threads/dsa-5521-tomcat10-security-update.47063/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5520 mediawiki - security update](https://www.linux.org/threads/dsa-5520-mediawiki-security-update.47061/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6427-1: .NET vulnerability](https://www.linux.org/threads/usn-6427-1-net-vulnerability.47059/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6426-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6426-1-webkitgtk-vulnerabilities.47056/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6425-1: Samba vulnerabilities](https://www.linux.org/threads/usn-6425-1-samba-vulnerabilities.47055/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6407-2: libx11 vulnerabilities](https://www.linux.org/threads/usn-6407-2-libx11-vulnerabilities.47054/)|Visit link for details.|Oct 10, 2023|
+ |[LSN-0098-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0098-1-kernel-live-patch-security-notice.47053/)|Visit link for details.|Oct 10, 2023|
+ |[USN-6424-1: kramdown vulnerability](https://www.linux.org/threads/usn-6424-1-kramdown-vulnerability.47050/)|Visit link for details.|Oct 10, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Lenovo System Update privilege escalation (CVE-2023-4632)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[Fortinet FortiWLM command execution (CVE-2023-34993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[F5 BIG-IP Next SPK denial of service (CVE-2023-40534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-40542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-41085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[F5 BIG-IP Next SPK security bypass (CVE-2023-45226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
+ |[F5 BIG-IP (APM) privilege escalation (CVE-2023-5450)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
  
 
 # CERT-SANTE
@@ -109,19 +122,6 @@
  |[D-Link - CVE-2023-43130](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-43130-2023-10-09)|Visit link for details.|09/10/2023|
  |[Cisco - CVE-2023-20259](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20259-2023-10-09)|Visit link for details.|09/10/2023|
  |[Dell - CVE-2023-43069](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43069-2023-10-09)|Visit link for details.|09/10/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 BIG-IP security bypass (CVE-2023-42768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Siemens Parasolid code execution (CVE-2023-44084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[Siemens Parasolid code execution (CVE-2023-44081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[XenSource Xen privilege escalation (CVE-2023-34326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[XenSource Xen privilege escalation (CVE-2023-34325)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[XenSource Xen denial of service (CVE-2023-34328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
- |[XenSource Xen denial of service (CVE-2023-34327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594" class="noirorange"><b>libnotify</b>: vulnerability via Flatpak</a>](https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594)|A vulnerability of libnotify, via Flatpak, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593" class="noirorange"><b>curl</b>: write access via None File Cookie Injection</a>](https://vigilance.fr/vulnerability/curl-write-access-via-None-File-Cookie-Injection-42593)|An attacker can bypass access restrictions of curl, via None File Cookie Injection, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractImageSection()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
@@ -149,10 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SAML / Security Fabric</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SAML / Security Fabric, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585" class="noirorange"><b>PowerShell</b>: vulnerability via Help</a>](https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585)|A vulnerability of PowerShell, via Help, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581" class="noirorange"><b>Microsoft SQL Server</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581)|An attacker can cause a fatal error of Microsoft SQL Server, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
  
 
 # EU-CERT
