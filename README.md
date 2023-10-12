@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2023 12:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2023 13:21:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,17 +78,21 @@
  |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Networks Junos OS on MX Series denial of service (CVE-2023-44199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS denial of service (CVE-2023-44185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[WooCommerce Login Redirect Plugin for WordPress cross-site request forgery (CVE-2023-44995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[WP Forms Puzzle Captcha Plugin for WordPress cross-site request forgery (CVE-2023-44997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS denial of service (CVE-2023-36841)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS denial of service (CVE-2023-36843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS privilege escalation (CVE-2023-44194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
+ |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
+ |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
  
 
 # HK-CERT
@@ -107,21 +111,17 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
- |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
- |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
- |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
- |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
- |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
- |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Juniper Networks Junos OS Evolved security bypass (CVE-2023-44202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS security bypass (CVE-2023-44198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2023-44197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS Evolved denial of service (CVE-2023-44190)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS Evolved security bypass (CVE-2023-44196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS Evolved denial of service (CVE-2023-44195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS Evolved information disclosure (CVE-2023-44187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
  
 
 # ZERODAYINITIATIVE
