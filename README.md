@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2023 13:21:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2023 14:16:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
- |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
- |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
- |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
- |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5522 tomcat9 - security update](https://www.linux.org/threads/dsa-5522-tomcat9-security-update.47064/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5521 tomcat10 - security update](https://www.linux.org/threads/dsa-5521-tomcat10-security-update.47063/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5520 mediawiki - security update](https://www.linux.org/threads/dsa-5520-mediawiki-security-update.47061/)|Visit link for details.|Oct 11, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,37 +45,21 @@
  |[NSA and CISA Release Advisory on Top Ten Cybersecurity Misconfigurations](https://www.cisa.gov/news-events/alerts/2023/10/05/nsa-and-cisa-release-advisory-top-ten-cybersecurity-misconfigurations)|Visit link for details.|Oct 05, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
- |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
- |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
- |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
- |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
- |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
- |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
- |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
+ |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5522 tomcat9 - security update](https://www.linux.org/threads/dsa-5522-tomcat9-security-update.47064/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5521 tomcat10 - security update](https://www.linux.org/threads/dsa-5521-tomcat10-security-update.47063/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5520 mediawiki - security update](https://www.linux.org/threads/dsa-5520-mediawiki-security-update.47061/)|Visit link for details.|Oct 11, 2023|
  
 
 # HK-CERT
@@ -111,17 +78,50 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Networks Junos OS Evolved security bypass (CVE-2023-44202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS security bypass (CVE-2023-44198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2023-44197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS Evolved denial of service (CVE-2023-44190)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS Evolved security bypass (CVE-2023-44196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS Evolved denial of service (CVE-2023-44195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Juniper Networks Junos OS Evolved information disclosure (CVE-2023-44187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 command execution (CVE-2023-32632)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 buffer overflow (CVE-2023-34346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Juniper Networks Junos OS denial of service (CVE-2023-44203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 buffer overflow (CVE-2023-31272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 buffer overflow (CVE-2023-34368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 buffer overflow (CVE-2023-34367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Yifan YF325 buffer overflow (CVE-2023-34365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
+ |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
+ |[WatchGuard - CVE-2023-26238](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26238-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Acronis - CVE-2023-44212](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44212-2023-10-10)|Visit link for details.|10/10/2023|
+ |[Dell - CVE-2023-43068](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43068-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44403](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44403-2023-10-10)|Visit link for details.|10/10/2023|
+ |[D-Link - CVE-2023-44404](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44404-2023-10-10)|Visit link for details.|10/10/2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
@@ -152,7 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594" class="noirorange"><b>libnotify</b>: vulnerability via Flatpak</a>](https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594)|A vulnerability of libnotify, via Flatpak, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcurl-write-access-via-None-File-Cookie-Injection-42593" class="noirorange"><b>libcurl</b>: write access via None File Cookie Injection</a>](https://vigilance.fr/vulnerability/libcurl-write-access-via-None-File-Cookie-Injection-42593)|An attacker can bypass access restrictions of libcurl, via None File Cookie Injection, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractImageSection()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-42592)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
 # EU-CERT
@@ -176,17 +176,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
+ |[ 44281210/23 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-0)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 12 octobre 2023|
+ |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
  |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
  |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
- |[ 42801207/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-7)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
+ |[ 44211210/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-7)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
  |[ 44241110/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2023)| Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 11 octobre 2023|
  |[ 44231110/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-octobre-2023)| Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 11 octobre 2023|
  |[ 44201110/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-7)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
  |[ 44221110/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un…| 11 octobre 2023|
  |[ 44181010/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 11 octobre 2023|
- |[ 44181110/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-octobre-2023)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilège et d’exécuter du code…| 11 octobre 2023|
- |[ 44191110/23 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-2)| Citrix annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données…| 11 octobre 2023|
- |[ 44161010/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-2)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre…| 10 octobre 2023|
  
 
 # CA-CCS
