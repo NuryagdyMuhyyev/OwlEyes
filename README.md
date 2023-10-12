@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2023 21:21:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2023 22:15:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
  |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Oct 12, 2023|
  |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/11/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Oct 11, 2023|
  |[FBI and CISA Release Update on AvosLocker Advisory](https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory)|Visit link for details.|Oct 11, 2023|
@@ -59,7 +60,6 @@
  |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
  |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2023/10/06/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Oct 06, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,19 @@
  |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-35193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-35194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-27380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-28381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Apache ZooKeeper security bypass (CVE-2023-44981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Microsoft Teams privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Microsoft Teams cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -115,6 +128,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
@@ -125,20 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597" class="noirorange"><b>Intel oneVPL GPU Runtime</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597)|An attacker can use several vulnerabilities of Intel oneVPL GPU Runtime...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596" class="noirorange"><b>MediaWiki</b>: code execution via XML Instance Administrator</a>](https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596)|An attacker can use a vulnerability of MediaWiki, via XML Instance Administrator, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594" class="noirorange"><b>libnotify</b>: vulnerability via Flatpak</a>](https://vigilance.fr/vulnerability/libnotify-vulnerability-via-Flatpak-42594)|A vulnerability of libnotify, via Flatpak, was announced...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-35193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-35194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-27380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-28381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Apache ZooKeeper security bypass (CVE-2023-44981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Microsoft Teams privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Microsoft Teams cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # EU-CERT
@@ -156,20 +170,6 @@
  |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # CA-CCS
