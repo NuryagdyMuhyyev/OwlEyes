@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2023 02:14:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2023 03:15:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,22 @@
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and information disclosure on the targeted system.|Release Date: 12 Oct 2023 |
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and denial of service on the targeted system.|Release Date: 12 Oct 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 12 Oct 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 12 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...| Release Date: 5 Oct 2023 |
+ |[Adobe Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Low RiskInformation Disclosure APSB23-49Adobe Commerce Medium RiskElevation of PrivilegeCross-...|Release Date: 11 Oct 2023 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system. |Release Date: 11 Oct 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
+ |[Microsoft Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low Risk  Windows Extremely High RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation DisclosureSecurity Restriction Bypass...|Release Date: 11 Oct 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -108,22 +124,6 @@
  |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and information disclosure on the targeted system.|Release Date: 12 Oct 2023 |
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and denial of service on the targeted system.|Release Date: 12 Oct 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 12 Oct 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 12 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...| Release Date: 5 Oct 2023 |
- |[Adobe Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Low RiskInformation Disclosure APSB23-49Adobe Commerce Medium RiskElevation of PrivilegeCross-...|Release Date: 11 Oct 2023 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system. |Release Date: 11 Oct 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
- |[Microsoft Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low Risk  Windows Extremely High RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation DisclosureSecurity Restriction Bypass...|Release Date: 11 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,23 +136,6 @@
  |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
  |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
  |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599" class="noirorange"><b>FortiClient</b>: information disclosure via Excluded Folders List</a>](https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599)|An attacker can bypass access restrictions to data of FortiClient, via Excluded Folders List, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598)|An attacker can use several vulnerabilities of FortiAnalyzer  FortiManager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597" class="noirorange"><b>Intel oneVPL GPU Runtime</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597)|An attacker can use several vulnerabilities of Intel oneVPL GPU Runtime...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596" class="noirorange"><b>MediaWiki</b>: code execution via XML Instance Administrator</a>](https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596)|An attacker can use a vulnerability of MediaWiki, via XML Instance Administrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
  
 
 # EU-CERT
@@ -172,21 +155,21 @@
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
- |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
- |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
- |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
- |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
- |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
- |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
- |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
- |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
- |[Adobe security advisory (AV23-618)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-618)|Visit link for details|2023-10-11|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599" class="noirorange"><b>FortiClient</b>: information disclosure via Excluded Folders List</a>](https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599)|An attacker can bypass access restrictions to data of FortiClient, via Excluded Folders List, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598)|An attacker can use several vulnerabilities of FortiAnalyzer  FortiManager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597" class="noirorange"><b>Intel oneVPL GPU Runtime</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-oneVPL-GPU-Runtime-two-vulnerabilities-42597)|An attacker can use several vulnerabilities of Intel oneVPL GPU Runtime...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596" class="noirorange"><b>MediaWiki</b>: code execution via XML Instance Administrator</a>](https://vigilance.fr/vulnerability/MediaWiki-code-execution-via-XML-Instance-Administrator-42596)|An attacker can use a vulnerability of MediaWiki, via XML Instance Administrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-42595)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
  
 
 # MA-CERT
@@ -204,4 +187,21 @@
  |[ 44231110/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-octobre-2023)| Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 11 octobre 2023|
  |[ 44201110/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-7)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
  |[ 44221110/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un…| 11 octobre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
+ |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
+ |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
+ |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
+ |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
+ |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
+ |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
+ |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
+ |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
+ |[Adobe security advisory (AV23-618)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-618)|Visit link for details|2023-10-11|
  
