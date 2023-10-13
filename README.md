@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2023 17:33:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2023 18:22:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,21 +62,33 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
- |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
- |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
- |[Juniper - CVE-2023-44194](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-44194-2023-10-12)|Visit link for details.|12/10/2023|
- |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
- |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Advantech WebAccess information disclosure (CVE-2023-4215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Sante DICOM Viewer Pro buffer overflow (CVE-2023-35986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[NetApp SnapCenter privilege escalation (CVE-2023-27316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Sante DICOM Viewer Pro code execution (CVE-2023-39431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Sante FFT Imaging code execution (CVE-2023-5059)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Mitsubishi Electric MELSEC-F Series security bypass (CVE-2023-4562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Siemens CP-8031 and CP-8050 MASTER MODULE default account (CVE-2023-36380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
  
 
 # HK-CERT
@@ -95,20 +107,35 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
+ |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
+ |[Juniper - CVE-2023-44194](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-44194-2023-10-12)|Visit link for details.|12/10/2023|
+ |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|11/10/2023|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|11/10/2023|
+ |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # OBS-Vigilance
@@ -128,33 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Advantech WebAccess information disclosure (CVE-2023-4215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Sante DICOM Viewer Pro buffer overflow (CVE-2023-35986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[NetApp SnapCenter privilege escalation (CVE-2023-27316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Sante DICOM Viewer Pro code execution (CVE-2023-39431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Sante FFT Imaging code execution (CVE-2023-5059)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Mitsubishi Electric MELSEC-F Series security bypass (CVE-2023-4562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Siemens CP-8031 and CP-8050 MASTER MODULE default account (CVE-2023-36380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,23 +172,6 @@
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
- |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
- |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
- |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
- |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
- |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
- |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
- |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
- |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
- |[Adobe security advisory (AV23-618)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-618)|Visit link for details|2023-10-11|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
  |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
  |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
+ |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
+ |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
+ |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
+ |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
+ |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
+ |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
+ |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
+ |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
+ |[Adobe security advisory (AV23-618)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-618)|Visit link for details|2023-10-11|
  
