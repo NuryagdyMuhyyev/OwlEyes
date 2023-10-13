@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2023 07:26:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2023 08:17:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
+ |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
+ |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,43 +62,28 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
- |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
- |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
- |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
- |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5522 tomcat9 - security update](https://www.linux.org/threads/dsa-5522-tomcat9-security-update.47064/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5521 tomcat10 - security update](https://www.linux.org/threads/dsa-5521-tomcat10-security-update.47063/)|Visit link for details.|Oct 11, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans SonicWall Net Extender](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans SonicWall Net Extender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 11 octobre 2023|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20231013)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-13] Updated System...| Release Date: 4 Oct 2023 |
  |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service and information disclosure on the targeted system.|Release Date: 12 Oct 2023 |
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and denial of service on the targeted system.|Release Date: 12 Oct 2023 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 12 Oct 2023 |
@@ -90,21 +92,6 @@
  |[Adobe Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Low RiskInformation Disclosure APSB23-49Adobe Commerce Medium RiskElevation of PrivilegeCross-...|Release Date: 11 Oct 2023 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system. |Release Date: 11 Oct 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
- |[Microsoft Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low Risk  Windows Extremely High RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation DisclosureSecurity Restriction Bypass...|Release Date: 11 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231010)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-5217: Heap buffer overflow...|Release Date: 10 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Peplink Surf SOHO HW1 cross-site scripting (CVE-2023-34354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-35193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-35194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-27380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Peplink Surf SOHO HW1 command execution (CVE-2023-28381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Apache ZooKeeper security bypass (CVE-2023-44981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- |[Microsoft Teams privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
  
 
 # CERT-SANTE
@@ -122,6 +109,19 @@
  |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
  |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
  |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NASA Open MCT denial of service (CVE-2023-45282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Peplink Surf SOHO HW1 cross-site scripting (CVE-2023-34354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-35193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-35194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-27380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Peplink Surf SOHO HW1 command execution (CVE-2023-28381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
+ |[Apache ZooKeeper security bypass (CVE-2023-44981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
  
 
 # ZERODAYINITIATIVE
