@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2023 12:15:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2023 13:21:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
  |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
  
 
 # CERT-SANTE
@@ -93,6 +93,23 @@
  |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|11/10/2023|
  |[Microsoft - CVE-2023-36434](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36434-2023-10-11)|Visit link for details.|11/10/2023|
  |[Adobe - CVE-2023-21608](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2023-21608-2023-03-01)|Visit link for details.|11/10/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
 
 # HK-CERT
@@ -115,30 +132,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens CP-8031 and CP-8050 MASTER MODULE default account (CVE-2023-36380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Siemens SINEC NMS code execution (CVE-2022-30527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
+ |[Siemens Xpedition Layout Browser buffer overflow (CVE-2023-30900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
  |[SoftEther VPN denial of service (CVE-2023-22308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
  |[SoftEther VPN denial of service (CVE-2023-23581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
  |[SoftEther VPN denial of service (CVE-2023-25774)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
  |[LINE App for iOS weak security (CVE-2023-5554)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Thumbnail Slider With Lightbox Plugin for WordPress cross-site request forgery (CVE-2023-5531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[NASA Open MCT denial of service (CVE-2023-45282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[MCL-Net directory traversal (CVE-2023-4990)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599" class="noirorange"><b>FortiClient</b>: information disclosure via Excluded Folders List</a>](https://vigilance.fr/vulnerability/FortiClient-information-disclosure-via-Excluded-Folders-List-42599)|An attacker can bypass access restrictions to data of FortiClient, via Excluded Folders List, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598)|An attacker can use several vulnerabilities of FortiAnalyzer  FortiManager...|Visit link for details|
  
 
 # EU-CERT
@@ -172,6 +172,23 @@
  |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44301310/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 13 octobre 2023|
+ |[ 44291310/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 13 octobre 2023|
+ |[ 44281210/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-12)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 octobre 2023|
+ |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
+ |[ 44281210/23 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-0)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 12 octobre 2023|
+ |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
+ |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
+ |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
+ |[ 44211210/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-7)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
+ |[ 44241110/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2023)| Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 11 octobre 2023|
+ |[ 44231110/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-octobre-2023)| Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 11 octobre 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,21 +204,4 @@
  |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
  |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
  |[Adobe security advisory (AV23-618)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-618)|Visit link for details|2023-10-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44281210/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-12)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 octobre 2023|
- |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
- |[ 44281210/23 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-0)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 12 octobre 2023|
- |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
- |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
- |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
- |[ 44211210/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-7)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
- |[ 44241110/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2023)| Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 11 octobre 2023|
- |[ 44231110/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-octobre-2023)| Microsoft annonce la correction de deux vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 11 octobre 2023|
- |[ 44201110/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-7)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 11 octobre 2023|
- |[ 44221110/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Octobre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un…| 11 octobre 2023|
  
