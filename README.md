@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/10/2023 23:20:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2023 00:12:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
+ |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
+ |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ 
 
 # US-CERT
 
@@ -61,21 +78,21 @@
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
- |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
- |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
- |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
- |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
- |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
- |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
+ |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
+ |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
+ |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
+ |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
  
 
 # HK-CERT
@@ -107,23 +124,6 @@
  |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
- |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
- |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
- |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
- |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
- |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
- |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
- |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
  |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
  |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # CA-CCS
