@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2023 02:13:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2023 03:14:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,23 +111,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612" class="noirorange"><b>Go</b>: overload via HTTP/2</a>](https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612)|An attacker can trigger an overload of Go, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -172,23 +155,6 @@
  |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
- |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
- |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
- |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
- |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
- |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
- |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
- |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
- |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
- |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +170,38 @@
  |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
  |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
  |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612" class="noirorange"><b>Go</b>: overload via HTTP/2</a>](https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612)|An attacker can trigger an overload of Go, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
+ |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
+ |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
+ |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
+ |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
+ |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
+ |[Juniper Networks security advisory (AV23-622)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-622)|Visit link for details|2023-10-12|
+ |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
+ |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
+ |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
  
