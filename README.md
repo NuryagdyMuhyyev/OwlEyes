@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/10/2023 11:20:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/10/2023 12:14:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
+ |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
+ |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ 
 
 # US-CERT
 
@@ -61,36 +78,6 @@
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
- |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
- |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
- |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
- |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
- |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
- |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Airflow information disclosure (CVE-2023-42780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[Apache Airflow information disclosure (CVE-2023-45348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[Apache Airflow security bypass (CVE-2023-42792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[Apache Airflow information disclosure (CVE-2023-42663)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[Koha Library Software SQL injection (CVE-2023-44961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[LeadSquared Suite Plugin for WordPress cross-site request forgery (CVE-2023-45047)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- |[Advantech WebAccess information disclosure (CVE-2023-4215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,20 +92,6 @@
  |[Adobe Monthly Security Update (October 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Low RiskInformation Disclosure APSB23-49Adobe Commerce Medium RiskElevation of PrivilegeCross-...|Release Date: 11 Oct 2023 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, denial of service and remote code execution on the targeted system. |Release Date: 11 Oct 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # CERT-SANTE
@@ -136,6 +109,33 @@
  |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
  |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
  |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Samba security bypass (CVE-2023-3961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Samba security bypass (CVE-2023-4091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Samba information disclosure (CVE-2023-4154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-42780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-45348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Apache Airflow security bypass (CVE-2023-42792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-42663)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # OBS-Vigilance
