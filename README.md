@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2023 10:14:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2023 11:20:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -94,6 +94,19 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231011)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 11 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM App Connect Enterprise and IBM Integration Bus denial of service (CVE-2023-45176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
+ |[IBM Security Verify Access information disclosure (CVE-2022-43868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
+ |[IBM Security Verify Access denial of service (CVE-2022-43740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
+ |[IBM Security Verify Access information disclosure (CVE-2022-43739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
+ |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[IceCMS privilege escalation (CVE-2023-40833)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,36 +122,6 @@
  |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
  |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
  |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM App Connect Enterprise and IBM Integration Bus denial of service (CVE-2023-45176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[IBM Security Verify Access information disclosure (CVE-2022-43868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[IBM Security Verify Access denial of service (CVE-2022-43740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[IBM Security Verify Access information disclosure (CVE-2022-43739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[IceCMS privilege escalation (CVE-2023-40833)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-074: HTTP/2 Rapid Reset DDoS Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-074.pdf)|On October 10, 2023, Cloudflare, Google and Amazon AWS, jointly disclosed a vulnerability affecting the HTTP/2 protocol. Named as "CVE-2023-44487", this vulnerability impacts various web services and cloud customers. This vulnerability is being actively exploited and has led to Distributed Denial of Service (DDoS) attacks that are significantly larger than previous Layer 7 attacks.|Thursday, October 12, 2023 04:03:39 PM CEST|
- |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-077.pdf)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
- |[2023-076: Vulnerability in cURL and libcurl](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-076.pdf)|A security vulnerability in the cURL tool and libcurl library has been identified. This flaw enables a heap-based buffer overflow during the SOCKS5 proxy handshake, potentially allowing malicious actors to execute arbitrary code (RCE). At this time, CERT-EU is not aware of any active exploits leveraging this vulnerability. The vulnerability affects libcurl versions 7.69.0 to 8.3.0. The issue was reported on September 30, 2023, and a patch has been released in curl version 8.4.0. The vulnerability is tracked as "CVE-2023-38545".|Wednesday, October 11, 2023 01:06:46 PM CEST|
- |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-075.pdf)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Tuesday, October 10, 2023 09:18:38 PM CEST|
- |[2023-073: Access Control Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-073.pdf)|Atlassian has been made aware of a critical vulnerability, CVE-2023-22515, a Broken Access Control vulnerability in Confluence Data Center and Server. External attackers may exploit this vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorised Confluence administrator accounts and access Confluence instances. Atlassian Cloud sites are not affected by this vulnerability.|Friday, October 06, 2023 10:23:58 AM CEST|
- |[2023-069: Zero-Day Vulnerabilities in Apple Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-069.pdf)|On September 21, Apple issued emergency patches for three zero-day bugs, identified by "CVE-2023-41992", "CVE-2023-41991" and "CVE-2023-41993". These vulnerabilities are affecting iOS, iPadOS, and macOS devices and are currently being used in the wild for spyware installation purposes.|Friday, October 06, 2023 10:12:24 AM CEST|
- |[2023-072: GNU C Library Dynamic Loader Buffer Overflow Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-072.pdf)|A critical buffer overflow vulnerability, identified as "CVE-2023-4911", has been discovered by Qualys Research Labs in the GNU C Library's dynamic loader when processing the "GLIBC_TUNABLES" environment variable. This vulnerability can be exploited to obtain full root privileges, impacting several major Linux distributions.|Wednesday, October 04, 2023 05:41:05 PM CEST|
- |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-071.pdf)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
- |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
- |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
- |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  
 
 # ZERODAYINITIATIVE
@@ -170,6 +153,23 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-074: HTTP/2 Rapid Reset DDoS Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-074.pdf)|On October 10, 2023, Cloudflare, Google and Amazon AWS, jointly disclosed a vulnerability affecting the HTTP/2 protocol. Named as "CVE-2023-44487", this vulnerability impacts various web services and cloud customers. This vulnerability is being actively exploited and has led to Distributed Denial of Service (DDoS) attacks that are significantly larger than previous Layer 7 attacks.|Thursday, October 12, 2023 04:03:39 PM CEST|
+ |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-077.pdf)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
+ |[2023-076: Vulnerability in cURL and libcurl](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-076.pdf)|A security vulnerability in the cURL tool and libcurl library has been identified. This flaw enables a heap-based buffer overflow during the SOCKS5 proxy handshake, potentially allowing malicious actors to execute arbitrary code (RCE). At this time, CERT-EU is not aware of any active exploits leveraging this vulnerability. The vulnerability affects libcurl versions 7.69.0 to 8.3.0. The issue was reported on September 30, 2023, and a patch has been released in curl version 8.4.0. The vulnerability is tracked as "CVE-2023-38545".|Wednesday, October 11, 2023 01:06:46 PM CEST|
+ |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-075.pdf)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Tuesday, October 10, 2023 09:18:38 PM CEST|
+ |[2023-073: Access Control Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-073.pdf)|Atlassian has been made aware of a critical vulnerability, CVE-2023-22515, a Broken Access Control vulnerability in Confluence Data Center and Server. External attackers may exploit this vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorised Confluence administrator accounts and access Confluence instances. Atlassian Cloud sites are not affected by this vulnerability.|Friday, October 06, 2023 10:23:58 AM CEST|
+ |[2023-069: Zero-Day Vulnerabilities in Apple Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-069.pdf)|On September 21, Apple issued emergency patches for three zero-day bugs, identified by "CVE-2023-41992", "CVE-2023-41991" and "CVE-2023-41993". These vulnerabilities are affecting iOS, iPadOS, and macOS devices and are currently being used in the wild for spyware installation purposes.|Friday, October 06, 2023 10:12:24 AM CEST|
+ |[2023-072: GNU C Library Dynamic Loader Buffer Overflow Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-072.pdf)|A critical buffer overflow vulnerability, identified as "CVE-2023-4911", has been discovered by Qualys Research Labs in the GNU C Library's dynamic loader when processing the "GLIBC_TUNABLES" environment variable. This vulnerability can be exploited to obtain full root privileges, impacting several major Linux distributions.|Wednesday, October 04, 2023 05:41:05 PM CEST|
+ |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-071.pdf)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
+ |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
+ |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
+ |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  
 
 # MA-CERT
