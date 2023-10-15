@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2023 01:16:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2023 02:13:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
+ |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
+ |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
+ |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
+ |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
+ |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
+ |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
+ 
 
 # US-CERT
 
@@ -59,23 +76,6 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
- |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
- |[USN-6430-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6430-1-ffmpeg-vulnerabilities.47089/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5525 samba - security update](https://www.linux.org/threads/dsa-5525-samba-security-update.47082/)|Visit link for details.|Oct 12, 2023|
- |[DSA-5524 libcue - security update](https://www.linux.org/threads/dsa-5524-libcue-security-update.47081/)|Visit link for details.|Oct 12, 2023|
- |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
- |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
- |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
- |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
  
 
 # CERT-SANTE
@@ -124,6 +124,23 @@
  |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612" class="noirorange"><b>Go</b>: overload via HTTP/2</a>](https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612)|An attacker can trigger an overload of Go, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -155,21 +172,21 @@
  |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
-# OBS-Vigilance
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612" class="noirorange"><b>Go</b>: overload via HTTP/2</a>](https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612)|An attacker can trigger an overload of Go, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607" class="noirorange"><b>Fedora</b>: security improvement via Grafana-pcp Location</a>](https://vigilance.fr/vulnerability/Fedora-security-improvement-via-Grafana-pcp-Location-42607)|The security of Fedora was improved via Grafana-pcp Location...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606" class="noirorange"><b>FFmpeg</b>: memory leak via vf_tile.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-vf-tile-c-42606)|An attacker can create a memory leak of FFmpeg, via vf_tile.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
+ |[ 44331310/23 - Vulnérabilités corrigées dans SAMBA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-corrigees-dans-samba-2)| Plusieurs vulnérabilités affectant Samba ont  été corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant de contourner la politique de sécurité, d’accéder  des  …| 13 octobre 2023|
+ |[ 44321310/23 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des…| 13 octobre 2023|
+ |[ 44311310/23 - Zero-day corrigé dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-corrige-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité corrigeant deux Zero-Day activement exploités affectant les produits susmentionnés. Ces vulnérabilités identifiée sous « CVE-2023-42824, CVE-2023-5217» sont…| 13 octobre 2023|
+ |[ 44301310/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 13 octobre 2023|
+ |[ 44291310/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 13 octobre 2023|
+ |[ 44281210/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-12)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 octobre 2023|
+ |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
+ |[ 44281210/23 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-0)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 12 octobre 2023|
+ |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
+ |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
+ |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
  
 
 # CA-CCS
@@ -187,21 +204,4 @@
  |[Curl security advisory (AV23-621)](https://www.cyber.gc.ca/en/alerts-advisories/curl-security-advisory-av23-621)|Visit link for details|2023-10-11|
  |[[Control systems] Siemens security advisory (AV23-620)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-620)|Visit link for details|2023-10-11|
  |[Google Chrome security advisory (AV23-619)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-619)|Visit link for details|2023-10-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44331310/23 - Vulnérabilités corrigées dans SAMBA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-corrigees-dans-samba-2)| Plusieurs vulnérabilités affectant Samba ont  été corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant de contourner la politique de sécurité, d’accéder  des  …| 13 octobre 2023|
- |[ 44321310/23 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des…| 13 octobre 2023|
- |[ 44311310/23 - Zero-day corrigé dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-corrige-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité corrigeant deux Zero-Day activement exploités affectant les produits susmentionnés. Ces vulnérabilités identifiée sous « CVE-2023-42824, CVE-2023-5217» sont…| 13 octobre 2023|
- |[ 44301310/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 13 octobre 2023|
- |[ 44291310/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 13 octobre 2023|
- |[ 44281210/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-12)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 octobre 2023|
- |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
- |[ 44281210/23 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-0)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 12 octobre 2023|
- |[ 44261210/23 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-2)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 12 octobre 2023|
- |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
- |[ 44251110/23 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation…| 11 octobre 2023|
  
