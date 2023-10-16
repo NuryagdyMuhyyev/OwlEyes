@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2023 13:22:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2023 14:18:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[USN-6404-2: Firefox regressions](https://www.linux.org/threads/usn-6404-2-firefox-regressions.47066/)|Visit link for details.|Oct 11, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
- |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
- |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
- |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
- |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
- |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
- |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
- |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
- |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -93,23 +76,6 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623" class="noirorange"><b>IBM Security Directory Server/Suite</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623)|An attacker can use several vulnerabilities of IBM Security Directory Server/Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621" class="noirorange"><b>NagVis</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621)|An attacker can trigger a Cross Site Scripting of NagVis, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619" class="noirorange"><b>Exim</b>: out-of-bounds memory reading via dnsdb</a>](https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619)|An attacker can force a read at an invalid memory address of Exim, via dnsdb, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618" class="noirorange"><b>Exim</b>: ingress filtrering bypass via Proxy Protocol</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618)|An attacker can bypass filtering rules of Exim, via Proxy Protocol, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617" class="noirorange"><b>libspf2</b>: integer overflow via Macro Parsing</a>](https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617)|An attacker can trigger an integer overflow of libspf2, via Macro Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616" class="noirorange"><b>Linux kernel</b>: use after free via nvmet_tcp_free_crypto()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -141,6 +107,23 @@
  |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
+ |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
+ |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Google Chrome - CVE-2023-5217](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5217-2023-09-28)|Visit link for details.|13/10/2023|
+ |[NetApp - CVE-2023-27313](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2023-27313-2023-07-21)|Visit link for details.|13/10/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|12/10/2023|
+ |[Google Chrome - CVE-2023-5218](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5218-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HCL SOFTWARE - CVE-2023-37538](https://www.cyberveille-sante.gouv.fr/alertes/hcl-software-cve-2023-37538-2023-10-12)|Visit link for details.|12/10/2023|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +136,23 @@
  |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
  |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
  |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628" class="noirorange"><b>Linux kernel</b>: assertion error via extract_iter_to_sg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627" class="noirorange"><b>Linux kernel</b>: buffer overflow via ene_ub6250.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627)|An attacker can trigger a buffer overflow of the Linux kernel, via ene_ub6250.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fill-kobj-path-42626" class="noirorange"><b>Linux kernel</b>: buffer overflow via fill_kobj_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fill-kobj-path-42626)|An attacker can trigger a buffer overflow of the Linux kernel, via fill_kobj_path(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-igb-main-c-42625" class="noirorange"><b>Linux kernel</b>: buffer overflow via igb_main.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-igb-main-c-42625)|An attacker can trigger a buffer overflow of the Linux kernel, via igb_main.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-es-insert-extent-42624" class="noirorange"><b>Linux kernel</b>: use after free via ext4_es_insert_extent()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-es-insert-extent-42624)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623" class="noirorange"><b>IBM Security Directory Server/Suite</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623)|An attacker can use several vulnerabilities of IBM Security Directory Server/Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621" class="noirorange"><b>NagVis</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621)|An attacker can trigger a Cross Site Scripting of NagVis, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619" class="noirorange"><b>Exim</b>: out-of-bounds memory reading via dnsdb</a>](https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619)|An attacker can force a read at an invalid memory address of Exim, via dnsdb, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618" class="noirorange"><b>Exim</b>: ingress filtrering bypass via Proxy Protocol</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618)|An attacker can bypass filtering rules of Exim, via Proxy Protocol, in order to send malicious data...|Visit link for details|
  
 
 # EU-CERT
