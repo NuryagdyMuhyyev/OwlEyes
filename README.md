@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2023 12:16:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2023 13:22:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
+ |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Oct 12, 2023|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/11/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Oct 11, 2023|
+ |[FBI and CISA Release Update on AvosLocker Advisory](https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory)|Visit link for details.|Oct 11, 2023|
+ |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates)|Visit link for details.|Oct 10, 2023|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
+ |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
+ |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
+ |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
+ 
 
 # LINUX-SEC
 
@@ -63,22 +79,6 @@
  |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|12/10/2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
- |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Oct 12, 2023|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/11/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Oct 11, 2023|
- |[FBI and CISA Release Update on AvosLocker Advisory](https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory)|Visit link for details.|Oct 11, 2023|
- |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates)|Visit link for details.|Oct 10, 2023|
- |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
- |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
- |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
- |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 10, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -93,6 +93,23 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623" class="noirorange"><b>IBM Security Directory Server/Suite</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623)|An attacker can use several vulnerabilities of IBM Security Directory Server/Suite...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621" class="noirorange"><b>NagVis</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621)|An attacker can trigger a Cross Site Scripting of NagVis, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619" class="noirorange"><b>Exim</b>: out-of-bounds memory reading via dnsdb</a>](https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619)|An attacker can force a read at an invalid memory address of Exim, via dnsdb, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618" class="noirorange"><b>Exim</b>: ingress filtrering bypass via Proxy Protocol</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618)|An attacker can bypass filtering rules of Exim, via Proxy Protocol, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617" class="noirorange"><b>libspf2</b>: integer overflow via Macro Parsing</a>](https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617)|An attacker can trigger an integer overflow of libspf2, via Macro Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616" class="noirorange"><b>Linux kernel</b>: use after free via nvmet_tcp_free_crypto()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -124,21 +141,18 @@
  |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623" class="noirorange"><b>IBM Security Directory Server/Suite</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Suite-three-vulnerabilities-42623)|An attacker can use several vulnerabilities of IBM Security Directory Server/Suite...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-42622)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621" class="noirorange"><b>NagVis</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-42621)|An attacker can trigger a Cross Site Scripting of NagVis, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-42620)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619" class="noirorange"><b>Exim</b>: out-of-bounds memory reading via dnsdb</a>](https://vigilance.fr/vulnerability/Exim-out-of-bounds-memory-reading-via-dnsdb-42619)|An attacker can force a read at an invalid memory address of Exim, via dnsdb, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618" class="noirorange"><b>Exim</b>: ingress filtrering bypass via Proxy Protocol</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-Proxy-Protocol-42618)|An attacker can bypass filtering rules of Exim, via Proxy Protocol, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617" class="noirorange"><b>libspf2</b>: integer overflow via Macro Parsing</a>](https://vigilance.fr/vulnerability/libspf2-integer-overflow-via-Macro-Parsing-42617)|An attacker can trigger an integer overflow of libspf2, via Macro Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616" class="noirorange"><b>Linux kernel</b>: use after free via nvmet_tcp_free_crypto()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nvmet-tcp-free-crypto-42616)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42615)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via SVG</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-SVG-42614)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via SVG, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # EU-CERT
@@ -156,20 +170,6 @@
  |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
  |[2023-039: Microsoft June Patch Tuesday](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-039.pdf)|Microsoft's June 2023 Patch Tuesday includes security updates for more than 70 flaws, including multiple critical vulnerabilities.|Thursday, September 28, 2023 04:41:43 PM CEST|
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # MA-CERT
