@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2023 22:15:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2023 23:23:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6431-3: iperf3 vulnerability](https://www.linux.org/threads/usn-6431-3-iperf3-vulnerability.47118/)|Visit link for details.|Oct 16, 2023|
+ |[USN-6431-2: iperf3 vulnerability](https://www.linux.org/threads/usn-6431-2-iperf3-vulnerability.47117/)|Visit link for details.|Oct 16, 2023|
  |[USN-6431-1: iperf3 vulnerabilities](https://www.linux.org/threads/usn-6431-1-iperf3-vulnerabilities.47116/)|Visit link for details.|Oct 16, 2023|
  |[DSA-5527 webkit2gtk - security update](https://www.linux.org/threads/dsa-5527-webkit2gtk-security-update.47092/)|Visit link for details.|Oct 13, 2023|
  |[DSA-5526 chromium - security update](https://www.linux.org/threads/dsa-5526-chromium-security-update.47091/)|Visit link for details.|Oct 13, 2023|
@@ -42,14 +44,13 @@
  |[USN-6425-2: Samba regression](https://www.linux.org/threads/usn-6425-2-samba-regression.47080/)|Visit link for details.|Oct 12, 2023|
  |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
  |[USN-6429-1: curl vulnerabilities](https://www.linux.org/threads/usn-6429-1-curl-vulnerabilities.47072/)|Visit link for details.|Oct 11, 2023|
- |[DSA-5523 curl - security update](https://www.linux.org/threads/dsa-5523-curl-security-update.47070/)|Visit link for details.|Oct 11, 2023|
- |[USN-6428-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6428-1-libtiff-vulnerability.47067/)|Visit link for details.|Oct 11, 2023|
  
 
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
  |[CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515)|Visit link for details.|Oct 16, 2023|
  |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
  |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Oct 12, 2023|
@@ -59,7 +60,22 @@
  |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/10/citrix-releases-security-updates-multiple-products)|Visit link for details.|Oct 10, 2023|
  |[HTTP/2 Rapid Reset Vulnerability, CVE-2023-44487](https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487)|Visit link for details.|Oct 10, 2023|
  |[CISA Adds Five Known Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-adds-five-known-vulnerabilities-catalog)|Visit link for details.|Oct 10, 2023|
- |[CISA, FBI, NSA, and Treasury Release Guidance on OSS in IT/ICS Environments](https://www.cisa.gov/news-events/alerts/2023/10/10/cisa-fbi-nsa-and-treasury-release-guidance-oss-itics-environments)|Visit link for details.|Oct 10, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/)|Une vulnérabilité a été découverte dans|Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/)|Une vulnérabilité a été découverte dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0841/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0840/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0839/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  
 
 # CERT-SANTE
@@ -79,6 +95,23 @@
  |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Babel-code-execution-via-Code-Compiling-42640" class="noirorange"><b>Babel</b>: code execution via Code Compiling</a>](https://vigilance.fr/vulnerability/Babel-code-execution-via-Code-Compiling-42640)|An attacker can use a vulnerability of Babel, via Code Compiling, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639" class="noirorange"><b>Samba</b>: buffer overflow via Heimdal KDC Freshness Tokens</a>](https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639)|An attacker can trigger a buffer overflow of Samba, via Heimdal KDC Freshness Tokens, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via Web UI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638)|An attacker can bypass restrictions of Cisco IOS XE, via Web UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-user-access-via-Own-Login-State-PIN-Bypass-42637" class="noirorange"><b>OpenSC</b>: user access via Own Login State PIN Bypass</a>](https://vigilance.fr/vulnerability/OpenSC-user-access-via-Own-Login-State-PIN-Bypass-42637)|An attacker can bypass restrictions of OpenSC, via Own Login State PIN Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Man-in-the-Middle-via-E-Mail-Handling-42636" class="noirorange"><b>OTRS Help Desk</b>: Man-in-the-Middle via E-Mail Handling</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Man-in-the-Middle-via-E-Mail-Handling-42636)|An attacker can act as a Man-in-the-Middle on OTRS Help Desk, via E-Mail Handling, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Customer-Information-42635" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Customer Information</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Customer-Information-42635)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Customer Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-External-Pictures-User-IP-42634" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via External Pictures User IP</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-External-Pictures-User-IP-42634)|An attacker can bypass access restrictions to data of OTRS Help Desk, via External Pictures User IP, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633" class="noirorange"><b>Duktape</b>: denial of service via Valstack Values</a>](https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633)|An attacker can cause a fatal error of Duktape, via Valstack Values, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632" class="noirorange"><b>Linux kernel</b>: memory reading via dccp_v4_err()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632)|An attacker can read a memory fragment of the Linux kernel, via dccp_v4_err(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628" class="noirorange"><b>Linux kernel</b>: assertion error via extract_iter_to_sg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627" class="noirorange"><b>Linux kernel</b>: buffer overflow via ene_ub6250.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627)|An attacker can trigger a buffer overflow of the Linux kernel, via ene_ub6250.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -95,50 +128,17 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231005)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. Note:For CVE-2023-42824, a local attacker may be able to elevate their...| Release Date: 5 Oct 2023 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/)|Une vulnérabilité a été découverte dans|Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
- |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/)|Une vulnérabilité a été découverte dans |Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0841/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0840/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0839/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco IOS XE privilege escalation (CVE-2023-20198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 16, 2023|
  |[LibreNMS SQL injection (CVE-2023-5591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 16, 2023|
+ |[Judging Management System SQL injection (CVE-2023-5589)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2023|
  |[Biltay Technology Kayisi SQL injection (CVE-2023-5045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2023|
  |[IBM App Connect Enterprise and IBM Integration Bus denial of service (CVE-2023-45176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
  |[IBM Security Verify Access information disclosure (CVE-2022-43868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
  |[IBM Security Verify Access denial of service (CVE-2022-43740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[IBM Security Verify Access information disclosure (CVE-2022-43739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2023|
- |[Netis N3Mv2 denial of service (CVE-2023-45463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639" class="noirorange"><b>Samba</b>: buffer overflow via Heimdal KDC Freshness Tokens</a>](https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639)|An attacker can trigger a buffer overflow of Samba, via Heimdal KDC Freshness Tokens, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via Web UI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638)|An attacker can bypass restrictions of Cisco IOS XE, via Web UI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-user-access-via-Own-Login-State-PIN-Bypass-42637" class="noirorange"><b>OpenSC</b>: user access via Own Login State PIN Bypass</a>](https://vigilance.fr/vulnerability/OpenSC-user-access-via-Own-Login-State-PIN-Bypass-42637)|An attacker can bypass restrictions of OpenSC, via Own Login State PIN Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Man-in-the-Middle-via-E-Mail-Handling-42636" class="noirorange"><b>OTRS Help Desk</b>: Man-in-the-Middle via E-Mail Handling</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Man-in-the-Middle-via-E-Mail-Handling-42636)|An attacker can act as a Man-in-the-Middle on OTRS Help Desk, via E-Mail Handling, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Customer-Information-42635" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Customer Information</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Customer-Information-42635)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Customer Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-External-Pictures-User-IP-42634" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via External Pictures User IP</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-External-Pictures-User-IP-42634)|An attacker can bypass access restrictions to data of OTRS Help Desk, via External Pictures User IP, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633" class="noirorange"><b>Duktape</b>: denial of service via Valstack Values</a>](https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633)|An attacker can cause a fatal error of Duktape, via Valstack Values, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632" class="noirorange"><b>Linux kernel</b>: memory reading via dccp_v4_err()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632)|An attacker can read a memory fragment of the Linux kernel, via dccp_v4_err(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628" class="noirorange"><b>Linux kernel</b>: assertion error via extract_iter_to_sg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627" class="noirorange"><b>Linux kernel</b>: buffer overflow via ene_ub6250.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627)|An attacker can trigger a buffer overflow of the Linux kernel, via ene_ub6250.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fill-kobj-path-42626" class="noirorange"><b>Linux kernel</b>: buffer overflow via fill_kobj_path()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fill-kobj-path-42626)|An attacker can trigger a buffer overflow of the Linux kernel, via fill_kobj_path(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -158,21 +158,18 @@
  |[2023-063: Google Chrome Critical Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-063.pdf)|Google has released an emergency security update to address a critical vulnerability found in Chrome. This vulnerability, tracked as CVE-2023-4863, is caused by a WebP heap buffer overflow weakness. It affects Chrome running on Windows, Mac, and Linux systems and has already been exploited in the wild according to Google. Users are advised to update their Chrome web browser to version 116.0.5845.187 (Mac and Linux) and 116.0.5845.187/.188 (Windows) immediately.|Thursday, September 28, 2023 03:20:28 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
- |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
- |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
- |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
- |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
- |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
- |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
- |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
- |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
- |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # MA-CERT
@@ -192,8 +189,19 @@
  |[ 44171010/23 - Vulnérabilité critique affectant le protocole HTTP/2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-protocole-http2)| Des chercheurs en sécurité informatique annoncent l’existence d’une vulnérabilité critique          identifiée par «CVE-2023-44487 »  affectant le protocole HTTP/2. Cette vulnérabilité est activement…| 11 octobre 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
+ |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
+ |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
+ |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
+ |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
+ |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
+ |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
+ |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
+ |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
+ |[[Control systems] Weintek security advisory (AV23-623)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-623)|Visit link for details|2023-10-12|
  
