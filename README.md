@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/10/2023 17:33:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/10/2023 18:21:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6429-2: curl vulnerability](https://www.linux.org/threads/usn-6429-2-curl-vulnerability.47076/)|Visit link for details.|Oct 11, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zabbix - CVE-2023-32722](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32722-2023-10-16)|Visit link for details.|16/10/2023|
+ |[SanteSoft - CVE-2023-39431](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-39431-2023-10-16)|Visit link for details.|16/10/2023|
+ |[SanteSoft - CVE-2023-35986](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-35986-2023-10-16)|Visit link for details.|16/10/2023|
+ |[Microsoft - CVE-2023-36577](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36577-2023-10-16)|Visit link for details.|16/10/2023|
+ |[Citrix - CVE-2023-4967](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4967-2023-10-16)|Visit link for details.|16/10/2023|
+ |[Juniper - CVE-2023-44194](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-44194-2023-10-12)|Visit link for details.|16/10/2023|
+ |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
+ |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
+ |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
+ |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -94,23 +111,6 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Fortinet Products.  A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, security restriction bypass, denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 12 Oct 2023 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zabbix - CVE-2023-32722](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32722-2023-10-16)|Visit link for details.|16/10/2023|
- |[SanteSoft - CVE-2023-39431](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-39431-2023-10-16)|Visit link for details.|16/10/2023|
- |[SanteSoft - CVE-2023-35986](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-35986-2023-10-16)|Visit link for details.|16/10/2023|
- |[Microsoft - CVE-2023-36577](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36577-2023-10-16)|Visit link for details.|16/10/2023|
- |[Citrix - CVE-2023-4967](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4967-2023-10-16)|Visit link for details.|16/10/2023|
- |[Juniper - CVE-2023-44194](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2023-44194-2023-10-12)|Visit link for details.|16/10/2023|
- |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|13/10/2023|
- |[F5 Big-IP - CVE-2023-41373](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-41373-2023-10-13)|Visit link for details.|13/10/2023|
- |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|13/10/2023|
- |[SANTESOFT - CVE-2023-5059](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-cve-2023-5059-2023-10-13)|Visit link for details.|13/10/2023|
- |[Zabbix - CVE-2023-29453](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-29453-2023-10-13)|Visit link for details.|13/10/2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,20 +122,6 @@
  |[TOTOLINK CP300 command execution (CVE-2023-36953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 16, 2023|
  |[TOTOLINK CP300 command execution (CVE-2023-36954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 16, 2023|
  |[PixFields Plugin for WordPress cross-site request forgery (CVE-2023-45655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 16, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
 
 # OBS-Vigilance
@@ -155,6 +141,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628" class="noirorange"><b>Linux kernel</b>: assertion error via extract_iter_to_sg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,23 +172,6 @@
  |[2023-070: Critical Vulnerabilities in Progress WS_FTP Server Software](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-070.pdf)|On September 27, Progress Software released an advisory announcing multiple vulnerabilities in its enterprise-grade WS_FTP Server secure file transfer software. Two of the vulnerabilities, identified by "CVE-2023-40044" and "CVE-2023-42657", are rated as critical. These flaws expose systems to unauthenticated remote command execution and directory traversal attacks. Immediate patching is strongly advised.|Saturday, September 30, 2023 09:50:32 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
- |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
- |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
- |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
- |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
- |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
- |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
- |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
- |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
- |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44291310/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 13 octobre 2023|
  |[ 44281210/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-12)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 octobre 2023|
  |[ 44271210/23 - Vulnérabilités affectant libcurl ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-libcurl)| Deux vulnérabilités ont été corrigées dans libcurl qui est utilisée pour disposer des fonctionnalités d'accès au réseau dans différents programmes. Un attaquant distant pourrait exploiter ces…| 12 octobre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
+ |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
+ |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
+ |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
+ |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
+ |[Fortinet security advisory (AV23-629)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-629)|Visit link for details|2023-10-13|
+ |[HPE security advisory (AV23-628)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-628)|Visit link for details|2023-10-12|
+ |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
+ |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
+ |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-624)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-624)|Visit link for details|2023-10-12|
  
