@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/10/2023 17:33:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/10/2023 18:20:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/10/10/microsoft-releases-october-2023-security-updates)|Visit link for details.|Oct 10, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0851/)|Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0850/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 octobre 2023|
+ |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0849/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0848/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 octobre 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0847/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 16 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0846/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 octobre 2023|
+ |[Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/)|Une vulnérabilité a été découverte dans|Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/)|Une vulnérabilité a été découverte dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,22 +76,6 @@
  |[USN-6432-1: Quagga vulnerabilities](https://www.linux.org/threads/usn-6432-1-quagga-vulnerabilities.47122/)|Visit link for details.|Oct 17, 2023|
  |[DSA-5528 node-babel7 - security update](https://www.linux.org/threads/dsa-5528-node-babel7-security-update.47120/)|Visit link for details.|Oct 17, 2023|
  |[USN-6431-3: iperf3 vulnerability](https://www.linux.org/threads/usn-6431-3-iperf3-vulnerability.47118/)|Visit link for details.|Oct 16, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0854/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 octobre 2023|
- |[Vulnérabilité dans Roubdcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0853/)|Une vulnérabilité a été découverte dans Roubdcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 17 octobre 2023|
- |[Multiples vulnérabilités dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0852/)|De multiples vulnérabilités ont été découvertes dans SonicWall SonicOS. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 17 octobre 2023|
- |[Vulnérabilité dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0851/)|Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 octobre 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0850/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 octobre 2023|
- |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0849/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0848/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 octobre 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0847/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 16 octobre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0846/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 octobre 2023|
- |[Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/)|Une vulnérabilité a été découverte dans|Publié le 13 octobre 2023|
  
 
 # CERT-SANTE
@@ -111,6 +111,33 @@
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20231012)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and denial of service on the targeted system.|Release Date: 12 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Oracle WebLogic Server unspecified (CVE-2023-22069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[Dreamer CMS cross-site request forgery (CVE-2023-45906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
+ |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
+ |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,19 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-October-2023-42652" class="noirorange"><b>Oracle Java</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-October-2023-42652)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Oracle WebLogic Server unspecified (CVE-2023-22069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[Dreamer CMS cross-site request forgery (CVE-2023-45906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
  
 
 # EU-CERT
@@ -190,18 +204,4 @@
  |[[Control systems] Santesoft Electric security advisory (AV23-627)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-santesoft-electric-security-advisory-av23-627)|Visit link for details|2023-10-12|
  |[[Control systems] Hikvision security advisory (AV23-625)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hikvision-security-advisory-av23-625)|Visit link for details|2023-10-12|
  |[[Control systems] Advantech security advisory (AV23-626)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av23-626)|Visit link for details|2023-10-12|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1558/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1557/)|Visit link for details|2023-10-11|
- |[Siemens Tecnomatix Plant Simulation PAR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1556/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DirectX GpuMmu Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1555/)|Visit link for details|2023-10-11|
- |[Microsoft Windows bStretch Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1554/)|Visit link for details|2023-10-11|
- |[Microsoft Windows DEVLOCKBLTOBJ Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1553/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvPlgBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1552/)|Visit link for details|2023-10-11|
- |[Microsoft Windows UMPDDrvStretchBlt Type Confusion Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1551/)|Visit link for details|2023-10-11|
  
