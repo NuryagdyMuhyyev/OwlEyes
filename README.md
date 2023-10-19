@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/10/2023 20:17:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/10/2023 21:22:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
- |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/17/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 16, 2023|
- |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515)|Visit link for details.|Oct 16, 2023|
- |[CISA, NSA, FBI, and International Partners Release Updated Secure by Design Guidance](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-nsa-fbi-and-international-partners-release-updated-secure-design-guidance)|Visit link for details.|Oct 16, 2023|
- |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
- |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Oct 12, 2023|
- 
 
 # LINUX-SEC
 
@@ -78,50 +62,37 @@
  |[Vulnérabilité dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0857/)|Une vulnérabilité a été découverte dans Sophos Firewall. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
- |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
- |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
- |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20231016)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service, security restriction bypass and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service...|Release Date: 16 Oct 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20231013)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Oct 2023 |
+ |[CISA Adds Two Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/17/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 16, 2023|
+ |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515)|Visit link for details.|Oct 16, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Updated Secure by Design Guidance](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-nsa-fbi-and-international-partners-release-updated-secure-design-guidance)|Visit link for details.|Oct 16, 2023|
+ |[CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware](https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked)|Visit link for details.|Oct 12, 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Xen - CVE-2023-34326](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34326-2023-10-19)|Visit link for details.|19/10/2023|
+ |[Sophos - CVE-2023-5552](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2023-5552-2023-10-19)|Visit link for details.|19/10/2023|
+ |[HP - CVE-2023-26300](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-26300-2023-10-19)|Visit link for details.|19/10/2023|
+ |[HCL - CVE-2023-37502](https://www.cyberveille-sante.gouv.fr/alertes/hcl-cve-2023-37502-2023-10-19)|Visit link for details.|19/10/2023|
+ |[Apple - CVE-2023-38600](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38600-2023-10-19)|Visit link for details.|19/10/2023|
  |[Wordpress Royal Elementor - CVE-2023-5360](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-royal-elementor-cve-2023-5360-2023-10-18)|Visit link for details.|18/10/2023|
  |[SonicWall - CVE-2023-39277](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-39277-2023-10-18)|Visit link for details.|18/10/2023|
  |[Oracle VM VirtualBox - CVE-2023-22100](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22100-2023-10-18)|Visit link for details.|18/10/2023|
  |[Oracle VM VirtualBox - CVE-2023-22098](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22098-2023-10-18)|Visit link for details.|18/10/2023|
  |[D-Link - CVE-2023-45572](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-45572-2023-10-18)|Visit link for details.|18/10/2023|
  |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|18/10/2023|
- |[Apache - CVE-2023-25690](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2023-25690-2023-03-23)|Visit link for details.|18/10/2023|
- |[Adobe Acrobat - CVE-2023-26369](https://www.cyberveille-sante.gouv.fr/alertes/adobe-acrobat-cve-2023-26369-2023-09-13)|Visit link for details.|18/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|17/10/2023|
- |[Zabbix - CVE-2023-32724](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32724-2023-10-17)|Visit link for details.|17/10/2023|
- |[Stormshield - CVE-2023-44455](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-44455-2023-10-17)|Visit link for details.|17/10/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Weaver Xtreme Theme Support Plugin for WordPress code execution (CVE-2023-4971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[Eaton easySoft weak security (CVE-2023-43777)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[Eaton easyE4 weak security (CVE-2023-43776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[North Grid Corporation Proself information disclosure (CVE-2023-45727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2023|
- |[Cisco Catalyst SD-WAN Manager file include (CVE-2023-20261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2023|
- |[Thumbnail Slider With Lightbox plugin for WordPress cross-site scripting (CVE-2023-5621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
- |[MpOperationLogs Plugin for WordPress cross-site scripting (CVE-2023-5538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
  
 
 # OBS-Vigilance
@@ -139,6 +110,35 @@
  |[<a href="https://vigilance.fr/vulnerability/Grafana-ingress-filtrering-bypass-via-Request-Address-Punycode-Encoding-42659" class="noirorange"><b>Grafana</b>: ingress filtrering bypass via Request Address Punycode Encoding</a>](https://vigilance.fr/vulnerability/Grafana-ingress-filtrering-bypass-via-Request-Address-Punycode-Encoding-42659)|An attacker can bypass filtering rules of Grafana, via Request Address Punycode Encoding, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-303-Redirect-Request-Body-42658" class="noirorange"><b>Python urllib3</b>: information disclosure via 303 Redirect Request Body</a>](https://vigilance.fr/vulnerability/Python-urllib3-information-disclosure-via-303-Redirect-Request-Body-42658)|An attacker can bypass access restrictions to data of Python urllib3, via 303 Redirect Request Body, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SPX-Password-42657" class="noirorange"><b>Sophos Firewall</b>: information disclosure via SPX Password</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SPX-Password-42657)|An attacker can bypass access restrictions to data of Sophos Firewall, via SPX Password, in order to read sensitive information...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
+ |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
+ |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20231016)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service, security restriction bypass and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service...|Release Date: 16 Oct 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20231013)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Oct 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Weaver Xtreme Theme Support Plugin for WordPress code execution (CVE-2023-4971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[Eaton easySoft weak security (CVE-2023-43777)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[Eaton easyE4 weak security (CVE-2023-43776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[North Grid Corporation Proself information disclosure (CVE-2023-45727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2023|
+ |[Cisco Catalyst SD-WAN Manager file include (CVE-2023-20261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2023|
+ |[Thumbnail Slider With Lightbox plugin for WordPress cross-site scripting (CVE-2023-5621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
+ |[MpOperationLogs Plugin for WordPress cross-site scripting (CVE-2023-5538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2023|
  
 
 # EU-CERT
@@ -164,6 +164,20 @@
  |[ 44321310/23 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des…| 13 octobre 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -179,18 +193,4 @@
  |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
  |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
  |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
