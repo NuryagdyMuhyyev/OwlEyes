@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/10/2023 10:15:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/10/2023 11:22:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -124,6 +124,12 @@
  |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,10 +161,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SPX-Password-42657" class="noirorange"><b>Sophos Firewall</b>: information disclosure via SPX Password</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SPX-Password-42657)|An attacker can bypass access restrictions to data of Sophos Firewall, via SPX Password, in order to read sensitive information...|Visit link for details|
  
 
-# EU-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
+ |[F5 security advisory (AV23-638)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-638)|Visit link for details|2023-10-19|
+ |[Vulnerability impacting Cisco devices (CVE-2023-20198)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-18|
+ |[Oracle security advisory – October 2023 quarterly rollup (AV23-637)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2023-quarterly-rollup-av23-637)|Visit link for details|2023-10-18|
+ |[Google Chrome security advisory (AV23-636)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-636)|Visit link for details|2023-10-18|
+ |[[Control systems] Rockwell automation security advisory (AV23-635)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-635)|Visit link for details|2023-10-17|
+ |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
+ |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
+ |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
+ |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
+ |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
  
 
 # MA-CERT
@@ -176,21 +193,4 @@
  |[ 44341610/23 - Vulnérabilités dans cURL et libcurl affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-curl-et-libcurl-affectant-plusieurs-produits-de-cisco)| Cisco annonce la correction d’une vulnérabilité affectant cURL et libcurl implémentés dans certains de ses produits. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant…| 16 octobre 2023|
  |[ 44331310/23 - Vulnérabilités corrigées dans SAMBA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-corrigees-dans-samba-2)| Plusieurs vulnérabilités affectant Samba ont  été corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant de contourner la politique de sécurité, d’accéder  des  …| 13 octobre 2023|
  |[ 44321310/23 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des…| 13 octobre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
- |[F5 security advisory (AV23-638)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-638)|Visit link for details|2023-10-19|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-18|
- |[Oracle security advisory – October 2023 quarterly rollup (AV23-637)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2023-quarterly-rollup-av23-637)|Visit link for details|2023-10-18|
- |[Google Chrome security advisory (AV23-636)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-636)|Visit link for details|2023-10-18|
- |[[Control systems] Rockwell automation security advisory (AV23-635)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-635)|Visit link for details|2023-10-17|
- |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
- |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
- |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
- |[Dell security advisory (AV23-631)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-631)|Visit link for details|2023-10-16|
- |[Ubuntu security advisory (AV23-630)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-630)|Visit link for details|2023-10-16|
  
