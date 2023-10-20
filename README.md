@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/10/2023 12:15:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/10/2023 13:21:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6446-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-1-linux-kernel-vulnerabilities.47168/)|Visit link for details.|Oct 20, 2023|
- |[USN-6445-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-1-linux-kernel-intel-iotg-vulnerabilities.47167/)|Visit link for details.|Oct 20, 2023|
- |[USN-6444-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6444-1-linux-kernel-vulnerabilities.47166/)|Visit link for details.|Oct 20, 2023|
- |[USN-6443-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6443-1-linux-kernel-oem-vulnerabilities.47165/)|Visit link for details.|Oct 20, 2023|
- |[USN-6442-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6442-1-linux-kernel-bluefield-vulnerabilities.47164/)|Visit link for details.|Oct 20, 2023|
- |[USN-6441-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6441-1-linux-kernel-vulnerabilities.47163/)|Visit link for details.|Oct 20, 2023|
- |[USN-6440-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6440-1-linux-kernel-vulnerabilities.47162/)|Visit link for details.|Oct 20, 2023|
- |[USN-6439-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6439-1-linux-kernel-vulnerabilities.47161/)|Visit link for details.|Oct 20, 2023|
- |[USN-6374-2: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-2-mutt-vulnerabilities.47159/)|Visit link for details.|Oct 19, 2023|
- |[USN-6438-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6438-1-net-vulnerabilities.47158/)|Visit link for details.|Oct 19, 2023|
- |[USN-6427-2: .NET vulnerability](https://www.linux.org/threads/usn-6427-2-net-vulnerability.47157/)|Visit link for details.|Oct 19, 2023|
- 
 
 # US-CERT
 
@@ -78,33 +61,21 @@
  |[Multiples vulnérabilités dans OracleDatabase Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0860/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
- |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
- |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
- |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[USN-6446-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-1-linux-kernel-vulnerabilities.47168/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6445-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-1-linux-kernel-intel-iotg-vulnerabilities.47167/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6444-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6444-1-linux-kernel-vulnerabilities.47166/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6443-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6443-1-linux-kernel-oem-vulnerabilities.47165/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6442-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6442-1-linux-kernel-bluefield-vulnerabilities.47164/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6441-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6441-1-linux-kernel-vulnerabilities.47163/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6440-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6440-1-linux-kernel-vulnerabilities.47162/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6439-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6439-1-linux-kernel-vulnerabilities.47161/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6374-2: Mutt vulnerabilities](https://www.linux.org/threads/usn-6374-2-mutt-vulnerabilities.47159/)|Visit link for details.|Oct 19, 2023|
+ |[USN-6438-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6438-1-net-vulnerabilities.47158/)|Visit link for details.|Oct 19, 2023|
+ |[USN-6427-2: .NET vulnerability](https://www.linux.org/threads/usn-6427-2-net-vulnerability.47157/)|Visit link for details.|Oct 19, 2023|
  
 
 # CERT-SANTE
@@ -124,18 +95,33 @@
  |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|18/10/2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
+ |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
+ |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
 # OBS-Vigilance
@@ -153,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/libvips-denial-of-service-via-vips-eye-point-42662" class="noirorange"><b>libvips</b>: denial of service via vips_eye_point()</a>](https://vigilance.fr/vulnerability/libvips-denial-of-service-via-vips-eye-point-42662)|An attacker can cause a fatal error of libvips, via vips_eye_point(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvips-memory-reading-42661" class="noirorange"><b>libvips</b>: memory reading</a>](https://vigilance.fr/vulnerability/libvips-memory-reading-42661)|An attacker can read a memory fragment of libvips, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-read-write-access-via-Unix-Socket-Permissions-Race-42660" class="noirorange"><b>Redis</b>: read-write access via Unix Socket Permissions Race</a>](https://vigilance.fr/vulnerability/Redis-read-write-access-via-Unix-Socket-Permissions-Race-42660)|An attacker can bypass access restrictions of Redis, via Unix Socket Permissions Race, in order to read or alter data...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
