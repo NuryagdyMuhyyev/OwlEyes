@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/10/2023 16:14:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/10/2023 17:32:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,17 +95,21 @@
  |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|18/10/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager code execution (CVE-2023-35184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[SolarWinds Access Rights Manager privilege escalation (CVE-2023-35181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675" class="noirorange"><b>Apache XML Security for Java</b>: logged sensitive information via debug-log</a>](https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675)|An attacker can read logs of Apache XML Security for Java, via debug-log, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674" class="noirorange"><b>Joomla EasyShop</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674)|An attacker can trigger a Cross Site Scripting of Joomla EasyShop, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673" class="noirorange"><b>Joomla LazyDbBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673)|A vulnerability of Joomla LazyDbBackup was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672" class="noirorange"><b>VMware Workstation</b>: out-of-bounds memory reading via Bluetooth Device Sharing</a>](https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672)|An attacker, in a guest system, can force a read at an invalid memory address of VMware Workstation, via Bluetooth Device Sharing, in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671" class="noirorange"><b>Apache Traffic Server</b>: assertion error via HTTP/2 Frames</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671)|An attacker can force an assertion error of Apache Traffic Server, via HTTP/2 Frames, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via S3_auth Plugin AWSAccessKeyId</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670)|An attacker can bypass access restrictions to data of Apache Traffic Server, via S3_auth Plugin AWSAccessKeyId, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669" class="noirorange"><b>Matrix Synapse</b>: overload via Server ACL Event</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669)|An attacker can trigger an overload of Matrix Synapse, via Server ACL Event, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664" class="noirorange"><b>Moodle</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
  
 
 # HK-CERT
@@ -124,35 +128,17 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675" class="noirorange"><b>Apache XML Security for Java</b>: logged sensitive information via debug-log</a>](https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675)|An attacker can read logs of Apache XML Security for Java, via debug-log, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674" class="noirorange"><b>Joomla EasyShop</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674)|An attacker can trigger a Cross Site Scripting of Joomla EasyShop, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673" class="noirorange"><b>Joomla LazyDbBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673)|A vulnerability of Joomla LazyDbBackup was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672" class="noirorange"><b>VMware Workstation</b>: out-of-bounds memory reading via Bluetooth Device Sharing</a>](https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672)|An attacker, in a guest system, can force a read at an invalid memory address of VMware Workstation, via Bluetooth Device Sharing, in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671" class="noirorange"><b>Apache Traffic Server</b>: assertion error via HTTP/2 Frames</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671)|An attacker can force an assertion error of Apache Traffic Server, via HTTP/2 Frames, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via S3_auth Plugin AWSAccessKeyId</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670)|An attacker can bypass access restrictions to data of Apache Traffic Server, via S3_auth Plugin AWSAccessKeyId, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669" class="noirorange"><b>Matrix Synapse</b>: overload via Server ACL Event</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669)|An attacker can trigger an overload of Matrix Synapse, via Server ACL Event, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664" class="noirorange"><b>Moodle</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ |[VMware Aria Operations for Logs code execution (CVE-2023-34051)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Fusion privilege escalation (CVE-2023-34046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Fusion privilege escalation (CVE-2023-34045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Workstation and Fusion information disclosure (CVE-2023-34044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[SolarWinds Access Rights Manager code execution (CVE-2023-35185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
  
 
 # EU-CERT
@@ -176,6 +162,20 @@
  |[ 44381710/23 - Vulnérabilité critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-cisco-ios-xe)| Cisco confirme une exploitation massive d'une vulnérabilité critique de type zero-day dans la fonctionnalité web UI du logiciel Cisco IOS XE lorsqu'elle est exposée à l'internet ou à des réseaux non…| 17 octobre 2023|
  |[ 44351710/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-0)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 17 octobre 2023|
  |[ 44341610/23 - Vulnérabilités dans cURL et libcurl affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-curl-et-libcurl-affectant-plusieurs-produits-de-cisco)| Cisco annonce la correction d’une vulnérabilité affectant cURL et libcurl implémentés dans certains de ses produits. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant…| 16 octobre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # CA-CCS
