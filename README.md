@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/10/2023 19:15:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/10/2023 20:16:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6427-2: .NET vulnerability](https://www.linux.org/threads/usn-6427-2-net-vulnerability.47157/)|Visit link for details.|Oct 19, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Releases October 2023 Critical Patch Update Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/oracle-releases-october-2023-critical-patch-update-advisory)|Visit link for details.|Oct 19, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/17/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 16, 2023|
+ |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515)|Visit link for details.|Oct 16, 2023|
+ |[CISA, NSA, FBI, and International Partners Release Updated Secure by Design Guidance](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-nsa-fbi-and-international-partners-release-updated-secure-design-guidance)|Visit link for details.|Oct 16, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -66,33 +82,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|20/10/2023|
+ |[SolarWinds - CVE-2023-35184](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35184-2023-10-20)|Visit link for details.|20/10/2023|
+ |[Samba - CVE-2023-5568](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-5568-2023-10-20)|Visit link for details.|20/10/2023|
+ |[Linux - CVE-2023-45871](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-45871-2023-10-20)|Visit link for details.|20/10/2023|
+ |[Apache HTTP Server - CVE-2023-31122](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-31122-2023-10-20)|Visit link for details.|20/10/2023|
  |[Xen - CVE-2023-34326](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34326-2023-10-19)|Visit link for details.|19/10/2023|
  |[Sophos - CVE-2023-5552](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2023-5552-2023-10-19)|Visit link for details.|19/10/2023|
  |[HCL - CVE-2023-37502](https://www.cyberveille-sante.gouv.fr/alertes/hcl-cve-2023-37502-2023-10-19)|Visit link for details.|19/10/2023|
  |[Apple - CVE-2023-38600](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38600-2023-10-19)|Visit link for details.|19/10/2023|
  |[HP - CVE-2023-26300](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-26300-2023-10-19)|Visit link for details.|19/10/2023|
- |[Wordpress Royal Elementor - CVE-2023-5360](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-royal-elementor-cve-2023-5360-2023-10-18)|Visit link for details.|18/10/2023|
  |[SonicWall - CVE-2023-39277](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-39277-2023-10-18)|Visit link for details.|18/10/2023|
- |[Oracle VM VirtualBox - CVE-2023-22100](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22100-2023-10-18)|Visit link for details.|18/10/2023|
- |[Oracle VM VirtualBox - CVE-2023-22098](https://www.cyberveille-sante.gouv.fr/alertes/oracle-vm-virtualbox-cve-2023-22098-2023-10-18)|Visit link for details.|18/10/2023|
- |[D-Link - CVE-2023-45572](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-45572-2023-10-18)|Visit link for details.|18/10/2023|
- |[Citrix - CVE-2023-4966](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-4966-2023-10-11)|Visit link for details.|18/10/2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle Releases October 2023 Critical Patch Update Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/oracle-releases-october-2023-critical-patch-update-advisory)|Visit link for details.|Oct 19, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 19, 2023|
- |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
- |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/17/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 16, 2023|
- |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Joint Advisory on Atlassian Confluence Vulnerability CVE-2023-22515](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-fbi-and-ms-isac-release-joint-advisory-atlassian-confluence-vulnerability-cve-2023-22515)|Visit link for details.|Oct 16, 2023|
- |[CISA, NSA, FBI, and International Partners Release Updated Secure by Design Guidance](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-nsa-fbi-and-international-partners-release-updated-secure-design-guidance)|Visit link for details.|Oct 16, 2023|
  
 
 # HK-CERT
@@ -111,19 +111,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[JustSystems Ichitaro code execution (CVE-2023-38128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[JustSystems Ichitaro code execution (CVE-2023-35126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[VMware Aria Operations for Logs and Cloud Foundation security bypass (CVE-2023-34052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[VMware Aria Operations for Logs and Cloud Foundation code execution (CVE-2023-34051)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[VMware Fusion privilege escalation (CVE-2023-34046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[VMware Fusion privilege escalation (CVE-2023-34045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- |[VMware Workstation and Fusion information disclosure (CVE-2023-34044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JustSystems Ichitaro code execution (CVE-2023-38128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[JustSystems Ichitaro code execution (CVE-2023-35126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Aria Operations for Logs and Cloud Foundation security bypass (CVE-2023-34052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Aria Operations for Logs and Cloud Foundation code execution (CVE-2023-34051)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Fusion privilege escalation (CVE-2023-34046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Fusion privilege escalation (CVE-2023-34045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
+ |[VMware Workstation and Fusion information disclosure (CVE-2023-34044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2023|
  
 
 # ZERODAYINITIATIVE
