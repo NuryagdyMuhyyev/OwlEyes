@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/10/2023 14:14:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/10/2023 15:16:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6438-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6438-1-net-vulnerabilities.47158/)|Visit link for details.|Oct 19, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
+ |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0864/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0863/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0862/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle WebLogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0861/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans OracleDatabase Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0860/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -60,38 +76,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/17/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 16, 2023|
  |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
- |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
- |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
- |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
- |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
 # CERT-SANTE
@@ -109,6 +93,22 @@
  |[Apple - CVE-2023-38600](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38600-2023-10-19)|Visit link for details.|19/10/2023|
  |[HP - CVE-2023-26300](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-26300-2023-10-19)|Visit link for details.|19/10/2023|
  |[SonicWall - CVE-2023-39277](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-39277-2023-10-18)|Visit link for details.|18/10/2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-10-10] Updated Solutions...| Release Date: 6 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
+ |[WordPress Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20231017)|Multiple vulnerabilities were identified in Wordpress. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, cross-site scripting and denial of service condition on the targeted system.|Release Date: 17 Oct 2023 |
+ |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
