@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/10/2023 18:17:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/10/2023 19:14:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,6 +111,33 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[M-Files Web Companion code execution (CVE-2023-5524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[M-Files Web Companion code execution (CVE-2023-5523)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Apache Santuario information disclosure (CVE-2023-44483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Cisco IOS XE privilege escalation (CVE-2023-20273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[JustSystems Ichitaro code execution (CVE-2023-38128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[IBM Cognos Dashboards on Cloud Pak for Data improper authentication (CVE-2023-38735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[IBM Cognos Dashboards on Cloud Pak for Data information disclosure (CVE-2023-38276)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,19 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[M-Files Web Companion code execution (CVE-2023-5524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[M-Files Web Companion code execution (CVE-2023-5523)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Apache Santuario information disclosure (CVE-2023-44483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Cisco IOS XE privilege escalation (CVE-2023-20273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[JustSystems Ichitaro code execution (CVE-2023-38128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[IBM Cognos Dashboards on Cloud Pak for Data improper authentication (CVE-2023-38735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[IBM Cognos Dashboards on Cloud Pak for Data information disclosure (CVE-2023-38276)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[ 44381710/23 - Vulnérabilité critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-cisco-ios-xe)| Cisco confirme une exploitation massive d'une vulnérabilité critique de type zero-day dans la fonctionnalité web UI du logiciel Cisco IOS XE lorsqu'elle est exposée à l'internet ou à des réseaux non…| 17 octobre 2023|
  |[ 44351710/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-0)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 17 octobre 2023|
  |[ 44341610/23 - Vulnérabilités dans cURL et libcurl affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-curl-et-libcurl-affectant-plusieurs-produits-de-cisco)| Cisco annonce la correction d’une vulnérabilité affectant cURL et libcurl implémentés dans certains de ses produits. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant…| 16 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # CA-CCS
