@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/10/2023 11:20:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/10/2023 12:14:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
- |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +77,22 @@
  |[Apple - CVE-2023-38600](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38600-2023-10-19)|Visit link for details.|19/10/2023|
  |[HP - CVE-2023-26300](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-26300-2023-10-19)|Visit link for details.|19/10/2023|
  |[SonicWall - CVE-2023-39277](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-39277-2023-10-18)|Visit link for details.|18/10/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
+ |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
  
 
 # HK-CERT
@@ -111,23 +111,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/rxvt-unicode-code-execution-via-Perl-Background-Extension-Options-42676" class="noirorange"><b>rxvt-unicode</b>: code execution via Perl Background Extension Options</a>](https://vigilance.fr/vulnerability/rxvt-unicode-code-execution-via-Perl-Background-Extension-Options-42676)|An attacker can use a vulnerability of rxvt-unicode, via Perl Background Extension Options, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675" class="noirorange"><b>Apache XML Security for Java</b>: logged sensitive information via debug-log</a>](https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675)|An attacker can read logs of Apache XML Security for Java, via debug-log, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674" class="noirorange"><b>Joomla EasyShop</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674)|An attacker can trigger a Cross Site Scripting of Joomla EasyShop, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673" class="noirorange"><b>Joomla LazyDbBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673)|A vulnerability of Joomla LazyDbBackup was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672" class="noirorange"><b>VMware Workstation</b>: out-of-bounds memory reading via Bluetooth Device Sharing</a>](https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672)|An attacker, in a guest system, can force a read at an invalid memory address of VMware Workstation, via Bluetooth Device Sharing, in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671" class="noirorange"><b>Apache Traffic Server</b>: assertion error via HTTP/2 Frames</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671)|An attacker can force an assertion error of Apache Traffic Server, via HTTP/2 Frames, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via S3_auth Plugin AWSAccessKeyId</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670)|An attacker can bypass access restrictions to data of Apache Traffic Server, via S3_auth Plugin AWSAccessKeyId, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669" class="noirorange"><b>Matrix Synapse</b>: overload via Server ACL Event</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669)|An attacker can trigger an overload of Matrix Synapse, via Server ACL Event, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,6 +122,20 @@
  |[JustSystems Ichitaro code execution (CVE-2023-38128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  |[IBM Cognos Dashboards on Cloud Pak for Data improper authentication (CVE-2023-38735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  |[IBM Cognos Dashboards on Cloud Pak for Data information disclosure (CVE-2023-38276)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
@@ -158,18 +155,38 @@
  |[2023-069: Zero-Day Vulnerabilities in Apple Products](https://cert.europa.eu/publications/security-advisories/2023-069/)|On September 21, Apple issued emergency patches for three zero-day bugs, identified by "CVE-2023-41992", "CVE-2023-41991" and "CVE-2023-41993". These vulnerabilities are affecting iOS, iPadOS, and macOS devices and are currently being used in the wild for spyware installation purposes.|Friday, October 06, 2023 10:12:24 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ |[Ivanti security advisory (AV23-641)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-641)|Visit link for details|2023-10-20|
+ |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-20|
+ |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
+ |[F5 security advisory (AV23-638)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-638)|Visit link for details|2023-10-19|
+ |[Vulnerability impacting Cisco devices (CVE-2023-20198)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-18|
+ |[Oracle security advisory – October 2023 quarterly rollup (AV23-637)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2023-quarterly-rollup-av23-637)|Visit link for details|2023-10-18|
+ |[Google Chrome security advisory (AV23-636)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-636)|Visit link for details|2023-10-18|
+ |[[Control systems] Rockwell automation security advisory (AV23-635)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-635)|Visit link for details|2023-10-17|
+ |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
+ |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
+ |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/rxvt-unicode-code-execution-via-Perl-Background-Extension-Options-42676" class="noirorange"><b>rxvt-unicode</b>: code execution via Perl Background Extension Options</a>](https://vigilance.fr/vulnerability/rxvt-unicode-code-execution-via-Perl-Background-Extension-Options-42676)|An attacker can use a vulnerability of rxvt-unicode, via Perl Background Extension Options, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675" class="noirorange"><b>Apache XML Security for Java</b>: logged sensitive information via debug-log</a>](https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675)|An attacker can read logs of Apache XML Security for Java, via debug-log, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674" class="noirorange"><b>Joomla EasyShop</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EasyShop-Cross-Site-Scripting-42674)|An attacker can trigger a Cross Site Scripting of Joomla EasyShop, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673" class="noirorange"><b>Joomla LazyDbBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LazyDbBackup-vulnerability-42673)|A vulnerability of Joomla LazyDbBackup was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672" class="noirorange"><b>VMware Workstation</b>: out-of-bounds memory reading via Bluetooth Device Sharing</a>](https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-Bluetooth-Device-Sharing-42672)|An attacker, in a guest system, can force a read at an invalid memory address of VMware Workstation, via Bluetooth Device Sharing, in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671" class="noirorange"><b>Apache Traffic Server</b>: assertion error via HTTP/2 Frames</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-assertion-error-via-HTTP-2-Frames-42671)|An attacker can force an assertion error of Apache Traffic Server, via HTTP/2 Frames, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via S3_auth Plugin AWSAccessKeyId</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-S3-auth-Plugin-AWSAccessKeyId-42670)|An attacker can bypass access restrictions to data of Apache Traffic Server, via S3_auth Plugin AWSAccessKeyId, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669" class="noirorange"><b>Matrix Synapse</b>: overload via Server ACL Event</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-overload-via-Server-ACL-Event-42669)|An attacker can trigger an overload of Matrix Synapse, via Server ACL Event, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667" class="noirorange"><b>Apache httpd</b>: denial of service via HTTP/2 Initial Windows Zero Size</a>](https://vigilance.fr/vulnerability/Apache-httpd-denial-of-service-via-HTTP-2-Initial-Windows-Zero-Size-42667)|An attacker can cause a fatal error of Apache httpd, via HTTP/2 Initial Windows Zero Size, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666" class="noirorange"><b>Apache httpd mod_macro</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-macro-out-of-bounds-memory-reading-42666)|An attacker can force a read at an invalid memory address of Apache httpd mod_macro, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[ 44381710/23 - Vulnérabilité critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-cisco-ios-xe)| Cisco confirme une exploitation massive d'une vulnérabilité critique de type zero-day dans la fonctionnalité web UI du logiciel Cisco IOS XE lorsqu'elle est exposée à l'internet ou à des réseaux non…| 17 octobre 2023|
  |[ 44351710/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-0)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 17 octobre 2023|
  |[ 44341610/23 - Vulnérabilités dans cURL et libcurl affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-curl-et-libcurl-affectant-plusieurs-produits-de-cisco)| Cisco annonce la correction d’une vulnérabilité affectant cURL et libcurl implémentés dans certains de ses produits. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant…| 16 octobre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti security advisory (AV23-641)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-641)|Visit link for details|2023-10-20|
- |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-20|
- |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
- |[F5 security advisory (AV23-638)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-638)|Visit link for details|2023-10-19|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-18|
- |[Oracle security advisory – October 2023 quarterly rollup (AV23-637)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2023-quarterly-rollup-av23-637)|Visit link for details|2023-10-18|
- |[Google Chrome security advisory (AV23-636)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-636)|Visit link for details|2023-10-18|
- |[[Control systems] Rockwell automation security advisory (AV23-635)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-635)|Visit link for details|2023-10-17|
- |[SonicWall security advisory (AV23-634)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av23-634)|Visit link for details|2023-10-16|
- |[Cisco security advisory (AV23-633)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-633)|Visit link for details|2023-10-16|
- |[IBM security advisory (AV23-632)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-632)|Visit link for details|2023-10-16|
  
