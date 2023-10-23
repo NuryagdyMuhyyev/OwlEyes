@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/10/2023 14:17:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/10/2023 15:18:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
- |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -94,17 +78,20 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Modoboa cross-site request forgery (CVE-2023-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[radare2 SQL injection (CVE-2023-5682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Social Media Share Buttons & Social Sharing Icons plugin for WordPress information disclosure (CVE-2023-5070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Sitekit plugin for WordPress cross-site scripting (CVE-2023-5071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Copy Anything to Clipboard plugin for WordPress cross-site scripting (CVE-2023-5086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[WPvivid Backup & Migration plugin for WordPress cross-site scripting (CVE-2023-5120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
+ |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
  
 
 # CERT-SANTE
@@ -122,6 +109,19 @@
  |[Apple - CVE-2023-38600](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-38600-2023-10-19)|Visit link for details.|19/10/2023|
  |[HP - CVE-2023-26300](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-26300-2023-10-19)|Visit link for details.|19/10/2023|
  |[SonicWall - CVE-2023-39277](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-39277-2023-10-18)|Visit link for details.|18/10/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Modoboa cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
+ |[Tongda OA SQL injection (CVE-2023-5682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Social Media Share Buttons & Social Sharing Icons plugin for WordPress information disclosure (CVE-2023-5070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Sitekit plugin for WordPress cross-site scripting (CVE-2023-5071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Copy Anything to Clipboard plugin for WordPress cross-site scripting (CVE-2023-5086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[WPvivid Backup & Migration plugin for WordPress cross-site scripting (CVE-2023-5120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  
 
 # ZERODAYINITIATIVE
