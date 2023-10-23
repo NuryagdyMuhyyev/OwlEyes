@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/10/2023 21:20:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/10/2023 22:13:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5531 roundcube - security update](https://www.linux.org/threads/dsa-5531-roundcube-security-update.47209/)|Visit link for details.|Oct 23, 2023|
- |[DSA-5530 ruby-rack - security update](https://www.linux.org/threads/dsa-5530-ruby-rack-security-update.47200/)|Visit link for details.|Oct 22, 2023|
- |[USN-6440-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6440-2-linux-kernel-azure-vulnerabilities.47173/)|Visit link for details.|Oct 20, 2023|
- |[USN-6446-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-1-linux-kernel-vulnerabilities.47168/)|Visit link for details.|Oct 20, 2023|
- |[USN-6445-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-1-linux-kernel-intel-iotg-vulnerabilities.47167/)|Visit link for details.|Oct 20, 2023|
- |[USN-6444-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6444-1-linux-kernel-vulnerabilities.47166/)|Visit link for details.|Oct 20, 2023|
- |[USN-6443-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6443-1-linux-kernel-oem-vulnerabilities.47165/)|Visit link for details.|Oct 20, 2023|
- |[USN-6442-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6442-1-linux-kernel-bluefield-vulnerabilities.47164/)|Visit link for details.|Oct 20, 2023|
- |[USN-6441-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6441-1-linux-kernel-vulnerabilities.47163/)|Visit link for details.|Oct 20, 2023|
- |[USN-6440-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6440-1-linux-kernel-vulnerabilities.47162/)|Visit link for details.|Oct 20, 2023|
- |[USN-6439-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6439-1-linux-kernel-vulnerabilities.47161/)|Visit link for details.|Oct 20, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
+ |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
  
 
 # US-CERT
@@ -62,20 +61,34 @@
  |[Cisco Releases Security Advisory for IOS XE Software Web UI](https://www.cisa.gov/news-events/alerts/2023/10/16/cisco-releases-security-advisory-ios-xe-software-web-ui)|Visit link for details.|Oct 16, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans SolarWinds Access Rights Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Access Rights Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
- |[Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0877/)|Une vulnérabilité a été corrigée dans |Publié le 23 octobre 2023|
- |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0876/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 octobre 2023|
- |[Vulnérabilité dans Qnap QUSBCam2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0875/)|Une vulnérabilité a été découverte dans Qnap QUSBCam2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
+ |[USN-6403-2: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-2-libvpx-vulnerabilities.47217/)|Visit link for details.|Oct 23, 2023|
+ |[USN-6199-2: PHP vulnerability](https://www.linux.org/threads/usn-6199-2-php-vulnerability.47216/)|Visit link for details.|Oct 23, 2023|
+ |[USN-6447-1: AOM vulnerabilities](https://www.linux.org/threads/usn-6447-1-aom-vulnerabilities.47215/)|Visit link for details.|Oct 23, 2023|
+ |[DSA-5531 roundcube - security update](https://www.linux.org/threads/dsa-5531-roundcube-security-update.47209/)|Visit link for details.|Oct 23, 2023|
+ |[DSA-5530 ruby-rack - security update](https://www.linux.org/threads/dsa-5530-ruby-rack-security-update.47200/)|Visit link for details.|Oct 22, 2023|
+ |[USN-6440-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6440-2-linux-kernel-azure-vulnerabilities.47173/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6446-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-1-linux-kernel-vulnerabilities.47168/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6445-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-1-linux-kernel-intel-iotg-vulnerabilities.47167/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6444-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6444-1-linux-kernel-vulnerabilities.47166/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6443-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6443-1-linux-kernel-oem-vulnerabilities.47165/)|Visit link for details.|Oct 20, 2023|
+ |[USN-6442-1: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6442-1-linux-kernel-bluefield-vulnerabilities.47164/)|Visit link for details.|Oct 20, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[iframe plugin for WordPress cross-site scripting (CVE-2023-4919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
+ |[Modoboa cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
+ |[Microsoft Edge (Chromium-based) information disclosure (CVE-2023-36409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[WP Customer Reviews Plugin for WordPress cross-site scripting (CVE-2023-4648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Tongda OA SQL injection (CVE-2023-5682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[Social Media Share Buttons & Social Sharing Icons plugin for WordPress information disclosure (CVE-2023-5070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  
 
 # CERT-SANTE
@@ -109,19 +122,6 @@
  |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 is being exploited in the wild.Cisco is aware of active exploitation...|Release Date: 17 Oct 2023 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service and information disclosure on the targeted system.|Release Date: 16 Oct 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system.|Release Date: 16 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[iframe plugin for WordPress cross-site scripting (CVE-2023-4919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[Modoboa cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[Microsoft Edge (Chromium-based) information disclosure (CVE-2023-36409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[WP Customer Reviews Plugin for WordPress cross-site scripting (CVE-2023-4648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Tongda OA SQL injection (CVE-2023-5682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[Social Media Share Buttons & Social Sharing Icons plugin for WordPress information disclosure (CVE-2023-5070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2023|
  
 
 # ZERODAYINITIATIVE
