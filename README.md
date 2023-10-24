@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/10/2023 22:15:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/10/2023 23:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6449-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6449-1-ffmpeg-vulnerabilities.47234/)|Visit link for details.|Oct 24, 2023|
- |[USN-6422-2: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-2-ring-vulnerabilities.47233/)|Visit link for details.|Oct 24, 2023|
- |[USN-6448-1: Sofia-SIP vulnerability](https://www.linux.org/threads/usn-6448-1-sofia-sip-vulnerability.47230/)|Visit link for details.|Oct 24, 2023|
- |[USN-6441-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6441-2-linux-kernel-gcp-vulnerabilities.47223/)|Visit link for details.|Oct 23, 2023|
- |[USN-6439-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6439-2-linux-kernel-aws-vulnerabilities.47222/)|Visit link for details.|Oct 23, 2023|
- |[USN-6408-2: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-2-libxpm-vulnerabilities.47221/)|Visit link for details.|Oct 23, 2023|
- |[USN-6403-2: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-2-libvpx-vulnerabilities.47217/)|Visit link for details.|Oct 23, 2023|
- |[USN-6199-2: PHP vulnerability](https://www.linux.org/threads/usn-6199-2-php-vulnerability.47216/)|Visit link for details.|Oct 23, 2023|
- |[USN-6447-1: AOM vulnerabilities](https://www.linux.org/threads/usn-6447-1-aom-vulnerabilities.47215/)|Visit link for details.|Oct 23, 2023|
- |[DSA-5531 roundcube - security update](https://www.linux.org/threads/dsa-5531-roundcube-security-update.47209/)|Visit link for details.|Oct 23, 2023|
- |[DSA-5530 ruby-rack - security update](https://www.linux.org/threads/dsa-5530-ruby-rack-security-update.47200/)|Visit link for details.|Oct 22, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
  |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6450-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6450-1-openssl-vulnerabilities.47238/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6444-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6444-2-linux-kernel-starfive-vulnerabilities.47237/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6446-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-2-linux-kernel-vulnerabilities.47236/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6445-2: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-2-linux-kernel-intel-iotg-vulnerabilities.47235/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6449-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6449-1-ffmpeg-vulnerabilities.47234/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6422-2: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-2-ring-vulnerabilities.47233/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6448-1: Sofia-SIP vulnerability](https://www.linux.org/threads/usn-6448-1-sofia-sip-vulnerability.47230/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6441-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6441-2-linux-kernel-gcp-vulnerabilities.47223/)|Visit link for details.|Oct 23, 2023|
+ |[USN-6439-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6439-2-linux-kernel-aws-vulnerabilities.47222/)|Visit link for details.|Oct 23, 2023|
+ |[USN-6408-2: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-2-libxpm-vulnerabilities.47221/)|Visit link for details.|Oct 23, 2023|
+ |[USN-6403-2: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-2-libvpx-vulnerabilities.47217/)|Visit link for details.|Oct 23, 2023|
  
 
 # CERT-FR
@@ -115,30 +115,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell Unity cross-site scripting (CVE-2023-43065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
+ |[Dell Unity security bypass (CVE-2023-43066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
+ |[Dell Unity XML external entity injection (CVE-2023-43067)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[Dell Unity file creation (CVE-2023-43074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[International Color Consortium DemoIccMAX buffer overflow (CVE-2023-46602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[International Color Consortium DemoIccMAX code execution (CVE-2023-46603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[OMRON CX-Designer XML external entity injection (CVE-2023-43624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[Apache Airflow information disclosure (CVE-2023-46288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[iframe plugin for WordPress cross-site scripting (CVE-2023-4919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[Modoboa cross-site request forgery (CVE-2023-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_sobel()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693)|An attacker can trigger an integer overflow of FFmpeg, via filter16_sobel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_roberts()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692)|An attacker can trigger an integer overflow of FFmpeg, via filter16_roberts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_prewitt()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691)|An attacker can trigger an integer overflow of FFmpeg, via filter16_prewitt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689" class="noirorange"><b>nats-server</b>: user access via Without Authentication</a>](https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689)|An attacker can bypass restrictions of nats-server, via Without Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-42688" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-42688)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-RGW-write-access-via-POST-Form-data-Bucket-Key-42687" class="noirorange"><b>Ceph RGW</b>: write access via POST Form-data Bucket Key</a>](https://vigilance.fr/vulnerability/Ceph-RGW-write-access-via-POST-Form-data-Bucket-Key-42687)|An attacker can bypass access restrictions of Ceph RGW, via POST Form-data Bucket Key, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-Server-overload-via-HTTP-API-Large-Messages-42686" class="noirorange"><b>RabbitMQ Server</b>: overload via HTTP API Large Messages</a>](https://vigilance.fr/vulnerability/RabbitMQ-Server-overload-via-HTTP-API-Large-Messages-42686)|An attacker can trigger an overload of RabbitMQ Server, via HTTP API Large Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685" class="noirorange"><b>Squid</b>: denial of service via FTP</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685)|An attacker can cause a fatal error of Squid, via FTP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684" class="noirorange"><b>Squid</b>: buffer overflow via HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684)|An attacker can trigger a buffer overflow of Squid, via HTTP Digest Authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683" class="noirorange"><b>Squid</b>: denial of service via HTTP Response Caching</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683)|An attacker can cause a fatal error of Squid, via HTTP Response Caching, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -153,6 +136,23 @@
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via SplashXPath::strokeAdjust()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Object::isName()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699)|An attacker can force a read at an invalid memory address of Xpdf, via Object::isName(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via CCITTFaxStream::readRow()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via Key / IV Length</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697)|An attacker can force a read at an invalid memory address of OpenSSL, via Key / IV Length, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696" class="noirorange"><b>WebSphere AS</b>: vulnerability via Resource Expiration</a>](https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696)|A vulnerability of WebSphere AS, via Resource Expiration, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_sobel()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693)|An attacker can trigger an integer overflow of FFmpeg, via filter16_sobel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_roberts()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692)|An attacker can trigger an integer overflow of FFmpeg, via filter16_roberts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_prewitt()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691)|An attacker can trigger an integer overflow of FFmpeg, via filter16_prewitt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689" class="noirorange"><b>nats-server</b>: user access via Without Authentication</a>](https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689)|An attacker can bypass restrictions of nats-server, via Without Authentication, in order to gain user privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -193,15 +193,15 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Rockwell Automation security advisory (AV23-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-646)|Visit link for details|2023-10-24|
+ |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-24|
+ |[Mozilla security advisory (AV23-645)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-645)|Visit link for details|2023-10-24|
  |[IBM security advisory (AV23-644)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-644)|Visit link for details|2023-10-23|
  |[Dell security advisory (AV23-643)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-643)|Visit link for details|2023-10-23|
  |[Ubuntu security advisory (AV23-642)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-642)|Visit link for details|2023-10-23|
  |[Ivanti security advisory (AV23-641)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-641)|Visit link for details|2023-10-20|
- |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-20|
  |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
  |[F5 security advisory (AV23-638)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-638)|Visit link for details|2023-10-19|
  |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-18|
  |[Oracle security advisory – October 2023 quarterly rollup (AV23-637)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2023-quarterly-rollup-av23-637)|Visit link for details|2023-10-18|
- |[Google Chrome security advisory (AV23-636)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-636)|Visit link for details|2023-10-18|
- |[[Control systems] Rockwell automation security advisory (AV23-635)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-635)|Visit link for details|2023-10-17|
  
