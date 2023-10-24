@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2023 02:14:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2023 03:15:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6451-1: ncurses vulnerability](https://www.linux.org/threads/usn-6451-1-ncurses-vulnerability.47244/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6288-2: MySQL vulnerability](https://www.linux.org/threads/usn-6288-2-mysql-vulnerability.47243/)|Visit link for details.|Oct 24, 2023|
  |[USN-6450-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6450-1-openssl-vulnerabilities.47238/)|Visit link for details.|Oct 24, 2023|
  |[USN-6444-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6444-2-linux-kernel-starfive-vulnerabilities.47237/)|Visit link for details.|Oct 24, 2023|
  |[USN-6446-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-2-linux-kernel-vulnerabilities.47236/)|Visit link for details.|Oct 24, 2023|
@@ -42,8 +44,6 @@
  |[USN-6448-1: Sofia-SIP vulnerability](https://www.linux.org/threads/usn-6448-1-sofia-sip-vulnerability.47230/)|Visit link for details.|Oct 24, 2023|
  |[USN-6441-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6441-2-linux-kernel-gcp-vulnerabilities.47223/)|Visit link for details.|Oct 23, 2023|
  |[USN-6439-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6439-2-linux-kernel-aws-vulnerabilities.47222/)|Visit link for details.|Oct 23, 2023|
- |[USN-6408-2: libXpm vulnerabilities](https://www.linux.org/threads/usn-6408-2-libxpm-vulnerabilities.47221/)|Visit link for details.|Oct 23, 2023|
- |[USN-6403-2: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-2-libvpx-vulnerabilities.47217/)|Visit link for details.|Oct 23, 2023|
  
 
 # US-CERT
@@ -66,33 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0880/)|Une vulnérabilité a été découverte dans les produits Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 24 octobre 2023|
+ |[Multiples vulnérabilités dans SolarWinds Access Rights Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Access Rights Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
+ |[Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0877/)|Une vulnérabilité a été corrigée dans |Publié le 23 octobre 2023|
+ |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0876/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 octobre 2023|
+ |[Vulnérabilité dans Qnap QUSBCam2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0875/)|Une vulnérabilité a été découverte dans Qnap QUSBCam2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 20 octobre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0869/)|De multiples vulnérabilités ont été découvertes dans Zimbra |Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0868/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 octobre 2023|
- |[Vulnérabilité dans Spring AMQP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0867/)|Une vulnérabilité a été découverte dans Spring AMQP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0865/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 octobre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zscaler - CVE-2023-28804](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28804-2023-10-24)|Visit link for details.|24/10/2023|
- |[SolarWinds - CVE-2023-35187](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35187-2023-10-24)|Visit link for details.|24/10/2023|
- |[VMware - CVE-2023-34044](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34044-2023-10-24)|Visit link for details.|24/10/2023|
- |[Apache HTTP Server - CVE-2023-43622](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-43622-2023-10-24)|Visit link for details.|24/10/2023|
- |[Zscaler - CVE-2023-28795](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28795-2023-10-24)|Visit link for details.|24/10/2023|
- |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|23/10/2023|
- |[QNAP - CVE-2023-23373](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23373-2023-10-23)|Visit link for details.|23/10/2023|
- |[VMware - CVE-2023-34052](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34052-2023-10-23)|Visit link for details.|23/10/2023|
- |[Oracle VirtualBox - CVE-2023-22099](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2023-22099-2023-10-23)|Visit link for details.|23/10/2023|
- |[SolarWinds - CVE-2023-35185](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35185-2023-10-23)|Visit link for details.|23/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|23/10/2023|
  
 
 # HK-CERT
@@ -115,30 +98,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Firefox denial of service (CVE-2023-5724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[HCL Commerce directory traversal (CVE-2023-37532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[Dell Unity cross-site scripting (CVE-2023-43065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[Dell Unity security bypass (CVE-2023-43066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[Dell Unity XML external entity injection (CVE-2023-43067)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[Dell Unity file creation (CVE-2023-43074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  |[International Color Consortium DemoIccMAX buffer overflow (CVE-2023-46602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
- |[International Color Consortium DemoIccMAX code execution (CVE-2023-46603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702" class="noirorange"><b>ClearPass Policy Manager</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702)|An attacker can use several vulnerabilities of ClearPass Policy Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via SplashXPath::strokeAdjust()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Object::isName()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699)|An attacker can force a read at an invalid memory address of Xpdf, via Object::isName(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via CCITTFaxStream::readRow()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via Key / IV Length</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697)|An attacker can force a read at an invalid memory address of OpenSSL, via Key / IV Length, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696" class="noirorange"><b>WebSphere AS</b>: vulnerability via Resource Expiration</a>](https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696)|A vulnerability of WebSphere AS, via Resource Expiration, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_sobel()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693)|An attacker can trigger an integer overflow of FFmpeg, via filter16_sobel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_roberts()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692)|An attacker can trigger an integer overflow of FFmpeg, via filter16_roberts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_prewitt()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691)|An attacker can trigger an integer overflow of FFmpeg, via filter16_prewitt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[Zscaler - CVE-2023-28804](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28804-2023-10-24)|Visit link for details.|24/10/2023|
+ |[SolarWinds - CVE-2023-35187](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35187-2023-10-24)|Visit link for details.|24/10/2023|
+ |[VMware - CVE-2023-34044](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34044-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Apache HTTP Server - CVE-2023-43622](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-43622-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Zscaler - CVE-2023-28795](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28795-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|23/10/2023|
+ |[QNAP - CVE-2023-23373](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23373-2023-10-23)|Visit link for details.|23/10/2023|
+ |[VMware - CVE-2023-34052](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34052-2023-10-23)|Visit link for details.|23/10/2023|
+ |[Oracle VirtualBox - CVE-2023-22099](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2023-22099-2023-10-23)|Visit link for details.|23/10/2023|
+ |[SolarWinds - CVE-2023-35185](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35185-2023-10-23)|Visit link for details.|23/10/2023|
+ |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|23/10/2023|
  
 
 # EU-CERT
@@ -170,6 +153,23 @@
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702" class="noirorange"><b>ClearPass Policy Manager</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702)|An attacker can use several vulnerabilities of ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via SplashXPath::strokeAdjust()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Object::isName()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699)|An attacker can force a read at an invalid memory address of Xpdf, via Object::isName(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via CCITTFaxStream::readRow()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via Key / IV Length</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697)|An attacker can force a read at an invalid memory address of OpenSSL, via Key / IV Length, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696" class="noirorange"><b>WebSphere AS</b>: vulnerability via Resource Expiration</a>](https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696)|A vulnerability of WebSphere AS, via Resource Expiration, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_sobel()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693)|An attacker can trigger an integer overflow of FFmpeg, via filter16_sobel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_roberts()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692)|An attacker can trigger an integer overflow of FFmpeg, via filter16_roberts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_prewitt()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691)|An attacker can trigger an integer overflow of FFmpeg, via filter16_prewitt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
