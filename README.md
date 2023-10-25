@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/10/2023 00:13:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/10/2023 01:17:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -124,20 +124,6 @@
  |[Aruba Networks ClearPass Policy Manager privilege escalation (CVE-2023-43508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -172,6 +158,37 @@
  |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-071/)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 security advisory (AV23-650)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-650)|Visit link for details|2023-10-25|
+ |[Apple security advisory (AV23-649)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-649)|Visit link for details|2023-10-25|
+ |[VMware security advisory (AV23-648)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-648)|Visit link for details|2023-10-25|
+ |[Google Chrome security advisory (AV23-647)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-647)|Visit link for details|2023-10-25|
+ |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-24|
+ |[[Control systems] Rockwell Automation security advisory (AV23-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-646)|Visit link for details|2023-10-24|
+ |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-24|
+ |[Mozilla security advisory (AV23-645)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-645)|Visit link for details|2023-10-24|
+ |[IBM security advisory (AV23-644)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-644)|Visit link for details|2023-10-23|
+ |[Dell security advisory (AV23-643)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-643)|Visit link for details|2023-10-23|
+ |[Ubuntu security advisory (AV23-642)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-642)|Visit link for details|2023-10-23|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,21 +204,4 @@
  |[ 44401910/23 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-0)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 19 octobre 2023|
  |[ 44391810/23 - Mise à jour de sécurité pour Moodle ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-moodle)| Moodle annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de sa plateforme. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter…| 18 octobre 2023|
  |[ 44371710/23 - Vulnérabilité critique affectant le plugin «Royal Elementor Addons and… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-royal-elementor-addons-and-templates-pour)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 17 octobre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV23-648)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-648)|Visit link for details|2023-10-25|
- |[Google Chrome security advisory (AV23-647)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-647)|Visit link for details|2023-10-25|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-24|
- |[[Control systems] Rockwell Automation security advisory (AV23-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-646)|Visit link for details|2023-10-24|
- |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-24|
- |[Mozilla security advisory (AV23-645)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-645)|Visit link for details|2023-10-24|
- |[IBM security advisory (AV23-644)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-644)|Visit link for details|2023-10-23|
- |[Dell security advisory (AV23-643)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-643)|Visit link for details|2023-10-23|
- |[Ubuntu security advisory (AV23-642)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-642)|Visit link for details|2023-10-23|
- |[Ivanti security advisory (AV23-641)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-641)|Visit link for details|2023-10-20|
- |[Atlassian security advisory (AV23-639)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-639)|Visit link for details|2023-10-19|
  
