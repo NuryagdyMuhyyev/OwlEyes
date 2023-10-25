@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2023 14:16:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2023 15:17:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6438-2: .Net regressions](https://www.linux.org/threads/usn-6438-2-net-regressions.47248/)|Visit link for details.|Oct 25, 2023|
- |[USN-6451-1: ncurses vulnerability](https://www.linux.org/threads/usn-6451-1-ncurses-vulnerability.47244/)|Visit link for details.|Oct 24, 2023|
- |[USN-6288-2: MySQL vulnerability](https://www.linux.org/threads/usn-6288-2-mysql-vulnerability.47243/)|Visit link for details.|Oct 24, 2023|
- |[USN-6450-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6450-1-openssl-vulnerabilities.47238/)|Visit link for details.|Oct 24, 2023|
- |[USN-6444-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6444-2-linux-kernel-starfive-vulnerabilities.47237/)|Visit link for details.|Oct 24, 2023|
- |[USN-6446-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-2-linux-kernel-vulnerabilities.47236/)|Visit link for details.|Oct 24, 2023|
- |[USN-6445-2: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-2-linux-kernel-intel-iotg-vulnerabilities.47235/)|Visit link for details.|Oct 24, 2023|
- |[USN-6449-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6449-1-ffmpeg-vulnerabilities.47234/)|Visit link for details.|Oct 24, 2023|
- |[USN-6422-2: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-2-ring-vulnerabilities.47233/)|Visit link for details.|Oct 24, 2023|
- |[USN-6448-1: Sofia-SIP vulnerability](https://www.linux.org/threads/usn-6448-1-sofia-sip-vulnerability.47230/)|Visit link for details.|Oct 24, 2023|
- |[USN-6441-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6441-2-linux-kernel-gcp-vulnerabilities.47223/)|Visit link for details.|Oct 23, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,6 +45,23 @@
  |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6362-2: .Net regressions](https://www.linux.org/threads/usn-6362-2-net-regressions.47252/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6438-2: .Net regressions](https://www.linux.org/threads/usn-6438-2-net-regressions.47248/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6451-1: ncurses vulnerability](https://www.linux.org/threads/usn-6451-1-ncurses-vulnerability.47244/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6288-2: MySQL vulnerability](https://www.linux.org/threads/usn-6288-2-mysql-vulnerability.47243/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6450-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6450-1-openssl-vulnerabilities.47238/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6444-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6444-2-linux-kernel-starfive-vulnerabilities.47237/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6446-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6446-2-linux-kernel-vulnerabilities.47236/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6445-2: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6445-2-linux-kernel-intel-iotg-vulnerabilities.47235/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6449-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6449-1-ffmpeg-vulnerabilities.47234/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6422-2: Ring vulnerabilities](https://www.linux.org/threads/usn-6422-2-ring-vulnerabilities.47233/)|Visit link for details.|Oct 24, 2023|
+ |[USN-6448-1: Sofia-SIP vulnerability](https://www.linux.org/threads/usn-6448-1-sofia-sip-vulnerability.47230/)|Visit link for details.|Oct 24, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,22 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
- |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
- |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 and CVE-2023-20273 is being exploited in the wild...| Release Date: 17 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system. [Updated on 2023-10-24] Updated Vulnerability Identifier.| Release Date: 16 Oct 2023 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
- |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
  
 
 # CERT-SANTE
@@ -115,19 +99,20 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[F5 BIG-IP and BIG-IP Next denial of service (CVE-2023-45886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
  |[VMware vCenter Server and Cloud Foundation information disclosure (CVE-2023-34056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
  |[VMware vCenter Server and Cloud Foundation code execution (CVE-2023-34048)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
  |[Synology Camera BC500 and TC500 code execution (CVE-2023-5746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[Google Chrome code execution (CVE-2023-5472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[OpenSSL information disclosure (CVE-2023-5363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[Google Chrome code execution (CVE-2023-23583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
- |[Mozilla Firefox for iOS cross-site scripting (CVE-2023-5758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707" class="noirorange"><b>OpenBSD</b>: denial of service via Network Buffer Split</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707)|An attacker can cause a fatal error of OpenBSD, via Network Buffer Split, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Profiles</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Profiles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-Xwayland-three-vulnerabilities-42705" class="noirorange"><b>X.Org Server  Xwayland</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-Xwayland-three-vulnerabilities-42705)|An attacker can use several vulnerabilities of X.Org Server  Xwayland...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704" class="noirorange"><b>VMware vCenter Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
@@ -138,7 +123,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Object::isName()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699)|An attacker can force a read at an invalid memory address of Xpdf, via Object::isName(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via CCITTFaxStream::readRow()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via Key / IV Length</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697)|An attacker can force a read at an invalid memory address of OpenSSL, via Key / IV Length, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696" class="noirorange"><b>WebSphere AS</b>: vulnerability via Resource Expiration</a>](https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696)|A vulnerability of WebSphere AS, via Resource Expiration, was announced...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
+ |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 and CVE-2023-20273 is being exploited in the wild...| Release Date: 17 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system. [Updated on 2023-10-24] Updated Vulnerability Identifier.| Release Date: 16 Oct 2023 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231019)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Sophos Firewall Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/sophos-firewall-sensitive-information-disclosure-vulnerability_20231019)|A vulnerability has been identified in Sophos Firewall. A remote user can exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 19 Oct 2023 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20231018)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 18 Oct 2023 |
  
 
 # ZERODAYINITIATIVE
