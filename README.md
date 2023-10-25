@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2023 08:17:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2023 09:19:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
+ |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
+ |[CISA Releases Fact Sheet on Effort to Revise the National Cyber Incident Response Plan (NCIRP)](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-fact-sheet-effort-revise-national-cyber-incident-response-plan-ncirp)|Visit link for details.|Oct 20, 2023|
+ |[Oracle Releases October 2023 Critical Patch Update Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/oracle-releases-october-2023-critical-patch-update-advisory)|Visit link for details.|Oct 19, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
+ |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
+ 
 
 # LINUX-SEC
 
@@ -62,39 +78,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 octobre 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
- |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
- |[CISA Releases Fact Sheet on Effort to Revise the National Cyber Incident Response Plan (NCIRP)](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-fact-sheet-effort-revise-national-cyber-incident-response-plan-ncirp)|Visit link for details.|Oct 20, 2023|
- |[Oracle Releases October 2023 Critical Patch Update Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/oracle-releases-october-2023-critical-patch-update-advisory)|Visit link for details.|Oct 19, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 19, 2023|
- |[ CISA, NSA, FBI, and MS-ISAC Release Update to #StopRansomware Guide](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-nsa-fbi-and-ms-isac-release-update-stopransomware-guide)|Visit link for details.|Oct 19, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 19, 2023|
- |[ CISA, NSA, FBI, and MS-ISAC Release Phishing Prevention Guidance](https://www.cisa.gov/news-events/alerts/2023/10/18/cisa-nsa-fbi-and-ms-isac-release-phishing-prevention-guidance)|Visit link for details.|Oct 18, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zscaler - CVE-2023-28804](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28804-2023-10-24)|Visit link for details.|24/10/2023|
- |[SolarWinds - CVE-2023-35187](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35187-2023-10-24)|Visit link for details.|24/10/2023|
- |[VMware - CVE-2023-34044](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34044-2023-10-24)|Visit link for details.|24/10/2023|
- |[Apache HTTP Server - CVE-2023-43622](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-43622-2023-10-24)|Visit link for details.|24/10/2023|
- |[Zscaler - CVE-2023-28795](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28795-2023-10-24)|Visit link for details.|24/10/2023|
- |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|23/10/2023|
- |[QNAP - CVE-2023-23373](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23373-2023-10-23)|Visit link for details.|23/10/2023|
- |[VMware - CVE-2023-34052](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34052-2023-10-23)|Visit link for details.|23/10/2023|
- |[Oracle VirtualBox - CVE-2023-22099](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2023-22099-2023-10-23)|Visit link for details.|23/10/2023|
- |[SolarWinds - CVE-2023-35185](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35185-2023-10-23)|Visit link for details.|23/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|23/10/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +105,23 @@
  |[Mozilla Firefox code execution (CVE-2023-5731)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[Mozilla Firefox code execution (CVE-2023-5730)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
  |[Mozilla Firefox spoofing (CVE-2023-5729)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zscaler - CVE-2023-28804](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28804-2023-10-24)|Visit link for details.|24/10/2023|
+ |[SolarWinds - CVE-2023-35187](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35187-2023-10-24)|Visit link for details.|24/10/2023|
+ |[VMware - CVE-2023-34044](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34044-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Apache HTTP Server - CVE-2023-43622](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-43622-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Zscaler - CVE-2023-28795](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28795-2023-10-24)|Visit link for details.|24/10/2023|
+ |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|23/10/2023|
+ |[QNAP - CVE-2023-23373](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23373-2023-10-23)|Visit link for details.|23/10/2023|
+ |[VMware - CVE-2023-34052](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34052-2023-10-23)|Visit link for details.|23/10/2023|
+ |[Oracle VirtualBox - CVE-2023-22099](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2023-22099-2023-10-23)|Visit link for details.|23/10/2023|
+ |[SolarWinds - CVE-2023-35185](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-35185-2023-10-23)|Visit link for details.|23/10/2023|
+ |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|23/10/2023|
  
 
 # ZERODAYINITIATIVE
