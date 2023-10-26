@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/10/2023 03:15:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/10/2023 04:16:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,22 +78,6 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 octobre 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
- |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
- |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 and CVE-2023-20273 is being exploited in the wild...| Release Date: 17 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system. [Updated on 2023-10-24] Updated Vulnerability Identifier.| Release Date: 16 Oct 2023 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,6 +93,22 @@
  |[Mozilla - CVE-2023-5731](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-5731-2023-10-25)|Visit link for details.|25/10/2023|
  |[Orthanc - CVE-2023-33466](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-cve-2023-33466-2023-10-25)|Visit link for details.|25/10/2023|
  |[ChromeOS - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/chromeos-cve-2023-23583-2023-10-25)|Visit link for details.|25/10/2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
+ |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 and CVE-2023-20273 is being exploited in the wild...| Release Date: 17 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system. [Updated on 2023-10-24] Updated Vulnerability Identifier.| Release Date: 16 Oct 2023 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -141,20 +141,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712" class="noirorange"><b>Vim</b>: buffer overflow via ex_buffer_all()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712)|An attacker can trigger a buffer overflow of Vim, via ex_buffer_all(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,6 +156,20 @@
  |[2023-073: Access Control Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-073/)|Atlassian has been made aware of a critical vulnerability, CVE-2023-22515, a Broken Access Control vulnerability in Confluence Data Center and Server. External attackers may exploit this vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorised Confluence administrator accounts and access Confluence instances. Atlassian Cloud sites are not affected by this vulnerability.|Friday, October 06, 2023 10:23:58 AM CEST|
  |[2023-072: GNU C Library Dynamic Loader Buffer Overflow Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-072/)|A critical buffer overflow vulnerability, identified as "CVE-2023-4911", has been discovered by Qualys Research Labs in the GNU C Library's dynamic loader when processing the "GLIBC_TUNABLES" environment variable. This vulnerability can be exploited to obtain full root privileges, impacting several major Linux distributions.|Wednesday, October 04, 2023 05:41:05 PM CEST|
  |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-071/)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # MA-CERT
