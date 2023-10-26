@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/10/2023 23:20:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/10/2023 00:13:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6362-2: .Net regressions](https://www.linux.org/threads/usn-6362-2-net-regressions.47252/)|Visit link for details.|Oct 25, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
- |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
- |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
- |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
- |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
- |[CISA Releases Fact Sheet on Effort to Revise the National Cyber Incident Response Plan (NCIRP)](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-fact-sheet-effort-revise-national-cyber-incident-response-plan-ncirp)|Visit link for details.|Oct 20, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,6 +62,22 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 octobre 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
+ |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
+ |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
+ |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
+ |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
+ |[CISA Releases Fact Sheet on Effort to Revise the National Cyber Incident Response Plan (NCIRP)](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-fact-sheet-effort-revise-national-cyber-incident-response-plan-ncirp)|Visit link for details.|Oct 20, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,6 +92,19 @@
  |[Cisco IOS XE Escalation of Privilege Vulnerability](https://www.hkcert.org/security-bulletin/cisco-ios-xe-escalation-of-privilege-vulnerability_20231017)|A vulnerability was identified in Cisco IOS XE. A remote attacker could exploit this vulnerability to trigger elevation of privilege on the targeted system. Note:CVE-2023-20198 and CVE-2023-20273 is being exploited in the wild...| Release Date: 17 Oct 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231016)|Multiple vulnerabilities were identified in Microsoft Edge.   A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, spoofing and denial of service condition on the targeted system. [Updated on 2023-10-24] Updated Vulnerability Identifier.| Release Date: 16 Oct 2023 |
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TOTOLINK A3700R command execution (CVE-2023-46574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Rite CMS cross-site scripting (CVE-2023-44767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Movable Type cross-site scripting (CVE-2023-45746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Tenda W18E command execution (CVE-2023-46369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Tenda W18E command execution (CVE-2023-46370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Delete Me Plugin for WordPress cross-site scripting (CVE-2023-5126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[WP ULike Plugin for WordPress cross-site scripting (CVE-2023-45640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
  
 
 # CERT-SANTE
@@ -111,17 +124,21 @@
  |[ChromeOS - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/chromeos-cve-2023-23583-2023-10-25)|Visit link for details.|25/10/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[TOTOLINK A3700R command execution (CVE-2023-46574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Rite CMS cross-site scripting (CVE-2023-44767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Movable Type cross-site scripting (CVE-2023-45746)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Tenda W18E command execution (CVE-2023-46369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Tenda W18E command execution (CVE-2023-46370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Delete Me Plugin for WordPress cross-site scripting (CVE-2023-5126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[WP ULike Plugin for WordPress cross-site scripting (CVE-2023-45640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722" class="noirorange"><b>Vorbis-tools</b>: buffer overflow via Wav To Ogg Conversion</a>](https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722)|An attacker can trigger a buffer overflow of Vorbis-tools, via Wav To Ogg Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721" class="noirorange"><b>SoX</b>: buffer overflow via lsx_readbuf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721)|An attacker can trigger a buffer overflow of SoX, via lsx_readbuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719" class="noirorange"><b>zlib MiniZip</b>: integer overflow via zipOpenNewFileInZip4_64()</a>](https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719)|An attacker can trigger an integer overflow of zlib MiniZip, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_read_group()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718)|An attacker can trigger a buffer overflow of the Linux kernel, via perf_read_group(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717" class="noirorange"><b>Grafana Google Sheets Data Source Plugin</b>: logged sensitive information via API Key</a>](https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717)|An attacker can read logs of Grafana Google Sheets Data Source Plugin, via API Key, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716" class="noirorange"><b>Grafana WorldMap Panel Plugin</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716)|An attacker can trigger a Cross Site Scripting of Grafana WorldMap Panel Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714" class="noirorange"><b>ClamAV</b>: vulnerability</a>](https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714)|A vulnerability of ClamAV was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713" class="noirorange"><b>Vim</b>: code execution via autoload/zip.vim</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713)|An attacker can use a vulnerability of Vim, via autoload/zip.vim, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712" class="noirorange"><b>Vim</b>: buffer overflow via ex_buffer_all()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712)|An attacker can trigger a buffer overflow of Vim, via ex_buffer_all(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711)|An attacker can cause a fatal error of Vim, via |Visit link for details|
  
 
 # EU-CERT
@@ -141,20 +158,6 @@
  |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-071/)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -172,27 +175,12 @@
  |[ 44411910/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-4)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 19 octobre 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722" class="noirorange"><b>Vorbis-tools</b>: buffer overflow via Wav To Ogg Conversion</a>](https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722)|An attacker can trigger a buffer overflow of Vorbis-tools, via Wav To Ogg Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721" class="noirorange"><b>SoX</b>: buffer overflow via lsx_readbuf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721)|An attacker can trigger a buffer overflow of SoX, via lsx_readbuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719" class="noirorange"><b>zlib MiniZip</b>: integer overflow via zipOpenNewFileInZip4_64()</a>](https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719)|An attacker can trigger an integer overflow of zlib MiniZip, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_read_group()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718)|An attacker can trigger a buffer overflow of the Linux kernel, via perf_read_group(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717" class="noirorange"><b>Grafana Google Sheets Data Source Plugin</b>: logged sensitive information via API Key</a>](https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717)|An attacker can read logs of Grafana Google Sheets Data Source Plugin, via API Key, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716" class="noirorange"><b>Grafana WorldMap Panel Plugin</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716)|An attacker can trigger a Cross Site Scripting of Grafana WorldMap Panel Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714" class="noirorange"><b>ClamAV</b>: vulnerability</a>](https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714)|A vulnerability of ClamAV was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713" class="noirorange"><b>Vim</b>: code execution via autoload/zip.vim</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713)|An attacker can use a vulnerability of Vim, via autoload/zip.vim, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712" class="noirorange"><b>Vim</b>: buffer overflow via ex_buffer_all()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712)|An attacker can trigger a buffer overflow of Vim, via ex_buffer_all(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711)|An attacker can cause a fatal error of Vim, via |Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-26|
+ |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
  |[[Control systems] Centralite security advisory (AV23-652)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-centralite-security-advisory-av23-652)|Visit link for details|2023-10-26|
  |[[Control systems] Dingtian security advisory (AV23-651)](https://www.cyber.gc.ca/en/alerts-advisories/dingtian-security-advisory-av23-651)|Visit link for details|2023-10-26|
  |[[Control systems] Sielco security advisory (AV23-655)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sielco-security-advisory-av23-655)|Visit link for details|2023-10-26|
@@ -202,6 +190,18 @@
  |[VMware security advisory (AV23-648)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-648)|Visit link for details|2023-10-25|
  |[Google Chrome security advisory (AV23-647)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-647)|Visit link for details|2023-10-25|
  |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-24|
- |[[Control systems] Rockwell Automation security advisory (AV23-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-646)|Visit link for details|2023-10-24|
- |[VMware security advisory (AV23-640)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-640)|Visit link for details|2023-10-24|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
