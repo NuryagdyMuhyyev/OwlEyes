@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/10/2023 08:16:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/10/2023 09:19:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -115,13 +115,27 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Jenkins GitHub Plugin cross-site scripting (CVE-2023-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[X.Org X Server code execution (CVE-2023-5367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[X.Org X Server privilege escalation (CVE-2023-5574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Apple iOS and iPadOS security bypass (CVE-2023-40445)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Kubernetes ingress-nginx command execution (CVE-2023-5044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Apple macOS Sonoma information disclosure (CVE-2023-42842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- |[Apple macOS Sonoma spoofing (CVE-2023-42438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins Zanata Plugin information disclosure (CVE-2023-46660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins Edgewall Trac Plugin cross-site scripting (CVE-2023-46659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins MSTeams Webhook Trigger Plugin information disclosure (CVE-2023-46658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins Gogs Plugin information disclosure (CVE-2023-46657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins Multibranch Scan Webhook Trigger Plugin information disclosure (CVE-2023-46656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins CloudBees CD Plugin information disclosure (CVE-2023-46655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ |[Jenkins CloudBees CD Plugin security bypass (CVE-2023-46654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-five-vulnerabilities-42702" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-five-vulnerabilities-42702)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via SplashXPath::strokeAdjust()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
