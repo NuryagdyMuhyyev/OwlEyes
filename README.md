@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/10/2023 04:16:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/10/2023 06:10:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Tenable Identity Exposure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0886/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 octobre 2023|
+ |[Multiples vulnérabilités dans VMware vCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0885/)|De multiples vulnérabilités ont été découvertes dans VMware vCenter. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 25 octobre 2023|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0884/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 25 octobre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0883/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 octobre 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0882/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 octobre 2023|
+ |[Vulnérabilité dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0880/)|Une vulnérabilité a été découverte dans les produits Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 24 octobre 2023|
+ |[Multiples vulnérabilités dans SolarWinds Access Rights Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Access Rights Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
+ |[Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 23 octobre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0877/)|Une vulnérabilité a été corrigée dans |Publié le 23 octobre 2023|
+ 
 
 # LINUX-SEC
 
@@ -60,22 +76,6 @@
  |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
  |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
  |[CISA Releases Fact Sheet on Effort to Revise the National Cyber Incident Response Plan (NCIRP)](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-fact-sheet-effort-revise-national-cyber-incident-response-plan-ncirp)|Visit link for details.|Oct 20, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0887/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans Tenable Identity Exposure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0886/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 octobre 2023|
- |[Multiples vulnérabilités dans VMware vCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0885/)|De multiples vulnérabilités ont été découvertes dans VMware vCenter. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 25 octobre 2023|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0884/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 25 octobre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0883/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 octobre 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0882/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 octobre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 octobre 2023|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20231020)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 20 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Rockwell Automation Arena code execution (CVE-2023-27858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Rockwell Automation Arena code execution (CVE-2023-27854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Rockwell Automation FactoryTalk View Site Edition denial of service (CVE-2023-46289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Rockwell Automation FactoryTalk Services Platform security bypass (CVE-2023-46290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[TOTOLINK A3700R command execution (CVE-2023-46574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Rite CMS cross-site scripting (CVE-2023-44767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[NextGen Mirth Connect code execution (CVE-2023-43208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714" class="noirorange"><b>ClamAV</b>: vulnerability</a>](https://vigilance.fr/vulnerability/ClamAV-vulnerability-42714)|A vulnerability of ClamAV was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713" class="noirorange"><b>Vim</b>: code execution via autoload/zip.vim</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713)|An attacker can use a vulnerability of Vim, via autoload/zip.vim, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712" class="noirorange"><b>Vim</b>: buffer overflow via ex_buffer_all()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712)|An attacker can trigger a buffer overflow of Vim, via ex_buffer_all(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Rockwell Automation Arena code execution (CVE-2023-27858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Rockwell Automation Arena code execution (CVE-2023-27854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Rockwell Automation FactoryTalk View Site Edition denial of service (CVE-2023-46289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Rockwell Automation FactoryTalk Services Platform security bypass (CVE-2023-46290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[TOTOLINK A3700R command execution (CVE-2023-46574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[Rite CMS cross-site scripting (CVE-2023-44767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[NextGen Mirth Connect code execution (CVE-2023-43208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2023|
  
 
 # EU-CERT
@@ -158,20 +158,6 @@
  |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-071/)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +173,20 @@
  |[ 44442010/23 - Vulnérabilités affectant le serveur web d’apache ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-dapache)| Apache annonce la correction de trois vulnérabilités affectant  ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service ou…| 20 octobre 2023|
  |[ 44432010/23 - Vulnérabilité affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-firewall-sophos)| Sophos  annonce la correction de d’une  vulnérabilité affectant les versions susmentionnées de son Firewall. L’exploitation de cette vulnérabilité peut permettre à un   attaquant distant  d’accéder à…| 20 octobre 2023|
  |[ 44411910/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-4)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 19 octobre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # CA-CCS
