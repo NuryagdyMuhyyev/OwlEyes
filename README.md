@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/10/2023 23:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/10/2023 00:11:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -79,20 +79,20 @@
  |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|26/10/2023|
  
 
-# US-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
- |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
- |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
- |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
- |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
  
 
 # OBS-Vigilance
@@ -112,20 +112,20 @@
  |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
- |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
+ |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
+ |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
+ |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
+ |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 23, 2023|
+ |[CISA Releases Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/20/cisa-releases-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Oct 20, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -193,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware security advisory (AV23-657)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-657)|Visit link for details|2023-10-27|
  |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-27|
  |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
  |[[Control systems] Centralite security advisory (AV23-652)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-centralite-security-advisory-av23-652)|Visit link for details|2023-10-26|
@@ -203,5 +204,4 @@
  |[Apple security advisory (AV23-649)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-649)|Visit link for details|2023-10-25|
  |[VMware security advisory (AV23-648)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-648)|Visit link for details|2023-10-25|
  |[Google Chrome security advisory (AV23-647)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-647)|Visit link for details|2023-10-25|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-24|
  
