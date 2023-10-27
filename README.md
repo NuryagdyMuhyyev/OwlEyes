@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/10/2023 14:16:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/10/2023 15:17:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6454-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6454-1-linux-kernel-vulnerabilities.47277/)|Visit link for details.|Oct 26, 2023|
- |[USN-6446-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6446-3-linux-kernel-oracle-vulnerabilities.47276/)|Visit link for details.|Oct 26, 2023|
- |[DSA-5535 firefox-esr - security update](https://www.linux.org/threads/dsa-5535-firefox-esr-security-update.47270/)|Visit link for details.|Oct 26, 2023|
- |[DSA-5534 xorg-server - security update](https://www.linux.org/threads/dsa-5534-xorg-server-security-update.47269/)|Visit link for details.|Oct 26, 2023|
- |[USN-6453-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-1-x-org-x-server-vulnerabilities.47266/)|Visit link for details.|Oct 25, 2023|
- |[USN-6452-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6452-1-vim-vulnerabilities.47265/)|Visit link for details.|Oct 25, 2023|
- |[USN-6435-2: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6435-2-openssl-vulnerabilities.47258/)|Visit link for details.|Oct 25, 2023|
- |[USN-6440-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6440-3-linux-kernel-hwe-vulnerabilities.47255/)|Visit link for details.|Oct 25, 2023|
- |[DSA-5533 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5533-gst-plugins-bad1-0-security-update.47254/)|Visit link for details.|Oct 25, 2023|
- |[DSA-5532 openssl - security update](https://www.linux.org/threads/dsa-5532-openssl-security-update.47253/)|Visit link for details.|Oct 25, 2023|
- |[USN-6362-2: .Net regressions](https://www.linux.org/threads/usn-6362-2-net-regressions.47252/)|Visit link for details.|Oct 25, 2023|
- 
 
 # US-CERT
 
@@ -76,6 +59,23 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0883/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 octobre 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0882/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 octobre 2023|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 25 octobre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6454-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6454-1-linux-kernel-vulnerabilities.47277/)|Visit link for details.|Oct 26, 2023|
+ |[USN-6446-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6446-3-linux-kernel-oracle-vulnerabilities.47276/)|Visit link for details.|Oct 26, 2023|
+ |[DSA-5535 firefox-esr - security update](https://www.linux.org/threads/dsa-5535-firefox-esr-security-update.47270/)|Visit link for details.|Oct 26, 2023|
+ |[DSA-5534 xorg-server - security update](https://www.linux.org/threads/dsa-5534-xorg-server-security-update.47269/)|Visit link for details.|Oct 26, 2023|
+ |[USN-6453-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-1-x-org-x-server-vulnerabilities.47266/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6452-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6452-1-vim-vulnerabilities.47265/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6435-2: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6435-2-openssl-vulnerabilities.47258/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6440-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6440-3-linux-kernel-hwe-vulnerabilities.47255/)|Visit link for details.|Oct 25, 2023|
+ |[DSA-5533 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5533-gst-plugins-bad1-0-security-update.47254/)|Visit link for details.|Oct 25, 2023|
+ |[DSA-5532 openssl - security update](https://www.linux.org/threads/dsa-5532-openssl-security-update.47253/)|Visit link for details.|Oct 25, 2023|
+ |[USN-6362-2: .Net regressions](https://www.linux.org/threads/usn-6362-2-net-regressions.47252/)|Visit link for details.|Oct 25, 2023|
  
 
 # CERT-SANTE
@@ -117,11 +117,11 @@
  |---|---|---|
  |[F5 BIG-IP SQL injection (CVE-2023-46748)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  |[F5 BIG-IP command execution (CVE-2023-46747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[SourceCodester Simple Real Estate Portal System SQL injection (CVE-2023-5805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ |[PHPGurukul Nipah virus (NiV) SQL injection (CVE-2023-5804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  |[VMware Tools privilege escalation (CVE-2023-34058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  |[VMware Tools privilege escalation (CVE-2023-34057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  |[Online Art Gallery Project SQL injection (CVE-2023-44267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Online Art Gallery Project SQL injection (CVE-2023-44268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
- |[Online Art Gallery Project SQL injection (CVE-2023-43737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727" class="noirorange"><b>libnbd</b>: integer overflow via nbd_get_size()</a>](https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727)|An attacker can trigger an integer overflow of libnbd, via nbd_get_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726" class="noirorange"><b>F5 BIG-IP</b>: open redirect via Multiple HTTP Redirect Responses</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726)|An attacker can deceive the user of F5 BIG-IP, via Multiple HTTP Redirect Responses, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility SQL Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility SQL Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724" class="noirorange"><b>VMware Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724)|An attacker can use several vulnerabilities of VMware Tools...|Visit link for details|
@@ -152,7 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719" class="noirorange"><b>zlib MiniZip</b>: integer overflow via zipOpenNewFileInZip4_64()</a>](https://vigilance.fr/vulnerability/zlib-MiniZip-integer-overflow-via-zipOpenNewFileInZip4-64-42719)|An attacker can trigger an integer overflow of zlib MiniZip, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_read_group()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-read-group-42718)|An attacker can trigger a buffer overflow of the Linux kernel, via perf_read_group(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717" class="noirorange"><b>Grafana Google Sheets Data Source Plugin</b>: logged sensitive information via API Key</a>](https://vigilance.fr/vulnerability/Grafana-Google-Sheets-Data-Source-Plugin-logged-sensitive-information-via-API-Key-42717)|An attacker can read logs of Grafana Google Sheets Data Source Plugin, via API Key, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716" class="noirorange"><b>Grafana WorldMap Panel Plugin</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Grafana-WorldMap-Panel-Plugin-Cross-Site-Scripting-42716)|An attacker can trigger a Cross Site Scripting of Grafana WorldMap Panel Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # EU-CERT
@@ -172,23 +172,6 @@
  |[2023-071: Cisco Catalyst SD-WAN Manager Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-071/)|On September 27, Cisco issued a Security Advisory for five new vulnerabilities in their "Catalyst SD-WAN Manager" products, with the most critical flaw allowing unauthenticated remote access to the server. "Cisco Catalyst SD-WAN Manager" for WAN is network management software allowing admins to visualise, deploy, and manage devices on wide area networks (WAN).|Saturday, September 30, 2023 09:58:22 AM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
- |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
- |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
- |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
- |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
- |[ 44482410/23 - Vulnérabilité dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant QUSBCam2. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 24 octobre 2023|
- |[ 44472410/23 - Vulnérabilités critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critique-affectant-cisco-ios-xe)| Cisco a publié une mise à jour de sécurité pour corriger les deux vulnérabilités critiques « CVE-2023-20198 et CVE-2023-20273 » qui sont activement exploitées. Ces vulnérabilités affectent le logiciel…| 24 octobre 2023|
- |[ 44462310/23 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-1)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 23 octobre 2023|
- |[ 44452310/23 - Vulnérabilités critiques dans les produits SolarWinds ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-solarwinds)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 23 octobre 2023|
- |[ 44442010/23 - Vulnérabilités affectant le serveur web d’apache ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-dapache)| Apache annonce la correction de trois vulnérabilités affectant  ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service ou…| 20 octobre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[VMware security advisory (AV23-648)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-648)|Visit link for details|2023-10-25|
  |[Google Chrome security advisory (AV23-647)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-647)|Visit link for details|2023-10-25|
  |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-10-24|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
+ |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
+ |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
+ |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
+ |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
+ |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
+ |[ 44482410/23 - Vulnérabilité dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant QUSBCam2. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 24 octobre 2023|
+ |[ 44472410/23 - Vulnérabilités critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critique-affectant-cisco-ios-xe)| Cisco a publié une mise à jour de sécurité pour corriger les deux vulnérabilités critiques « CVE-2023-20198 et CVE-2023-20273 » qui sont activement exploitées. Ces vulnérabilités affectent le logiciel…| 24 octobre 2023|
+ |[ 44462310/23 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-1)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 23 octobre 2023|
+ |[ 44452310/23 - Vulnérabilités critiques dans les produits SolarWinds ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-solarwinds)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 23 octobre 2023|
+ |[ 44442010/23 - Vulnérabilités affectant le serveur web d’apache ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-dapache)| Apache annonce la correction de trois vulnérabilités affectant  ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service ou…| 20 octobre 2023|
  
