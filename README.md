@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/10/2023 19:13:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/10/2023 20:16:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 octobre 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zscaler - CVE-2023-28805](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28805-2023-10-27)|Visit link for details.|27/10/2023|
- |[VMware - CVE-2023-34057](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34057-2023-10-27)|Visit link for details.|27/10/2023|
- |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|27/10/2023|
- |[D-LINK - CVE-2023-42406](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-42406-2023-10-27)|Visit link for details.|27/10/2023|
- |[F5 Big-IP - CVE-2023-46747](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-46747-2023-10-27)|Visit link for details.|27/10/2023|
- |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|27/10/2023|
- |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|27/10/2023|
- |[SonicWall - CVE-2023-44220](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44220-2023-10-26)|Visit link for details.|26/10/2023|
- |[Ivanti - CVE-2023-38041](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38041-2023-10-26)|Visit link for details.|26/10/2023|
- |[HP - CVE-2023-30912](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30912-2023-10-26)|Visit link for details.|26/10/2023|
- |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|26/10/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,23 +94,6 @@
  |[VMware Aria Operations for Logs Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-aria-operations-for-logs-multiple-vulnerabilities_20231025)|Multiple vulnerabilities were identified in VMware Aria Operations for Logs. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-...|Release Date: 25 Oct 2023 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727" class="noirorange"><b>libnbd</b>: integer overflow via nbd_get_size()</a>](https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727)|An attacker can trigger an integer overflow of libnbd, via nbd_get_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726" class="noirorange"><b>F5 BIG-IP</b>: open redirect via Multiple HTTP Redirect Responses</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726)|An attacker can deceive the user of F5 BIG-IP, via Multiple HTTP Redirect Responses, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility SQL Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility SQL Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724" class="noirorange"><b>VMware Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724)|An attacker can use several vulnerabilities of VMware Tools...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722" class="noirorange"><b>Vorbis-tools</b>: buffer overflow via Wav To Ogg Conversion</a>](https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722)|An attacker can trigger a buffer overflow of Vorbis-tools, via Wav To Ogg Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721" class="noirorange"><b>SoX</b>: buffer overflow via lsx_readbuf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721)|An attacker can trigger a buffer overflow of SoX, via lsx_readbuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,6 +105,23 @@
  |[Vim denial of service (CVE-2023-46246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  |[Free and Open Source Inventory Management System security bypass (CVE-2023-46449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
  |[Free and Open Source Inventory Management System cross-site scripting (CVE-2023-46450)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zscaler - CVE-2023-28805](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2023-28805-2023-10-27)|Visit link for details.|27/10/2023|
+ |[VMware - CVE-2023-34057](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34057-2023-10-27)|Visit link for details.|27/10/2023|
+ |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|27/10/2023|
+ |[D-LINK - CVE-2023-42406](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-42406-2023-10-27)|Visit link for details.|27/10/2023|
+ |[F5 Big-IP - CVE-2023-46747](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-46747-2023-10-27)|Visit link for details.|27/10/2023|
+ |[BD Alaris - CVE-2023-30563](https://www.cyberveille-sante.gouv.fr/alertes/bd-alaris-cve-2023-30563-2023-07-17)|Visit link for details.|27/10/2023|
+ |[Acronis - CVE-2023-44154](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-44154-2023-09-28)|Visit link for details.|27/10/2023|
+ |[SonicWall - CVE-2023-44220](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-44220-2023-10-26)|Visit link for details.|26/10/2023|
+ |[Ivanti - CVE-2023-38041](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38041-2023-10-26)|Visit link for details.|26/10/2023|
+ |[HP - CVE-2023-30912](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30912-2023-10-26)|Visit link for details.|26/10/2023|
+ |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|26/10/2023|
  
 
 # EU-CERT
@@ -170,6 +153,23 @@
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727" class="noirorange"><b>libnbd</b>: integer overflow via nbd_get_size()</a>](https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727)|An attacker can trigger an integer overflow of libnbd, via nbd_get_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726" class="noirorange"><b>F5 BIG-IP</b>: open redirect via Multiple HTTP Redirect Responses</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726)|An attacker can deceive the user of F5 BIG-IP, via Multiple HTTP Redirect Responses, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility SQL Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility SQL Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724" class="noirorange"><b>VMware Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724)|An attacker can use several vulnerabilities of VMware Tools...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722" class="noirorange"><b>Vorbis-tools</b>: buffer overflow via Wav To Ogg Conversion</a>](https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722)|An attacker can trigger a buffer overflow of Vorbis-tools, via Wav To Ogg Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721" class="noirorange"><b>SoX</b>: buffer overflow via lsx_readbuf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721)|An attacker can trigger a buffer overflow of SoX, via lsx_readbuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
