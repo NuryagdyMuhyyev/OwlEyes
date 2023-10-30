@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/10/2023 13:21:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/10/2023 14:16:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6456-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6456-1-firefox-vulnerabilities.47308/)|Visit link for details.|Oct 30, 2023|
  |[DSA-5538 thunderbird - security update](https://www.linux.org/threads/dsa-5538-thunderbird-security-update.47296/)|Visit link for details.|Oct 29, 2023|
  |[DSA-5537 openjdk-11 - security update](https://www.linux.org/threads/dsa-5537-openjdk-11-security-update.47290/)|Visit link for details.|Oct 28, 2023|
  |[DSA-5536 chromium - security update](https://www.linux.org/threads/dsa-5536-chromium-security-update.47289/)|Visit link for details.|Oct 28, 2023|
@@ -43,7 +44,6 @@
  |[USN-6453-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-1-x-org-x-server-vulnerabilities.47266/)|Visit link for details.|Oct 25, 2023|
  |[USN-6452-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6452-1-vim-vulnerabilities.47265/)|Visit link for details.|Oct 25, 2023|
  |[USN-6435-2: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6435-2-openssl-vulnerabilities.47258/)|Visit link for details.|Oct 25, 2023|
- |[USN-6440-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6440-3-linux-kernel-hwe-vulnerabilities.47255/)|Visit link for details.|Oct 25, 2023|
  
 
 # US-CERT
@@ -111,17 +111,34 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Navigator-Management-Central-42733" class="noirorange"><b>IBM i</b>: privilege escalation via Navigator Management Central</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Navigator-Management-Central-42733)|An attacker can bypass restrictions of IBM i, via Navigator Management Central, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732" class="noirorange"><b>browserify-sign</b>: weak signature via dsaVerify()</a>](https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732)|An attacker can use malicious data on browserify-sign, via dsaVerify(), in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731" class="noirorange"><b>Mozilla NSS</b>: information disclosure via RSA Marvin Attack</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731)|An attacker can bypass access restrictions to data of Mozilla NSS, via RSA Marvin Attack, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727" class="noirorange"><b>libnbd</b>: integer overflow via nbd_get_size()</a>](https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727)|An attacker can trigger an integer overflow of libnbd, via nbd_get_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726" class="noirorange"><b>F5 BIG-IP</b>: open redirect via Multiple HTTP Redirect Responses</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726)|An attacker can deceive the user of F5 BIG-IP, via Multiple HTTP Redirect Responses, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility SQL Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility SQL Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724" class="noirorange"><b>VMware Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724)|An attacker can use several vulnerabilities of VMware Tools...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility, in order to run code...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
+ |[GeoServer GeoWebCache information disclosure (CVE-2023-5786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[ColumbiaSoft Document Locator security bypass (CVE-2023-5830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  |[code-projects Admission Management System file upload (CVE-2023-5829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[Post Meta Data Manager plugin for WordPress security bypass (CVE-2023-5426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[Microsoft Edge (Chromium-based) code execution (CVE-2023-44323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[XnView Classic buffer overflow (CVE-2023-46587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[ZIONCOM A7000R devices code execution (CVE-2023-46510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[Contec SolarView Compact code execution (CVE-2023-46509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[Netentsec NS-ASG Application Security Gateway SQL injection (CVE-2023-5826)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[Shanghai CTI Navigation CTI Monitoring and Early Warning System command execution (CVE-2023-5827)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -136,23 +153,6 @@
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732" class="noirorange"><b>browserify-sign</b>: weak signature via dsaVerify()</a>](https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732)|An attacker can use malicious data on browserify-sign, via dsaVerify(), in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731" class="noirorange"><b>Mozilla NSS</b>: information disclosure via RSA Marvin Attack</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731)|An attacker can bypass access restrictions to data of Mozilla NSS, via RSA Marvin Attack, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727" class="noirorange"><b>libnbd</b>: integer overflow via nbd_get_size()</a>](https://vigilance.fr/vulnerability/libnbd-integer-overflow-via-nbd-get-size-42727)|An attacker can trigger an integer overflow of libnbd, via nbd_get_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726" class="noirorange"><b>F5 BIG-IP</b>: open redirect via Multiple HTTP Redirect Responses</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-open-redirect-via-Multiple-HTTP-Redirect-Responses-42726)|An attacker can deceive the user of F5 BIG-IP, via Multiple HTTP Redirect Responses, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility SQL Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-SQL-Injection-42725)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility SQL Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724" class="noirorange"><b>VMware Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-42724)|An attacker can use several vulnerabilities of VMware Tools...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722" class="noirorange"><b>Vorbis-tools</b>: buffer overflow via Wav To Ogg Conversion</a>](https://vigilance.fr/vulnerability/Vorbis-tools-buffer-overflow-via-Wav-To-Ogg-Conversion-42722)|An attacker can trigger a buffer overflow of Vorbis-tools, via Wav To Ogg Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -172,23 +172,6 @@
  |[2023-074: HTTP/2 Rapid Reset DDoS Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-074/)|On October 10, 2023, Cloudflare, Google and Amazon AWS, jointly disclosed a vulnerability affecting the HTTP/2 protocol. Named as "CVE-2023-44487", this vulnerability impacts various web services and cloud customers. This vulnerability is being actively exploited and has led to Distributed Denial of Service (DDoS) attacks that are significantly larger than previous Layer 7 attacks.|Tuesday, October 17, 2023 10:37:46 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
- |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
- |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
- |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
- |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
- |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
- |[ 44482410/23 - Vulnérabilité dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant QUSBCam2. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 24 octobre 2023|
- |[ 44472410/23 - Vulnérabilités critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critique-affectant-cisco-ios-xe)| Cisco a publié une mise à jour de sécurité pour corriger les deux vulnérabilités critiques « CVE-2023-20198 et CVE-2023-20273 » qui sont activement exploitées. Ces vulnérabilités affectent le logiciel…| 24 octobre 2023|
- |[ 44462310/23 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-1)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 23 octobre 2023|
- |[ 44452310/23 - Vulnérabilités critiques dans les produits SolarWinds ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-solarwinds)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 23 octobre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[[Control systems] Rockwell Automation security advisory (AV23-654)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-654)|Visit link for details|2023-10-26|
  |[F5 security advisory (AV23-650)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-650)|Visit link for details|2023-10-25|
  |[Apple security advisory (AV23-649)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-649)|Visit link for details|2023-10-25|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
+ |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
+ |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
+ |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
+ |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
+ |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
+ |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
+ |[ 44482410/23 - Vulnérabilité dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant QUSBCam2. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 24 octobre 2023|
+ |[ 44472410/23 - Vulnérabilités critique affectant Cisco IOS XE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critique-affectant-cisco-ios-xe)| Cisco a publié une mise à jour de sécurité pour corriger les deux vulnérabilités critiques « CVE-2023-20198 et CVE-2023-20273 » qui sont activement exploitées. Ces vulnérabilités affectent le logiciel…| 24 octobre 2023|
+ |[ 44462310/23 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-1)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 23 octobre 2023|
+ |[ 44452310/23 - Vulnérabilités critiques dans les produits SolarWinds ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-solarwinds)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 23 octobre 2023|
  
