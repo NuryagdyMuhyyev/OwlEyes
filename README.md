@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2023 18:19:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2023 19:15:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
- |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,19 +60,6 @@
  |[USN-6457-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6457-1-node-js-vulnerabilities.47318/)|Visit link for details.|Oct 30, 2023|
  |[USN-6458-1: Slurm vulnerabilities](https://www.linux.org/threads/usn-6458-1-slurm-vulnerabilities.47313/)|Visit link for details.|Oct 30, 2023|
  |[USN-6455-1: Exim vulnerabilities](https://www.linux.org/threads/usn-6455-1-exim-vulnerabilities.47312/)|Visit link for details.|Oct 30, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ZenTao cross-site scripting (CVE-2023-46374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
- |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- |[Apache Airflow Celery provider and Apache Airflow information disclosure (CVE-2023-46215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2023|
- |[radare2 buffer overflow (CVE-2023-46570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[radare2 buffer overflow (CVE-2023-46569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  
 
 # CERT-SANTE
@@ -108,21 +79,20 @@
  |[F5 Big-IP - CVE-2023-46747](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-46747-2023-10-27)|Visit link for details.|27/10/2023|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739" class="noirorange"><b>Cacti</b>: SQL injection via managers.php form_actions()</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739)|An attacker can use a SQL injection of Cacti, via managers.php form_actions(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-Image-42738" class="noirorange"><b>XnView</b>: memory corruption via TIFF Image</a>](https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-Image-42738)|An attacker can trigger a memory corruption of XnView, via TIFF Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VC-Exception-42737" class="noirorange"><b>Linux kernel</b>: privilege escalation via VC Exception</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VC-Exception-42737)|An attacker can bypass restrictions of the Linux kernel, via VC Exception, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-uring-show-fdinfo-42736" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via io_uring_show_fdinfo</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-uring-show-fdinfo-42736)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 octobre 2023|
  
 
 # HK-CERT
@@ -139,6 +109,19 @@
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian Confluence Data Center and Server security bypass (CVE-2023-22518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[ZenTao cross-site scripting (CVE-2023-46374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
+ |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
+ |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
+ |[Apache Airflow Celery provider and Apache Airflow information disclosure (CVE-2023-46215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2023|
+ |[Archivist  Custom Archive Templates Plugin for WordPress cross-site scripting (CVE-2023-46194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  
 
 # EU-CERT
@@ -158,6 +141,37 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Thursday, October 26, 2023 10:18:20 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752)|An attacker can trigger an overload of Werkzeug, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751" class="noirorange"><b>IBM MQ</b>: denial of service via MQ Clustering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751)|An attacker can cause a fatal error of IBM MQ, via MQ Clustering Logic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749" class="noirorange"><b>IBM MQ Appliance</b>: privilege escalation via Security Keys</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749)|An attacker can bypass restrictions of IBM MQ Appliance, via Security Keys, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,20 +187,6 @@
  |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
  |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
  |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # CA-CCS
