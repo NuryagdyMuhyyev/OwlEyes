@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2023 17:32:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2023 18:19:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,19 @@
  |[USN-6455-1: Exim vulnerabilities](https://www.linux.org/threads/usn-6455-1-exim-vulnerabilities.47312/)|Visit link for details.|Oct 30, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ZenTao cross-site scripting (CVE-2023-46374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
+ |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
+ |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
+ |[Apache Airflow Celery provider and Apache Airflow information disclosure (CVE-2023-46215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2023|
+ |[radare2 buffer overflow (CVE-2023-46570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ |[radare2 buffer overflow (CVE-2023-46569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -128,33 +141,6 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ZenTao cross-site scripting (CVE-2023-46374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
- |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- |[Apache Airflow Celery provider and Apache Airflow information disclosure (CVE-2023-46215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2023|
- |[radare2 buffer overflow (CVE-2023-46570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[radare2 buffer overflow (CVE-2023-46569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,23 +158,6 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Thursday, October 26, 2023 10:18:20 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV23-662)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-662)|Visit link for details|2023-10-30|
- |[Ubuntu security advisory (AV23-661)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-661)|Visit link for details|2023-10-30|
- |[IBM security advisory (AV23-660)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-660)|Visit link for details|2023-10-30|
- |[[Control systems] NextGen HealthCare security advisory (AV23-659)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-nextgen-healthcare-security-advisory-av23-659)|Visit link for details|2023-10-27|
- |[Mozilla security advisory (AV23-658)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-658)|Visit link for details|2023-10-27|
- |[VMware security advisory (AV23-657)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-657)|Visit link for details|2023-10-27|
- |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-27|
- |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
- |[[Control systems] Centralite security advisory (AV23-652)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-centralite-security-advisory-av23-652)|Visit link for details|2023-10-26|
- |[[Control systems] Dingtian security advisory (AV23-651)](https://www.cyber.gc.ca/en/alerts-advisories/dingtian-security-advisory-av23-651)|Visit link for details|2023-10-26|
- |[[Control systems] Sielco security advisory (AV23-655)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sielco-security-advisory-av23-655)|Visit link for details|2023-10-26|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +173,35 @@
  |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
  |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
  |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] ABB security advisory (AV23-662)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-662)|Visit link for details|2023-10-30|
+ |[Ubuntu security advisory (AV23-661)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-661)|Visit link for details|2023-10-30|
+ |[IBM security advisory (AV23-660)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-660)|Visit link for details|2023-10-30|
+ |[[Control systems] NextGen HealthCare security advisory (AV23-659)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-nextgen-healthcare-security-advisory-av23-659)|Visit link for details|2023-10-27|
+ |[Mozilla security advisory (AV23-658)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-658)|Visit link for details|2023-10-27|
+ |[VMware security advisory (AV23-657)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-657)|Visit link for details|2023-10-27|
+ |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-27|
+ |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
+ |[[Control systems] Centralite security advisory (AV23-652)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-centralite-security-advisory-av23-652)|Visit link for details|2023-10-26|
+ |[[Control systems] Dingtian security advisory (AV23-651)](https://www.cyber.gc.ca/en/alerts-advisories/dingtian-security-advisory-av23-651)|Visit link for details|2023-10-26|
+ |[[Control systems] Sielco security advisory (AV23-655)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sielco-security-advisory-av23-655)|Visit link for details|2023-10-26|
  
