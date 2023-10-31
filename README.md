@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2023 11:21:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2023 12:15:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,38 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
- |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
- |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
- |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
- |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
- |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +44,22 @@
  |[DSA-5538 thunderbird - security update](https://www.linux.org/threads/dsa-5538-thunderbird-security-update.47296/)|Visit link for details.|Oct 29, 2023|
  |[DSA-5537 openjdk-11 - security update](https://www.linux.org/threads/dsa-5537-openjdk-11-security-update.47290/)|Visit link for details.|Oct 28, 2023|
  |[DSA-5536 chromium - security update](https://www.linux.org/threads/dsa-5536-chromium-security-update.47289/)|Visit link for details.|Oct 28, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
+ |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
+ |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
+ |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
+ |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/10/24/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 24, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2023|
  
 
 # CERT-SANTE
@@ -111,31 +95,33 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
+ |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
+ |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
+ |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
  |[Apache Airflow Celery provider and Apache Airflow information disclosure (CVE-2023-46215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2023|
  |[ZPE Systems Nodegrid OS command execution (CVE-2023-43322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  |[BaserCMS file upload (CVE-2023-43792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
  |[BaserCMS cross-site request forgery (CVE-2023-43649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[BaserCMS cross-site scripting (CVE-2023-43648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- |[BaserCMS cross-site scripting (CVE-2023-43647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # OBS-Vigilance
@@ -153,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
