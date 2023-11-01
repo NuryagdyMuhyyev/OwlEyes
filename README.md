@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/11/2023 20:17:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/11/2023 21:22:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,27 +62,11 @@
  |[USN-6453-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-2-x-org-x-server-vulnerabilities.47340/)|Visit link for details.|Oct 31, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
- |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
- |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
- |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
- |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
- |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
- |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
- |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/)|Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 31 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
  |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
  |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
@@ -92,7 +76,6 @@
  |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
  
 
 # HK-CERT
@@ -111,17 +94,34 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
+ |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
+ |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
+ |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[BigBlueButton cross-site scripting (CVE-2023-43797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Image horizontal reel scroll slideshow plugin for WordPress SQL injection (CVE-2023-5412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Image vertical reel scroll slideshow plugin for WordPress SQL injection (CVE-2023-5428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  |[Cybozu Remote Service denial of service (CVE-2023-46278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  |[Thorn SFTP gateway code execution (CVE-2023-47174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  |[NATS NKEYS information disclosure (CVE-2023-46129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-3246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-3909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-5831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  
 
 # OBS-Vigilance
@@ -139,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[VMware security advisory (AV23-657)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-657)|Visit link for details|2023-10-27|
  |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-27|
  |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # MA-CERT
