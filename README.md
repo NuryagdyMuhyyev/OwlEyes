@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/11/2023 10:15:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/11/2023 11:22:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
+ |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
+ |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
+ |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
+ |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,21 +111,21 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
- |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
- |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
- |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
- |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
- |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
- |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
- |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752)|An attacker can trigger an overload of Werkzeug, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751" class="noirorange"><b>IBM MQ</b>: denial of service via MQ Clustering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751)|An attacker can cause a fatal error of IBM MQ, via MQ Clustering Logic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749" class="noirorange"><b>IBM MQ Appliance</b>: privilege escalation via Security Keys</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749)|An attacker can bypass restrictions of IBM MQ Appliance, via Security Keys, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -136,40 +153,6 @@
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
  |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752)|An attacker can trigger an overload of Werkzeug, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751" class="noirorange"><b>IBM MQ</b>: denial of service via MQ Clustering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751)|An attacker can cause a fatal error of IBM MQ, via MQ Clustering Logic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749" class="noirorange"><b>IBM MQ Appliance</b>: privilege escalation via Security Keys</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749)|An attacker can bypass restrictions of IBM MQ Appliance, via Security Keys, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
- |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
- |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
- |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
- |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
- |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
- |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
- |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
- |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
- |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
  
 
 # EU-CERT
@@ -204,4 +187,21 @@
  |[VMware security advisory (AV23-657)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-657)|Visit link for details|2023-10-27|
  |[F5 security advisory (AV23-656)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-656)|Visit link for details|2023-10-27|
  |[[Control systems] Ashlar-Vellum security advisory (AV23-653)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ashlar-vellum-security-advisory-av23-653)|Visit link for details|2023-10-26|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
+ |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
+ |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
+ |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
+ |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
+ |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
+ |[ 44522710/23 - Vulnérabilité critique dans F5 BIG-IP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-f5-big-ip)| Une vulnérabilité critique a été corrigée dans les produits F5 susmentionnés. Cette vulnérabilité peut permettre à un attaquant non authentifié disposant d'un accès réseau au système BIG-IP d'exécuter…| 27 octobre 2023|
+ |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
+ |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
+ |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
+ |[ 44482410/23 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 26 octobre 2023|
  
