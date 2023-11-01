@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/11/2023 04:16:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/11/2023 06:16:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6453-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-2-x-org-x-server-vulnerabilities.47340/)|Visit link for details.|Oct 31, 2023|
- |[USN-6463-1: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-1-open-vm-tools-vulnerabilities.47339/)|Visit link for details.|Oct 31, 2023|
- |[DSA-5542 request-tracker4 - security update](https://www.linux.org/threads/dsa-5542-request-tracker4-security-update.47331/)|Visit link for details.|Oct 31, 2023|
- |[DSA-5541 request-tracker5 - security update](https://www.linux.org/threads/dsa-5541-request-tracker5-security-update.47330/)|Visit link for details.|Oct 31, 2023|
- |[DSA-5540 jetty9 - security update](https://www.linux.org/threads/dsa-5540-jetty9-security-update.47329/)|Visit link for details.|Oct 31, 2023|
- |[DSA-5539 node-browserify-sign - security update](https://www.linux.org/threads/dsa-5539-node-browserify-sign-security-update.47328/)|Visit link for details.|Oct 31, 2023|
- |[USN-6460-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6460-1-linux-kernel-vulnerabilities.47327/)|Visit link for details.|Oct 31, 2023|
- |[USN-6454-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6454-2-linux-kernel-vulnerabilities.47325/)|Visit link for details.|Oct 30, 2023|
- |[USN-6441-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6441-3-linux-kernel-vulnerabilities.47324/)|Visit link for details.|Oct 30, 2023|
- |[USN-6459-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6459-1-mysql-vulnerabilities.47323/)|Visit link for details.|Oct 30, 2023|
- |[USN-6457-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6457-1-node-js-vulnerabilities.47318/)|Visit link for details.|Oct 30, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/25/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Oct 25, 2023|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ |[USN-6453-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6453-2-x-org-x-server-vulnerabilities.47340/)|Visit link for details.|Oct 31, 2023|
+ |[USN-6463-1: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-1-open-vm-tools-vulnerabilities.47339/)|Visit link for details.|Oct 31, 2023|
+ |[DSA-5542 request-tracker4 - security update](https://www.linux.org/threads/dsa-5542-request-tracker4-security-update.47331/)|Visit link for details.|Oct 31, 2023|
+ |[DSA-5541 request-tracker5 - security update](https://www.linux.org/threads/dsa-5541-request-tracker5-security-update.47330/)|Visit link for details.|Oct 31, 2023|
+ |[DSA-5540 jetty9 - security update](https://www.linux.org/threads/dsa-5540-jetty9-security-update.47329/)|Visit link for details.|Oct 31, 2023|
+ |[DSA-5539 node-browserify-sign - security update](https://www.linux.org/threads/dsa-5539-node-browserify-sign-security-update.47328/)|Visit link for details.|Oct 31, 2023|
+ |[USN-6460-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6460-1-linux-kernel-vulnerabilities.47327/)|Visit link for details.|Oct 31, 2023|
+ |[USN-6454-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6454-2-linux-kernel-vulnerabilities.47325/)|Visit link for details.|Oct 30, 2023|
+ |[USN-6441-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6441-3-linux-kernel-vulnerabilities.47324/)|Visit link for details.|Oct 30, 2023|
+ |[USN-6459-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6459-1-mysql-vulnerabilities.47323/)|Visit link for details.|Oct 30, 2023|
+ |[USN-6457-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6457-1-node-js-vulnerabilities.47318/)|Visit link for details.|Oct 30, 2023|
  
 
 # CERT-SANTE
@@ -95,31 +79,66 @@
  |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/)|Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 31 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
+ |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752)|An attacker can trigger an overload of Werkzeug, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751" class="noirorange"><b>IBM MQ</b>: denial of service via MQ Clustering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751)|An attacker can cause a fatal error of IBM MQ, via MQ Clustering Logic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749" class="noirorange"><b>IBM MQ Appliance</b>: privilege escalation via Security Keys</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749)|An attacker can bypass restrictions of IBM MQ Appliance, via Security Keys, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities have been identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to cross-site scripting, sensitive information disclosure, spoofing, denial of service and remote code execution on the targeted system.|Release Date: 26 Oct 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231025)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 25 Oct 2023 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome code execution (CVE-2023-5852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[Google Chrome security bypass (CVE-2023-5480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[Atlassian Confluence Data Center and Server security bypass (CVE-2023-22518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[ZenTao cross-site scripting (CVE-2023-46374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
- |[HelpDezk Community SQL injection (CVE-2023-3038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2023|
- |[Peppermint directory traversal (CVE-2023-46863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- |[Peppermint directory traversal (CVE-2023-46864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 29, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ |[VMware Workspace ONE UEM open redirect (CVE-2023-20886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome security bypass (CVE-2023-5859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome security bypass (CVE-2023-5858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome security bypass (CVE-2023-5857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome code execution (CVE-2023-5856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome code execution (CVE-2023-5855)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
+ |[Google Chrome code execution (CVE-2023-5854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 31, 2023|
  
 
 # EU-CERT
@@ -139,37 +158,18 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Thursday, October 26, 2023 10:18:20 AM CEST|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
- |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-42752)|An attacker can trigger an overload of Werkzeug, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751" class="noirorange"><b>IBM MQ</b>: denial of service via MQ Clustering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-MQ-Clustering-Logic-42751)|An attacker can cause a fatal error of IBM MQ, via MQ Clustering Logic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749" class="noirorange"><b>IBM MQ Appliance</b>: privilege escalation via Security Keys</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-privilege-escalation-via-Security-Keys-42749)|An attacker can bypass restrictions of IBM MQ Appliance, via Security Keys, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via JBIG2Stream::readTextRegion()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # MA-CERT
