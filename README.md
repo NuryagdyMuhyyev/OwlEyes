@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/11/2023 20:16:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/11/2023 21:22:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
+ |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
+ |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,39 +60,6 @@
  |[DSA-5543 open-vm-tools - security update](https://www.linux.org/threads/dsa-5543-open-vm-tools-security-update.47355/)|Visit link for details.|Nov 1, 2023|
  |[USN-6454-3: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6454-3-linux-kernel-arm-laptop-vulnerabilities.47347/)|Visit link for details.|Nov 1, 2023|
  |[USN-6466-1: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6466-1-linux-kernel-nvidia-vulnerabilities.47346/)|Visit link for details.|Nov 1, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/)|Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 31 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
- |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
- |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
- |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
- |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
- |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
- |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
- |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
- |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
- |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
- |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
  
 
 # HK-CERT
@@ -95,20 +78,20 @@
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
- |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
- |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
- |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
+ |[Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/)|Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 31 octobre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
+ |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 octobre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/)|Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -116,12 +99,60 @@
  |Title|Description|Date|
  |---|---|---|
  |[pkp/pkp-lib cross-site scripting (CVE-2023-5890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Bitrix24 information disclosure (CVE-2023-1719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Bitrix24 cross-site scripting (CVE-2023-1720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
  |[FUJIFILM and Xerox MFPs information disclosure (CVE-2023-46327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
  |[Paragraphs admin module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
  |[GPAC heap-based buffer overflow (CVE-2023-46931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
  |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20206)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2023-5849](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5849-2023-11-02)|Visit link for details.|02/11/2023|
+ |[Cisco - CVE-2023-20175](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20175-2023-11-02)|Visit link for details.|02/11/2023|
+ |[Cisco - CVE-2023-20048](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20048-2023-11-02)|Visit link for details.|02/11/2023|
+ |[WordPress Ad inserter - CVE-2023-4668](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-ad-inserter-cve-2023-4668-2023-10-31)|Visit link for details.|31/10/2023|
+ |[WALLIX - CVE-2023-46319](https://www.cyberveille-sante.gouv.fr/alertes/wallix-cve-2023-46319-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Microsoft - CVE-2023-36745](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36745-2023-10-31)|Visit link for details.|31/10/2023|
+ |[Dell - CVE-2023-43066](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43066-2023-10-31)|Visit link for details.|31/10/2023|
+ |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
+ |[Cisco - CVE-2023-20198](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20198-2023-10-17)|Visit link for details.|31/10/2023|
+ |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|30/10/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Remote Access VPN HTTPS Requests</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Remote Access VPN HTTPS Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via ICMPv6 Message</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765)|An attacker can send malicious ICMPv6 Message packets to Cisco Adaptive Security Appliance, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: ingress filtrering bypass via AnyConnect Access Control List</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764)|An attacker can bypass filtering rules of Cisco Adaptive Security Appliance, via AnyConnect Access Control List, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: user access via Remote Access SSL VPN Multiple Certificate</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763)|An attacker can bypass restrictions of Cisco Adaptive Security Appliance, via Remote Access SSL VPN Multiple Certificate, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: information disclosure via SAML SSO</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762)|An attacker can bypass access restrictions to data of Cisco Adaptive Security Appliance, via SAML SSO, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via AnyConnect SSL/TLS VPN</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via AnyConnect SSL/TLS VPN, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760" class="noirorange"><b>Linux kernel</b>: use after free via setup_async_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760)|An attacker can force the reuse of a freed memory area of the Linux kernel, via setup_async_work(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759" class="noirorange"><b>Squid</b>: denial of service via SSL Certificate Validation</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759)|An attacker can cause a fatal error of Squid, via SSL Certificate Validation, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -139,37 +170,6 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  |[2023-076: Vulnerability in cURL and libcurl](https://cert.europa.eu/publications/security-advisories/2023-076/)|A security vulnerability in the cURL tool and libcurl library has been identified. This flaw enables a heap-based buffer overflow during the SOCKS5 proxy handshake, potentially allowing malicious actors to execute arbitrary code (RCE). At this time, CERT-EU is not aware of any active exploits leveraging this vulnerability. The vulnerability affects libcurl versions 7.69.0 to 8.3.0. The issue was reported on September 30, 2023, and a patch has been released in curl version 8.4.0. The vulnerability is tracked as "CVE-2023-38545".|Wednesday, October 11, 2023 01:06:46 PM CEST|
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Thursday, October 26, 2023 10:18:20 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Remote Access VPN HTTPS Requests</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Remote Access VPN HTTPS Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via ICMPv6 Message</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765)|An attacker can send malicious ICMPv6 Message packets to Cisco Adaptive Security Appliance, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: ingress filtrering bypass via AnyConnect Access Control List</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764)|An attacker can bypass filtering rules of Cisco Adaptive Security Appliance, via AnyConnect Access Control List, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: user access via Remote Access SSL VPN Multiple Certificate</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763)|An attacker can bypass restrictions of Cisco Adaptive Security Appliance, via Remote Access SSL VPN Multiple Certificate, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: information disclosure via SAML SSO</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762)|An attacker can bypass access restrictions to data of Cisco Adaptive Security Appliance, via SAML SSO, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via AnyConnect SSL/TLS VPN</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via AnyConnect SSL/TLS VPN, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760" class="noirorange"><b>Linux kernel</b>: use after free via setup_async_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760)|An attacker can force the reuse of a freed memory area of the Linux kernel, via setup_async_work(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759" class="noirorange"><b>Squid</b>: denial of service via SSL Certificate Validation</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759)|An attacker can cause a fatal error of Squid, via SSL Certificate Validation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Installation-Or-Upgrade-42758" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Installation Or Upgrade</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Installation-Or-Upgrade-42758)|An attacker can bypass restrictions of Tenable Nessus, via Installation Or Upgrade, in order to escalate his privileges...|Visit link for details|
  
 
 # MA-CERT
@@ -193,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-670)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-670)|Visit link for details|2023-11-02|
  |[Apache security advisory (AV23-669)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-669)|Visit link for details|2023-11-02|
  |[VMware security advisory (AV23-668)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-668)|Visit link for details|2023-11-01|
  |[Google Chrome security advisory (AV23-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-667-0)|Visit link for details|2023-11-01|
@@ -203,5 +204,4 @@
  |[[Control systems] INEA security advisory (AV23-663)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-663)|Visit link for details|2023-10-31|
  |[[Control systems] ABB security advisory (AV23-662)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-662)|Visit link for details|2023-10-30|
  |[Ubuntu security advisory (AV23-661)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-661)|Visit link for details|2023-10-30|
- |[IBM security advisory (AV23-660)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-660)|Visit link for details|2023-10-30|
  
