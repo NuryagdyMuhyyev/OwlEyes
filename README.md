@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/11/2023 10:16:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/11/2023 11:21:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6462-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6462-1-linux-kernel-vulnerabilities.47343/)|Visit link for details.|Nov 1, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
- |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
- |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
- |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
- |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2023|
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 26 octobre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 octobre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
+ |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
+ |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
+ |[VMware Releases Security Advisory for vCenter Server](https://www.cisa.gov/news-events/alerts/2023/10/26/vmware-releases-security-advisory-vcenter-server)|Visit link for details.|Oct 26, 2023|
+ |[Apple Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/10/26/apple-releases-security-advisories-multiple-products)|Visit link for details.|Oct 26, 2023|
  
 
 # CERT-SANTE
@@ -93,6 +93,19 @@
  |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|30/10/2023|
  |[Nessus - CVE-2023-5624](https://www.cyberveille-sante.gouv.fr/alertes/nessus-cve-2023-5624-2023-10-30)|Visit link for details.|30/10/2023|
  |[Squid - CVE-2023-46848](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46848-2023-10-30)|Visit link for details.|30/10/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20206)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Management Center Software cross-site scripting (CVE-2023-20005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Threat Defense Software denial of service (CVE-2023-20070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Threat Defense Software security bypass (CVE-2023-20267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Threat Defense Software denial of service (CVE-2023-20031)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Cisco Firepower Threat Defense denial of service (CVE-2023-20083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
  
 
 # OBS-Vigilance
@@ -128,17 +141,18 @@
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Firepower Management Center Software command execution (CVE-2023-20219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Identity Services Engine denial of service (CVE-2023-20213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Identity Services Engine file upload (CVE-2023-20196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Identity Services Engine file upload (CVE-2023-20195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Identity Services Engine command execution (CVE-2023-20175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Identity Services Engine command execution (CVE-2023-20170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Cisco Adaptive Security Appliance Software and Firepower Threat Defense Software security bypass (CVE-2023-20256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
@@ -158,18 +172,21 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Thursday, October 26, 2023 10:18:20 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1573/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1572/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1571/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1570/)|Visit link for details|2023-10-19|
+ |[VMware security advisory (AV23-668)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-668)|Visit link for details|2023-11-01|
+ |[Google Chrome security advisory (AV23-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-667-0)|Visit link for details|2023-11-01|
+ |[Cisco security advisory (AV23-666)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-666)|Visit link for details|2023-11-01|
+ |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 3](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-11-01|
+ |[Atlassian security advisory (AV23-665)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-665)|Visit link for details|2023-10-31|
+ |[[Control systems] Zavio security advisory (AV23-664)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zavio-security-advisory-av23-664)|Visit link for details|2023-10-31|
+ |[[Control systems] INEA security advisory (AV23-663)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-663)|Visit link for details|2023-10-31|
+ |[[Control systems] ABB security advisory (AV23-662)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-662)|Visit link for details|2023-10-30|
+ |[Ubuntu security advisory (AV23-661)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-661)|Visit link for details|2023-10-30|
+ |[IBM security advisory (AV23-660)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-660)|Visit link for details|2023-10-30|
+ |[[Control systems] NextGen HealthCare security advisory (AV23-659)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-nextgen-healthcare-security-advisory-av23-659)|Visit link for details|2023-10-27|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[ 4451260/23 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter)| VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code arbitraire ou…| 26 octobre 2023|
  |[ Vulnérabilités dans Aruba ClearPass Policy Manager - Vulnérabilités dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 26 octobre 2023|
  |[ 44492610/23 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-1)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à…| 26 octobre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV23-668)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-668)|Visit link for details|2023-11-01|
- |[Google Chrome security advisory (AV23-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-667-0)|Visit link for details|2023-11-01|
- |[Cisco security advisory (AV23-666)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-666)|Visit link for details|2023-11-01|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 3](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-11-01|
- |[Atlassian security advisory (AV23-665)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-665)|Visit link for details|2023-10-31|
- |[[Control systems] Zavio security advisory (AV23-664)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zavio-security-advisory-av23-664)|Visit link for details|2023-10-31|
- |[[Control systems] INEA security advisory (AV23-663)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-663)|Visit link for details|2023-10-31|
- |[[Control systems] ABB security advisory (AV23-662)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-662)|Visit link for details|2023-10-30|
- |[Ubuntu security advisory (AV23-661)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-661)|Visit link for details|2023-10-30|
- |[IBM security advisory (AV23-660)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-660)|Visit link for details|2023-10-30|
- |[[Control systems] NextGen HealthCare security advisory (AV23-659)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-nextgen-healthcare-security-advisory-av23-659)|Visit link for details|2023-10-27|
  
