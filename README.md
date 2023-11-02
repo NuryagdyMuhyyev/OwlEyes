@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/11/2023 01:17:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/11/2023 02:14:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
  |Title|Description|Date|
  |---|---|---|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
  |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
@@ -42,7 +43,6 @@
  |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
  |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
  |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Oct 26, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 26, 2023|
  
 
 # LINUX-SEC
@@ -94,6 +94,19 @@
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20231026)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 26 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[pkp/pkp-lib cross-site scripting (CVE-2023-5890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Online Examination System SQL injection (CVE-2023-45111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Online Examination System SQL injection (CVE-2023-45112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Online Examination System SQL injection (CVE-2023-45113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Online Examination System SQL injection (CVE-2023-45114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Online Examination System open redirect (CVE-2023-45201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[Online Examination System open redirect (CVE-2023-45202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,17 +124,18 @@
  |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[pkp/pkp-lib cross-site scripting (CVE-2023-5890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Bitrix24 file upload (CVE-2023-1713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Bitrix24 code execution (CVE-2023-1714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Bitrix24 cross-site scripting (CVE-2023-1715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Bitrix24 cross-site scripting (CVE-2023-1716)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
- |[Bitrix24 cross-site scripting (CVE-2023-1717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 1, 2023|
+ |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via AnyConnect SSL/TLS VPN</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via AnyConnect SSL/TLS VPN, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760" class="noirorange"><b>Linux kernel</b>: use after free via setup_async_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760)|An attacker can force the reuse of a freed memory area of the Linux kernel, via setup_async_work(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759" class="noirorange"><b>Squid</b>: denial of service via SSL Certificate Validation</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759)|An attacker can cause a fatal error of Squid, via SSL Certificate Validation, in order to trigger a denial of service...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
