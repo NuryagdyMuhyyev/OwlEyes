@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/11/2023 19:16:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/11/2023 20:16:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0912/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 2 novembre 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0905/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 2 novembre 2023|
  |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0904/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
  |[Vulnérabilité dans VMware Workspace ONE UEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/)|Une vulnérabilité a été découverte dans VMware Workspace ONE UEM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0902/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 2 novembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0901/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0900/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 2 novembre 2023|
- |[Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/)|Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 31 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 octobre 2023|
- |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 27 octobre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
  
 
 # CERT-SANTE
@@ -95,6 +112,19 @@
  |[VMware - CVE-2023-34051](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34051-2023-10-20)|Visit link for details.|31/10/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mattermost Desktop information disclosure (CVE-2023-5920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Mattermost Desktop denial of service (CVE-2023-5876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Mattermost Desktop information disclosure (CVE-2023-5875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Mitsubishi Electric MELSEC Series denial of service (CVE-2023-4699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Mitsubishi Electric MELSEC iQ-F Series CPU Module denial of service (CVE-2023-4625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Red Lion Crimson weak security (CVE-2023-5719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ |[Weintek EasyBuilder Pro default account (CVE-2023-5777)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,36 +139,6 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
  |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mattermost Desktop information disclosure (CVE-2023-5920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mattermost Desktop denial of service (CVE-2023-5876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mattermost Desktop information disclosure (CVE-2023-5875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mitsubishi Electric MELSEC Series denial of service (CVE-2023-4699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mitsubishi Electric MELSEC iQ-F Series CPU Module denial of service (CVE-2023-4625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Red Lion Crimson weak security (CVE-2023-5719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Weintek EasyBuilder Pro default account (CVE-2023-5777)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Remote Access VPN HTTPS Requests</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Remote-Access-VPN-HTTPS-Requests-42766)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Remote Access VPN HTTPS Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via ICMPv6 Message</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-ICMPv6-Message-42765)|An attacker can send malicious ICMPv6 Message packets to Cisco Adaptive Security Appliance, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +172,6 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Friday, November 03, 2023 11:52:14 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
- |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
- |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
- |[ 44590111/23 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 01 novembre 2023|
- |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
- |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
- |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
- |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
- |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
- |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 3](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-11-01|
  |[Atlassian security advisory (AV23-665)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-665)|Visit link for details|2023-10-31|
  |[[Control systems] Zavio security advisory (AV23-664)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zavio-security-advisory-av23-664)|Visit link for details|2023-10-31|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
+ |[ 44590111/23 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 01 novembre 2023|
+ |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
+ |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
+ |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
+ |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
+ |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
+ |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
  
