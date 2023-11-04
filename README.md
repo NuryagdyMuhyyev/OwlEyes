@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/11/2023 13:18:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/11/2023 14:14:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,21 +45,21 @@
  |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
- |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
- |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
- |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
- |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
- |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
- |[USN-6403-3: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-3-libvpx-vulnerabilities.47364/)|Visit link for details.|Nov 1, 2023|
- |[USN-6465-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6465-2-linux-kernel-raspberry-pi-vulnerabilities.47361/)|Visit link for details.|Nov 1, 2023|
- |[USN-6467-1: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-1-kerberos-vulnerability.47360/)|Visit link for details.|Nov 1, 2023|
- |[DSA-5544 zookeeper - security update](https://www.linux.org/threads/dsa-5544-zookeeper-security-update.47356/)|Visit link for details.|Nov 1, 2023|
+ |[VMware - CVE-2023-20886](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20886-2023-11-03)|Visit link for details.|03/11/2023|
+ |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
+ |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
+ |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
+ |[Cisco - CVE-2023-20244](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20244-2023-11-03)|Visit link for details.|03/11/2023|
+ |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|03/11/2023|
+ |[F5 Big-IP - CVE-2023-46747](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-46747-2023-10-27)|Visit link for details.|03/11/2023|
+ |[Google Chrome - CVE-2023-5849](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5849-2023-11-02)|Visit link for details.|03/11/2023|
+ |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|03/11/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|03/11/2023|
+ |[TP-Link - CVE-2023-46373](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-46373-2023-11-02)|Visit link for details.|02/11/2023|
  
 
 # CERT-FR
@@ -78,38 +78,21 @@
  |[Vulnérabilité dans VMware Workspace ONE UEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/)|Une vulnérabilité a été découverte dans VMware Workspace ONE UEM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware - CVE-2023-20886](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20886-2023-11-03)|Visit link for details.|03/11/2023|
- |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
- |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
- |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
- |[Cisco - CVE-2023-20244](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20244-2023-11-03)|Visit link for details.|03/11/2023|
- |[BIG-IP - CVE-2023-46748](https://www.cyberveille-sante.gouv.fr/alertes/big-ip-cve-2023-46748-2023-10-30)|Visit link for details.|03/11/2023|
- |[F5 Big-IP - CVE-2023-46747](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2023-46747-2023-10-27)|Visit link for details.|03/11/2023|
- |[Google Chrome - CVE-2023-5849](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-5849-2023-11-02)|Visit link for details.|03/11/2023|
- |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|03/11/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|03/11/2023|
- |[TP-Link - CVE-2023-46373](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-46373-2023-11-02)|Visit link for details.|02/11/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
+ |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
+ |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6403-3: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-3-libvpx-vulnerabilities.47364/)|Visit link for details.|Nov 1, 2023|
+ |[USN-6465-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6465-2-linux-kernel-raspberry-pi-vulnerabilities.47361/)|Visit link for details.|Nov 1, 2023|
+ |[USN-6467-1: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-1-kerberos-vulnerability.47360/)|Visit link for details.|Nov 1, 2023|
+ |[DSA-5544 zookeeper - security update](https://www.linux.org/threads/dsa-5544-zookeeper-security-update.47356/)|Visit link for details.|Nov 1, 2023|
  
 
 # HK-CERT
@@ -132,13 +115,44 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Chunghwa Telecom NOKIA G-040W-Q security bypass (CVE-2023-41355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
+ |[Chunghwa Telecom NOKIA G-040W-Q information disclosure (CVE-2023-41354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
+ |[Chunghwa Telecom NOKIA G-040W-Q security bypass (CVE-2023-41353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
+ |[Chunghwa Telecom NOKIA G-040W-Q command execution (CVE-2023-41352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
+ |[Chunghwa Telecom NOKIA G-040W-Q security bypass (CVE-2023-41351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
+ |[Chunghwa Telecom NOKIA G-040W-Q denial of service (CVE-2023-41350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
  |[Multiple LOYTEC electronics products information disclosure (CVE-2023-46382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
- |[Multiple LOYTEC electronics products security bypass (CVE-2023-46381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
- |[Multiple LOYTEC electronics products information disclosure (CVE-2023-46380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
- |[Mattermost Desktop information disclosure (CVE-2023-5920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mattermost Desktop denial of service (CVE-2023-5876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mattermost Desktop information disclosure (CVE-2023-5875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
- |[Mitsubishi Electric MELSEC Series denial of service (CVE-2023-4699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 2, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
@@ -158,18 +172,21 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Friday, November 03, 2023 11:52:14 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
+ |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
+ |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
+ |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
+ |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-670)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-670)|Visit link for details|2023-11-02|
+ |[Apache security advisory (AV23-669)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-669)|Visit link for details|2023-11-02|
+ |[VMware security advisory (AV23-668)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-668)|Visit link for details|2023-11-01|
+ |[Google Chrome security advisory (AV23-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-667-0)|Visit link for details|2023-11-01|
+ |[Cisco security advisory (AV23-666)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-666)|Visit link for details|2023-11-01|
+ |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 3](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-11-01|
+ |[Atlassian security advisory (AV23-665)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-665)|Visit link for details|2023-10-31|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
  |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
  |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
- |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
- |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
- |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-670)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-670)|Visit link for details|2023-11-02|
- |[Apache security advisory (AV23-669)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-669)|Visit link for details|2023-11-02|
- |[VMware security advisory (AV23-668)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-668)|Visit link for details|2023-11-01|
- |[Google Chrome security advisory (AV23-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-667-0)|Visit link for details|2023-11-01|
- |[Cisco security advisory (AV23-666)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-666)|Visit link for details|2023-11-01|
- |[Vulnerability impacting Cisco devices (CVE-2023-20198) - Update 3](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-cisco-devices-cve-2023-20198)|Visit link for details|2023-11-01|
- |[Atlassian security advisory (AV23-665)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-665)|Visit link for details|2023-10-31|
  
