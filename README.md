@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/11/2023 08:18:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/11/2023 09:19:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
+ |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
+ |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6403-3: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-3-libvpx-vulnerabilities.47364/)|Visit link for details.|Nov 1, 2023|
+ |[USN-6465-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6465-2-linux-kernel-raspberry-pi-vulnerabilities.47361/)|Visit link for details.|Nov 1, 2023|
+ |[USN-6467-1: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-1-kerberos-vulnerability.47360/)|Visit link for details.|Nov 1, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -61,21 +78,20 @@
  |[Vulnérabilité dans VMware Workspace ONE UEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/)|Une vulnérabilité a été découverte dans VMware Workspace ONE UEM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
  
 
-# LINUX-SEC
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
- |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
- |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
- |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
- |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
- |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
- |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
- |[USN-6403-3: libvpx vulnerabilities](https://www.linux.org/threads/usn-6403-3-libvpx-vulnerabilities.47364/)|Visit link for details.|Nov 1, 2023|
- |[USN-6465-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6465-2-linux-kernel-raspberry-pi-vulnerabilities.47361/)|Visit link for details.|Nov 1, 2023|
- |[USN-6467-1: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-1-kerberos-vulnerability.47360/)|Visit link for details.|Nov 1, 2023|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
+ |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -106,22 +122,6 @@
  |[GLPI - CVE-2023-41320](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41320-2023-09-29)|Visit link for details.|03/11/2023|
  |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|03/11/2023|
  |[TP-Link - CVE-2023-46373](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-46373-2023-11-02)|Visit link for details.|02/11/2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
- |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- |[IBM WebSphere Application Server Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-security-restriction-bypass-vulnerability_20231027)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 27 Oct 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231006)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated...| Release Date: 6 Oct 2023 |
  
 
 # ZERODAYINITIATIVE
