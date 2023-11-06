@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/11/2023 08:17:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/11/2023 09:20:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
+ |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
+ |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ 
 
 # LINUX-SEC
 
@@ -62,22 +78,6 @@
  |[Vulnérabilité dans VMware Workspace ONE UEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/)|Une vulnérabilité a été découverte dans VMware Workspace ONE UEM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 novembre 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
- |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,20 +95,37 @@
  |[TP-Link - CVE-2023-46373](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-46373-2023-11-02)|Visit link for details.|02/11/2023|
  
 
-# US-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
- |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
- |[CISA Announces Launch of Logging Made Easy](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy)|Visit link for details.|Oct 27, 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
+ |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231027)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service, information disclosure, security restriction bypass, spoofing and remote code execution on the targeted system.|Release Date: 27 Oct 2023 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via Catalog::findDestInTree()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via GfxPatchMeshShading::parse()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779" class="noirorange"><b>Suricata</b>: overload via MimeDecAddEntity</a>](https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779)|An attacker can trigger an overload of Suricata, via MimeDecAddEntity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778" class="noirorange"><b>Universal Scene Description</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778)|An attacker can use several vulnerabilities of Universal Scene Description...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -122,20 +139,6 @@
  |[Chunghwa Telecom NOKIA G-040W-Q security bypass (CVE-2023-41353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
  |[Chunghwa Telecom NOKIA G-040W-Q command execution (CVE-2023-41352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
  |[Chunghwa Telecom NOKIA G-040W-Q security bypass (CVE-2023-41351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 3, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
- |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
- |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
  
 
 # EU-CERT
@@ -155,21 +158,18 @@
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Friday, November 03, 2023 11:52:14 AM CET|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via /var/tmp/insights-client</a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
+ |[(0Day) Microsoft Exchange CreateAttachmentFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1581/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromOfficeMarketPlace Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1580/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange DownloadDataFromUri Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1579/)|Visit link for details|2023-11-02|
+ |[(0Day) Microsoft Exchange ChainedSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1578/)|Visit link for details|2023-11-02|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1577/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1576/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1575/)|Visit link for details|2023-10-19|
+ |[Siemens Tecnomatix Plant Simulation STP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1574/)|Visit link for details|2023-10-19|
  
 
 # MA-CERT
