@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2023 04:16:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2023 06:13:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
+ |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
+ |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
+ |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,21 @@
  |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
- |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
- |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
- |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
- |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
- |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
- |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
+ |[Cisco - CVE-2023-20083](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20083-2023-11-06)|Visit link for details.|06/11/2023|
+ |[Ivanti - CVE-2023-41726](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41726-2023-11-06)|Visit link for details.|06/11/2023|
+ |[QNAP - CVE-2023-23368](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23368-2023-11-06)|Visit link for details.|06/11/2023|
+ |[QNAP - CVE-2023-23369](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23369-2023-11-06)|Visit link for details.|06/11/2023|
+ |[Squid - CVE-2023-5824](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-5824-2023-11-06)|Visit link for details.|06/11/2023|
+ |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|06/11/2023|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|06/11/2023|
+ |[VMware - CVE-2023-20886](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20886-2023-11-03)|Visit link for details.|03/11/2023|
+ |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
+ |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
+ |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
  
 
 # CERT-FR
@@ -107,21 +124,18 @@
  |[MediaTek Chipsets privilege escalation (CVE-2023-32837)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco - CVE-2023-20083](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20083-2023-11-06)|Visit link for details.|06/11/2023|
- |[Ivanti - CVE-2023-41726](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41726-2023-11-06)|Visit link for details.|06/11/2023|
- |[QNAP - CVE-2023-23368](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23368-2023-11-06)|Visit link for details.|06/11/2023|
- |[QNAP - CVE-2023-23369](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23369-2023-11-06)|Visit link for details.|06/11/2023|
- |[Squid - CVE-2023-5824](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-5824-2023-11-06)|Visit link for details.|06/11/2023|
- |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|06/11/2023|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|06/11/2023|
- |[VMware - CVE-2023-20886](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20886-2023-11-03)|Visit link for details.|03/11/2023|
- |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
- |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
- |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # OBS-Vigilance
@@ -173,20 +187,6 @@
  |[ 44563010/23 - Vulnérabilités dans VMware Tools ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-tools)| Deux vulnérabilités ont été corrigées dans VMware Tools pour Windows. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges ou de contourner la politique de sécurité.| 30 octobre 2023|
  |[ 44542710/23 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall)| Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires et de réussir…| 27 octobre 2023|
  |[ 44532710/23 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner…| 27 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # CA-CCS
