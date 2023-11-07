@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2023 11:22:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2023 12:15:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
- |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
- |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
  |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
  |[USN-6454-4: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6454-4-linux-kernel-starfive-vulnerabilities.47373/)|Visit link for details.|Nov 2, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/10/31/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 31, 2023|
+ |[VMware Releases Advisory for VMware Tools Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/10/30/vmware-releases-advisory-vmware-tools-vulnerabilities)|Visit link for details.|Oct 30, 2023|
+ |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities With Additional Releases](https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities-additional-releases)|Visit link for details.|Oct 27, 2023|
  
 
 # CERT-FR
@@ -94,6 +94,36 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via brcmf_cfg80211_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783" class="noirorange"><b>Linux kernel</b>: read-write access via copy_from_user_nofault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783)|An attacker can bypass access restrictions of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via Catalog::findDestInTree()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via GfxPatchMeshShading::parse()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779" class="noirorange"><b>Suricata</b>: overload via MimeDecAddEntity</a>](https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779)|An attacker can trigger an overload of Suricata, via MimeDecAddEntity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778" class="noirorange"><b>Universal Scene Description</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778)|An attacker can use several vulnerabilities of Universal Scene Description...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[Microsoft Azure code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[MediaTek Chipsets privilege escalation (CVE-2023-32818)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
+ |[MediaTek Chipsets information disclosure (CVE-2023-32825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
+ |[MediaTek Chipsets privilege escalation (CVE-2023-32832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
+ |[MediaTek Chipsets privilege escalation (CVE-2023-32834)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
+ |[MediaTek Chipsets privilege escalation (CVE-2023-32835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,19 +139,6 @@
  |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
  |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
  |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[Microsoft Azure code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[MediaTek Chipsets privilege escalation (CVE-2023-32818)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
- |[MediaTek Chipsets information disclosure (CVE-2023-32825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
- |[MediaTek Chipsets privilege escalation (CVE-2023-32832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
- |[MediaTek Chipsets privilege escalation (CVE-2023-32834)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
- |[MediaTek Chipsets privilege escalation (CVE-2023-32835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -153,23 +170,6 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  |[2023-076: Vulnerability in cURL and libcurl](https://cert.europa.eu/publications/security-advisories/2023-076/)|A security vulnerability in the cURL tool and libcurl library has been identified. This flaw enables a heap-based buffer overflow during the SOCKS5 proxy handshake, potentially allowing malicious actors to execute arbitrary code (RCE). At this time, CERT-EU is not aware of any active exploits leveraging this vulnerability. The vulnerability affects libcurl versions 7.69.0 to 8.3.0. The issue was reported on September 30, 2023, and a patch has been released in curl version 8.4.0. The vulnerability is tracked as "CVE-2023-38545".|Wednesday, October 11, 2023 01:06:46 PM CEST|
  |[2023-075: Citrix NetScaler Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-075/)|On October 10, 2023, Citrix issued an advisory about multiple buffer-related vulnerabilities, CVE-2023-4966 and CVE-2023-4967, affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities can result in sensitive information disclosure and denial of service attacks.|Friday, November 03, 2023 11:52:14 AM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via brcmf_cfg80211_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783" class="noirorange"><b>Linux kernel</b>: read-write access via copy_from_user_nofault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783)|An attacker can bypass access restrictions of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via Catalog::findDestInTree()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via GfxPatchMeshShading::parse()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779" class="noirorange"><b>Suricata</b>: overload via MimeDecAddEntity</a>](https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779)|An attacker can trigger an overload of Suricata, via MimeDecAddEntity, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778" class="noirorange"><b>Universal Scene Description</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778)|An attacker can use several vulnerabilities of Universal Scene Description...|Visit link for details|
  
 
 # MA-CERT
