@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2023 19:15:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2023 20:17:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0912/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 2 novembre 2023|
+ 
 
 # US-CERT
 
@@ -62,26 +78,25 @@
  |[USN-6468-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6468-1-thunderbird-vulnerabilities.47377/)|Visit link for details.|Nov 2, 2023|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0912/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 novembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 2 novembre 2023|
+ |[Zyxel GS1900 series switches security bypass (CVE-2023-35140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Hillstone Next Generation FireWall cross-site scripting (CVE-2023-46964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[GD Security Headers Plugin for WordPress SQL injection (CVE-2023-46821)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[Webmaster Tools Plugin for WordPress cross-site scripting (CVE-2023-46093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[Icons Font Loader Plugin for WordPress SQL injection (CVE-2023-46084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[MomentoPress for Momento360 Plugin for WordPress cross-site scripting (CVE-2023-46782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
+ |[Pre-Orders for WooCommerce Plugin for WordPress cross-site scripting (CVE-2023-46783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Avast – CVE-2021-45336](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45336-2023-02-10)|Visit link for details.|07/11/2023|
+ |[Avast – CVE-2021-45337](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45337-2023-02-10)|Visit link for details.|07/11/2023|
  |[Cisco - CVE-2023-20083](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20083-2023-11-06)|Visit link for details.|06/11/2023|
  |[Ivanti - CVE-2023-41726](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41726-2023-11-06)|Visit link for details.|06/11/2023|
  |[QNAP - CVE-2023-23368](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23368-2023-11-06)|Visit link for details.|06/11/2023|
@@ -91,25 +106,6 @@
  |[Microsoft - CVE-2023-44323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-44323-2023-10-30)|Visit link for details.|06/11/2023|
  |[VMware - CVE-2023-20886](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20886-2023-11-03)|Visit link for details.|03/11/2023|
  |[Squid - CVE-2023-46724](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46724-2023-11-03)|Visit link for details.|03/11/2023|
- |[Minizip - CVE-2023-45853](https://www.cyberveille-sante.gouv.fr/alertes/minizip-cve-2023-45853-2023-11-03)|Visit link for details.|03/11/2023|
- |[GLPI - CVE-2023-42802](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-42802-2023-11-03)|Visit link for details.|03/11/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789" class="noirorange"><b>Sudo</b>: write access via Time Stamp File User Name Separator</a>](https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789)|An attacker can bypass access restrictions of Sudo, via Time Stamp File User Name Separator, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via brcmf_cfg80211_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783" class="noirorange"><b>Linux kernel</b>: read-write access via copy_from_user_nofault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783)|An attacker can bypass access restrictions of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via Catalog::findDestInTree()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via GfxPatchMeshShading::parse()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -126,19 +122,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel GS1900 series switches security bypass (CVE-2023-35140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Hillstone Next Generation FireWall cross-site scripting (CVE-2023-46964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[MomentoPress for Momento360 Plugin for WordPress cross-site scripting (CVE-2023-46782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[Pre-Orders for WooCommerce Plugin for WordPress cross-site scripting (CVE-2023-46783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[Veeam ONE information disclosure (CVE-2023-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[Veeam ONE cross-site scripting (CVE-2023-38549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
- |[Veeam ONE information disclosure (CVE-2023-38548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2023|
  
 
 # EU-CERT
@@ -158,6 +141,37 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789" class="noirorange"><b>Sudo</b>: write access via Time Stamp File User Name Separator</a>](https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789)|An attacker can bypass access restrictions of Sudo, via Time Stamp File User Name Separator, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via brcmf_cfg80211_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783" class="noirorange"><b>Linux kernel</b>: read-write access via copy_from_user_nofault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783)|An attacker can bypass access restrictions of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via Catalog::findDestInTree()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via GfxPatchMeshShading::parse()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,20 +187,6 @@
  |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
  |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
  |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # CA-CCS
