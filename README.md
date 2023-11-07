@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/11/2023 01:17:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/11/2023 02:14:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,22 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 2 novembre 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
+ |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,20 +111,17 @@
  |[QNAP - CVE-2023-23369](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23369-2023-11-06)|Visit link for details.|06/11/2023|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
- |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231101)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 1 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231004)|Multiple vulnerabilities were identified in SUSE Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-10-...| Release Date: 4 Oct 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231030)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 30 Oct 2023 |
+ |[Samsung mobile devices machine-in-the-middle (CVE-2023-42532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices code execution (CVE-2023-42533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices execution (CVE-2023-42534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices code execution (CVE-2023-42535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices code execution (CVE-2023-42536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices code execution (CVE-2023-42537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ |[Samsung mobile devices code execution (CVE-2023-42538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
  
 
 # OBS-Vigilance
@@ -126,19 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via brcmf_cfg80211_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Samsung mobile devices machine-in-the-middle (CVE-2023-42532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung mobile devices code execution (CVE-2023-42535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung mobile devices code execution (CVE-2023-42536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung mobile devices code execution (CVE-2023-42537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung mobile devices code execution (CVE-2023-42538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung Account information disclosure (CVE-2023-42546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
- |[Samsung Account information disclosure (CVE-2023-42547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
  
 
 # EU-CERT
@@ -172,23 +172,6 @@
  |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
- |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
- |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
- |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
- |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
- |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
- |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
- |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
- |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
- |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-670)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-670)|Visit link for details|2023-11-02|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
  |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
  |[ 44553010/23 - Vulnérabilité critique affectant le plugin «News & Blog Designer Pack»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-news-blog-designer-pack-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Royal Elementor Addons and Templates». Cette vulnérabilité est activement exploitée et elle peut permettre à un…| 30 octobre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
+ |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
+ |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
+ |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
+ |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
+ |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
+ |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
+ |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
+ |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
+ |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-670)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-670)|Visit link for details|2023-11-02|
  
