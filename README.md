@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/11/2023 17:32:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/11/2023 18:20:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Updates Guidance for Addressing Cisco IOS XE Web UI Vulnerabilities](https://www.cisa.gov/news-events/alerts/2023/11/01/cisa-updates-guidance-addressing-cisco-ios-xe-web-ui-vulnerabilities)|Visit link for details.|Nov 01, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0912/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 novembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,21 +62,20 @@
  |[USN-6470-1: Axis vulnerability](https://www.linux.org/threads/usn-6470-1-axis-vulnerability.47380/)|Visit link for details.|Nov 2, 2023|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Veeam - CVE-2023-38548](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38548-2023-11-07)|Visit link for details.|07/11/2023|
- |[Veeam - CVE-2023-38547](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38547-2023-11-07)|Visit link for details.|07/11/2023|
- |[Squid - CVE-2023-46846](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46846-2023-11-07)|Visit link for details.|07/11/2023|
- |[Linux - CVE-2023-1194](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-1194-2023-11-07)|Visit link for details.|07/11/2023|
- |[Cisco - CVE-2023-20095](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20095-2023-11-07)|Visit link for details.|07/11/2023|
- |[Avast – CVE-2021-45336](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45336-2023-02-10)|Visit link for details.|07/11/2023|
- |[Avast – CVE-2021-45337](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45337-2023-02-10)|Visit link for details.|07/11/2023|
- |[Cisco - CVE-2023-20083](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20083-2023-11-06)|Visit link for details.|06/11/2023|
- |[Ivanti - CVE-2023-41726](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41726-2023-11-06)|Visit link for details.|06/11/2023|
- |[QNAP - CVE-2023-23368](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23368-2023-11-06)|Visit link for details.|06/11/2023|
- |[QNAP - CVE-2023-23369](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23369-2023-11-06)|Visit link for details.|06/11/2023|
+ |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0912/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
  
 
 # HK-CERT
@@ -122,6 +105,23 @@
  |[Qualcomm Chipsets code execution (CVE-2023-22388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
  |[Qualcomm Chipsets code execution (CVE-2023-24852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
  |[Qualcomm Chipsets code execution (CVE-2023-28545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam - CVE-2023-38548](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38548-2023-11-07)|Visit link for details.|07/11/2023|
+ |[Veeam - CVE-2023-38547](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38547-2023-11-07)|Visit link for details.|07/11/2023|
+ |[Squid - CVE-2023-46846](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-46846-2023-11-07)|Visit link for details.|07/11/2023|
+ |[Linux - CVE-2023-1194](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-1194-2023-11-07)|Visit link for details.|07/11/2023|
+ |[Cisco - CVE-2023-20095](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20095-2023-11-07)|Visit link for details.|07/11/2023|
+ |[Avast – CVE-2021-45336](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45336-2023-02-10)|Visit link for details.|07/11/2023|
+ |[Avast – CVE-2021-45337](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2021-45337-2023-02-10)|Visit link for details.|07/11/2023|
+ |[Cisco - CVE-2023-20083](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20083-2023-11-06)|Visit link for details.|06/11/2023|
+ |[Ivanti - CVE-2023-41726](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41726-2023-11-06)|Visit link for details.|06/11/2023|
+ |[QNAP - CVE-2023-23368](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23368-2023-11-06)|Visit link for details.|06/11/2023|
+ |[QNAP - CVE-2023-23369](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-23369-2023-11-06)|Visit link for details.|06/11/2023|
  
 
 # ZERODAYINITIATIVE
