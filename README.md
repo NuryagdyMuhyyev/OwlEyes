@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2023 03:15:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2023 04:16:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -155,23 +155,6 @@
  |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
- |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
- |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
- |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
- |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
- |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
- |[ 44590111/23 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 01 novembre 2023|
- |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
- |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
+ |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
+ |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
+ |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
+ |[ 44590111/23 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 01 novembre 2023|
+ |[ 44583010/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-9)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données et de réussir une…| 31 octobre 2023|
+ |[ 44573010/23 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-4)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 31 octobre 2023|
  
 
 # CA-CCS
