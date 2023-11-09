@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2023 23:21:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/11/2023 00:13:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
  |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
@@ -59,14 +60,12 @@
  |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
  |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
@@ -76,6 +75,20 @@
  |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
  |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +108,23 @@
  |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|08/11/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819" class="noirorange"><b>PostgreSQL</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,50 +139,6 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
  |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796" class="noirorange"><b>FreeBSD</b>: buffer overflow via libc stdio</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796)|An attacker can trigger a buffer overflow of FreeBSD, via libc stdio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
- |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Samsung mobile devices denial of service (CVE-2023-41111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Samsung mobile devices denial of service (CVE-2023-41112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # EU-CERT
@@ -193,6 +179,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
  |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
  |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
  |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
@@ -203,5 +190,18 @@
  |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
  |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
  |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
- |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
