@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/11/2023 01:17:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/11/2023 02:14:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
- |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
- |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
- |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
- |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
- |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
- |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
- |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,7 +49,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
  |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
@@ -76,6 +58,24 @@
  |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
  |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
+ |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
+ |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
+ |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
+ |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
  
 
 # CERT-SANTE
@@ -95,19 +95,6 @@
  |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|08/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
- |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Samsung mobile devices denial of service (CVE-2023-41111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Samsung mobile devices denial of service (CVE-2023-41112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,10 +111,24 @@
  |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819" class="noirorange"><b>PostgreSQL</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
@@ -138,7 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +172,6 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Hitachi Energy security advisory (AV23-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-684)|Visit link for details|2023-11-09|
- |[[Control systems] Johnson Controls security advisory (AV23-683)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-683)|Visit link for details|2023-11-09|
- |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
- |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
- |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
- |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
- |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
- |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
- |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
- |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
- |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
  |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
  |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Hitachi Energy security advisory (AV23-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-684)|Visit link for details|2023-11-09|
+ |[[Control systems] Johnson Controls security advisory (AV23-683)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-683)|Visit link for details|2023-11-09|
+ |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
+ |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
+ |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
+ |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
+ |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
+ |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
+ |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
+ |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
+ |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
  
