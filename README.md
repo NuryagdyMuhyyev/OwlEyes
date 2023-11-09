@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2023 17:32:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2023 18:20:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -55,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
  |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
  |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
  |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
@@ -65,7 +60,6 @@
  |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
  |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
  |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
  
 
 # CERT-FR
@@ -117,6 +111,19 @@
  |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ |[Samsung mobile devices denial of service (CVE-2023-41112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -165,23 +172,6 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
- |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
- |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
- |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
- |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
- |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
- |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
- |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
- |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
- |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
- |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -197,4 +187,21 @@
  |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
  |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
  |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
+ |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
+ |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
+ |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
+ |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
+ |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
+ |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
+ |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
+ |[[Control systems] Weintek security advisory (AV23-673)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-673)|Visit link for details|2023-11-02|
+ |[[Control Systems] Franklin Fueling System security advisory (AV23-672)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-fueling-system-security-advisory-av23-672)|Visit link for details|2023-11-02|
+ |[[Control Systems] Red Lion Controls security advisory (AV23-671)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-controls-security-advisory-av23-671)|Visit link for details|2023-11-02|
  
