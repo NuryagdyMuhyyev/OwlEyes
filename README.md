@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2023 16:14:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2023 17:32:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,12 +49,6 @@
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
  |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # LINUX-SEC
@@ -117,20 +117,6 @@
  |[F5 BIG-IP Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20231027)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2023-11-02] Updated risk level to high risk due to scattered exploit for CVE-...| Release Date: 27 Oct 2023 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -146,6 +132,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796" class="noirorange"><b>FreeBSD</b>: buffer overflow via libc stdio</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796)|An attacker can trigger a buffer overflow of FreeBSD, via libc stdio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # EU-CERT
