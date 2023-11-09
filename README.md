@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/11/2023 02:14:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/11/2023 03:15:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
  |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
  |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
  
 
 # CERT-SANTE
@@ -172,23 +172,6 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
- |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
- |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
- |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
- |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
- |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
- |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
- |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
- |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
  |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
  |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
+ |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
+ |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
+ |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
+ |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
+ |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
+ |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
  
