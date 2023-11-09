@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2023 14:16:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2023 15:17:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
+ |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
+ |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
+ |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
+ |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
+ |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
+ |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
+ |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
  
 
 # CERT-FR
@@ -61,21 +62,20 @@
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
  
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
- |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
- |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
- |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
- |[DSA-5546 chromium - security update](https://www.linux.org/threads/dsa-5546-chromium-security-update.47403/)|Visit link for details.|Nov 3, 2023|
- |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
- |[DSA-5545 vlc - security update](https://www.linux.org/threads/dsa-5545-vlc-security-update.47389/)|Visit link for details.|Nov 3, 2023|
- |[USN-6469-1: xrdp vulnerability](https://www.linux.org/threads/usn-6469-1-xrdp-vulnerability.47381/)|Visit link for details.|Nov 2, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
+ |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
+ |[Atlassian Releases Security Advisory for Confluence Data Center and Server](https://www.cisa.gov/news-events/alerts/2023/11/02/atlassian-releases-security-advisory-confluence-data-center-and-server)|Visit link for details.|Nov 02, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 02, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -89,6 +89,40 @@
  |[Huawei HarmonyOS security bypass (CVE-2023-46756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Huawei HarmonyOS denial of service (CVE-2023-46757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Huawei HarmonyOS denial of service (CVE-2023-46758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796" class="noirorange"><b>FreeBSD</b>: buffer overflow via libc stdio</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796)|An attacker can trigger a buffer overflow of FreeBSD, via libc stdio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress - CVE-2023-47178](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-47178-2023-11-08)|Visit link for details.|08/11/2023|
+ |[Trend Micro - CVE-2023-47192](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47192-2023-11-08)|Visit link for details.|08/11/2023|
+ |[Remote Clinic 2.0 - CVE-2023-33479](https://www.cyberveille-sante.gouv.fr/alertes/remote-clinic-20-cve-2023-33479-2023-11-08)|Visit link for details.|08/11/2023|
+ |[Progress Software - CVE-2023-42659](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42659-2023-11-08)|Visit link for details.|08/11/2023|
+ |[Google - CVE-2023-5996](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5996-2023-11-08)|Visit link for details.|08/11/2023|
+ |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|08/11/2023|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|08/11/2023|
+ |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|08/11/2023|
+ |[Zoom – CVE-2022-36930](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2022-36930-2023-01-09)|Visit link for details.|08/11/2023|
+ |[Zoom – CVE-2022-36926](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2022-36926-2023-01-09)|Visit link for details.|08/11/2023|
+ |[VMware - CVE-2023-34057](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34057-2023-10-27)|Visit link for details.|08/11/2023|
  
 
 # HK-CERT
@@ -119,40 +153,6 @@
  |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
  |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
  |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress - CVE-2023-47178](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-47178-2023-11-08)|Visit link for details.|08/11/2023|
- |[Trend Micro - CVE-2023-47192](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47192-2023-11-08)|Visit link for details.|08/11/2023|
- |[Remote Clinic 2.0 - CVE-2023-33479](https://www.cyberveille-sante.gouv.fr/alertes/remote-clinic-20-cve-2023-33479-2023-11-08)|Visit link for details.|08/11/2023|
- |[Progress Software - CVE-2023-42659](https://www.cyberveille-sante.gouv.fr/alertes/progress-software-cve-2023-42659-2023-11-08)|Visit link for details.|08/11/2023|
- |[Google - CVE-2023-5996](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5996-2023-11-08)|Visit link for details.|08/11/2023|
- |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|08/11/2023|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|08/11/2023|
- |[Samba - CVE-2023-4154](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-4154-2023-10-13)|Visit link for details.|08/11/2023|
- |[Zoom – CVE-2022-36930](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2022-36930-2023-01-09)|Visit link for details.|08/11/2023|
- |[Zoom – CVE-2022-36926](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2022-36926-2023-01-09)|Visit link for details.|08/11/2023|
- |[VMware - CVE-2023-34057](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34057-2023-10-27)|Visit link for details.|08/11/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796" class="noirorange"><b>FreeBSD</b>: buffer overflow via libc stdio</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796)|An attacker can trigger a buffer overflow of FreeBSD, via libc stdio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
