@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/11/2023 07:25:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/11/2023 08:17:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +46,20 @@
  |[USN-6471-1: libsndfile vulnerability](https://www.linux.org/threads/usn-6471-1-libsndfile-vulnerability.47390/)|Visit link for details.|Nov 3, 2023|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
- |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
- |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
- |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
+ |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +79,23 @@
  |[glibc - CVE-2023-4911](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2023-4911-2023-10-06)|Visit link for details.|08/11/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819" class="noirorange"><b>PostgreSQL</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,31 +112,33 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
+ |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
+ |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ |[Lanaccess ONSAFE MonitorHM code execution (CVE-2023-6012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Go filepath directory traversal (CVE-2023-45283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Golang Go weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[SysAid On-Premise directory traversal (CVE-2023-47246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Weston Embedded uC-HTTP code execution (CVE-2023-31247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[GraphQL module for Drupal cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- |[Apache UIMA Java SDK code execution (CVE-2023-39913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # EU-CERT
@@ -155,21 +158,35 @@
  |[2023-077: Microsoft October 2023 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2023-077/)|Microsoft has released its October 2023 Patch Tuesday Security Updates, addressing a total of 103 CVEs among which 12 are rated as critical, and 91 are rated as important. Microsoft also reported that two vulnerabilities are actively exploited.|Wednesday, October 11, 2023 05:55:56 PM CEST|
  
 
-# OBS-Vigilance
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819" class="noirorange"><b>PostgreSQL</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-File-Types-42806)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via File Types, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-42805)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
+ |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
+ |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
+ |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
+ |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
+ |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
+ |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # CA-CCS
@@ -187,21 +204,4 @@
  |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
  |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
  |[Microsoft Edge security advisory (AV23-674)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-674)|Visit link for details|2023-11-03|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
- |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
- |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
- |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
- |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
- |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
- |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
- |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
- |[ 44600211/23 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-2)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service,…| 02 novembre 2023|
  
