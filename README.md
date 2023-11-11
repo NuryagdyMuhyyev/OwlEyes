@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2023 21:20:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2023 22:13:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SysAid - CVE-2023-47246](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2023-47246-2023-11-10)|Visit link for details.|10/11/2023|
- |[SolarWinds - CVE-2023-40055](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40055-2023-11-10)|Visit link for details.|10/11/2023|
- |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|10/11/2023|
- |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
- |[GitLab - CVE-2023-4379](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-4379-2023-11-10)|Visit link for details.|10/11/2023|
- |[Nessus Network Monitor – CVE-2022-24785](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-24785-2022-12-21)|Visit link for details.|10/11/2023|
- |[Google - CVE-2023-5996](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5996-2023-11-08)|Visit link for details.|10/11/2023|
- |[Cisco - CVE-2023-20175](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20175-2023-11-02)|Visit link for details.|10/11/2023|
- |[Cisco - CVE-2023-20048](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20048-2023-11-02)|Visit link for details.|10/11/2023|
- |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|09/11/2023|
- |[SpiceWorks - CVE-2021-43609](https://www.cyberveille-sante.gouv.fr/alertes/spiceworks-cve-2021-43609-2023-11-09)|Visit link for details.|09/11/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -109,6 +92,23 @@
  |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SysAid - CVE-2023-47246](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2023-47246-2023-11-10)|Visit link for details.|10/11/2023|
+ |[SolarWinds - CVE-2023-40055](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40055-2023-11-10)|Visit link for details.|10/11/2023|
+ |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|10/11/2023|
+ |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
+ |[GitLab - CVE-2023-4379](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-4379-2023-11-10)|Visit link for details.|10/11/2023|
+ |[Nessus Network Monitor – CVE-2022-24785](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-24785-2022-12-21)|Visit link for details.|10/11/2023|
+ |[Google - CVE-2023-5996](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5996-2023-11-08)|Visit link for details.|10/11/2023|
+ |[Cisco - CVE-2023-20175](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20175-2023-11-02)|Visit link for details.|10/11/2023|
+ |[Cisco - CVE-2023-20048](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20048-2023-11-02)|Visit link for details.|10/11/2023|
+ |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|09/11/2023|
+ |[SpiceWorks - CVE-2021-43609](https://www.cyberveille-sante.gouv.fr/alertes/spiceworks-cve-2021-43609-2023-11-09)|Visit link for details.|09/11/2023|
  
 
 # IBM-X-FORCE-EXCHANGE
