@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2023 19:14:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2023 20:15:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -76,6 +76,23 @@
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
  |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830" class="noirorange"><b>Symfony</b>: Cross Site Scripting via CodeExtension Filters</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830)|An attacker can trigger a Cross Site Scripting of Symfony, via CodeExtension Filters, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829" class="noirorange"><b>Symfony</b>: user access via Session Fixation</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829)|An attacker can bypass restrictions of Symfony, via Session Fixation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828" class="noirorange"><b>Ivanti Secure Access Client</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828)|An attacker can use several vulnerabilities of Ivanti Secure Access Client...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827" class="noirorange"><b>Tor</b>: denial of service via Remote Relay Handshake</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827)|An attacker can cause a fatal error of Tor, via Remote Relay Handshake, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824" class="noirorange"><b>Linux kernel</b>: use after free via qxl_mode_dumb_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823" class="noirorange"><b>Linux kernel</b>: use after free via lan78xx_disconnect()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Remote Users Enumeration</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821)|An attacker can bypass access restrictions to data of Matrix Synapse, via Remote Users Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
  
 
 # CERT-SANTE
@@ -155,40 +172,6 @@
  |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV23-685)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-685)|Visit link for details|2023-11-10|
- |[[Control systems] Hitachi Energy security advisory (AV23-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-684)|Visit link for details|2023-11-09|
- |[[Control systems] Johnson Controls security advisory (AV23-683)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-683)|Visit link for details|2023-11-09|
- |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
- |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
- |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
- |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
- |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
- |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
- |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
- |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830" class="noirorange"><b>Symfony</b>: Cross Site Scripting via CodeExtension Filters</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830)|An attacker can trigger a Cross Site Scripting of Symfony, via CodeExtension Filters, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829" class="noirorange"><b>Symfony</b>: user access via Session Fixation</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829)|An attacker can bypass restrictions of Symfony, via Session Fixation, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828" class="noirorange"><b>Ivanti Secure Access Client</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828)|An attacker can use several vulnerabilities of Ivanti Secure Access Client...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827" class="noirorange"><b>Tor</b>: denial of service via Remote Relay Handshake</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827)|An attacker can cause a fatal error of Tor, via Remote Relay Handshake, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824" class="noirorange"><b>Linux kernel</b>: use after free via qxl_mode_dumb_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823" class="noirorange"><b>Linux kernel</b>: use after free via lan78xx_disconnect()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Remote Users Enumeration</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821)|An attacker can bypass access restrictions to data of Matrix Synapse, via Remote Users Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
  |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
  |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-685)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-685)|Visit link for details|2023-11-10|
+ |[[Control systems] Hitachi Energy security advisory (AV23-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-684)|Visit link for details|2023-11-09|
+ |[[Control systems] Johnson Controls security advisory (AV23-683)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-683)|Visit link for details|2023-11-09|
+ |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
+ |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
+ |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
+ |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
+ |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
+ |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
+ |[Dell security advisory (AV23-676)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-676)|Visit link for details|2023-11-06|
+ |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
  
