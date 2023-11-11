@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2023 15:16:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2023 16:12:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[DSA-5547 pmix - security update](https://www.linux.org/threads/dsa-5547-pmix-security-update.47409/)|Visit link for details.|Nov 4, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
+ |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830" class="noirorange"><b>Symfony</b>: Cross Site Scripting via CodeExtension Filters</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830)|An attacker can trigger a Cross Site Scripting of Symfony, via CodeExtension Filters, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829" class="noirorange"><b>Symfony</b>: user access via Session Fixation</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829)|An attacker can bypass restrictions of Symfony, via Session Fixation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828" class="noirorange"><b>Ivanti Secure Access Client</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828)|An attacker can use several vulnerabilities of Ivanti Secure Access Client...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827" class="noirorange"><b>Tor</b>: denial of service via Remote Relay Handshake</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827)|An attacker can cause a fatal error of Tor, via Remote Relay Handshake, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824" class="noirorange"><b>Linux kernel</b>: use after free via qxl_mode_dumb_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823" class="noirorange"><b>Linux kernel</b>: use after free via lan78xx_disconnect()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Remote Users Enumeration</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821)|An attacker can bypass access restrictions to data of Matrix Synapse, via Remote Users Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +110,6 @@
  |[Cisco - CVE-2023-20048](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20048-2023-11-02)|Visit link for details.|10/11/2023|
  |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|09/11/2023|
  |[SpiceWorks - CVE-2021-43609](https://www.cyberveille-sante.gouv.fr/alertes/spiceworks-cve-2021-43609-2023-11-09)|Visit link for details.|09/11/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
  
 
 # HK-CERT
@@ -122,37 +139,6 @@
  |[EventPrime Plugin for WordPress cross-site request forgery (CVE-2023-4251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
  |[Lanaccess ONSAFE MonitorHM code execution (CVE-2023-6012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
  |[Go filepath directory traversal (CVE-2023-45283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830" class="noirorange"><b>Symfony</b>: Cross Site Scripting via CodeExtension Filters</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-CodeExtension-Filters-42830)|An attacker can trigger a Cross Site Scripting of Symfony, via CodeExtension Filters, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829" class="noirorange"><b>Symfony</b>: user access via Session Fixation</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Session-Fixation-42829)|An attacker can bypass restrictions of Symfony, via Session Fixation, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828" class="noirorange"><b>Ivanti Secure Access Client</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-multiple-vulnerabilities-42828)|An attacker can use several vulnerabilities of Ivanti Secure Access Client...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827" class="noirorange"><b>Tor</b>: denial of service via Remote Relay Handshake</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827)|An attacker can cause a fatal error of Tor, via Remote Relay Handshake, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-42826)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824" class="noirorange"><b>Linux kernel</b>: use after free via qxl_mode_dumb_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qxl-mode-dumb-create-42824)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823" class="noirorange"><b>Linux kernel</b>: use after free via lan78xx_disconnect()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lan78xx-disconnect-42823)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Remote Users Enumeration</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Remote-Users-Enumeration-42821)|An attacker can bypass access restrictions to data of Matrix Synapse, via Remote Users Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
  
 
 # EU-CERT
@@ -187,6 +173,20 @@
  |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
  |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
  |[ 44610311/23 - Vulnérabilité dans VMware Workspace ONE UEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workspace-one-uem)| Une vulnérabilité a été corrigée dans VMware Workspace ONE UEM. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 03 novembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # CA-CCS
