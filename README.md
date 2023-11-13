@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/11/2023 17:33:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/11/2023 18:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,33 +62,20 @@
  |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231110)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system.|Release Date: 10 Nov 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 8 Nov 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Nov 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[Microsoft Edge (Chromium-based) privilege escalation (CVE-2023-36027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[HotelDruid cross-site scripting (CVE-2023-47164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[Ivanti Secure Access Client security bypass (CVE-2023-38544)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
+ |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/03/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Nov 03, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/02/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Nov 02, 2023|
  
 
 # CERT-SANTE
@@ -124,6 +95,19 @@
  |[SpiceWorks - CVE-2021-43609](https://www.cyberveille-sante.gouv.fr/alertes/spiceworks-cve-2021-43609-2023-11-09)|Visit link for details.|09/11/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[Microsoft Edge (Chromium-based) privilege escalation (CVE-2023-36027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[HotelDruid cross-site scripting (CVE-2023-47164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[Telit products security bypass (CVE-2023-47612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 9, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -141,21 +125,34 @@
  |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827" class="noirorange"><b>Tor</b>: denial of service via Remote Relay Handshake</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Remote-Relay-Handshake-42827)|An attacker can cause a fatal error of Tor, via Remote Relay Handshake, in order to trigger a denial of service...|Visit link for details|
  
 
-# MA-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
- |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
- |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
- |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
- |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
- |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
- |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
- |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
- |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231110)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system.|Release Date: 10 Nov 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 8 Nov 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Nov 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20231106)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 6 Nov 2023 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 3 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Nov 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # EU-CERT
@@ -192,16 +189,19 @@
  |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
+ |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
+ |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
+ |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
+ |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
+ |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
+ |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
+ |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
+ |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
+ |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
  
