@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/11/2023 21:22:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/11/2023 22:15:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
- |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,37 +46,53 @@
  |[DSA-5548 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-openjdk-17-security-update.47431/)|Visit link for details.|Nov 6, 2023|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[SysAid - CVE-2023-47246](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2023-47246-2023-11-10)|Visit link for details.|10/11/2023|
- |[SolarWinds - CVE-2023-40055](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40055-2023-11-10)|Visit link for details.|10/11/2023|
- |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|10/11/2023|
- |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
- |[GitLab - CVE-2023-4379](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-4379-2023-11-10)|Visit link for details.|10/11/2023|
- |[Nessus Network Monitor – CVE-2022-24785](https://www.cyberveille-sante.gouv.fr/alertes/nessus-network-monitor-cve-2022-24785-2022-12-21)|Visit link for details.|10/11/2023|
- |[Google - CVE-2023-5996](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5996-2023-11-08)|Visit link for details.|10/11/2023|
- |[Cisco - CVE-2023-20175](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20175-2023-11-02)|Visit link for details.|10/11/2023|
- |[Cisco - CVE-2023-20048](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20048-2023-11-02)|Visit link for details.|10/11/2023|
- |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|09/11/2023|
- |[SpiceWorks - CVE-2021-43609](https://www.cyberveille-sante.gouv.fr/alertes/spiceworks-cve-2021-43609-2023-11-09)|Visit link for details.|09/11/2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
+ |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
+ |[CISA Published When to Issue VEX Information](https://www.cisa.gov/news-events/alerts/2023/11/06/cisa-published-when-issue-vex-information)|Visit link for details.|Nov 06, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
+ |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans|Publié le 8 novembre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/)|Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 novembre 2023|
- |[Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/)|Une vulnérabilité a été découverte dans |Publié le 8 novembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2023-40054](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40054-2023-11-13)|Visit link for details.|13/11/2023|
+ |[QNAP - CVE-2023-39295](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-39295-2023-11-13)|Visit link for details.|13/11/2023|
+ |[OpenVPN - CVE-2023-46850](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-46850-2023-11-13)|Visit link for details.|13/11/2023|
+ |[Microsoft - CVE-2023-36014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36014-2023-11-13)|Visit link for details.|13/11/2023|
+ |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
+ |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|13/11/2023|
+ |[Veeam - CVE-2023-38548](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38548-2023-11-07)|Visit link for details.|13/11/2023|
+ |[SysAid - CVE-2023-47246](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2023-47246-2023-11-10)|Visit link for details.|10/11/2023|
+ |[SolarWinds - CVE-2023-40055](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40055-2023-11-10)|Visit link for details.|10/11/2023|
+ |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|10/11/2023|
+ |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
  
 
 # HK-CERT
@@ -122,20 +122,6 @@
  |[Fuji Electric Tellus and Tellus Lite code execution (CVE-2023-47582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
  |[Fuji Electric Tellus and Tellus Lite code execution (CVE-2023-47581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
  |[Fuji Electric V-Server and V-Server Lite heap-based buffer overflow (CVE-2023-47586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # OBS-Vigilance
@@ -170,6 +156,20 @@
  |[2023-080: Multiple Vulnerabilities in SolarWinds Access Rights Manager (ARM)](https://cert.europa.eu/publications/security-advisories/2023-080/)|On October 18 2023, SolarWinds announced patches for eight vulnerabilities in Access Rights Manager (ARM) including eight high-severity flaws. The most severe vulnerabilities are tracked as CVE-2023-35182 and CVE-2023-35184 for Remote Code Execution Vulnerability, as well as CVE-2023-35185 and CVE-2023-35187 for Directory Traversal Remote Code Vulnerability, with a CVSS score of 8.8 out of 10.|Monday, October 23, 2023 06:16:06 PM CEST|
  |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # CA-CCS
