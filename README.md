@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2023 21:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2023 22:13:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
- |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,13 +46,43 @@
  |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
+ |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2023-31403](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-31403-2023-11-14)|Visit link for details.|14/11/2023|
+ |[Samba - CVE-2023-3961](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-3961-2023-11-14)|Visit link for details.|14/11/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/11/2023|
+ |[Linux - CVE-2023-39198](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-39198-2023-11-14)|Visit link for details.|14/11/2023|
+ |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|14/11/2023|
+ |[SLP - CVE-2023-29552](https://www.cyberveille-sante.gouv.fr/alertes/slp-cve-2023-29552-2023-04-26)|Visit link for details.|14/11/2023|
+ |[SolarWinds - CVE-2023-40054](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40054-2023-11-13)|Visit link for details.|13/11/2023|
+ |[QNAP - CVE-2023-39295](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-39295-2023-11-13)|Visit link for details.|13/11/2023|
+ |[OpenVPN - CVE-2023-46850](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-46850-2023-11-13)|Visit link for details.|13/11/2023|
+ |[Microsoft - CVE-2023-36014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36014-2023-11-13)|Visit link for details.|13/11/2023|
+ |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0935/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
- |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0934/)|De multiples vulnérabilités ont été découvertes dans|Publié le 14 novembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0933/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
  |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
@@ -76,6 +90,9 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
  
 
 # HK-CERT
@@ -94,34 +111,34 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2023-40054](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40054-2023-11-13)|Visit link for details.|13/11/2023|
- |[QNAP - CVE-2023-39295](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-39295-2023-11-13)|Visit link for details.|13/11/2023|
- |[OpenVPN - CVE-2023-46850](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-46850-2023-11-13)|Visit link for details.|13/11/2023|
- |[Microsoft - CVE-2023-36014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36014-2023-11-13)|Visit link for details.|13/11/2023|
- |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
- |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|13/11/2023|
- |[Veeam - CVE-2023-38548](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2023-38548-2023-11-07)|Visit link for details.|13/11/2023|
- |[SysAid - CVE-2023-47246](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2023-47246-2023-11-10)|Visit link for details.|10/11/2023|
- |[SolarWinds - CVE-2023-40055](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40055-2023-11-10)|Visit link for details.|10/11/2023|
- |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|10/11/2023|
- |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[ICS Business Manager SQL injection (CVE-2023-6097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[DataHub privilege escalation (CVE-2023-47629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[ICS Business Manager cross-site scripting (CVE-2023-6098)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
  |[Pleasanter open redirect (CVE-2023-46688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
  |[Safety Production Control Platform information disclosure (CVE-2023-6100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
  |[Safety Production Control Platform information disclosure (CVE-2023-6101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Pleasanter security bypass (CVE-2023-271298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Safety Production Control Platform file upload (CVE-2023-6102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Pleasanter cross-site scripting (CVE-2023-34439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[YOP Poll plugin for WordPress security bypass (CVE-2023-6109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Pleasanter security bypass (CVE-2023-45210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via growbuf_to_Str()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858)|An attacker can force a read at an invalid memory address of w3m, via growbuf_to_Str(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via Strnew_size()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857)|An attacker can force a read at an invalid memory address of w3m, via Strnew_size(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856" class="noirorange"><b>Traceroute</b>: code execution via Command Line Parsing</a>](https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856)|An attacker can use a vulnerability of Traceroute, via Command Line Parsing, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855" class="noirorange"><b>Sanitize</b>: ingress filtrering bypass via Style</a>](https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855)|An attacker can bypass filtering rules of Sanitize, via Style, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854" class="noirorange"><b>VideoLAN VLC</b>: privilege escalation via Windows Uninstallation</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854)|An attacker can bypass restrictions of VideoLAN VLC, via Windows Uninstallation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853" class="noirorange"><b>Xen</b>: information disclosure via x86 BTC/SRSO</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via x86 BTC/SRSO, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852" class="noirorange"><b>Xen</b>: information disclosure via IOMMU Quarantine Page Table Levels</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via IOMMU Quarantine Page Table Levels, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851)|An attacker can use several vulnerabilities of SIMATIC PCS neo...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850" class="noirorange"><b>xterm</b>: buffer overflow via ReGIS reporting</a>](https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850)|An attacker can trigger a buffer overflow of xterm, via ReGIS reporting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via HTML Sanitizer Bypass</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via HTML Sanitizer Bypass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847" class="noirorange"><b>TYPO3 Core</b>: user access via Session Handling</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847)|An attacker can bypass restrictions of TYPO3 Core, via Session Handling, in order to gain user privileges...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -136,23 +153,6 @@
  |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
  |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
  |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855" class="noirorange"><b>Sanitize</b>: ingress filtrering bypass via Style</a>](https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855)|An attacker can bypass filtering rules of Sanitize, via Style, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854" class="noirorange"><b>VideoLAN VLC</b>: privilege escalation via Windows Uninstallation</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854)|An attacker can bypass restrictions of VideoLAN VLC, via Windows Uninstallation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853" class="noirorange"><b>Xen</b>: information disclosure via x86 BTC/SRSO</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via x86 BTC/SRSO, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852" class="noirorange"><b>Xen</b>: information disclosure via IOMMU Quarantine Page Table Levels</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via IOMMU Quarantine Page Table Levels, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851)|An attacker can use several vulnerabilities of SIMATIC PCS neo...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850" class="noirorange"><b>xterm</b>: buffer overflow via ReGIS reporting</a>](https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850)|An attacker can trigger a buffer overflow of xterm, via ReGIS reporting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via HTML Sanitizer Bypass</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via HTML Sanitizer Bypass, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847" class="noirorange"><b>TYPO3 Core</b>: user access via Session Handling</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847)|An attacker can bypass restrictions of TYPO3 Core, via Session Handling, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-42846" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-42846)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-November-2023-42845" class="noirorange"><b>SAP</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-November-2023-42845)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844" class="noirorange"><b>OptiPNG</b>: buffer overflow via gifread.c</a>](https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844)|An attacker can trigger a buffer overflow of OptiPNG, via gifread.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -176,6 +176,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti security advisory (AV23-690)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-690)|Visit link for details|2023-11-14|
+ |[Android security advisory – November 2023 Monthly Rollup (AV23-689)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2023-monthly-rollup-av23-689)|Visit link for details|2023-11-14|
+ |[IBM security advisory (AV23-688)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-688)|Visit link for details|2023-11-14|
  |[Ubuntu security advisory (AV23-686)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-686)|Visit link for details|2023-11-14|
  |[Dell security advisory (AV23-687)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-687)|Visit link for details|2023-11-14|
  |[Microsoft Edge security advisory (AV23-685)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-685)|Visit link for details|2023-11-10|
@@ -184,9 +187,6 @@
  |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
  |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
  |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
- |[Red Hat security advisory (AV23-679)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-679)|Visit link for details|2023-11-07|
- |[SolarWinds security advisory (AV23-678)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av23-678)|Visit link for details|2023-11-06|
- |[Ubuntu security advisory (AV23-677)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-677-0)|Visit link for details|2023-11-06|
  
 
 # MA-CERT
