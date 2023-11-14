@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2023 02:12:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2023 03:15:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
- |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-october-2023-security-updates)|Visit link for details.|Nov 14, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Roadmap for Artificial Intelligence Adoption](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption)|Visit link for details.|Nov 14, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
- |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
  |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
  |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
+ |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-october-2023-security-updates)|Visit link for details.|Nov 14, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Roadmap for Artificial Intelligence Adoption](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption)|Visit link for details.|Nov 14, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
+ |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
  
 
 # CERT-FR
@@ -95,19 +95,6 @@
  |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Graphics code execution (CVE-2023-36045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-36031)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft On-Prem Data Gateway security bypass (CVE-2023-36021)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Excel security bypass (CVE-2023-36037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Windows NTFS information disclosure (CVE-2023-36398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft .NET, .NET Framework and Visual Studio privilege escalation (CVE-2023-36049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Windows Deployment Services denial of service (CVE-2023-36395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -123,6 +110,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClient-for-Windows-file-deletion-via-Device-Filesystem-42866" class="noirorange"><b>FortiClient for Windows</b>: file deletion via Device Filesystem</a>](https://vigilance.fr/vulnerability/FortiClient-for-Windows-file-deletion-via-Device-Filesystem-42866)|An attacker can bypass access restrictions of FortiClient for Windows, via Device Filesystem, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClient-for-Windows-code-execution-via-Openssl-cnf-DLL-Hijacking-42865" class="noirorange"><b>FortiClient for Windows</b>: code execution via Openssl.cnf DLL Hijacking</a>](https://vigilance.fr/vulnerability/FortiClient-for-Windows-code-execution-via-Openssl-cnf-DLL-Hijacking-42865)|An attacker can use a vulnerability of FortiClient for Windows, via Openssl.cnf DLL Hijacking, in order to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-28391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-24585)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Weston Embedded uC-HTTP buffer overflow (CVE-2023-25181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Weston Embedded uC-HTTP code execution (CVE-2023-28379)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Weston Embedded uC-HTTP buffer overflow (CVE-2023-27882)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Google Chrome code execution (CVE-2023-6112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Google Chrome code execution (CVE-2023-5997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
  
 
 # HK-CERT
@@ -158,37 +158,6 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Kofax Power PDF AcroForm Annotation Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1610/)|Visit link for details|2023-11-14|
- |[Kofax Power PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1609/)|Visit link for details|2023-11-14|
- |[Kofax Power PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1608/)|Visit link for details|2023-11-14|
- |[Kofax Power PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1607/)|Visit link for details|2023-11-14|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1606/)|Visit link for details|2023-11-14|
- |[Apple macOS Hydra ABC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1605/)|Visit link for details|2023-11-14|
- |[Apple macOS Hydra Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1604/)|Visit link for details|2023-11-14|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1603/)|Visit link for details|2023-11-14|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
- |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
- |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
- |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
- |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
- |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
- |[[Control systems] Siemens security advisory (AV23-692)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-692)|Visit link for details|2023-11-14|
- |[SAP security advisory – October 2023 monthly rollup (AV23-691)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2023-monthly-rollup-av23-691)|Visit link for details|2023-11-14|
- |[Ivanti security advisory (AV23-690)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-690)|Visit link for details|2023-11-14|
- |[Android security advisory – November 2023 Monthly Rollup (AV23-689)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2023-monthly-rollup-av23-689)|Visit link for details|2023-11-14|
- |[IBM security advisory (AV23-688)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-688)|Visit link for details|2023-11-14|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +173,35 @@
  |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
  |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
  |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR CAX30 SSO Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1636/)|Visit link for details|2023-11-14|
+ |[Delta Electronics DIAScreen XLS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1635/)|Visit link for details|2023-11-14|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1634/)|Visit link for details|2023-11-14|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1633/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1632/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1631/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1630/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1629/)|Visit link for details|2023-11-14|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV23-699)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-699)|Visit link for details|2023-11-14|
+ |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
+ |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
+ |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
+ |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
+ |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
+ |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
+ |[[Control systems] Siemens security advisory (AV23-692)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-692)|Visit link for details|2023-11-14|
+ |[SAP security advisory – October 2023 monthly rollup (AV23-691)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2023-monthly-rollup-av23-691)|Visit link for details|2023-11-14|
+ |[Ivanti security advisory (AV23-690)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-690)|Visit link for details|2023-11-14|
+ |[Android security advisory – November 2023 Monthly Rollup (AV23-689)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2023-monthly-rollup-av23-689)|Visit link for details|2023-11-14|
  
