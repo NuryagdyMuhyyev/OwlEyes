@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2023 10:15:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2023 11:22:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,36 +95,6 @@
  |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[EnBw SENEC legacy storage box information disclosure (CVE-2023-39168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[EnBw SENEC legacy storage box default account (CVE-2023-39170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[EnBw SENEC legacy storage box security bypass (CVE-2023-39171)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[EnBw SENEC legacy storage box information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Proxy Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Proxy Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Multiget Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Multiget Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839" class="noirorange"><b>NVIDIA GPU Display Drive</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839)|An attacker can force a NULL pointer to be dereferenced on NVIDIA GPU Display Drive, via Kernel Mode Layer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Plexis-Archiver-file-write-via-AbstractUnArchiver-42838" class="noirorange"><b>Plexis Archiver</b>: file write via AbstractUnArchiver()</a>](https://vigilance.fr/vulnerability/Plexis-Archiver-file-write-via-AbstractUnArchiver-42838)|An attacker can bypass access restrictions of Plexis Archiver, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Remediation Service</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Remediation Service, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836" class="noirorange"><b>Audio File Library</b>: memory reading via printfileinfo()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836)|An attacker can read a memory fragment of Audio File Library, via printfileinfo(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835" class="noirorange"><b>Audio File Library</b>: NULL pointer dereference via ulaw2linear_buf()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835)|An attacker can force a NULL pointer to be dereferenced on Audio File Library, via ulaw2linear_buf(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834)|An attacker can use several vulnerabilities of Ivanti Endpoint Manager Mobile...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833" class="noirorange"><b>MuPDF</b>: denial of service via pdf_mark_list_push()</a>](https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833)|An attacker can cause a fatal error of MuPDF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832" class="noirorange"><b>Pillow</b>: overload via ImageFont ImageDraw Textlength ImageFont</a>](https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832)|An attacker can trigger an overload of Pillow, via ImageFont ImageDraw Textlength ImageFont, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,6 +109,33 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[EnBw SENEC legacy storage box information disclosure (CVE-2023-39168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[EnBw SENEC legacy storage box default account (CVE-2023-39170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[EnBw SENEC legacy storage box security bypass (CVE-2023-39171)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ |[EnBw SENEC legacy storage box information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
 
 # EU-CERT
@@ -158,18 +155,21 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
+ |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Proxy Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Proxy Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Multiget Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Multiget Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839" class="noirorange"><b>NVIDIA GPU Display Drive</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839)|An attacker can force a NULL pointer to be dereferenced on NVIDIA GPU Display Drive, via Kernel Mode Layer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Plexis-Archiver-file-write-via-AbstractUnArchiver-42838" class="noirorange"><b>Plexis Archiver</b>: file write via AbstractUnArchiver()</a>](https://vigilance.fr/vulnerability/Plexis-Archiver-file-write-via-AbstractUnArchiver-42838)|An attacker can bypass access restrictions of Plexis Archiver, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Remediation Service</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Remediation Service, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836" class="noirorange"><b>Audio File Library</b>: memory reading via printfileinfo()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836)|An attacker can read a memory fragment of Audio File Library, via printfileinfo(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835" class="noirorange"><b>Audio File Library</b>: NULL pointer dereference via ulaw2linear_buf()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835)|An attacker can force a NULL pointer to be dereferenced on Audio File Library, via ulaw2linear_buf(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834)|An attacker can use several vulnerabilities of Ivanti Endpoint Manager Mobile...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833" class="noirorange"><b>MuPDF</b>: denial of service via pdf_mark_list_push()</a>](https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833)|An attacker can cause a fatal error of MuPDF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832" class="noirorange"><b>Pillow</b>: overload via ImageFont ImageDraw Textlength ImageFont</a>](https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832)|An attacker can trigger an overload of Pillow, via ImageFont ImageDraw Textlength ImageFont, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CA-CCS
