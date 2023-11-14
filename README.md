@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2023 00:11:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2023 01:16:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Roadmap for Artificial Intelligence Adoption](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
+ |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
+ |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
+ |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
+ |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
+ |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Roadmap for Artificial Intelligence Adoption](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
- |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
- |[CISA, NSA, and Partners Release New Guidance on Securing the Software Supply Chain](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain)|Visit link for details.|Nov 09, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 09, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 08, 2023|
- |[CISA Releases Guidance for Addressing Citrix NetScaler ADC and Gateway Vulnerability CVE-2023-4966, Citrix Bleed ](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966)|Visit link for details.|Nov 07, 2023|
- |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +76,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 14 Nov 2023 |
+ |[OpenVPN Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/openvpn-multiple-vulnerabilities_20231114)|Multiple vulnerabilities were identified in OpenVPN. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 14 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-...| Release Date: 21 Aug 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231110)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system.|Release Date: 10 Nov 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 8 Nov 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Nov 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
  
 
 # CERT-SANTE
@@ -95,50 +111,17 @@
  |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 14 Nov 2023 |
- |[OpenVPN Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/openvpn-multiple-vulnerabilities_20231114)|Multiple vulnerabilities were identified in OpenVPN. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 14 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20230821)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service  condition, remote code execution and data manipulation on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-...| Release Date: 21 Aug 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231110)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and denial of service condition on the targeted system.|Release Date: 10 Nov 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 8 Nov 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231108)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Nov 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via growbuf_to_Str()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858)|An attacker can force a read at an invalid memory address of w3m, via growbuf_to_Str(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via Strnew_size()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857)|An attacker can force a read at an invalid memory address of w3m, via Strnew_size(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856" class="noirorange"><b>Traceroute</b>: code execution via Command Line Parsing</a>](https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856)|An attacker can use a vulnerability of Traceroute, via Command Line Parsing, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855" class="noirorange"><b>Sanitize</b>: ingress filtrering bypass via Style</a>](https://vigilance.fr/vulnerability/Sanitize-ingress-filtrering-bypass-via-Style-42855)|An attacker can bypass filtering rules of Sanitize, via Style, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854" class="noirorange"><b>VideoLAN VLC</b>: privilege escalation via Windows Uninstallation</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-privilege-escalation-via-Windows-Uninstallation-42854)|An attacker can bypass restrictions of VideoLAN VLC, via Windows Uninstallation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853" class="noirorange"><b>Xen</b>: information disclosure via x86 BTC/SRSO</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via x86 BTC/SRSO, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852" class="noirorange"><b>Xen</b>: information disclosure via IOMMU Quarantine Page Table Levels</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via IOMMU Quarantine Page Table Levels, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851)|An attacker can use several vulnerabilities of SIMATIC PCS neo...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850" class="noirorange"><b>xterm</b>: buffer overflow via ReGIS reporting</a>](https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850)|An attacker can trigger a buffer overflow of xterm, via ReGIS reporting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via HTML Sanitizer Bypass</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via HTML Sanitizer Bypass, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847" class="noirorange"><b>TYPO3 Core</b>: user access via Session Handling</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Session-Handling-42847)|An attacker can bypass restrictions of TYPO3 Core, via Session Handling, in order to gain user privileges...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft ASP.NET Core security bypass (CVE-2023-36560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Windows Installer privilege escalation (CVE-2023-36705)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Windows Speech Application Programming Interface (SAPI) privilege escalation (CVE-2023-36719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Windows DB2OLEDB code execution (CVE-2023-38151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Microsoft Edge (Chromium-based) code execution (CVE-2023-36034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[DataHub weak security (CVE-2023-47628)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Microsoft Office Graphics code execution (CVE-2023-36045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-36031)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft On-Prem Data Gateway security bypass (CVE-2023-36021)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft Excel security bypass (CVE-2023-36037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft Windows NTFS information disclosure (CVE-2023-36398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft .NET, .NET Framework and Visual Studio privilege escalation (CVE-2023-36049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Microsoft Windows Deployment Services denial of service (CVE-2023-36395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -172,6 +155,23 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClient-for-Windows-file-deletion-via-Device-Filesystem-42866" class="noirorange"><b>FortiClient for Windows</b>: file deletion via Device Filesystem</a>](https://vigilance.fr/vulnerability/FortiClient-for-Windows-file-deletion-via-Device-Filesystem-42866)|An attacker can bypass access restrictions of FortiClient for Windows, via Device Filesystem, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClient-for-Windows-code-execution-via-Openssl-cnf-DLL-Hijacking-42865" class="noirorange"><b>FortiClient for Windows</b>: code execution via Openssl.cnf DLL Hijacking</a>](https://vigilance.fr/vulnerability/FortiClient-for-Windows-code-execution-via-Openssl-cnf-DLL-Hijacking-42865)|An attacker can use a vulnerability of FortiClient for Windows, via Openssl.cnf DLL Hijacking, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClient-for-Windows-user-access-via-Vcm2-exe-Hardcoded-Credentials-42864" class="noirorange"><b>FortiClient for Windows</b>: user access via Vcm2.exe Hardcoded Credentials</a>](https://vigilance.fr/vulnerability/FortiClient-for-Windows-user-access-via-Vcm2-exe-Hardcoded-Credentials-42864)|An attacker can bypass restrictions of FortiClient for Windows, via Vcm2.exe Hardcoded Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-user-access-via-Fmgsvrd-Hardcoded-Credentials-42863" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: user access via Fmgsvrd Hardcoded Credentials</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-user-access-via-Fmgsvrd-Hardcoded-Credentials-42863)|An attacker can bypass restrictions of FortiAnalyzer  FortiManager, via Fmgsvrd Hardcoded Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-HTTP-Headers-Management-42862" class="noirorange"><b>FortiOS</b>: denial of service via HTTP Headers Management</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-HTTP-Headers-Management-42862)|An attacker can cause a fatal error of FortiOS, via HTTP Headers Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Malicious-Image-Boot-42861" class="noirorange"><b>FortiOS</b>: privilege escalation via Malicious Image Boot</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Malicious-Image-Boot-42861)|An attacker can bypass restrictions of FortiOS, via Malicious Image Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-In-tree-Storage-Plugin-42860" class="noirorange"><b>Kubernetes kubelet</b>: privilege escalation via Windows Nodes In-tree Storage Plugin</a>](https://vigilance.fr/vulnerability/Kubernetes-kubelet-privilege-escalation-via-Windows-Nodes-In-tree-Storage-Plugin-42860)|An attacker can bypass restrictions of Kubernetes kubelet, via Windows Nodes In-tree Storage Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-42859" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-42859)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via growbuf_to_Str()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-growbuf-to-Str-42858)|An attacker can force a read at an invalid memory address of w3m, via growbuf_to_Str(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857" class="noirorange"><b>w3m</b>: out-of-bounds memory reading via Strnew_size()</a>](https://vigilance.fr/vulnerability/w3m-out-of-bounds-memory-reading-via-Strnew-size-42857)|An attacker can force a read at an invalid memory address of w3m, via Strnew_size(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856" class="noirorange"><b>Traceroute</b>: code execution via Command Line Parsing</a>](https://vigilance.fr/vulnerability/Traceroute-code-execution-via-Command-Line-Parsing-42856)|An attacker can use a vulnerability of Traceroute, via Command Line Parsing, in order to run code...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,6 +193,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
+ |[[Control systems] Siemens security advisory (AV23-692)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-692)|Visit link for details|2023-11-14|
+ |[SAP security advisory – October 2023 monthly rollup (AV23-691)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2023-monthly-rollup-av23-691)|Visit link for details|2023-11-14|
  |[Ivanti security advisory (AV23-690)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-690)|Visit link for details|2023-11-14|
  |[Android security advisory – November 2023 Monthly Rollup (AV23-689)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2023-monthly-rollup-av23-689)|Visit link for details|2023-11-14|
  |[IBM security advisory (AV23-688)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-688)|Visit link for details|2023-11-14|
@@ -201,7 +204,4 @@
  |[Microsoft Edge security advisory (AV23-685)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-685)|Visit link for details|2023-11-10|
  |[[Control systems] Hitachi Energy security advisory (AV23-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-684)|Visit link for details|2023-11-09|
  |[[Control systems] Johnson Controls security advisory (AV23-683)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-683)|Visit link for details|2023-11-09|
- |[SysAid security advisory (AV23-682)](https://www.cyber.gc.ca/en/alerts-advisories/sysaid-security-advisory-av23-682)|Visit link for details|2023-11-09|
- |[Google Chrome security advisory (AV23-681)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-681)|Visit link for details|2023-11-08|
- |[[Control systems] General Electric security advisory (AV23-680)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-general-electric-security-advisory-av23-680)|Visit link for details|2023-11-07|
  
