@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2023 13:20:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2023 14:16:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6456-2: Firefox regressions](https://www.linux.org/threads/usn-6456-2-firefox-regressions.47517/)|Visit link for details.|Nov 14, 2023|
+ |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
+ |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
+ |[USN-6465-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6465-3-linux-kernel-gke-vulnerabilities.47485/)|Visit link for details.|Nov 10, 2023|
+ |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
+ |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
+ |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
+ |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
+ |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
+ |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,23 +60,6 @@
  |[FEMA and CISA Release Joint Guidance on Planning Considerations for Cyber Incidents](https://www.cisa.gov/news-events/alerts/2023/11/07/fema-and-cisa-release-joint-guidance-planning-considerations-cyber-incidents)|Visit link for details.|Nov 07, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 07, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/11/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Nov 07, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
- |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
- |[USN-6465-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6465-3-linux-kernel-gke-vulnerabilities.47485/)|Visit link for details.|Nov 10, 2023|
- |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
- |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
- |[USN-6474-1: xrdp vulnerabilities](https://www.linux.org/threads/usn-6474-1-xrdp-vulnerabilities.47480/)|Visit link for details.|Nov 9, 2023|
- |[DSA-5550 cacti - security update](https://www.linux.org/threads/dsa-5550-cacti-security-update.47477/)|Visit link for details.|Nov 9, 2023|
- |[USN-6473-1: urllib3 vulnerabilities](https://www.linux.org/threads/usn-6473-1-urllib3-vulnerabilities.47457/)|Visit link for details.|Nov 7, 2023|
- |[USN-6472-1: GNU Scientific Library vulnerability](https://www.linux.org/threads/usn-6472-1-gnu-scientific-library-vulnerability.47455/)|Visit link for details.|Nov 7, 2023|
- |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
- |[DSA-5549 trafficserver - security update](https://www.linux.org/threads/dsa-5549-trafficserver-security-update.47432/)|Visit link for details.|Nov 6, 2023|
  
 
 # CERT-FR
@@ -95,19 +95,6 @@
  |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Click Studios Passwordstate security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Hanwha Vision PNV-A6081R command execution (CVE-2023-5747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[Volkswagen ID.3 denial of service (CVE-2023-6073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- |[Froxlor privilege escalation (CVE-2023-6069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 10, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +115,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844" class="noirorange"><b>OptiPNG</b>: buffer overflow via gifread.c</a>](https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844)|An attacker can trigger a buffer overflow of OptiPNG, via gifread.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Java-Disassembler-42843" class="noirorange"><b>radare2</b>: out-of-bounds memory reading via Java Disassembler</a>](https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Java-Disassembler-42843)|An attacker can force a read at an invalid memory address of radare2, via Java Disassembler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Brain-Disassembler-42842" class="noirorange"><b>radare2</b>: out-of-bounds memory reading via Brain Disassembler</a>](https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Brain-Disassembler-42842)|An attacker can force a read at an invalid memory address of radare2, via Brain Disassembler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Proxy Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Proxy Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Multiget Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Multiget Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839" class="noirorange"><b>NVIDIA GPU Display Drive</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Drive-NULL-pointer-dereference-via-Kernel-Mode-Layer-42839)|An attacker can force a NULL pointer to be dereferenced on NVIDIA GPU Display Drive, via Kernel Mode Layer, in order to trigger a denial of service...|Visit link for details|
@@ -136,23 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836" class="noirorange"><b>Audio File Library</b>: memory reading via printfileinfo()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-memory-reading-via-printfileinfo-42836)|An attacker can read a memory fragment of Audio File Library, via printfileinfo(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835" class="noirorange"><b>Audio File Library</b>: NULL pointer dereference via ulaw2linear_buf()</a>](https://vigilance.fr/vulnerability/Audio-File-Library-NULL-pointer-dereference-via-ulaw2linear-buf-42835)|An attacker can force a NULL pointer to be dereferenced on Audio File Library, via ulaw2linear_buf(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-42834)|An attacker can use several vulnerabilities of Ivanti Endpoint Manager Mobile...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833" class="noirorange"><b>MuPDF</b>: denial of service via pdf_mark_list_push()</a>](https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-pdf-mark-list-push-42833)|An attacker can cause a fatal error of MuPDF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832" class="noirorange"><b>Pillow</b>: overload via ImageFont ImageDraw Textlength ImageFont</a>](https://vigilance.fr/vulnerability/Pillow-overload-via-ImageFont-ImageDraw-Textlength-ImageFont-42832)|An attacker can trigger an overload of Pillow, via ImageFont ImageDraw Textlength ImageFont, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831" class="noirorange"><b>Symfony</b>: Cross Site Scripting via WebhookController</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Scripting-via-WebhookController-42831)|An attacker can trigger a Cross Site Scripting of Symfony, via WebhookController, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
- |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
- |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
- |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
- |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
- |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
+ |[Check Point Harmony Endpoint privilege escalation (CVE-2023-28134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Click Studios Passwordstate security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Hanwha Vision PNV-A6081R command execution (CVE-2023-5747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-47652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
  
 
 # EU-CERT
@@ -172,6 +158,23 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
+ |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
+ |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
+ |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
+ |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
+ |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
+ |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
+ |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
+ |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
+ |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
+ |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -189,19 +192,16 @@
  |[IBM security advisory (AV23-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-675)|Visit link for details|2023-11-06|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
- |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
- |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
- |[ 44690911/23 - Vulnérabilité affectant OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssl-0)| OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  d’une   vulnérabilité affectant OpenSSL. L'exploitation  de cette vulnérabilité peut permettre à un attaquant…| 09 novembre 2023|
- |[ 44680911/23 - Vulnérabilité critique affectant la bibliothèque GNU C ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-la-bibliotheque-gnu-c)| Une vulnérabilité critique, connue sous le nom de « Looney Tunables » (CVE-2023-4911), a été corrigée affectant la bibliothèque GNU C qui est couramment utilisée dans les systèmes basés sur le noyau…| 09 novembre 2023|
- |[ 44670811/23 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-0)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer…| 08 novembre 2023|
- |[ 44660711/23 - Vulnérabilité affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-roundcube-webmail)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant Roundcube Webmail est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 07 novembre 2023|
- |[ 44650711/23 - Vulnérabilités critiques dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-veeam)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant d'exécuter du code à distance (RCE)…| 07 novembre 2023|
- |[ 44640711/23 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-3)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 07 novembre 2023|
- |[ 44630311/23 - Vulnérabilité affectant le proxy Squid ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-proxy-squid)| Une mise à jour de sécurité permettant la correction    d’une vulnérabilité affectant le proxy Squid est disponible. L'exploitation de cette vulnérabilité peut permettre à un attaquant      distant de…| 03 novembre 2023|
- |[ 44620311/23 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 03 novembre 2023|
+ |[VMware vCenter Server Appliance DCE/RPC Protocol Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1590/)|Visit link for details|2023-11-06|
+ |[VMware Workstation UHCI Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1589/)|Visit link for details|2023-11-06|
+ |[Microsoft Azure US Accelarators Synapse SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1588/)|Visit link for details|2023-11-06|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1587/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager SaveResultsToFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1586/)|Visit link for details|2023-11-06|
+ |[SolarWinds Network Configuration Manager ExportConfigs Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1585/)|Visit link for details|2023-11-06|
+ |[SolarWinds Orion Platform BlacklistedFilesChecker Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1584/)|Visit link for details|2023-11-06|
+ |[Google Chromium Vulkan SwiftShader Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)|Visit link for details|2023-11-06|
  
