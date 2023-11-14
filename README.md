@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2023 19:15:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2023 20:18:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[USN-6467-2: Kerberos vulnerability](https://www.linux.org/threads/usn-6467-2-kerberos-vulnerability.47442/)|Visit link for details.|Nov 6, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
- |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,10 +79,28 @@
  |[Natus - CVE-2023-47800](https://www.cyberveille-sante.gouv.fr/alertes/natus-cve-2023-47800-2023-11-10)|Visit link for details.|10/11/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
+ |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/)|Une vulnérabilité a été découverte dans |Publié le 9 novembre 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853" class="noirorange"><b>Xen</b>: information disclosure via x86 BTC/SRSO</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-x86-BTC-SRSO-42853)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via x86 BTC/SRSO, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852" class="noirorange"><b>Xen</b>: information disclosure via IOMMU Quarantine Page Table Levels</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via IOMMU Quarantine Page Table Levels, in order to read sensitive information on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851)|An attacker can use several vulnerabilities of SIMATIC PCS neo...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850" class="noirorange"><b>xterm</b>: buffer overflow via ReGIS reporting</a>](https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850)|An attacker can trigger a buffer overflow of xterm, via ReGIS reporting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via HTML Sanitizer Bypass</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via HTML Sanitizer Bypass, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -108,21 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844" class="noirorange"><b>OptiPNG</b>: buffer overflow via gifread.c</a>](https://vigilance.fr/vulnerability/OptiPNG-buffer-overflow-via-gifread-c-42844)|An attacker can trigger a buffer overflow of OptiPNG, via gifread.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Java-Disassembler-42843" class="noirorange"><b>radare2</b>: out-of-bounds memory reading via Java Disassembler</a>](https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Java-Disassembler-42843)|An attacker can force a read at an invalid memory address of radare2, via Java Disassembler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Brain-Disassembler-42842" class="noirorange"><b>radare2</b>: out-of-bounds memory reading via Brain Disassembler</a>](https://vigilance.fr/vulnerability/radare2-out-of-bounds-memory-reading-via-Brain-Disassembler-42842)|An attacker can force a read at an invalid memory address of radare2, via Brain Disassembler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Proxy Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Proxy-Requests-42841)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Proxy Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840" class="noirorange"><b>Memcached</b>: buffer overflow via Proxy Mode Multiget Requests</a>](https://vigilance.fr/vulnerability/Memcached-buffer-overflow-via-Proxy-Mode-Multiget-Requests-42840)|An attacker can trigger a buffer overflow of Memcached, via Proxy Mode Multiget Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Check Point Harmony Endpoint privilege escalation (CVE-2023-28134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Click Studios Passwordstate security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Hanwha Vision PNV-A6081R command execution (CVE-2023-5747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
- |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-47652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
- |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
  
 
 # HK-CERT
@@ -139,6 +126,19 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231108)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Nov 2023 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231107)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger  elevation of privilege, remote code execution, denial of service, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:There...|Release Date: 7 Nov 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231106)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 6 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Check Point Harmony Endpoint privilege escalation (CVE-2023-28134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Click Studios Passwordstate security bypass (CVE-2023-47801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Hanwha Vision PNV-A6081R command execution (CVE-2023-5747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[NETGEAR ReadyNAS OS 6 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2023|
+ |[Auto Affiliate Links Plugin for WordPress cross-site request forgery (CVE-2023-47652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[Apache Airflow security bypass (CVE-2023-47037)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
+ |[Apache Airflow information disclosure (CVE-2023-42781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2023|
  
 
 # ZERODAYINITIATIVE
