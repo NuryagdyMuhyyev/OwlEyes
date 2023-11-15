@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2023 18:21:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2023 19:16:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
  |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
  |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
  |[Microsoft Releases October 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-october-2023-security-updates)|Visit link for details.|Nov 14, 2023|
@@ -42,13 +43,15 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
  |[CISA Releases Update to Royal Ransomware Advisory](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-releases-update-royal-ransomware-advisory)|Visit link for details.|Nov 13, 2023|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
- |[ACSC and CISA Release Business Continuity in a Box](https://www.cisa.gov/news-events/alerts/2023/11/13/acsc-and-cisa-release-business-continuity-box)|Visit link for details.|Nov 13, 2023|
  
 
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6473-2: pip vulnerabilities](https://www.linux.org/threads/usn-6473-2-pip-vulnerabilities.47533/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6449-2: FFmpeg regression](https://www.linux.org/threads/usn-6449-2-ffmpeg-regression.47532/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6475-1: Cobbler vulnerabilities](https://www.linux.org/threads/usn-6475-1-cobbler-vulnerabilities.47531/)|Visit link for details.|Nov 15, 2023|
  |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
  |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
  |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
@@ -57,9 +60,22 @@
  |[USN-6456-2: Firefox regressions](https://www.linux.org/threads/usn-6456-2-firefox-regressions.47517/)|Visit link for details.|Nov 14, 2023|
  |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
  |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
- |[USN-6465-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6465-3-linux-kernel-gke-vulnerabilities.47485/)|Visit link for details.|Nov 10, 2023|
- |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
- |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0935/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
+ |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0934/)|De multiples vulnérabilités ont été découvertes dans|Publié le 14 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0933/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
+ |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  
 
 # CERT-SANTE
@@ -112,6 +128,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889" class="noirorange"><b>exfatprogs</b>: out-of-bounds memory reading via read_file_dentry_set()</a>](https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889)|An attacker can force a read at an invalid memory address of exfatprogs, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888" class="noirorange"><b>Cobbler</b>: directory escape via Profile Kickstart Field</a>](https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888)|An attacker can escape from the working directory of Cobbler, via Profile Kickstart Field, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884)|An attacker can use several vulnerabilities of AMD Processor...|Visit link for details|
@@ -122,23 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via bgp_attr_aigp_valid()</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878)|An attacker can force a read at an invalid memory address of FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via Content-Type / Content-Disposition Header</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877)|An attacker can trigger a Cross Site Scripting of Roundcube, via Content-Type / Content-Disposition Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875" class="noirorange"><b>Intel Processor</b>: privilege escalation via IPU Out-of-Band</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875)|An attacker can bypass restrictions of Intel Processor, via IPU Out-of-Band, in order to escalate his privileges...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0935/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
- |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0934/)|De multiples vulnérabilités ont été découvertes dans|Publié le 14 novembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0933/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
- |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  
 
 # ZERODAYINITIATIVE
@@ -193,6 +193,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 44821511/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-8)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 novembre 2023|
+ |[ 43811511/23 - Vulnérabilité dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-industriels-de-schneider-electric-0)| Plusieurs vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant d’injecter de code indirecte à…| 15 novembre 2023|
  |[ 444801511/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-4)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de quatre  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités…| 15 novembre 2023|
  |[ 44791511/23 - Vulnérabilité critique affectant VMware Cloud Director Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-cloud-director-appliance)| VMware annonce la correction d’une vulnérabilité critique affectant son produit VMware Cloud Director Appliance. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de…| 15 novembre 2023|
  |[ 44781511/23 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 novembre 2023|
@@ -202,6 +204,4 @@
  |[ 44741511/23 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 15 novembre 2023|
  |[ 44731411/23 - Vulnérabilités affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction de trois vulnérabilités affectant son produit PostgreSQL. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 14 novembre 2023|
  |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
- |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
- |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
  
