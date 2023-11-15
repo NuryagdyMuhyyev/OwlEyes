@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2023 15:19:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2023 16:14:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
- |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
- |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
- |[DSA-5554 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-postgresql-13-security-update.47520/)|Visit link for details.|Nov 14, 2023|
- |[DSA-5553 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-postgresql-15-security-update.47519/)|Visit link for details.|Nov 14, 2023|
- |[USN-6456-2: Firefox regressions](https://www.linux.org/threads/usn-6456-2-firefox-regressions.47517/)|Visit link for details.|Nov 14, 2023|
- |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
- |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
- |[USN-6465-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6465-3-linux-kernel-gke-vulnerabilities.47485/)|Visit link for details.|Nov 10, 2023|
- |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
- |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
- 
 
 # US-CERT
 
@@ -78,6 +61,23 @@
  |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
+ |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
+ |[DSA-5554 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-postgresql-13-security-update.47520/)|Visit link for details.|Nov 14, 2023|
+ |[DSA-5553 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-postgresql-15-security-update.47519/)|Visit link for details.|Nov 14, 2023|
+ |[USN-6456-2: Firefox regressions](https://www.linux.org/threads/usn-6456-2-firefox-regressions.47517/)|Visit link for details.|Nov 14, 2023|
+ |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
+ |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
+ |[USN-6465-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6465-3-linux-kernel-gke-vulnerabilities.47485/)|Visit link for details.|Nov 10, 2023|
+ |[USN-6462-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6462-2-linux-kernel-iot-vulnerabilities.47484/)|Visit link for details.|Nov 10, 2023|
+ |[DSA-5551 chromium - security update](https://www.linux.org/threads/dsa-5551-chromium-security-update.47481/)|Visit link for details.|Nov 9, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,23 +93,6 @@
  |[OpenVPN - CVE-2023-46850](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-46850-2023-11-13)|Visit link for details.|13/11/2023|
  |[Microsoft - CVE-2023-36014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36014-2023-11-13)|Visit link for details.|13/11/2023|
  |[Cisco - CVE-2023-20196](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20196-2023-11-13)|Visit link for details.|13/11/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883" class="noirorange"><b>Red Hat Ansible Automation Platform  Satellite</b>: directory traversal via Galaxy Importer</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883)|An attacker can traverse directories of Red Hat Ansible Automation Platform  Satellite, via Galaxy Importer, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-trans-gc-catchall-42882" class="noirorange"><b>Linux kernel</b>: use after free via nft_trans_gc_catchall()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-trans-gc-catchall-42882)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881" class="noirorange"><b>Microsoft Host Integration Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881)|An attacker can use a vulnerability of Microsoft Host Integration Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-two-vulnerabilities-42879" class="noirorange"><b>WebKitGTK</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-two-vulnerabilities-42879)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via bgp_attr_aigp_valid()</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878)|An attacker can force a read at an invalid memory address of FRRouting, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via Content-Type / Content-Disposition Header</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877)|An attacker can trigger a Cross Site Scripting of Roundcube, via Content-Type / Content-Disposition Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875" class="noirorange"><b>Intel Processor</b>: privilege escalation via IPU Out-of-Band</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875)|An attacker can bypass restrictions of Intel Processor, via IPU Out-of-Band, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-Defender-Antimalware-Platform-privilege-escalation-42872" class="noirorange"><b>Windows Defender Antimalware Platform</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Windows-Defender-Antimalware-Platform-privilege-escalation-42872)|An attacker can bypass restrictions of Windows Defender Antimalware Platform, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-information-disclosure-42871" class="noirorange"><b>Microsoft System Center Operations Manager</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-information-disclosure-42871)|An attacker can bypass access restrictions to data of Microsoft System Center Operations Manager, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -132,13 +115,44 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Intel Arc RGB Controller software privilege escalation (CVE-2023-32638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel Field Programmable Gate Array (FPGA) information disclosure (CVE-2023-22327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel Rapid Storage Technology software privilege escalation (CVE-2023-39230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel NUC Software privilege escalation (CVE-2023-32660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel NUC Software privilege escalation (CVE-2023-33878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel NUC Software privilege escalation (CVE-2023-28377)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel NUC Software privilege escalation (CVE-2023-32278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom Rooms Client for Windows and Zoom VDI Client denial of service (CVE-2023-39202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom Desktop Client for Windows and Zoom VDI Client denial of service (CVE-2023-39203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom clients denial of service (CVE-2023-39204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom <xxxx> denial of service (CVE-2023-39205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom clients denial of service (CVE-2023-39206)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom clients information disclosure (CVE-2023-39199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ |[Zoom clients information disclosure (CVE-2023-43588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR CAX30 SSO Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1636/)|Visit link for details|2023-11-14|
+ |[Delta Electronics DIAScreen XLS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1635/)|Visit link for details|2023-11-14|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1634/)|Visit link for details|2023-11-14|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1633/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1632/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1631/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1630/)|Visit link for details|2023-11-14|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1629/)|Visit link for details|2023-11-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888" class="noirorange"><b>Cobbler</b>: directory escape via Profile Kickstart Field</a>](https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888)|An attacker can escape from the working directory of Cobbler, via Profile Kickstart Field, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884)|An attacker can use several vulnerabilities of AMD Processor...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883" class="noirorange"><b>Red Hat Ansible Automation Platform  Satellite</b>: directory traversal via Galaxy Importer</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883)|An attacker can traverse directories of Red Hat Ansible Automation Platform  Satellite, via Galaxy Importer, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-trans-gc-catchall-42882" class="noirorange"><b>Linux kernel</b>: use after free via nft_trans_gc_catchall()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-trans-gc-catchall-42882)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881" class="noirorange"><b>Microsoft Host Integration Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881)|An attacker can use a vulnerability of Microsoft Host Integration Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-two-vulnerabilities-42879" class="noirorange"><b>WebKitGTK</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-two-vulnerabilities-42879)|An attacker can use several vulnerabilities of WebKitGTK...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via bgp_attr_aigp_valid()</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-bgp-attr-aigp-valid-42878)|An attacker can force a read at an invalid memory address of FRRouting, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via Content-Type / Content-Disposition Header</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-Content-Type-Content-Disposition-Header-42877)|An attacker can trigger a Cross Site Scripting of Roundcube, via Content-Type / Content-Disposition Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875" class="noirorange"><b>Intel Processor</b>: privilege escalation via IPU Out-of-Band</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-IPU-Out-of-Band-42875)|An attacker can bypass restrictions of Intel Processor, via IPU Out-of-Band, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -173,20 +187,6 @@
  |[ 44721311/23 - Vulnérabilité critique affectant Apache ActiveMQ ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-activemq)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache ActiveMQ. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 13 novembre 2023|
  |[ 44711011/23 - Vulnérabilité dans Palo Alto Networks Cortex XSOAR ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks-cortex-xsoar-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks Cortex XSOAR. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la…| 10 novembre 2023|
  |[ 44700911/23 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-0)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 09 novembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR CAX30 SSO Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1636/)|Visit link for details|2023-11-14|
- |[Delta Electronics DIAScreen XLS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1635/)|Visit link for details|2023-11-14|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1634/)|Visit link for details|2023-11-14|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1633/)|Visit link for details|2023-11-14|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1632/)|Visit link for details|2023-11-14|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1631/)|Visit link for details|2023-11-14|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1630/)|Visit link for details|2023-11-14|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1629/)|Visit link for details|2023-11-14|
  
 
 # CA-CCS
