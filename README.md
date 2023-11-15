@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2023 22:15:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2023 23:20:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6473-2: pip vulnerabilities](https://www.linux.org/threads/usn-6473-2-pip-vulnerabilities.47533/)|Visit link for details.|Nov 15, 2023|
- |[USN-6449-2: FFmpeg regression](https://www.linux.org/threads/usn-6449-2-ffmpeg-regression.47532/)|Visit link for details.|Nov 15, 2023|
- |[USN-6475-1: Cobbler vulnerabilities](https://www.linux.org/threads/usn-6475-1-cobbler-vulnerabilities.47531/)|Visit link for details.|Nov 15, 2023|
- |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
- |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
- |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
- |[DSA-5554 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-postgresql-13-security-update.47520/)|Visit link for details.|Nov 14, 2023|
- |[DSA-5553 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-postgresql-15-security-update.47519/)|Visit link for details.|Nov 14, 2023|
- |[USN-6456-2: Firefox regressions](https://www.linux.org/threads/usn-6456-2-firefox-regressions.47517/)|Visit link for details.|Nov 14, 2023|
- |[USN-6476-1: Memcached vulnerabilities](https://www.linux.org/threads/usn-6476-1-memcached-vulnerabilities.47515/)|Visit link for details.|Nov 13, 2023|
- |[DSA-5552 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-ffmpeg-security-update.47512/)|Visit link for details.|Nov 13, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,43 @@
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6483-1: HTML Tidy vulnerability](https://www.linux.org/threads/usn-6483-1-html-tidy-vulnerability.47537/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6482-1: Quagga vulnerabilities](https://www.linux.org/threads/usn-6482-1-quagga-vulnerabilities.47536/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6481-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6481-1-frr-vulnerabilities.47535/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6473-2: pip vulnerabilities](https://www.linux.org/threads/usn-6473-2-pip-vulnerabilities.47533/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6449-2: FFmpeg regression](https://www.linux.org/threads/usn-6449-2-ffmpeg-regression.47532/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6475-1: Cobbler vulnerabilities](https://www.linux.org/threads/usn-6475-1-cobbler-vulnerabilities.47531/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
+ |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
+ |[DSA-5554 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-postgresql-13-security-update.47520/)|Visit link for details.|Nov 14, 2023|
+ |[DSA-5553 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-postgresql-15-security-update.47519/)|Visit link for details.|Nov 14, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/)|De multiples vulnérabilités ont été découvertes dans les produits Aruba. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0935/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
+ |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0934/)|De multiples vulnérabilités ont été découvertes dans|Publié le 14 novembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0933/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 novembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/)|De multiples vulnérabilités ont été découvertes dans|Publié le 13 novembre 2023|
+ |[Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/)|Une vulnérabilité a été découverte dans S|Publié le 13 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 novembre 2023|
  
 
 # CERT-SANTE
@@ -110,19 +116,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884)|An attacker can use several vulnerabilities of AMD Processor...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883" class="noirorange"><b>Red Hat Ansible Automation Platform  Satellite</b>: directory traversal via Galaxy Importer</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Satellite-directory-traversal-via-Galaxy-Importer-42883)|An attacker can traverse directories of Red Hat Ansible Automation Platform  Satellite, via Galaxy Importer, in order to write a file outside the service root path...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Battery Life Diagnostic Tool privilege escalation (CVE-2023-34430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel QAT Library software information disclosure (CVE-2023-22313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel QAT drivers for Windows HW Version 2.0 privilege escalation (CVE-2023-28740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel QAT drivers for Windows HW Version 2.0 privilege escalation (CVE-2023-28378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel Graphics Drivers privilege escalation (CVE-2023-27305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel QAT drivers for Windows HW Version 1.0 privilege escalation (CVE-2023-28741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
- |[Intel OFU Software privilege escalation (CVE-2023-29161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2023|
  
 
 # HK-CERT
@@ -162,14 +155,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[GStreamer AV1 Codec Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1648/)|Visit link for details|2023-11-15|
+ |[GStreamer MXF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1647/)|Visit link for details|2023-11-15|
  |[Microsoft Exchange GsmWriter Deserialization of Untrusted Data NTLM Relay Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1646/)|Visit link for details|2023-11-15|
  |[Microsoft Windows win32kfull UMPDDrvBitBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1645/)|Visit link for details|2023-11-15|
  |[Microsoft Windows win32kfull UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1644/)|Visit link for details|2023-11-15|
  |[Microsoft Windows win32kfull UMPDDrvStretchBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1643/)|Visit link for details|2023-11-15|
  |[Microsoft Windows win32kfull UMPDDrvPlgBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1642/)|Visit link for details|2023-11-15|
  |[Microsoft Exchange FederationTrust Deserialization of Untrusted Data NTLM Relay Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1641/)|Visit link for details|2023-11-15|
- |[Microsoft Exchange TransportConfigContainer Deserialization of Untrusted Data Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1640/)|Visit link for details|2023-11-15|
- |[Microsoft .NET FormatFtpCommand CRLF Injection Arbitrary File Write and Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1639/)|Visit link for details|2023-11-15|
  
 
 # CA-CCS
