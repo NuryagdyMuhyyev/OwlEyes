@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/11/2023 18:23:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/11/2023 19:16:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5555 openvpn - security update](https://www.linux.org/threads/dsa-5555-openvpn-security-update.47542/)|Visit link for details.|Nov 16, 2023|
- |[USN-6480-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6480-1-net-vulnerabilities.47539/)|Visit link for details.|Nov 15, 2023|
- |[USN-6483-1: HTML Tidy vulnerability](https://www.linux.org/threads/usn-6483-1-html-tidy-vulnerability.47537/)|Visit link for details.|Nov 15, 2023|
- |[USN-6482-1: Quagga vulnerabilities](https://www.linux.org/threads/usn-6482-1-quagga-vulnerabilities.47536/)|Visit link for details.|Nov 15, 2023|
- |[USN-6481-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6481-1-frr-vulnerabilities.47535/)|Visit link for details.|Nov 15, 2023|
- |[USN-6473-2: pip vulnerabilities](https://www.linux.org/threads/usn-6473-2-pip-vulnerabilities.47533/)|Visit link for details.|Nov 15, 2023|
- |[USN-6449-2: FFmpeg regression](https://www.linux.org/threads/usn-6449-2-ffmpeg-regression.47532/)|Visit link for details.|Nov 15, 2023|
- |[USN-6475-1: Cobbler vulnerabilities](https://www.linux.org/threads/usn-6475-1-cobbler-vulnerabilities.47531/)|Visit link for details.|Nov 15, 2023|
- |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
- |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
- |[USN-6477-1: procps-ng vulnerability](https://www.linux.org/threads/usn-6477-1-procps-ng-vulnerability.47521/)|Visit link for details.|Nov 14, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/)|De multiples vulnérabilités ont été découvertes dans les produits Aruba. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 novembre 2023|
+ |[USN-6484-1: OpenVPN vulnerabilities](https://www.linux.org/threads/usn-6484-1-openvpn-vulnerabilities.47547/)|Visit link for details.|Nov 16, 2023|
+ |[DSA-5555 openvpn - security update](https://www.linux.org/threads/dsa-5555-openvpn-security-update.47542/)|Visit link for details.|Nov 16, 2023|
+ |[USN-6480-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6480-1-net-vulnerabilities.47539/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6483-1: HTML Tidy vulnerability](https://www.linux.org/threads/usn-6483-1-html-tidy-vulnerability.47537/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6482-1: Quagga vulnerabilities](https://www.linux.org/threads/usn-6482-1-quagga-vulnerabilities.47536/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6481-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6481-1-frr-vulnerabilities.47535/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6473-2: pip vulnerabilities](https://www.linux.org/threads/usn-6473-2-pip-vulnerabilities.47533/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6449-2: FFmpeg regression](https://www.linux.org/threads/usn-6449-2-ffmpeg-regression.47532/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6475-1: Cobbler vulnerabilities](https://www.linux.org/threads/usn-6475-1-cobbler-vulnerabilities.47531/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6479-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6479-1-linux-kernel-oem-vulnerabilities.47526/)|Visit link for details.|Nov 15, 2023|
+ |[USN-6478-1: Traceroute vulnerability](https://www.linux.org/threads/usn-6478-1-traceroute-vulnerability.47522/)|Visit link for details.|Nov 14, 2023|
  
 
 # HK-CERT
@@ -94,6 +78,35 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/)|De multiples vulnérabilités ont été découvertes dans les produits Aruba. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 novembre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[WebKitGTK and WPE WebKit spoofing (CVE-2022-32919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco IP Phone cross-site scripting (CVE-2023-20265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco Secure Endpoint for Windows denial of service (CVE-2023-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco Identity Services Engine security bypass (CVE-2023-20272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco Identity Services Engine cross-site scripting (CVE-2023-20208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,19 +122,6 @@
  |[Linux - CVE-2023-39198](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-39198-2023-11-14)|Visit link for details.|14/11/2023|
  |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|14/11/2023|
  |[SLP - CVE-2023-29552](https://www.cyberveille-sante.gouv.fr/alertes/slp-cve-2023-29552-2023-04-26)|Visit link for details.|14/11/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit spoofing (CVE-2022-32919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco IP Phone cross-site scripting (CVE-2023-20265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco Secure Endpoint for Windows denial of service (CVE-2023-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco Identity Services Engine security bypass (CVE-2023-20272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -155,23 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889" class="noirorange"><b>exfatprogs</b>: out-of-bounds memory reading via read_file_dentry_set()</a>](https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889)|An attacker can force a read at an invalid memory address of exfatprogs, via |Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 13, 2023 03:11:52 PM CET|
- |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
- |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
- |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
- |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
- |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
- |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
- |[2023-081: Multiple Vulnerabilities in VMware Aria Operations for Logs](https://cert.europa.eu/publications/security-advisories/2023-081/)|On 19 October 2023, VMware has released security updates to address two vulnerabilities affecting Aria Operations for Logs. The exploitation of the vulnerabilities could lead to Remote Code Execution and Authentication bypass. The vulnerabilities are tracked as "CVE-2023-34051" and "CVE-2023-34052" with a CVSS score of 8.1.[1]|Tuesday, October 24, 2023 03:01:30 PM CEST|
- |[2023-080: Multiple Vulnerabilities in SolarWinds Access Rights Manager (ARM)](https://cert.europa.eu/publications/security-advisories/2023-080/)|On October 18 2023, SolarWinds announced patches for eight vulnerabilities in Access Rights Manager (ARM) including eight high-severity flaws. The most severe vulnerabilities are tracked as CVE-2023-35182 and CVE-2023-35184 for Remote Code Execution Vulnerability, as well as CVE-2023-35185 and CVE-2023-35187 for Directory Traversal Remote Code Vulnerability, with a CVSS score of 8.8 out of 10.|Monday, October 23, 2023 06:16:06 PM CEST|
- |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
- |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
  |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
  |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 13, 2023 03:11:52 PM CET|
+ |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
+ |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
+ |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
+ |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
+ |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
+ |[2023-081: Multiple Vulnerabilities in VMware Aria Operations for Logs](https://cert.europa.eu/publications/security-advisories/2023-081/)|On 19 October 2023, VMware has released security updates to address two vulnerabilities affecting Aria Operations for Logs. The exploitation of the vulnerabilities could lead to Remote Code Execution and Authentication bypass. The vulnerabilities are tracked as "CVE-2023-34051" and "CVE-2023-34052" with a CVSS score of 8.1.[1]|Tuesday, October 24, 2023 03:01:30 PM CEST|
+ |[2023-080: Multiple Vulnerabilities in SolarWinds Access Rights Manager (ARM)](https://cert.europa.eu/publications/security-advisories/2023-080/)|On October 18 2023, SolarWinds announced patches for eight vulnerabilities in Access Rights Manager (ARM) including eight high-severity flaws. The most severe vulnerabilities are tracked as CVE-2023-35182 and CVE-2023-35184 for Remote Code Execution Vulnerability, as well as CVE-2023-35185 and CVE-2023-35187 for Directory Traversal Remote Code Vulnerability, with a CVSS score of 8.8 out of 10.|Monday, October 23, 2023 06:16:06 PM CEST|
+ |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
+ |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
 # MA-CERT
