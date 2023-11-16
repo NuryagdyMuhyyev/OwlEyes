@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/11/2023 16:14:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/11/2023 17:33:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,35 @@
  |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 novembre 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
+ |[Microsoft Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Azure Medium RiskRemote Code ExecutionInformation DisclosureSecurity Restriction Bypass...|Release Date: 15 Nov 2023 |
+ |[SAP Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sap-products-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in SAP Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 14 Nov 2023 |
+ |[OpenVPN Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/openvpn-multiple-vulnerabilities_20231114)|Multiple vulnerabilities were identified in OpenVPN. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 14 Nov 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[WebKitGTK and WPE WebKit spoofing (CVE-2022-32919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco IP Phone cross-site scripting (CVE-2023-20265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco Secure Endpoint for Windows denial of service (CVE-2023-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Cisco Identity Services Engine security bypass (CVE-2023-20272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -112,33 +141,18 @@
  |[<a href="https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889" class="noirorange"><b>exfatprogs</b>: out-of-bounds memory reading via read_file_dentry_set()</a>](https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889)|An attacker can force a read at an invalid memory address of exfatprogs, via |Visit link for details|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
- |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
- |[Microsoft Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Azure Medium RiskRemote Code ExecutionInformation DisclosureSecurity Restriction Bypass...|Release Date: 15 Nov 2023 |
- |[SAP Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sap-products-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in SAP Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 14 Nov 2023 |
- |[OpenVPN Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/openvpn-multiple-vulnerabilities_20231114)|Multiple vulnerabilities were identified in OpenVPN. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 14 Nov 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit spoofing (CVE-2022-32919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco IP Phone cross-site scripting (CVE-2023-20265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco Secure Endpoint for Windows denial of service (CVE-2023-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Cisco Identity Services Engine security bypass (CVE-2023-20272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1708/)|Visit link for details|2023-11-15|
  
 
 # EU-CERT
@@ -158,18 +172,21 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1708/)|Visit link for details|2023-11-15|
+ |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
+ |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
+ |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
+ |[Microsoft security advisory – October 2023 monthly rollup (AV23-700)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-700)|Visit link for details|2023-11-15|
+ |[Google Chrome security advisory (AV23-699)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-699)|Visit link for details|2023-11-14|
+ |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
+ |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
+ |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
+ |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
+ |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
+ |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
  
 
 # MA-CERT
@@ -187,21 +204,4 @@
  |[ 44781511/23 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 novembre 2023|
  |[ 44751511/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 15 novembre 2023|
  |[ 44771511/23 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2023)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de divulguer des informations confidentielles, de…| 15 novembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
- |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
- |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
- |[Microsoft security advisory – October 2023 monthly rollup (AV23-700)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-700)|Visit link for details|2023-11-15|
- |[Google Chrome security advisory (AV23-699)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-699)|Visit link for details|2023-11-14|
- |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
- |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
- |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
- |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
- |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
- |[[Control systems] Schneider Electric security advisory (AV23-693)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-693)|Visit link for details|2023-11-14|
  
