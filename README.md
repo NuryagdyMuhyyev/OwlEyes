@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/11/2023 21:23:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/11/2023 22:14:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Releases Security Update for Thunderbird](https://www.cisa.gov/news-events/alerts/2019/02/14/mozilla-releases-security-update-thunderbird)|Visit link for details.|Feb 14, 2019|
+ |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/news-events/alerts/2019/02/12/mozilla-releases-security-updates-firefox)|Visit link for details.|Feb 12, 2019|
+ |[Microsoft Releases February 2019 Security Updates](https://www.cisa.gov/news-events/alerts/2019/02/12/microsoft-releases-february-2019-security-updates)|Visit link for details.|Feb 12, 2019|
+ |[Internet Romance Scams](https://www.cisa.gov/news-events/alerts/2019/02/12/internet-romance-scams)|Visit link for details.|Feb 12, 2019|
+ |[Cisco Releases Security Update](https://www.cisa.gov/news-events/alerts/2019/02/12/cisco-releases-security-update)|Visit link for details.|Feb 12, 2019|
+ |[Adobe Releases Security Updates](https://www.cisa.gov/news-events/alerts/2019/02/12/adobe-releases-security-updates)|Visit link for details.|Feb 12, 2019|
+ |[New Session Added: CISA Awareness Briefing on Chinese Malicious Cyber Activity](https://www.cisa.gov/news-events/alerts/2019/02/12/new-session-added-cisa-awareness-briefing-chinese-malicious-cyber)|Visit link for details.|Feb 12, 2019|
+ |[runc Open-Source Container Vulnerability](https://www.cisa.gov/news-events/alerts/2019/02/11/runc-open-source-container-vulnerability)|Visit link for details.|Feb 11, 2019|
+ |[Apple Releases Multiple Security Updates](https://www.cisa.gov/news-events/alerts/2019/02/07/apple-releases-multiple-security-updates)|Visit link for details.|Feb 07, 2019|
+ |[Microsoft Releases Security Advisory for Exchange Server](https://www.cisa.gov/news-events/alerts/2019/02/05/microsoft-releases-security-advisory-exchange-server)|Visit link for details.|Feb 05, 2019|
+ 
 
 # LINUX-SEC
 
@@ -62,37 +78,34 @@
  |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 novembre 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[GStreamer code execution (CVE-2023-44429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[ASUSTeK RT-AC87U security bypass (CVE-2023-47678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Wireshark denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[Mollie module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|16/11/2023|
+ |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Microsoft - CVE-2023-36397](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36397-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Microsoft - CVE-2023-36052](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36052-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Aruba - CVE-2023-45614](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45614-2023-11-16)|Visit link for details.|16/11/2023|
  |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|16/11/2023|
+ |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|16/11/2023|
  |[Microsoft - CVE-2023-36036](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36036-2023-11-15)|Visit link for details.|15/11/2023|
  |[Microsoft - CVE-2023-36033](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36033-2023-11-15)|Visit link for details.|15/11/2023|
  |[Microsoft - CVE-2023-36025](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36025-2023-11-15)|Visit link for details.|15/11/2023|
  |[VMware - CVE-2023-34060](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34060-2023-11-15)|Visit link for details.|15/11/2023|
- |[Fortinet - CVE-2023-36553](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-36553-2023-11-15)|Visit link for details.|15/11/2023|
- |[SAP - CVE-2023-31403](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-31403-2023-11-14)|Visit link for details.|14/11/2023|
- |[Samba - CVE-2023-3961](https://www.cyberveille-sante.gouv.fr/alertes/samba-cve-2023-3961-2023-11-14)|Visit link for details.|14/11/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/11/2023|
- |[Linux - CVE-2023-39198](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-39198-2023-11-14)|Visit link for details.|14/11/2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
- |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
- |[Microsoft Releases November 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-november-2023-security-updates)|Visit link for details.|Nov 14, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Roadmap for Artificial Intelligence Adoption](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-roadmap-artificial-intelligence-adoption)|Visit link for details.|Nov 14, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/14/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2023|
  
 
 # HK-CERT
@@ -109,19 +122,6 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 14 Nov 2023 |
  |[OpenVPN Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/openvpn-multiple-vulnerabilities_20231114)|Multiple vulnerabilities were identified in OpenVPN. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 14 Nov 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231103)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, information disclosure and remote code execution on the targeted system. [Updated on 2023-11-07] Updated System...| Release Date: 3 Nov 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[ASUSTeK RT-AC87U security bypass (CVE-2023-47678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Wireshark denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Mollie module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit information disclosure (CVE-2022-32933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[WebKitGTK and WPE WebKit spoofing (CVE-2022-32919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +172,6 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Jupiter Networks security advisory (AV23-704)](https://www.cyber.gc.ca/en/alerts-advisories/jupiter-networks-security-advisory-av23-704)|Visit link for details|2023-11-16|
- |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
- |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
- |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
- |[Microsoft security advisory – October 2023 monthly rollup (AV23-700)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-700)|Visit link for details|2023-11-15|
- |[Google Chrome security advisory (AV23-699)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-699)|Visit link for details|2023-11-14|
- |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
- |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
- |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
- |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
- |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44781511/23 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 novembre 2023|
  |[ 44751511/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 15 novembre 2023|
  |[ 44771511/23 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2023)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de divulguer des informations confidentielles, de…| 15 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Jupiter Networks security advisory (AV23-704)](https://www.cyber.gc.ca/en/alerts-advisories/jupiter-networks-security-advisory-av23-704)|Visit link for details|2023-11-16|
+ |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
+ |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
+ |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
+ |[Microsoft security advisory – October 2023 monthly rollup (AV23-700)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-700)|Visit link for details|2023-11-15|
+ |[Google Chrome security advisory (AV23-699)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-699)|Visit link for details|2023-11-14|
+ |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
+ |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
+ |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
+ |[[Control systems] Rockwell Automation security advisory (AV23-695)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-695)|Visit link for details|2023-11-14|
+ |[Adobe security advisory (AV23-694)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-694)|Visit link for details|2023-11-14|
  
