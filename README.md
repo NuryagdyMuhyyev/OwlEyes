@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/11/2023 07:28:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/11/2023 08:17:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,56 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6485-1: Intel Microcode vulnerability](https://www.linux.org/threads/usn-6485-1-intel-microcode-vulnerability.47586/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5556-1 chromium - security update](https://www.linux.org/threads/dsa-5556-1-chromium-security-update.47582/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5555-1 openvpn - security update](https://www.linux.org/threads/dsa-5555-1-openvpn-security-update.47581/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5554-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-1-postgresql-13-security-update.47580/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5553-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-1-postgresql-15-security-update.47579/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5552-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-1-ffmpeg-security-update.47578/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5551-1 chromium - security update](https://www.linux.org/threads/dsa-5551-1-chromium-security-update.47577/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5550-1 cacti - security update](https://www.linux.org/threads/dsa-5550-1-cacti-security-update.47576/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5549-1 trafficserver - security update](https://www.linux.org/threads/dsa-5549-1-trafficserver-security-update.47575/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5548-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-1-openjdk-17-security-update.47574/)|Visit link for details.|Nov 17, 2023|
+ |[DSA-5547-1 pmix - security update](https://www.linux.org/threads/dsa-5547-1-pmix-security-update.47573/)|Visit link for details.|Nov 17, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
+ |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
+ |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
+ |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
+ |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ |[Microsoft Releases November 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-november-2023-security-updates)|Visit link for details.|Nov 14, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Microsoft - CVE-2023-36397](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36397-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Microsoft - CVE-2023-36052](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36052-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|16/11/2023|
+ |[Aruba - CVE-2023-45614](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45614-2023-11-16)|Visit link for details.|16/11/2023|
+ |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|16/11/2023|
+ |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|16/11/2023|
+ |[Microsoft - CVE-2023-36036](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36036-2023-11-15)|Visit link for details.|15/11/2023|
+ |[Microsoft - CVE-2023-36033](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36033-2023-11-15)|Visit link for details.|15/11/2023|
+ |[Microsoft - CVE-2023-36025](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36025-2023-11-15)|Visit link for details.|15/11/2023|
+ |[VMware - CVE-2023-34060](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34060-2023-11-15)|Visit link for details.|15/11/2023|
+ 
 
 # CERT-FR
 
@@ -65,94 +115,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vim denial of service (CVE-2023-48232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Vim denial of service (CVE-2023-48231)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Splunk Enterprise code execution (CVE-2023-46214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Splunk Enterprise cross-site scripting (CVE-2023-46213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Live Gold Price & Silver Price Charts Widgets Plugin for WordPress cross-site scripting (CVE-2023-47662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[Payara Server Micro and Payara Server Embedded open redirect (CVE-2023-41699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- |[ManageEngine products information disclosure (CVE-2023-6105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|16/11/2023|
- |[Microsoft - CVE-2023-36397](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36397-2023-11-16)|Visit link for details.|16/11/2023|
- |[Microsoft - CVE-2023-36052](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36052-2023-11-16)|Visit link for details.|16/11/2023|
- |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|16/11/2023|
- |[Aruba - CVE-2023-45614](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45614-2023-11-16)|Visit link for details.|16/11/2023|
- |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|16/11/2023|
- |[Linux - CVE-2023-35788](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-35788-2023-06-28)|Visit link for details.|16/11/2023|
- |[Microsoft - CVE-2023-36036](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36036-2023-11-15)|Visit link for details.|15/11/2023|
- |[Microsoft - CVE-2023-36033](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36033-2023-11-15)|Visit link for details.|15/11/2023|
- |[Microsoft - CVE-2023-36025](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36025-2023-11-15)|Visit link for details.|15/11/2023|
- |[VMware - CVE-2023-34060](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34060-2023-11-15)|Visit link for details.|15/11/2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
- |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
- |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
- |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
- |[Microsoft Releases November 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-november-2023-security-updates)|Visit link for details.|Nov 14, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6269-1: GStreamer Good Plugins vulnerability](https://www.linux.org/threads/usn-6269-1-gstreamer-good-plugins-vulnerability.46189/)|Visit link for details.|Aug 2, 2023|
- |[USN-6268-1: GStreamer Base Plugins vulnerabilities](https://www.linux.org/threads/usn-6268-1-gstreamer-base-plugins-vulnerabilities.46188/)|Visit link for details.|Aug 2, 2023|
- |[USN-6267-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6267-1-firefox-vulnerabilities.46185/)|Visit link for details.|Aug 2, 2023|
- |[USN-6266-1: librsvg vulnerability](https://www.linux.org/threads/usn-6266-1-librsvg-vulnerability.46175/)|Visit link for details.|Aug 1, 2023|
- |[USN-6263-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6263-1-openjdk-vulnerabilities.46171/)|Visit link for details.|Aug 1, 2023|
- |[USN-6242-2: OpenSSH vulnerability](https://www.linux.org/threads/usn-6242-2-openssh-vulnerability.46168/)|Visit link for details.|Jul 31, 2023|
- |[USN-6265-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6265-1-rabbitmq-vulnerability.46165/)|Visit link for details.|Jul 31, 2023|
- |[USN-6264-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6264-1-webkitgtk-vulnerabilities.46164/)|Visit link for details.|Jul 31, 2023|
- |[USN-6262-1: Wireshark vulnerabilities](https://www.linux.org/threads/usn-6262-1-wireshark-vulnerabilities.46156/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5463 thunderbird - security update](https://www.linux.org/threads/dsa-5463-thunderbird-security-update.46152/)|Visit link for details.|Jul 31, 2023|
- |[DSA-5462 linux - security update](https://www.linux.org/threads/dsa-5462-linux-security-update.46151/)|Visit link for details.|Jul 30, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910" class="noirorange"><b>libnbd</b>: assertion error via Ext-mode BLOCK_STATUS</a>](https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910)|An attacker can force an assertion error of libnbd, via Ext-mode BLOCK_STATUS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909" class="noirorange"><b>Go</b>: file read/write via path/filepath</a>](https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909)|An attacker can bypass access restrictions of Go, via path/filepath, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907" class="noirorange"><b>PowerShell</b>: information disclosure via Web Cmdlets</a>](https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907)|An attacker can bypass access restrictions to data of PowerShell, via Web Cmdlets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906" class="noirorange"><b>Rundeck</b>: information disclosure via Jobs Names / Groups</a>](https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906)|An attacker can bypass access restrictions to data of Rundeck, via Jobs Names / Groups, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905" class="noirorange"><b>Rundeck</b>: read-write access via Jobs Access</a>](https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905)|An attacker can bypass access restrictions of Rundeck, via Jobs Access, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904" class="noirorange"><b>Tenable Nessus</b>: file write via Alter Rules Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904)|An attacker can bypass access restrictions of Tenable Nessus, via Alter Rules Variables, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903)|An attacker can use several vulnerabilities of FileZilla Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-42901" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-42901)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899" class="noirorange"><b>Wireshark</b>: denial of service via NetScreen File Parser</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899)|An attacker can cause a fatal error of Wireshark, via NetScreen File Parser, in order to trigger a denial of service...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
+ |[Siemens COMOS information disclosure (CVE-2023-46601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Siemens OPC UA Modeling Editor (SiOME) information disclosure (CVE-2023-46590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim denial of service (CVE-2023-48237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim integer overflow (CVE-2023-48236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim denial of service (CVE-2023-48235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim denial of service (CVE-2023-48234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim denial of service (CVE-2023-48233)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
  
 
 # EU-CERT
@@ -172,6 +141,20 @@
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[Fortinet security advisory (AV23-696)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-696)|Visit link for details|2023-11-14|
  |[Intel security advisory (AV23-698)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av23-698)|Visit link for details|2023-11-14|
  |[[Control systems] AVEVA security advisory (AV23-697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-697)|Visit link for details|2023-11-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910" class="noirorange"><b>libnbd</b>: assertion error via Ext-mode BLOCK_STATUS</a>](https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910)|An attacker can force an assertion error of libnbd, via Ext-mode BLOCK_STATUS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909" class="noirorange"><b>Go</b>: file read/write via path/filepath</a>](https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909)|An attacker can bypass access restrictions of Go, via path/filepath, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907" class="noirorange"><b>PowerShell</b>: information disclosure via Web Cmdlets</a>](https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907)|An attacker can bypass access restrictions to data of PowerShell, via Web Cmdlets, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906" class="noirorange"><b>Rundeck</b>: information disclosure via Jobs Names / Groups</a>](https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906)|An attacker can bypass access restrictions to data of Rundeck, via Jobs Names / Groups, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905" class="noirorange"><b>Rundeck</b>: read-write access via Jobs Access</a>](https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905)|An attacker can bypass access restrictions of Rundeck, via Jobs Access, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904" class="noirorange"><b>Tenable Nessus</b>: file write via Alter Rules Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904)|An attacker can bypass access restrictions of Tenable Nessus, via Alter Rules Variables, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903)|An attacker can use several vulnerabilities of FileZilla Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-42901" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-42901)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899" class="noirorange"><b>Wireshark</b>: denial of service via NetScreen File Parser</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899)|An attacker can cause a fatal error of Wireshark, via NetScreen File Parser, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
