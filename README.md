@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/11/2023 13:21:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/11/2023 14:17:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5548-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5548-1-openjdk-17-security-update.47574/)|Visit link for details.|Nov 17, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
- |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
- |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
- |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
- |[Microsoft Releases November 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-november-2023-security-updates)|Visit link for details.|Nov 14, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
  |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
+ |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
+ |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
+ |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
+ |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ |[Microsoft Releases November 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/11/14/microsoft-releases-november-2023-security-updates)|Visit link for details.|Nov 14, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/11/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 14, 2023|
  
 
 # CERT-SANTE
@@ -95,23 +95,13 @@
  |[VMware - CVE-2023-34060](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34060-2023-11-15)|Visit link for details.|15/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Red Lion Sixnet RTUs command execution (CVE-2023-40151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Red Lion Sixnet RTUs security bypass (CVE-2023-42770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Luxion KeyShot Viewer code execution (CVE-2023-22139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Siemens COMOS information disclosure (CVE-2023-46601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Siemens OPC UA Modeling Editor (SiOME) information disclosure (CVE-2023-46590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Vim denial of service (CVE-2023-48237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- |[Vim integer overflow (CVE-2023-48236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915" class="noirorange"><b>PostCSS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915)|An attacker can trigger a Cross Site Scripting of PostCSS, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-XML-Parsing-42914" class="noirorange"><b>Splunk Enterprise</b>: code execution via XML Parsing</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-XML-Parsing-42914)|An attacker can use a vulnerability of Splunk Enterprise, via XML Parsing, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Show-Syntax-Highlighted-42913" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Show Syntax Highlighted</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Show-Syntax-Highlighted-42913)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Show Syntax Highlighted, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-pfn-swap-entry-to-page-42912" class="noirorange"><b>Linux kernel</b>: assertion error via pfn_swap_entry_to_page()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-pfn-swap-entry-to-page-42912)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-two-vulnerabilities-42911" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-two-vulnerabilities-42911)|An attacker can use several vulnerabilities of Trellix ePolicy Orchestrator...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910" class="noirorange"><b>libnbd</b>: assertion error via Ext-mode BLOCK_STATUS</a>](https://vigilance.fr/vulnerability/libnbd-assertion-error-via-Ext-mode-BLOCK-STATUS-42910)|An attacker can force an assertion error of libnbd, via Ext-mode BLOCK_STATUS, in order to trigger a denial of service...|Visit link for details|
@@ -120,9 +110,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907" class="noirorange"><b>PowerShell</b>: information disclosure via Web Cmdlets</a>](https://vigilance.fr/vulnerability/PowerShell-information-disclosure-via-Web-Cmdlets-42907)|An attacker can bypass access restrictions to data of PowerShell, via Web Cmdlets, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906" class="noirorange"><b>Rundeck</b>: information disclosure via Jobs Names / Groups</a>](https://vigilance.fr/vulnerability/Rundeck-information-disclosure-via-Jobs-Names-Groups-42906)|An attacker can bypass access restrictions to data of Rundeck, via Jobs Names / Groups, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905" class="noirorange"><b>Rundeck</b>: read-write access via Jobs Access</a>](https://vigilance.fr/vulnerability/Rundeck-read-write-access-via-Jobs-Access-42905)|An attacker can bypass access restrictions of Rundeck, via Jobs Access, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904" class="noirorange"><b>Tenable Nessus</b>: file write via Alter Rules Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Alter-Rules-Variables-42904)|An attacker can bypass access restrictions of Tenable Nessus, via Alter Rules Variables, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-42903)|An attacker can use several vulnerabilities of FileZilla Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
  
 
 # HK-CERT
@@ -141,18 +128,17 @@
  |[Microsoft Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Azure Medium RiskRemote Code ExecutionInformation DisclosureSecurity Restriction Bypass...|Release Date: 15 Nov 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
+ |[Red Lion Sixnet RTUs command execution (CVE-2023-40151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Red Lion Sixnet RTUs security bypass (CVE-2023-42770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Luxion KeyShot Viewer code execution (CVE-2023-22139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Siemens COMOS information disclosure (CVE-2023-46601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Siemens OPC UA Modeling Editor (SiOME) information disclosure (CVE-2023-46590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim denial of service (CVE-2023-48237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
+ |[Vim integer overflow (CVE-2023-48236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2023|
  
 
 # EU-CERT
@@ -170,6 +156,20 @@
  |[2023-080: Multiple Vulnerabilities in SolarWinds Access Rights Manager (ARM)](https://cert.europa.eu/publications/security-advisories/2023-080/)|On October 18 2023, SolarWinds announced patches for eight vulnerabilities in Access Rights Manager (ARM) including eight high-severity flaws. The most severe vulnerabilities are tracked as CVE-2023-35182 and CVE-2023-35184 for Remote Code Execution Vulnerability, as well as CVE-2023-35185 and CVE-2023-35187 for Directory Traversal Remote Code Vulnerability, with a CVSS score of 8.8 out of 10.|Monday, October 23, 2023 06:16:06 PM CEST|
  |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
  
 
 # CA-CCS
@@ -193,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
  |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
  |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
  |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
@@ -203,5 +204,4 @@
  |[ 44791511/23 - Vulnérabilité critique affectant VMware Cloud Director Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-cloud-director-appliance)| VMware annonce la correction d’une vulnérabilité critique affectant son produit VMware Cloud Director Appliance. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de…| 15 novembre 2023|
  |[ 44781511/23 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 novembre 2023|
  |[ 44751511/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 15 novembre 2023|
- |[ 44771511/23 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2023)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de divulguer des informations confidentielles, de…| 15 novembre 2023|
  
