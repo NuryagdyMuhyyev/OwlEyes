@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/11/2023 00:13:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/11/2023 01:18:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
+ |[Vulnérabilité dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/)|Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 novembre 2023|
+ |[Multiples vulnérabilités dans Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/)|De multiples vulnérabilités ont été découvertes dans Android et Pixel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0950/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 novembre 2023|
+ |[Vulnérabilité dans Wireshark NetScreen file parser](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0949/)|Une vulnérabilité a été découverte dans |Publié le 16 novembre 2023|
+ |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0948/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Microsoft - CVE-2023-36052](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36052-2023-11-16)|Visit link for details.|16/11/2023|
  |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|16/11/2023|
  |[Aruba - CVE-2023-45614](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45614-2023-11-16)|Visit link for details.|16/11/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
- |[Vulnérabilité dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/)|Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 novembre 2023|
- |[Multiples vulnérabilités dans Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/)|De multiples vulnérabilités ont été découvertes dans Android et Pixel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0950/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 novembre 2023|
- |[Vulnérabilité dans Wireshark NetScreen file parser](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0949/)|Une vulnérabilité a été découverte dans |Publié le 16 novembre 2023|
- |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0948/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 novembre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/)|Une vulnérabilité a été corrigée dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 novembre 2023|
  
 
 # HK-CERT
@@ -133,12 +133,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[NEC CLUSTERPRO X, NEC EXPRESSCLUSTER X, NEC CLUSTERPRO X SingleServerSafe, and NEC EXPRESSCLUSTER X SingleServerSafe command execution (CVE-2023-39544)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[OpenNDS Captive Portal denial of service (CVE-2023-38322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[OpenNDS Captive Portal denial of service (CVE-2023-38320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[OpenNDS Captive Portal denial of service (CVE-2023-38315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[OpenNDS Captive Portal denial of service (CVE-2023-38314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  |[OpenNDS Captive Portal denial of service (CVE-2023-38313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  |[NEC CLUSTERPRO X, NEC EXPRESSCLUSTER X, NEC CLUSTERPRO X SingleServerSafe, and NEC EXPRESSCLUSTER X SingleServerSafe command execution (CVE-2023-39545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[NEC CLUSTERPRO X, NEC EXPRESSCLUSTER X, NEC CLUSTERPRO X SingleServerSafe, and NEC EXPRESSCLUSTER X SingleServerSafe command execution (CVE-2023-39546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[NEC CLUSTERPRO X, NEC EXPRESSCLUSTER X, NEC CLUSTERPRO X SingleServerSafe, and NEC EXPRESSCLUSTER X SingleServerSafe command execution (CVE-2023-39547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[NEC CLUSTERPRO X, NEC EXPRESSCLUSTER X, NEC CLUSTERPRO X SingleServerSafe, and NEC EXPRESSCLUSTER X SingleServerSafe file upload (CVE-2023-39548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  
 
 # EU-CERT
