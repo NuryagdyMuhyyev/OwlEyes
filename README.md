@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/11/2023 23:19:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2023 00:12:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -108,6 +108,22 @@
  |[MISP unspecified (CVE-2023-48658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
+ |[Microsoft Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Azure Medium RiskRemote Code ExecutionInformation DisclosureSecurity Restriction Bypass...|Release Date: 15 Nov 2023 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -125,20 +141,18 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909" class="noirorange"><b>Go</b>: file read/write via path/filepath</a>](https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909)|An attacker can bypass access restrictions of Go, via path/filepath, in order to read or alter files...|Visit link for details|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
- |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
- |[Microsoft Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Azure Medium RiskRemote Code ExecutionInformation DisclosureSecurity Restriction Bypass...|Release Date: 15 Nov 2023 |
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
  
 
 # EU-CERT
@@ -156,20 +170,6 @@
  |[2023-080: Multiple Vulnerabilities in SolarWinds Access Rights Manager (ARM)](https://cert.europa.eu/publications/security-advisories/2023-080/)|On October 18 2023, SolarWinds announced patches for eight vulnerabilities in Access Rights Manager (ARM) including eight high-severity flaws. The most severe vulnerabilities are tracked as CVE-2023-35182 and CVE-2023-35184 for Remote Code Execution Vulnerability, as well as CVE-2023-35185 and CVE-2023-35187 for Directory Traversal Remote Code Vulnerability, with a CVSS score of 8.8 out of 10.|Monday, October 23, 2023 06:16:06 PM CEST|
  |[2023-079: Juniper Networks Junos OS Multiple Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-079/)|On October 14, 2023, Juniper Networks announced patches for more than 30 vulnerabilities in Junos OS and Junos OS Evolved, including nine high-severity flaws. The most severe vulnerability, tracked as CVE-2023-44194 with a CVSS score of 8.4 out of 10, allows an unauthenticated attacker with local access to create a backdoor with root privileges due to incorrect default permissions in a certain system directory.|Tuesday, October 17, 2023 12:33:58 PM CEST|
  |[2023-078: Cisco IOS XE Software Web UI Privilege Escalation Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-078/)|On October 16 2023, Cisco published an advisory regarding a critical vulnerability, CVE-2023-20198, affecting the Web UI of Cisco IOS XE Software. This vulnerability could allow an unauthenticated remote attacker to create a privileged level 15 account, granting them control over the affected system.|Monday, October 23, 2023 01:37:47 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm value Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1710/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC AcroForm Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1709/)|Visit link for details|2023-11-15|
  
 
 # CA-CCS
