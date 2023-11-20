@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2023 01:18:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2023 02:15:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6489-1: Tang vulnerability](https://www.linux.org/threads/usn-6489-1-tang-vulnerability.47627/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6490-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6490-1-webkitgtk-vulnerabilities.47626/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6488-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-1-strongswan-vulnerability.47625/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6487-1: Avahi vulnerabilities](https://www.linux.org/threads/usn-6487-1-avahi-vulnerabilities.47624/)|Visit link for details.|Nov 20, 2023|
  |[USN-6486-1: iniParser vulnerability](https://www.linux.org/threads/usn-6486-1-iniparser-vulnerability.47620/)|Visit link for details.|Nov 20, 2023|
  |[DSA-5559-1 wireshark - security update](https://www.linux.org/threads/dsa-5559-1-wireshark-security-update.47617/)|Visit link for details.|Nov 20, 2023|
  |[DSA-5558-1 netty - security update](https://www.linux.org/threads/dsa-5558-1-netty-security-update.47610/)|Visit link for details.|Nov 18, 2023|
@@ -40,10 +44,6 @@
  |[USN-6485-1: Intel Microcode vulnerability](https://www.linux.org/threads/usn-6485-1-intel-microcode-vulnerability.47586/)|Visit link for details.|Nov 17, 2023|
  |[DSA-5556-1 chromium - security update](https://www.linux.org/threads/dsa-5556-1-chromium-security-update.47582/)|Visit link for details.|Nov 17, 2023|
  |[DSA-5555-1 openvpn - security update](https://www.linux.org/threads/dsa-5555-1-openvpn-security-update.47581/)|Visit link for details.|Nov 17, 2023|
- |[DSA-5554-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5554-1-postgresql-13-security-update.47580/)|Visit link for details.|Nov 17, 2023|
- |[DSA-5553-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5553-1-postgresql-15-security-update.47579/)|Visit link for details.|Nov 17, 2023|
- |[DSA-5552-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5552-1-ffmpeg-security-update.47578/)|Visit link for details.|Nov 17, 2023|
- |[DSA-5551-1 chromium - security update](https://www.linux.org/threads/dsa-5551-1-chromium-security-update.47577/)|Visit link for details.|Nov 17, 2023|
  
 
 # US-CERT
@@ -94,6 +94,23 @@
  |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
+ |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -111,6 +128,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
@@ -119,26 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920" class="noirorange"><b>lwIP</b>: information disclosure via icmp6_send_response_with_addrs_and_netif()</a>](https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920)|An attacker can bypass access restrictions to data of lwIP, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Discovered Hosts List</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Discovered Hosts List, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Method-42918" class="noirorange"><b>Centreon Web</b>: SQL injection via Method</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Method-42918)|An attacker can use a SQL injection of Centreon Web, via Method, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-NVMe-oF-TCP-42917" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via NVMe-oF/TCP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-NVMe-oF-TCP-42917)|An attacker can force a read at an invalid memory address of the Linux kernel, via NVMe-oF/TCP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-bpf-exec-tx-verdict-42916" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via bpf_exec_tx_verdict()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-bpf-exec-tx-verdict-42916)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915" class="noirorange"><b>PostCSS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915)|An attacker can trigger a Cross Site Scripting of PostCSS, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
- |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
- |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
- |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
- |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
- |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
- |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
- |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
- |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
  
 
 # ZERODAYINITIATIVE
@@ -176,6 +176,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
  |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
  |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
  |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
@@ -186,7 +187,6 @@
  |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
  |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
  |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
- |[Microsoft security advisory – October 2023 monthly rollup (AV23-700)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2023-monthly-rollup-av23-700)|Visit link for details|2023-11-15|
  
 
 # MA-CERT
