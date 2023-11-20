@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/11/2023 09:21:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/11/2023 10:16:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans Nessus et Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0954/)|De multiples vulnérabilités ont été découvertes dans Nessus et Nessus Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
- |[Vulnérabilité dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/)|Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 novembre 2023|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
+ |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
+ |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
+ |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
+ |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
+ |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
  
 
 # LINUX-SEC
@@ -62,20 +62,20 @@
  |[DSA-5550-1 cacti - security update](https://www.linux.org/threads/dsa-5550-1-cacti-security-update.47576/)|Visit link for details.|Nov 17, 2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
- |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
- |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
- |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
- |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans Nessus et Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0954/)|De multiples vulnérabilités ont été découvertes dans Nessus et Nessus Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 novembre 2023|
+ |[Vulnérabilité dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/)|Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 16 novembre 2023|
  
 
 # CERT-SANTE
@@ -95,19 +95,6 @@
  |[Aruba - CVE-2023-45614](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45614-2023-11-16)|Visit link for details.|16/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Code Projects Inventory Management cross-site scripting (CVE-2023-46580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[Code Projects Inventory Management SQL injection (CVE-2023-46581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[Code Projects Inventory Management SQL injection (CVE-2023-46582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[MISP unspecified (CVE-2023-48655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[MISP unspecified (CVE-2023-48656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[MISP unspecified (CVE-2023-48657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[MISP unspecified (CVE-2023-48658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
  |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Code Projects Inventory Management cross-site scripting (CVE-2023-46580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[Code Projects Inventory Management SQL injection (CVE-2023-46581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[Code Projects Inventory Management SQL injection (CVE-2023-46582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[MISP unspecified (CVE-2023-48655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[MISP unspecified (CVE-2023-48656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[MISP unspecified (CVE-2023-48657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[MISP unspecified (CVE-2023-48658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  
 
 # OBS-Vigilance
