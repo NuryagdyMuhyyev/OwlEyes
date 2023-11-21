@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2023 16:14:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2023 17:34:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
+ |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
+ |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
+ |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
+ |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
+ |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ 
 
 # LINUX-SEC
 
@@ -62,20 +78,21 @@
  |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
- |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
- |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Unpack Handler</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Unpack Handler, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Fuzzed File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Fuzzed File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929" class="noirorange"><b>WordPress Core</b>: information disclosure via Email Leak</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929)|An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922" class="noirorange"><b>GStreamer</b>: use after free via MXF Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922)|An attacker can force the reuse of a freed memory area of GStreamer, via MXF Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -91,52 +108,20 @@
  |[MISP unspecified (CVE-2023-48658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  
 
-# CERT-SANTE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
- |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
- |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
- |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
- |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
- |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
- |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
- |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
- |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929" class="noirorange"><b>WordPress Core</b>: information disclosure via Email Leak</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929)|An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922" class="noirorange"><b>GStreamer</b>: use after free via MXF Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922)|An attacker can force the reuse of a freed memory area of GStreamer, via MXF Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920" class="noirorange"><b>lwIP</b>: information disclosure via icmp6_send_response_with_addrs_and_netif()</a>](https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920)|An attacker can bypass access restrictions to data of lwIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Discovered Hosts List</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Discovered Hosts List, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
+ |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
+ |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
  
 
 # EU-CERT
@@ -156,37 +141,35 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
- |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
- |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
- |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
- |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
- |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
- |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
- |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
- |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
- |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
- |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
- |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
- |[FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group)|Visit link for details.|Nov 16, 2023|
- |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
- |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
- |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
- |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
+ |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
+ |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
  
 
 # CA-CCS
@@ -204,4 +187,21 @@
  |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
  |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
  |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
+ |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
+ |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
+ |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
+ |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
+ |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
+ |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
+ |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
+ |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
+ |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
  
