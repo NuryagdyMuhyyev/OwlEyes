@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2023 02:15:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2023 03:16:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[USN-6494-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-1-linux-kernel-vulnerabilities.47638/)|Visit link for details.|Nov 21, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0963/)|Une vulnérabilité a été découverte dans |Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0962/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,39 +95,6 @@
  |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans Microsoft Powershell](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/)|Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 novembre 2023|
- |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
- |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0963/)|Une vulnérabilité a été découverte dans |Publié le 20 novembre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0962/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941" class="noirorange"><b>GnuTLS</b>: information disclosure via RSA-PSK Key Exchange Timing Sidechannel</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941)|An attacker can bypass access restrictions to data of GnuTLS, via RSA-PSK Key Exchange Timing Sidechannel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE EOR</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE EOR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939" class="noirorange"><b>FRRouting</b>: denial of service via MP_UNREACH_NLRI Attribute Additional NLRI Data</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939)|An attacker can cause a fatal error of FRRouting, via MP_UNREACH_NLRI Attribute Additional NLRI Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via Labeled Unicast</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938)|An attacker can force a read at an invalid memory address of FRRouting, via Labeled Unicast, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via aswSnx.sys</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936)|An attacker can bypass restrictions of Avast Antivirus, via aswSnx.sys, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935" class="noirorange"><b>Eclipse Mosquitto</b>: memory leak via MQTT V5 CONNECT Message</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935)|An attacker can create a memory leak of Eclipse Mosquitto, via MQTT V5 CONNECT Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hibagent-information-disclosure-via-IMDSv1-42933" class="noirorange"><b>hibagent</b>: information disclosure via IMDSv1</a>](https://vigilance.fr/vulnerability/hibagent-information-disclosure-via-IMDSv1-42933)|An attacker can bypass access restrictions to data of hibagent, via IMDSv1, in order to read sensitive information...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -126,6 +109,50 @@
  |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231115)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Nov 2023 |
  |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tooltips Plugin for WordPress cross-site request forgery (CVE-2023-25985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2023|
+ |[OpenCRX HTML injection (CVE-2023-40816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[OpenCRX HTML injection (CVE-2023-40817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[Code Projects Inventory Management cross-site scripting (CVE-2023-46580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[Code Projects Inventory Management SQL injection (CVE-2023-46581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[Code Projects Inventory Management SQL injection (CVE-2023-46582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ |[MISP unspecified (CVE-2023-48655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941" class="noirorange"><b>GnuTLS</b>: information disclosure via RSA-PSK Key Exchange Timing Sidechannel</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941)|An attacker can bypass access restrictions to data of GnuTLS, via RSA-PSK Key Exchange Timing Sidechannel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE EOR</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE EOR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939" class="noirorange"><b>FRRouting</b>: denial of service via MP_UNREACH_NLRI Attribute Additional NLRI Data</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939)|An attacker can cause a fatal error of FRRouting, via MP_UNREACH_NLRI Attribute Additional NLRI Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via Labeled Unicast</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938)|An attacker can force a read at an invalid memory address of FRRouting, via Labeled Unicast, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via aswSnx.sys</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936)|An attacker can bypass restrictions of Avast Antivirus, via aswSnx.sys, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935" class="noirorange"><b>Eclipse Mosquitto</b>: memory leak via MQTT V5 CONNECT Message</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935)|An attacker can create a memory leak of Eclipse Mosquitto, via MQTT V5 CONNECT Message, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  
 
 # EU-CERT
@@ -145,20 +172,6 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -174,19 +187,6 @@
  |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
  |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
  |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tooltips Plugin for WordPress cross-site request forgery (CVE-2023-25985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2023|
- |[OpenCRX HTML injection (CVE-2023-40816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[OpenCRX HTML injection (CVE-2023-40817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[Code Projects Inventory Management cross-site scripting (CVE-2023-46580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[Code Projects Inventory Management SQL injection (CVE-2023-46581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[Code Projects Inventory Management SQL injection (CVE-2023-46582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
- |[MISP unspecified (CVE-2023-48655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2023|
  
 
 # CA-CCS
