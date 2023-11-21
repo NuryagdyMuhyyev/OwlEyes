@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2023 17:34:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2023 18:21:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6491-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6491-1-node-js-vulnerabilities.47634/)|Visit link for details.|Nov 21, 2023|
+ |[DSA-5560-1 strongswan - security update](https://www.linux.org/threads/dsa-5560-1-strongswan-security-update.47629/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6489-1: Tang vulnerability](https://www.linux.org/threads/usn-6489-1-tang-vulnerability.47627/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6490-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6490-1-webkitgtk-vulnerabilities.47626/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6488-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-1-strongswan-vulnerability.47625/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6487-1: Avahi vulnerabilities](https://www.linux.org/threads/usn-6487-1-avahi-vulnerabilities.47624/)|Visit link for details.|Nov 20, 2023|
+ |[USN-6486-1: iniParser vulnerability](https://www.linux.org/threads/usn-6486-1-iniparser-vulnerability.47620/)|Visit link for details.|Nov 20, 2023|
+ |[DSA-5559-1 wireshark - security update](https://www.linux.org/threads/dsa-5559-1-wireshark-security-update.47617/)|Visit link for details.|Nov 20, 2023|
+ |[DSA-5558-1 netty - security update](https://www.linux.org/threads/dsa-5558-1-netty-security-update.47610/)|Visit link for details.|Nov 18, 2023|
+ |[DSA-5557-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5557-1-webkit2gtk-security-update.47588/)|Visit link for details.|Nov 17, 2023|
+ |[USN-6485-1: Intel Microcode vulnerability](https://www.linux.org/threads/usn-6485-1-intel-microcode-vulnerability.47586/)|Visit link for details.|Nov 17, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,23 +60,6 @@
  |[CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware](https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware)|Visit link for details.|Nov 15, 2023|
  |[VMware Releases Security Update for Cloud Director Appliance](https://www.cisa.gov/news-events/alerts/2023/11/14/vmware-releases-security-update-cloud-director-appliance)|Visit link for details.|Nov 14, 2023|
  |[Fortinet Releases Security Updates for FortiClient and FortiGate](https://www.cisa.gov/news-events/alerts/2023/11/14/fortinet-releases-security-updates-forticlient-and-fortigate)|Visit link for details.|Nov 14, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5560-1 strongswan - security update](https://www.linux.org/threads/dsa-5560-1-strongswan-security-update.47629/)|Visit link for details.|Nov 21, 2023|
- |[USN-6489-1: Tang vulnerability](https://www.linux.org/threads/usn-6489-1-tang-vulnerability.47627/)|Visit link for details.|Nov 20, 2023|
- |[USN-6490-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6490-1-webkitgtk-vulnerabilities.47626/)|Visit link for details.|Nov 20, 2023|
- |[USN-6488-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-1-strongswan-vulnerability.47625/)|Visit link for details.|Nov 20, 2023|
- |[USN-6487-1: Avahi vulnerabilities](https://www.linux.org/threads/usn-6487-1-avahi-vulnerabilities.47624/)|Visit link for details.|Nov 20, 2023|
- |[USN-6486-1: iniParser vulnerability](https://www.linux.org/threads/usn-6486-1-iniparser-vulnerability.47620/)|Visit link for details.|Nov 20, 2023|
- |[DSA-5559-1 wireshark - security update](https://www.linux.org/threads/dsa-5559-1-wireshark-security-update.47617/)|Visit link for details.|Nov 20, 2023|
- |[DSA-5558-1 netty - security update](https://www.linux.org/threads/dsa-5558-1-netty-security-update.47610/)|Visit link for details.|Nov 18, 2023|
- |[DSA-5557-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5557-1-webkit2gtk-security-update.47588/)|Visit link for details.|Nov 17, 2023|
- |[USN-6485-1: Intel Microcode vulnerability](https://www.linux.org/threads/usn-6485-1-intel-microcode-vulnerability.47586/)|Visit link for details.|Nov 17, 2023|
- |[DSA-5556-1 chromium - security update](https://www.linux.org/threads/dsa-5556-1-chromium-security-update.47582/)|Visit link for details.|Nov 17, 2023|
  
 
 # CERT-FR
@@ -78,21 +78,21 @@
  |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Unpack Handler</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Unpack Handler, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Fuzzed File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Fuzzed File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929" class="noirorange"><b>WordPress Core</b>: information disclosure via Email Leak</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929)|An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922" class="noirorange"><b>GStreamer</b>: use after free via MXF Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922)|An attacker can force the reuse of a freed memory area of GStreamer, via MXF Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
+ |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
+ |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,6 +124,37 @@
  |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20231115)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 15 Nov 2023 |
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Unpack Handler</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Unpack-Handler-42932)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Unpack Handler, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Fuzzed File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Fuzzed-File-42931)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Fuzzed File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929" class="noirorange"><b>WordPress Core</b>: information disclosure via Email Leak</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929)|An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922" class="noirorange"><b>GStreamer</b>: use after free via MXF Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922)|An attacker can force the reuse of a freed memory area of GStreamer, via MXF Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -141,35 +172,21 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
- |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
- |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
- |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
- |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|20/11/2023|
- |[ManageEngine - CVE-2023-4769](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-4769-2023-11-17)|Visit link for details.|17/11/2023|
- |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|17/11/2023|
- |[Fortinet - CVE-2023-44252](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-44252-2023-11-17)|Visit link for details.|17/11/2023|
- |[Aruba - CVE-2023-45616](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-45616-2023-11-17)|Visit link for details.|17/11/2023|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
+ |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
+ |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
+ |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
+ |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
+ |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
+ |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
+ |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
+ |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
+ |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
  
 
 # CA-CCS
@@ -187,21 +204,4 @@
  |[Citrix security advisory (AV23-703)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av23-703)|Visit link for details|2023-11-15|
  |[VMware security advisory (AV23-702)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-702)|Visit link for details|2023-11-15|
  |[HPE security advisory (AV23-701)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-701)|Visit link for details|2023-11-15|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
- |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
- |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
- |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
- |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
- |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
- |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
- |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
- |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
- |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
- |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
  
