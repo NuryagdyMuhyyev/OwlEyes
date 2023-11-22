@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2023 12:15:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2023 13:22:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Requests Comment on Draft Secure Software Development Attestation Form](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-requests-comment-draft-secure-software-development-attestation-form)|Visit link for details.|Nov 16, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans Microsoft Powershell](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/)|Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 novembre 2023|
- |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
- |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0963/)|Une vulnérabilité a été découverte dans |Publié le 20 novembre 2023|
- |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0962/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,6 +95,22 @@
  |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0963/)|Une vulnérabilité a été découverte dans |Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0962/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0955/)|Une vulnérabilité a été découverte dans|Publié le 17 novembre 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,6 +128,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
@@ -138,7 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via aswSnx.sys</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936)|An attacker can bypass restrictions of Avast Antivirus, via aswSnx.sys, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935" class="noirorange"><b>Eclipse Mosquitto</b>: memory leak via MQTT V5 CONNECT Message</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935)|An attacker can create a memory leak of Eclipse Mosquitto, via MQTT V5 CONNECT Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +172,6 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
- |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
- |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
- |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
- |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
- |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
- |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
- |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
- |[Microsoft Edge security advisory (AV23-707)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-707)|Visit link for details|2023-11-17|
- |[[Control systems] Red Lion security advisory (AV23-706)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-security-advisory-av23-706)|Visit link for details|2023-11-16|
- |[[Control systems] Hitachi Energy security advisory (AV23-705)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-705)|Visit link for details|2023-11-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 44851611/23 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-11)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 16 novembre 2023|
  |[ 44841611/23 - Vulnérabilité critique affectant le plugin «WP Fastest Cache» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-fastest-cache-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «WP Fastest Cache». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 16 novembre 2023|
  |[ 44831611/23 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-1)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieursvulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 16 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
+ |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
+ |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
+ |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
+ |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
+ |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
+ |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
+ |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
+ |[Microsoft Edge security advisory (AV23-707)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-707)|Visit link for details|2023-11-17|
+ |[[Control systems] Red Lion security advisory (AV23-706)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-security-advisory-av23-706)|Visit link for details|2023-11-16|
+ |[[Control systems] Hitachi Energy security advisory (AV23-705)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-705)|Visit link for details|2023-11-16|
  
