@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2023 16:15:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2023 17:33:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6503-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6503-1-linux-kernel-vulnerabilities.47652/)|Visit link for details.|Nov 21, 2023|
- |[USN-6502-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-1-linux-kernel-vulnerabilities.47651/)|Visit link for details.|Nov 21, 2023|
- |[USN-6501-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6501-1-rabbitmq-vulnerability.47650/)|Visit link for details.|Nov 21, 2023|
- |[USN-6500-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6500-1-squid-vulnerabilities.47645/)|Visit link for details.|Nov 21, 2023|
- |[USN-6495-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-1-linux-kernel-vulnerabilities.47644/)|Visit link for details.|Nov 21, 2023|
- |[USN-6499-1: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-1-gnutls-vulnerability.47643/)|Visit link for details.|Nov 21, 2023|
- |[USN-6498-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6498-1-frr-vulnerabilities.47642/)|Visit link for details.|Nov 21, 2023|
- |[USN-6492-1: Mosquitto vulnerabilities](https://www.linux.org/threads/usn-6492-1-mosquitto-vulnerabilities.47641/)|Visit link for details.|Nov 21, 2023|
- |[USN-6497-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6497-1-linux-kernel-oem-vulnerabilities.47640/)|Visit link for details.|Nov 21, 2023|
- |[USN-6496-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-1-linux-kernel-vulnerabilities.47639/)|Visit link for details.|Nov 21, 2023|
- |[USN-6494-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-1-linux-kernel-vulnerabilities.47638/)|Visit link for details.|Nov 21, 2023|
- 
 
 # US-CERT
 
@@ -78,51 +61,21 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2023-5593](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5593-2023-11-21)|Visit link for details.|21/11/2023|
- |[Netgear - CVE-2023-44450](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44450-2023-11-21)|Visit link for details.|21/11/2023|
- |[Fortinet - CVE-2023-25603](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-25603-2023-11-21)|Visit link for details.|21/11/2023|
- |[CheckPoint - CVE-2023-28134](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-cve-2023-28134-2023-11-21)|Visit link for details.|21/11/2023|
- |[Aruba Networks - CVE-2023-45617](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45617-2023-11-21)|Visit link for details.|21/11/2023|
- |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
- |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
- |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
- |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
- |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Duet Display code execution (CVE-2023-6235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[AXIS OS security bypass (CVE-2023-5553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[Mitsubishi Electric GX Works2 denial of service (CVE-2023-5275)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[Mitsubishi Electric GX Works2 denial of service (CVE-2023-5274)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[Mozilla Firefox for iOS HTML injection (CVE-2023-49061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[Mozilla Firefox for iOS privilege escalation (CVE-2023-49060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- |[Fuji Electric Tellus Lite V-Simulator security bypass (CVE-2023-5299)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941" class="noirorange"><b>GnuTLS</b>: information disclosure via RSA-PSK Key Exchange Timing Sidechannel</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941)|An attacker can bypass access restrictions to data of GnuTLS, via RSA-PSK Key Exchange Timing Sidechannel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE EOR</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE EOR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939" class="noirorange"><b>FRRouting</b>: denial of service via MP_UNREACH_NLRI Attribute Additional NLRI Data</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939)|An attacker can cause a fatal error of FRRouting, via MP_UNREACH_NLRI Attribute Additional NLRI Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via Labeled Unicast</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938)|An attacker can force a read at an invalid memory address of FRRouting, via Labeled Unicast, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via aswSnx.sys</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936)|An attacker can bypass restrictions of Avast Antivirus, via aswSnx.sys, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935" class="noirorange"><b>Eclipse Mosquitto</b>: memory leak via MQTT V5 CONNECT Message</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935)|An attacker can create a memory leak of Eclipse Mosquitto, via MQTT V5 CONNECT Message, in order to trigger a denial of service...|Visit link for details|
+ |[USN-6503-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6503-1-linux-kernel-vulnerabilities.47652/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6502-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-1-linux-kernel-vulnerabilities.47651/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6501-1: RabbitMQ vulnerability](https://www.linux.org/threads/usn-6501-1-rabbitmq-vulnerability.47650/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6500-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6500-1-squid-vulnerabilities.47645/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6495-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-1-linux-kernel-vulnerabilities.47644/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6499-1: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-1-gnutls-vulnerability.47643/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6498-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6498-1-frr-vulnerabilities.47642/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6492-1: Mosquitto vulnerabilities](https://www.linux.org/threads/usn-6492-1-mosquitto-vulnerabilities.47641/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6497-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6497-1-linux-kernel-oem-vulnerabilities.47640/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6496-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-1-linux-kernel-vulnerabilities.47639/)|Visit link for details.|Nov 21, 2023|
+ |[USN-6494-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-1-linux-kernel-vulnerabilities.47638/)|Visit link for details.|Nov 21, 2023|
  
 
 # HK-CERT
@@ -141,6 +94,36 @@
  |[Adobe Monthly Security Update (November 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionSecurity Restriction BypassCross-site Scripting APSB23-52Adobe RoboHelp...|Release Date: 15 Nov 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Duet Display code execution (CVE-2023-6235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[AXIS OS security bypass (CVE-2023-5553)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[Mitsubishi Electric GX Works2 denial of service (CVE-2023-5275)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[Mitsubishi Electric GX Works2 denial of service (CVE-2023-5274)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[Mozilla Firefox for iOS HTML injection (CVE-2023-49061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[Mozilla Firefox for iOS privilege escalation (CVE-2023-49060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ |[Fuji Electric Tellus Lite V-Simulator security bypass (CVE-2023-5299)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2023-5593](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5593-2023-11-21)|Visit link for details.|21/11/2023|
+ |[Netgear - CVE-2023-44450](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44450-2023-11-21)|Visit link for details.|21/11/2023|
+ |[Fortinet - CVE-2023-25603](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-25603-2023-11-21)|Visit link for details.|21/11/2023|
+ |[CheckPoint - CVE-2023-28134](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-cve-2023-28134-2023-11-21)|Visit link for details.|21/11/2023|
+ |[Aruba Networks - CVE-2023-45617](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45617-2023-11-21)|Visit link for details.|21/11/2023|
+ |[Microsoft - CVE-2023-36038](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36038-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Intel - CVE-2023-23583](https://www.cyberveille-sante.gouv.fr/alertes/intel-cve-2023-23583-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Google - CVE-2023-6112](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6112-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Norton - CVE-2023-5760](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2023-5760-2023-11-20)|Visit link for details.|20/11/2023|
+ |[Aruba Networks - CVE-2023-45615](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45615-2023-11-20)|Visit link for details.|20/11/2023|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|20/11/2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +136,23 @@
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
  |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1711/)|Visit link for details|2023-11-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941" class="noirorange"><b>GnuTLS</b>: information disclosure via RSA-PSK Key Exchange Timing Sidechannel</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941)|An attacker can bypass access restrictions to data of GnuTLS, via RSA-PSK Key Exchange Timing Sidechannel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE EOR</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE EOR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939" class="noirorange"><b>FRRouting</b>: denial of service via MP_UNREACH_NLRI Attribute Additional NLRI Data</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939)|An attacker can cause a fatal error of FRRouting, via MP_UNREACH_NLRI Attribute Additional NLRI Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via Labeled Unicast</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938)|An attacker can force a read at an invalid memory address of FRRouting, via Labeled Unicast, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -172,6 +172,22 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
+ |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
+ |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
+ |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
+ |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
+ |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
+ |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
+ |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,20 +203,4 @@
  |[Microsoft Edge security advisory (AV23-707)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-707)|Visit link for details|2023-11-17|
  |[[Control systems] Red Lion security advisory (AV23-706)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-red-lion-security-advisory-av23-706)|Visit link for details|2023-11-16|
  |[[Control systems] Hitachi Energy security advisory (AV23-705)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-705)|Visit link for details|2023-11-16|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
- |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
- |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
- |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
- |[ 44891711/23 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-1)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 17 novembre 2023|
- |[ 44881711/23 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-1)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 17 novembre 2023|
- |[ 44871711/23 - Vulnérabilité dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de FortiSIEM. L’exploitation de cette faille peut permettre à un attaquant d'exécuter des…| 17 novembre 2023|
- |[ 44861711/23 - Vulnérabilités dans Citrix Hypervisor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-hypervisor-2)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles…| 17 novembre 2023|
- |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
  
