@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/11/2023 11:22:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/11/2023 12:15:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/11/22/adobe-releases-security-updates-coldfusion)|Visit link for details.|Nov 22, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/11/22/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Nov 22, 2023|
+ |[CISA, FBI, MS-ISAC, and ASD’s ACSC Release Advisory on LockBit Affiliates Exploiting Citrix Bleed](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-fbi-ms-isac-and-asds-acsc-release-advisory-lockbit-affiliates-exploiting-citrix-bleed)|Visit link for details.|Nov 21, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 21, 2023|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
+ |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
+ |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
+ |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,20 @@
  |[USN-6495-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-1-linux-kernel-vulnerabilities.47644/)|Visit link for details.|Nov 21, 2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/11/22/adobe-releases-security-updates-coldfusion)|Visit link for details.|Nov 22, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/11/22/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Nov 22, 2023|
- |[CISA, FBI, MS-ISAC, and ASD’s ACSC Release Advisory on LockBit Affiliates Exploiting Citrix Bleed](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-fbi-ms-isac-and-asds-acsc-release-advisory-lockbit-affiliates-exploiting-citrix-bleed)|Visit link for details.|Nov 21, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 21, 2023|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
- |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
- |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
- |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
+ |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
+ |[Vulnérabilité dans Microsoft Powershell](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/)|Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 novembre 2023|
+ |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0963/)|Une vulnérabilité a été découverte dans |Publié le 20 novembre 2023|
+ |[Vulnérabilité dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0962/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 20 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 novembre 2023|
  
 
 # CERT-SANTE
@@ -108,22 +124,6 @@
  |[Zephyr denial of service (CVE-2023-4424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
- |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans Microsoft Powershell](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/)|Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 novembre 2023|
- |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -155,21 +155,21 @@
  |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
-# CA-CCS
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Atlassian security advisory (AV23-717)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-717)|Visit link for details|2023-11-22|
- |[HPE security advisory (AV23-716)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-716)|Visit link for details|2023-11-22|
- |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
- |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
- |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
- |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
- |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
- |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
- |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
- |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
- |[Microsoft Edge security advisory (AV23-707)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-707)|Visit link for details|2023-11-17|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
+ |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
+ |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
+ |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
+ |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
+ |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
+ |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
 # MA-CERT
@@ -188,19 +188,19 @@
  |[ 44851611/23 - Vulnérabilités affectant des produits Aruba ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-aruba)| Aruba Networks annonce la correction de  plusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peut  permettre  à un…| 16 novembre 2023|
  
 
-# EU-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
- |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
- |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
- |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
- |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
- |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
- |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
- |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
+ |[Atlassian security advisory (AV23-717)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-717)|Visit link for details|2023-11-22|
+ |[HPE security advisory (AV23-716)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-716)|Visit link for details|2023-11-22|
+ |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
+ |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
+ |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
+ |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
+ |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
+ |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
+ |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
+ |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
+ |[Microsoft Edge security advisory (AV23-707)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-707)|Visit link for details|2023-11-17|
  
