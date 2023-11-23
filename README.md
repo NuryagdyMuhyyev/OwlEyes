@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/11/2023 02:14:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/11/2023 03:16:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,9 +49,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
  |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
  |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
@@ -59,12 +56,17 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
  |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
+ |[Vulnérabilité dans Microsoft Powershell](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/)|Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 novembre 2023|
+ |[Vulnérabilité dans CheckPoint Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0964/)|Une vulnérabilité a été découverte dans CheckPoint Endpoint Security (également dénommé Harmony Endpoint ou ZoneAlarm Extreme Security). Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 novembre 2023|
  
 
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6513-1: Python vulnerabilities](https://www.linux.org/threads/usn-6513-1-python-vulnerabilities.47679/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6512-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6512-1-libtiff-vulnerabilities.47678/)|Visit link for details.|Nov 23, 2023|
  |[USN-6511-1: OpenZFS vulnerability](https://www.linux.org/threads/usn-6511-1-openzfs-vulnerability.47677/)|Visit link for details.|Nov 23, 2023|
  |[USN-6510-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6510-1-apache-http-server-vulnerability.47676/)|Visit link for details.|Nov 23, 2023|
  |[USN-6509-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6509-1-firefox-vulnerabilities.47672/)|Visit link for details.|Nov 23, 2023|
@@ -74,8 +76,6 @@
  |[USN-6507-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6507-1-glusterfs-vulnerability.47664/)|Visit link for details.|Nov 22, 2023|
  |[USN-6506-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6506-1-apache-http-server-vulnerabilities.47663/)|Visit link for details.|Nov 22, 2023|
  |[USN-6505-1: nghttp2 vulnerability](https://www.linux.org/threads/usn-6505-1-nghttp2-vulnerability.47662/)|Visit link for details.|Nov 22, 2023|
- |[USN-6504-1: tracker-miners vulnerability](https://www.linux.org/threads/usn-6504-1-tracker-miners-vulnerability.47661/)|Visit link for details.|Nov 22, 2023|
- |[USN-6503-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6503-1-linux-kernel-vulnerabilities.47652/)|Visit link for details.|Nov 21, 2023|
  
 
 # CERT-SANTE
@@ -108,6 +108,23 @@
  |[Veon Computer Service Tracking Software SQL injection (CVE-2023-2889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 22, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951" class="noirorange"><b>tracker-miners</b>: code execution via Sandbox Escape</a>](https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951)|An attacker can use a vulnerability of tracker-miners, via Sandbox Escape, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950" class="noirorange"><b>sbt</b>: directory traversal via IO.unzip()</a>](https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950)|An attacker can traverse directories of sbt, via IO.unzip(), in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -138,21 +155,21 @@
  |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
-# OBS-Vigilance
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951" class="noirorange"><b>tracker-miners</b>: code execution via Sandbox Escape</a>](https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951)|An attacker can use a vulnerability of tracker-miners, via Sandbox Escape, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950" class="noirorange"><b>sbt</b>: directory traversal via IO.unzip()</a>](https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950)|An attacker can traverse directories of sbt, via IO.unzip(), in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
+ |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
+ |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
+ |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
+ |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
+ |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
+ |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
 # CA-CCS
@@ -170,23 +187,6 @@
  |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
  |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
  |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
- |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
- |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
- |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
- |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
- |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
- |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
- |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
 # MA-CERT
