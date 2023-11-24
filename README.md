@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/11/2023 16:14:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/11/2023 17:32:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
+ |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
+ |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,22 +78,6 @@
  |[USN-6505-1: nghttp2 vulnerability](https://www.linux.org/threads/usn-6505-1-nghttp2-vulnerability.47662/)|Visit link for details.|Nov 22, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
- |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 novembre 2023|
- |[Vulnérabilité dans les produits StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/)|Une vulnérabilité a été découverte dans |Publié le 21 novembre 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +93,23 @@
  |[Dell - CVE-2023-44296](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44296-2023-11-22)|Visit link for details.|22/11/2023|
  |[Aruba Networks - CVE-2023-45618](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2023-45618-2023-11-22)|Visit link for details.|22/11/2023|
  |[Zyxel - CVE-2023-5593](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5593-2023-11-21)|Visit link for details.|21/11/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951" class="noirorange"><b>tracker-miners</b>: code execution via Sandbox Escape</a>](https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951)|An attacker can use a vulnerability of tracker-miners, via Sandbox Escape, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950" class="noirorange"><b>sbt</b>: directory traversal via IO.unzip()</a>](https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950)|An attacker can traverse directories of sbt, via IO.unzip(), in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # HK-CERT
@@ -124,23 +141,6 @@
  |[IBM QRadar WinCollect Agent information disclosure (CVE-2021-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951" class="noirorange"><b>tracker-miners</b>: code execution via Sandbox Escape</a>](https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951)|An attacker can use a vulnerability of tracker-miners, via Sandbox Escape, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950" class="noirorange"><b>sbt</b>: directory traversal via IO.unzip()</a>](https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950)|An attacker can traverse directories of sbt, via IO.unzip(), in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,6 +156,20 @@
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
 # MA-CERT
@@ -189,18 +203,4 @@
  |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
  |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
  |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
