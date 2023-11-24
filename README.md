@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/11/2023 06:13:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/11/2023 07:26:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6513-1: Python vulnerabilities](https://www.linux.org/threads/usn-6513-1-python-vulnerabilities.47679/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6512-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6512-1-libtiff-vulnerabilities.47678/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6511-1: OpenZFS vulnerability](https://www.linux.org/threads/usn-6511-1-openzfs-vulnerability.47677/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6510-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6510-1-apache-http-server-vulnerability.47676/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6509-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6509-1-firefox-vulnerabilities.47672/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6508-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6508-1-poppler-vulnerabilities.47671/)|Visit link for details.|Nov 23, 2023|
+ |[DSA-5562-1 tor - security update](https://www.linux.org/threads/dsa-5562-1-tor-security-update.47669/)|Visit link for details.|Nov 23, 2023|
+ |[DSA-5561-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5561-1-firefox-esr-security-update.47668/)|Visit link for details.|Nov 23, 2023|
+ |[USN-6507-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6507-1-glusterfs-vulnerability.47664/)|Visit link for details.|Nov 22, 2023|
+ |[USN-6506-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6506-1-apache-http-server-vulnerabilities.47663/)|Visit link for details.|Nov 22, 2023|
+ |[USN-6505-1: nghttp2 vulnerability](https://www.linux.org/threads/usn-6505-1-nghttp2-vulnerability.47662/)|Visit link for details.|Nov 22, 2023|
+ 
 
 # CERT-FR
 
@@ -59,23 +76,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 16, 2023|
  |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
  |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6513-1: Python vulnerabilities](https://www.linux.org/threads/usn-6513-1-python-vulnerabilities.47679/)|Visit link for details.|Nov 23, 2023|
- |[USN-6512-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6512-1-libtiff-vulnerabilities.47678/)|Visit link for details.|Nov 23, 2023|
- |[USN-6511-1: OpenZFS vulnerability](https://www.linux.org/threads/usn-6511-1-openzfs-vulnerability.47677/)|Visit link for details.|Nov 23, 2023|
- |[USN-6510-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6510-1-apache-http-server-vulnerability.47676/)|Visit link for details.|Nov 23, 2023|
- |[USN-6509-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6509-1-firefox-vulnerabilities.47672/)|Visit link for details.|Nov 23, 2023|
- |[USN-6508-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6508-1-poppler-vulnerabilities.47671/)|Visit link for details.|Nov 23, 2023|
- |[DSA-5562-1 tor - security update](https://www.linux.org/threads/dsa-5562-1-tor-security-update.47669/)|Visit link for details.|Nov 23, 2023|
- |[DSA-5561-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5561-1-firefox-esr-security-update.47668/)|Visit link for details.|Nov 23, 2023|
- |[USN-6507-1: GlusterFS vulnerability](https://www.linux.org/threads/usn-6507-1-glusterfs-vulnerability.47664/)|Visit link for details.|Nov 22, 2023|
- |[USN-6506-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6506-1-apache-http-server-vulnerabilities.47663/)|Visit link for details.|Nov 22, 2023|
- |[USN-6505-1: nghttp2 vulnerability](https://www.linux.org/threads/usn-6505-1-nghttp2-vulnerability.47662/)|Visit link for details.|Nov 22, 2023|
  
 
 # CERT-SANTE
@@ -158,6 +158,20 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -173,20 +187,6 @@
  |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
  |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
  |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
 # MA-CERT
