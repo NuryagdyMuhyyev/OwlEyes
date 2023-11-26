@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/11/2023 21:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/11/2023 22:13:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5562-1 tor - security update](https://www.linux.org/threads/dsa-5562-1-tor-security-update.47669/)|Visit link for details.|Nov 23, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
- |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -78,23 +62,6 @@
  |[CISA Releases Fourteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/16/cisa-releases-fourteen-industrial-control-systems-advisories)|Visit link for details.|Nov 16, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
- |[Dell - CVE-2023-44303](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44303-2023-11-24)|Visit link for details.|24/11/2023|
- |[Linux - CVE-2023-6238](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6238-2023-11-24)|Visit link for details.|24/11/2023|
- |[Artica - CVE-2023-41808](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41808-2023-11-24)|Visit link for details.|24/11/2023|
- |[Artica - CVE-2023-41807](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41807-2023-11-24)|Visit link for details.|24/11/2023|
- |[WordPress - CVE-2023-5504](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-5504-2023-11-23)|Visit link for details.|23/11/2023|
- |[VMware - CVE-2023-34062](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34062-2023-11-23)|Visit link for details.|23/11/2023|
- |[Mozilla - CVE-2023-6213](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6213-2023-11-23)|Visit link for details.|23/11/2023|
- |[ManageEngine - CVE-2023-48646](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48646-2023-11-23)|Visit link for details.|23/11/2023|
- |[Dell - CVE-2023-43082](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43082-2023-11-23)|Visit link for details.|23/11/2023|
- |[Netgear - CVE-2023-44449](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44449-2023-11-22)|Visit link for details.|22/11/2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,19 +76,6 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Nov 2023 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231116)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution, sensitive information disclosure, denial of service, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 16 Nov 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Pandora FMS cross-site scripting (CVE-2023-41811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[Pandora FMS cross-site scripting (CVE-2023-41810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[Pandora FMS privilege escalation (CVE-2023-41808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[Pandora FMS privilege escalation (CVE-2023-41807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[Pandora FMS denial of service (CVE-2023-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[IBM QRadar WinCollect Agent improper output encoding (CVE-2023-26279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
- |[IBM QRadar WinCollect Agent information disclosure (CVE-2021-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
  
 
 # OBS-Vigilance
@@ -141,18 +95,50 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via drivers/gpu/drm/vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
+ |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Dell - CVE-2023-44303](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44303-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Linux - CVE-2023-6238](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6238-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Artica - CVE-2023-41808](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41808-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Artica - CVE-2023-41807](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41807-2023-11-24)|Visit link for details.|24/11/2023|
+ |[WordPress - CVE-2023-5504](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-5504-2023-11-23)|Visit link for details.|23/11/2023|
+ |[VMware - CVE-2023-34062](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34062-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Mozilla - CVE-2023-6213](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6213-2023-11-23)|Visit link for details.|23/11/2023|
+ |[ManageEngine - CVE-2023-48646](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48646-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Dell - CVE-2023-43082](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43082-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Netgear - CVE-2023-44449](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44449-2023-11-22)|Visit link for details.|22/11/2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
+ |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pandora FMS cross-site scripting (CVE-2023-41811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[Pandora FMS cross-site scripting (CVE-2023-41810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[Pandora FMS privilege escalation (CVE-2023-41808)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[Pandora FMS privilege escalation (CVE-2023-41807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[Pandora FMS denial of service (CVE-2023-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[IBM QRadar WinCollect Agent improper output encoding (CVE-2023-26279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
+ |[IBM QRadar WinCollect Agent information disclosure (CVE-2021-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
  
 
 # EU-CERT
@@ -172,21 +158,18 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Foxit security advisory (AV23-718)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av23-718)|Visit link for details|2023-11-23|
- |[Atlassian security advisory (AV23-717)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-717)|Visit link for details|2023-11-22|
- |[HPE security advisory (AV23-716)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-716)|Visit link for details|2023-11-22|
- |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
- |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
- |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
- |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
- |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
- |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
- |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
- |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
+ |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
 # MA-CERT
@@ -203,4 +186,21 @@
  |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
  |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
  |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Foxit security advisory (AV23-718)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av23-718)|Visit link for details|2023-11-23|
+ |[Atlassian security advisory (AV23-717)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-717)|Visit link for details|2023-11-22|
+ |[HPE security advisory (AV23-716)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-716)|Visit link for details|2023-11-22|
+ |[[Control systems] WAGO security advisory (AV23-715)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-wago-security-advisory-av23-715)|Visit link for details|2023-11-21|
+ |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
+ |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
+ |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
+ |[Dell security advisory (AV23-711)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-711)|Visit link for details|2023-11-20|
+ |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
+ |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
+ |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
  
