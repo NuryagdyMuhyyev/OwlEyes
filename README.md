@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2023 13:23:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2023 14:18:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6515-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6515-1-thunderbird-vulnerabilities.47714/)|Visit link for details.|Nov 27, 2023|
  |[USN-6514-1: Open vSwitch vulnerability](https://www.linux.org/threads/usn-6514-1-open-vswitch-vulnerability.47712/)|Visit link for details.|Nov 27, 2023|
  |[DSA-5566-1 thunderbird - security update](https://www.linux.org/threads/dsa-5566-1-thunderbird-security-update.47706/)|Visit link for details.|Nov 26, 2023|
  |[DSA-5565-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5565-1-gst-plugins-bad1-0-security-update.47698/)|Visit link for details.|Nov 25, 2023|
@@ -59,7 +60,6 @@
  |[USN-6511-1: OpenZFS vulnerability](https://www.linux.org/threads/usn-6511-1-openzfs-vulnerability.47677/)|Visit link for details.|Nov 23, 2023|
  |[USN-6510-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6510-1-apache-http-server-vulnerability.47676/)|Visit link for details.|Nov 23, 2023|
  |[USN-6509-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6509-1-firefox-vulnerabilities.47672/)|Visit link for details.|Nov 23, 2023|
- |[USN-6508-1: poppler vulnerabilities](https://www.linux.org/threads/usn-6508-1-poppler-vulnerabilities.47671/)|Visit link for details.|Nov 23, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,23 @@
  |[Netgear - CVE-2023-44449](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44449-2023-11-22)|Visit link for details.|22/11/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963" class="noirorange"><b>Vim</b>: use after free via ga_grow_inner()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963)|An attacker can force the reuse of a freed memory area of Vim, via ga_grow_inner(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Private Browsing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Private Browsing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Frames UI Spoofing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Frames UI Spoofing, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957" class="noirorange"><b>AsyncSSH</b>: read-write access via Extension Info Message</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957)|An attacker can bypass access restrictions of AsyncSSH, via Extension Info Message, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956" class="noirorange"><b>AsyncSSH</b>: read-write access via Packet Injection</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956)|An attacker can bypass access restrictions of AsyncSSH, via Packet Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,21 +141,18 @@
  |[Pandora FMS denial of service (CVE-2023-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963" class="noirorange"><b>Vim</b>: use after free via ga_grow_inner()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963)|An attacker can force the reuse of a freed memory area of Vim, via ga_grow_inner(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Private Browsing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Private Browsing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Frames UI Spoofing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Frames UI Spoofing, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957" class="noirorange"><b>AsyncSSH</b>: read-write access via Extension Info Message</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957)|An attacker can bypass access restrictions of AsyncSSH, via Extension Info Message, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956" class="noirorange"><b>AsyncSSH</b>: read-write access via Packet Injection</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956)|An attacker can bypass access restrictions of AsyncSSH, via Packet Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
+ |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
+ |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
+ |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
+ |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
+ |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
+ |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
+ |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
 # EU-CERT
@@ -156,20 +170,6 @@
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Recovery Manager Plus getEscapedValue Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1719/)|Visit link for details|2023-11-22|
- |[NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1718/)|Visit link for details|2023-11-20|
- |[NETGEAR ProSAFE Network Management System clearAlertByIds SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1717/)|Visit link for details|2023-11-20|
- |[Luxion KeyShot Viewer KSP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1716/)|Visit link for details|2023-11-16|
- |[ManageEngine Applications Manager SingleSignOn Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1715/)|Visit link for details|2023-11-15|
- |[Adobe Animate FLA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1714/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1713/)|Visit link for details|2023-11-15|
- |[Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1712/)|Visit link for details|2023-11-15|
  
 
 # CA-CCS
