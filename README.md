@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2023 15:19:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2023 16:14:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5567-1 tiff - security update](https://www.linux.org/threads/dsa-5567-1-tiff-security-update.47715/)|Visit link for details.|Nov 27, 2023|
  |[USN-6515-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6515-1-thunderbird-vulnerabilities.47714/)|Visit link for details.|Nov 27, 2023|
  |[USN-6514-1: Open vSwitch vulnerability](https://www.linux.org/threads/usn-6514-1-open-vswitch-vulnerability.47712/)|Visit link for details.|Nov 27, 2023|
  |[DSA-5566-1 thunderbird - security update](https://www.linux.org/threads/dsa-5566-1-thunderbird-security-update.47706/)|Visit link for details.|Nov 26, 2023|
@@ -43,7 +44,6 @@
  |[USN-6512-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6512-1-libtiff-vulnerabilities.47678/)|Visit link for details.|Nov 23, 2023|
  |[USN-6511-1: OpenZFS vulnerability](https://www.linux.org/threads/usn-6511-1-openzfs-vulnerability.47677/)|Visit link for details.|Nov 23, 2023|
  |[USN-6510-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6510-1-apache-http-server-vulnerability.47676/)|Visit link for details.|Nov 23, 2023|
- |[USN-6509-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6509-1-firefox-vulnerabilities.47672/)|Visit link for details.|Nov 23, 2023|
  
 
 # US-CERT
@@ -62,23 +62,6 @@
  |[Citrix Releases Security Updates for Citrix Hypervisor ](https://www.cisa.gov/news-events/alerts/2023/11/16/citrix-releases-security-updates-citrix-hypervisor-0)|Visit link for details.|Nov 16, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
- |[Dell - CVE-2023-44303](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44303-2023-11-24)|Visit link for details.|24/11/2023|
- |[Linux - CVE-2023-6238](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6238-2023-11-24)|Visit link for details.|24/11/2023|
- |[Artica - CVE-2023-41808](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41808-2023-11-24)|Visit link for details.|24/11/2023|
- |[Artica - CVE-2023-41807](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41807-2023-11-24)|Visit link for details.|24/11/2023|
- |[WordPress - CVE-2023-5504](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-5504-2023-11-23)|Visit link for details.|23/11/2023|
- |[VMware - CVE-2023-34062](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34062-2023-11-23)|Visit link for details.|23/11/2023|
- |[Mozilla - CVE-2023-6213](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6213-2023-11-23)|Visit link for details.|23/11/2023|
- |[ManageEngine - CVE-2023-48646](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48646-2023-11-23)|Visit link for details.|23/11/2023|
- |[Dell - CVE-2023-43082](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43082-2023-11-23)|Visit link for details.|23/11/2023|
- |[Netgear - CVE-2023-44449](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44449-2023-11-22)|Visit link for details.|22/11/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,21 +78,21 @@
  |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963" class="noirorange"><b>Vim</b>: use after free via ga_grow_inner()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963)|An attacker can force the reuse of a freed memory area of Vim, via ga_grow_inner(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Private Browsing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Private Browsing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Frames UI Spoofing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Frames UI Spoofing, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957" class="noirorange"><b>AsyncSSH</b>: read-write access via Extension Info Message</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957)|An attacker can bypass access restrictions of AsyncSSH, via Extension Info Message, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956" class="noirorange"><b>AsyncSSH</b>: read-write access via Packet Injection</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956)|An attacker can bypass access restrictions of AsyncSSH, via Packet Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
+ |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Dell - CVE-2023-44303](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44303-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Linux - CVE-2023-6238](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6238-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Artica - CVE-2023-41808](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41808-2023-11-24)|Visit link for details.|24/11/2023|
+ |[Artica - CVE-2023-41807](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41807-2023-11-24)|Visit link for details.|24/11/2023|
+ |[WordPress - CVE-2023-5504](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-5504-2023-11-23)|Visit link for details.|23/11/2023|
+ |[VMware - CVE-2023-34062](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34062-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Mozilla - CVE-2023-6213](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6213-2023-11-23)|Visit link for details.|23/11/2023|
+ |[ManageEngine - CVE-2023-48646](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48646-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Dell - CVE-2023-43082](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43082-2023-11-23)|Visit link for details.|23/11/2023|
+ |[Netgear - CVE-2023-44449](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-44449-2023-11-22)|Visit link for details.|22/11/2023|
  
 
 # HK-CERT
@@ -141,20 +124,21 @@
  |[Pandora FMS denial of service (CVE-2023-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 23, 2023|
  
 
-# MA-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
- |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
- |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
- |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
- |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
- |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
- |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
- |[ 44902011/23 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 20 novembre 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963" class="noirorange"><b>Vim</b>: use after free via ga_grow_inner()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963)|An attacker can force the reuse of a freed memory area of Vim, via ga_grow_inner(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Private Browsing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Private Browsing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Frames UI Spoofing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Frames UI Spoofing, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957" class="noirorange"><b>AsyncSSH</b>: read-write access via Extension Info Message</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957)|An attacker can bypass access restrictions of AsyncSSH, via Extension Info Message, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956" class="noirorange"><b>AsyncSSH</b>: read-write access via Packet Injection</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956)|An attacker can bypass access restrictions of AsyncSSH, via Packet Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
  
 
 # EU-CERT
@@ -203,4 +187,20 @@
  |[IBM security advisory (AV23-710)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-710)|Visit link for details|2023-11-20|
  |[Ubuntu security advisory (AV23-709)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-709)|Visit link for details|2023-11-20|
  |[Trellix security advisory (AV23-708)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-708)|Visit link for details|2023-11-17|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
+ |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
+ |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
+ |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
+ |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
+ |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
+ |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ |[ 44912011/23 - Vulnérabilité critique dans CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-crushftp)| Une vulnérabilité critique de type « zero-day » a été corrigée dans CrushFTP. Cette vulnérabilité peut permettre à un attaquant non authentifié d'accéder à des fichiers sur le serveur, d'exécuter du…| 20 novembre 2023|
  
