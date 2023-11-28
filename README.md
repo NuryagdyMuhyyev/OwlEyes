@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/11/2023 12:16:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/11/2023 13:22:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
@@ -75,7 +76,6 @@
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
  |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
  |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 novembre 2023|
  
 
 # CERT-SANTE
@@ -115,13 +115,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mattermost denial of service (CVE-2023-40703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Trellix Application and Change Control (TACC) code execution (CVE-2023-5607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Foxit Reader code execution (CVE-2023-32616)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Foxit Reader code execution (CVE-2023-35985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Foxit Reader code execution (CVE-2023-41257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Foxit Reader code execution (CVE-2023-40194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
  |[Foxit Reader code execution (CVE-2023-39542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
- |[Foxit Reader code execution (CVE-2023-38573)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 27, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
  
 
 # EU-CERT
