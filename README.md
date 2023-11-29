@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/11/2023 00:14:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/11/2023 01:18:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,45 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
  |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
  |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
+ |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Nov 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-11-22] Updated...| Release Date: 2 Nov 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
+ |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel products denial of service (CVE-2023-4397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Zyxel products denial of service (CVE-2023-4398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[WP Shortcodes Plugin  Shortcodes Ultimate for WordPress cross-site scripting (CVE-2023-6225)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Chamilo LMS command execution (CVE-2023-4222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Chamilo LMS command execution (CVE-2023-4221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Chamilo LMS file upload (CVE-2023-4226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Chamilo LMS file upload (CVE-2023-4225)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
  
 
 # CERT-SANTE
@@ -95,52 +124,6 @@
  |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|27/11/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Nov 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-11-22] Updated...| Release Date: 2 Nov 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
- |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing and remote code execution on the targeted system.|Release Date: 17 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20231117)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2023-44487 is a denial-of-service (DoS...|Release Date: 17 Nov 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981" class="noirorange"><b>HAProxy</b>: information disclosure via URI Component Hash</a>](https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981)|An attacker can bypass access restrictions to data of HAProxy, via URI Component Hash, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979" class="noirorange"><b>NATS.io</b>: no encryption via All-zeros Key</a>](https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979)|An attacker can access data on NATS.io, via All-zeros Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972" class="noirorange"><b>Fast DDS</b>: double free via DATA Submessages</a>](https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972)|An attacker can force a double memory free of Fast DDS, via DATA Submessages, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WP Shortcodes Plugin  Shortcodes Ultimate for WordPress cross-site scripting (CVE-2023-6225)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS command execution (CVE-2023-4222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS command execution (CVE-2023-4221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS file upload (CVE-2023-4226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS file upload (CVE-2023-4225)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS file upload (CVE-2023-4224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Chamilo LMS file upload (CVE-2023-4223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,21 +138,21 @@
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
- |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
- |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
- |[[Control systems] Franklin Electric Fueling Systems security advisory (AV23-724)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-electric-fueling-systems-security-advisory-av23-724)|Visit link for details|2023-11-29|
- |[[Control systems] Delta Electronics security advisory (AV23-723)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-723)|Visit link for details|2023-11-29|
- |[[Control systems] Fuji Electric security advisory (AV23-722)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-722)|Visit link for details|2023-11-29|
- |[Vulnerability CVE-2023-49103 impacting ownCloud file sharing application](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-cve-2023-49103-impacting-owncloud-file-sharing-application)|Visit link for details|2023-11-28|
- |[ownCloud security advisory (AV23-721)](https://www.cyber.gc.ca/en/alerts-advisories/owncloud-security-advisory-av23-721)|Visit link for details|2023-11-28|
- |[Ubuntu security advisory (AV23-720)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-720)|Visit link for details|2023-11-27|
- |[Dell security advisory (AV23-719)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-719)|Visit link for details|2023-11-27|
- |[Foxit security advisory (AV23-718)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av23-718)|Visit link for details|2023-11-23|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987" class="noirorange"><b>Drupal Xsendfile</b>: information disclosure via ImageStyleDownloadController</a>](https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987)|An attacker can bypass access restrictions to data of Drupal Xsendfile, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981" class="noirorange"><b>HAProxy</b>: information disclosure via URI Component Hash</a>](https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981)|An attacker can bypass access restrictions to data of HAProxy, via URI Component Hash, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979" class="noirorange"><b>NATS.io</b>: no encryption via All-zeros Key</a>](https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979)|An attacker can access data on NATS.io, via All-zeros Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
  
 
 # EU-CERT
@@ -203,4 +186,21 @@
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
  |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
  |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
+ |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
+ |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
+ |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
+ |[[Control systems] Franklin Electric Fueling Systems security advisory (AV23-724)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-electric-fueling-systems-security-advisory-av23-724)|Visit link for details|2023-11-29|
+ |[[Control systems] Delta Electronics security advisory (AV23-723)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-723)|Visit link for details|2023-11-29|
+ |[[Control systems] Fuji Electric security advisory (AV23-722)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-722)|Visit link for details|2023-11-29|
+ |[Vulnerability CVE-2023-49103 impacting ownCloud file sharing application](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-cve-2023-49103-impacting-owncloud-file-sharing-application)|Visit link for details|2023-11-28|
+ |[ownCloud security advisory (AV23-721)](https://www.cyber.gc.ca/en/alerts-advisories/owncloud-security-advisory-av23-721)|Visit link for details|2023-11-28|
+ |[Ubuntu security advisory (AV23-720)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-720)|Visit link for details|2023-11-27|
+ |[Dell security advisory (AV23-719)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-719)|Visit link for details|2023-11-27|
  
