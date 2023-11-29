@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/11/2023 11:22:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/11/2023 12:16:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Exploitation of Unitronics PLCs used in Water and Wastewater Systems ](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems)|Visit link for details.|Nov 28, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/28/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 28, 2023|
- |[CISA and UK NCSC Unveil Joint Guidelines for Secure AI System Development](https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development)|Visit link for details.|Nov 26, 2023|
- |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/11/22/adobe-releases-security-updates-coldfusion)|Visit link for details.|Nov 22, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/11/22/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Nov 22, 2023|
- |[CISA, FBI, MS-ISAC, and ASD’s ACSC Release Advisory on LockBit Affiliates Exploiting Citrix Bleed](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-fbi-ms-isac-and-asds-acsc-release-advisory-lockbit-affiliates-exploiting-citrix-bleed)|Visit link for details.|Nov 21, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 21, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 21, 2023|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
- |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
- 
 
 # LINUX-SEC
 
@@ -78,6 +62,22 @@
  |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Exploitation of Unitronics PLCs used in Water and Wastewater Systems ](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems)|Visit link for details.|Nov 28, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/28/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 28, 2023|
+ |[CISA and UK NCSC Unveil Joint Guidelines for Secure AI System Development](https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development)|Visit link for details.|Nov 26, 2023|
+ |[Adobe Releases Security Updates for ColdFusion](https://www.cisa.gov/news-events/alerts/2023/11/22/adobe-releases-security-updates-coldfusion)|Visit link for details.|Nov 22, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/11/22/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Nov 22, 2023|
+ |[CISA, FBI, MS-ISAC, and ASD’s ACSC Release Advisory on LockBit Affiliates Exploiting Citrix Bleed](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-fbi-ms-isac-and-asds-acsc-release-advisory-lockbit-affiliates-exploiting-citrix-bleed)|Visit link for details.|Nov 21, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 21, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 21, 2023|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
+ |[CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector ](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector)|Visit link for details.|Nov 17, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,23 +93,6 @@
  |[Artica - CVE-2023-41791](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41791-2023-11-27)|Visit link for details.|27/11/2023|
  |[Mozilla - CVE-2023-6207](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6207-2023-11-27)|Visit link for details.|27/11/2023|
  |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972" class="noirorange"><b>Fast DDS</b>: double free via DATA Submessages</a>](https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972)|An attacker can force a double memory free of Fast DDS, via DATA Submessages, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971" class="noirorange"><b>crypto-js</b>: weak encryption via PBKDF2</a>](https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971)|An attacker can access data on crypto-js, via PBKDF2, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969" class="noirorange"><b>Perl Core</b>: memory corruption via S_find_uninit_var()</a>](https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969)|An attacker can trigger a memory corruption of Perl Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967" class="noirorange"><b>Spring Framework</b>: denial of service via Web Observations</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967)|An attacker can cause a fatal error of Spring Framework, via Web Observations, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-Active-Directory-ntSecurityDescriptor-42966" class="noirorange"><b>Samba</b>: information disclosure via Active Directory ntSecurityDescriptor</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-Active-Directory-ntSecurityDescriptor-42966)|An attacker can bypass access restrictions to data of Samba, via Active Directory |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -172,6 +155,22 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
+ |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
+ |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
+ |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
+ |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
+ |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
+ |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
+ |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -189,18 +188,19 @@
  |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
  
 
-# MA-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
- |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
- |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
- |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
- |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
- |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
- |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
- |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972" class="noirorange"><b>Fast DDS</b>: double free via DATA Submessages</a>](https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972)|An attacker can force a double memory free of Fast DDS, via DATA Submessages, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971" class="noirorange"><b>crypto-js</b>: weak encryption via PBKDF2</a>](https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971)|An attacker can access data on crypto-js, via PBKDF2, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969" class="noirorange"><b>Perl Core</b>: memory corruption via S_find_uninit_var()</a>](https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969)|An attacker can trigger a memory corruption of Perl Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967" class="noirorange"><b>Spring Framework</b>: denial of service via Web Observations</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967)|An attacker can cause a fatal error of Spring Framework, via Web Observations, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-Active-Directory-ntSecurityDescriptor-42966" class="noirorange"><b>Samba</b>: information disclosure via Active Directory ntSecurityDescriptor</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-Active-Directory-ntSecurityDescriptor-42966)|An attacker can bypass access restrictions to data of Samba, via Active Directory |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
