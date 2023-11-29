@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/11/2023 07:29:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/11/2023 08:17:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,19 +62,6 @@
  |[USN-6516-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6516-1-linux-kernel-intel-iotg-vulnerabilities.47718/)|Visit link for details.|Nov 27, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome integer overflow (CVE-2023-6345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Google Chrome code execution (CVE-2023-6351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Google Chrome code execution (CVE-2023-6350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Google Chrome code execution (CVE-2023-6346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Google Chrome code execution (CVE-2023-6348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Google Chrome code execution (CVE-2023-6347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[BD FACSChorus software security bypass (CVE-2023-29066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -106,6 +93,19 @@
  |[Artica - CVE-2023-41791](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41791-2023-11-27)|Visit link for details.|27/11/2023|
  |[Mozilla - CVE-2023-6207](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6207-2023-11-27)|Visit link for details.|27/11/2023|
  |[Mozilla - CVE-2023-6212](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6212-2023-11-24)|Visit link for details.|24/11/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome integer overflow (CVE-2023-6345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Google Chrome code execution (CVE-2023-6351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Google Chrome code execution (CVE-2023-6350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Google Chrome code execution (CVE-2023-6346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Google Chrome code execution (CVE-2023-6348)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Google Chrome code execution (CVE-2023-6347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[BD FACSChorus software security bypass (CVE-2023-29066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
  
 
 # HK-CERT
@@ -172,22 +172,6 @@
  |[2023-082: Multiple Vulnerabilities in LifeRay products](https://cert.europa.eu/publications/security-advisories/2023-082/)|This security advisory addresses multiple vulnerabilities in Liferay Portal and Liferay DXP related to cross-site scripting (XSS) attacks. Users are urged to update their installations to the latest versions as provided in the "Recommendations" section.|Friday, October 27, 2023 11:03:37 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
- |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
- |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
- |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
- |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
- |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
- |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
- |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
- |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -203,4 +187,20 @@
  |[[Control systems] Fuji Electric security advisory (AV23-714)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fuji-electric-security-advisory-av23-714)|Visit link for details|2023-11-21|
  |[Mozilla security advisory (AV23-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-713)|Visit link for details|2023-11-21|
  |[Red Hat security advisory (AV23-712)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-712)|Visit link for details|2023-11-21|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
+ |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
+ |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
+ |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
+ |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
+ |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
+ |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
+ |[ 44932211/23 - Vulnérabilité dans Microsoft Powershell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-powershell)| Une vulnérabilité a été corrigée dans Microsoft Powershell. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.| 22 novembre 2023|
+ |[ 44922011/23 - Vulnérabilités critiques dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-synology)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits synolgy susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de…| 21 novembre 2023|
  
