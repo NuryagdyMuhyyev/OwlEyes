@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/11/2023 07:29:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/11/2023 08:17:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
+ |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +76,19 @@
  |[USN-6521-1: GIMP vulnerabilities](https://www.linux.org/threads/usn-6521-1-gimp-vulnerabilities.47750/)|Visit link for details.|Nov 29, 2023|
  |[USN-6508-2: poppler regression](https://www.linux.org/threads/usn-6508-2-poppler-regression.47738/)|Visit link for details.|Nov 29, 2023|
  |[USN-6502-3: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6502-3-linux-kernel-nvidia-vulnerabilities.47736/)|Visit link for details.|Nov 28, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trellix Enterprise Security Manager (ESM) server-side request forgery (CVE-2023-6070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
+ |[Cryptography package for Python denial of service (CVE-2023-49083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
+ |[Jenkins NeuVector Vulnerability Scanner Plugin security bypass (CVE-2023-49674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins NeuVector Vulnerability Scanner Plugin cross-site request forgery (CVE-2023-49673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin information disclosure (CVE-2023-49656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin cross-site request forgery (CVE-2023-49655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin security bypass (CVE-2023-49654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
  
 
 # HK-CERT
@@ -78,6 +107,20 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,49 +136,6 @@
  |[ArcServe UDP - CVE-2023-41999](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41999-2023-11-28)|Visit link for details.|28/11/2023|
  |[ArcServe UDP - CVE-2023-41998](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41998-2023-11-28)|Visit link for details.|28/11/2023|
  |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|27/11/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trellix Enterprise Security Manager (ESM) server-side request forgery (CVE-2023-6070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
- |[Cryptography package for Python denial of service (CVE-2023-49083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
- |[Jenkins Google Compute Engine Plugin information disclosure (CVE-2023-49652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Jenkins Jira Plugin information disclosure (CVE-2023-49653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[ESKOM Computer e-municipality module information disclosure (CVE-2023-6151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Univera Computer System Panorama command execution (CVE-2023-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[M-Files Server security bypass (CVE-2023-6239)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
  
 
 # OBS-Vigilance
