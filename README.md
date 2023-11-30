@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/11/2023 16:14:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/11/2023 17:33:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
- |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[USN-6521-1: GIMP vulnerabilities](https://www.linux.org/threads/usn-6521-1-gimp-vulnerabilities.47750/)|Visit link for details.|Nov 29, 2023|
  |[USN-6508-2: poppler regression](https://www.linux.org/threads/usn-6508-2-poppler-regression.47738/)|Visit link for details.|Nov 29, 2023|
  |[USN-6502-3: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6502-3-linux-kernel-nvidia-vulnerabilities.47736/)|Visit link for details.|Nov 28, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans Ivanti Secure Access (Pulse Desktop)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0975/)|De multiples vulnérabilités ont été découvertes dans Ivanti Secure Access (anciennement Pulse Desktop). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0974/)|Plusieurs vulnérabilités ont été découvertes dans |Publié le 23 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Foxit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 22 novembre 2023|
+ |[Vulnérabilité dans ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/)|Une vulnérabilité a été découverte dans |Publié le 22 novembre 2023|
  
 
 # HK-CERT
