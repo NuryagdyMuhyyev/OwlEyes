@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/11/2023 13:21:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/11/2023 14:16:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2023/11/17/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Nov 17, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2023-6345](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6345-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[SolarWinds - CVE-2023-40056](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40056-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Linux - CVE-2023-5972](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5972-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Artica - CVE-2023-41806](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41806-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Apache - CVE-2023-46589](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2023-46589-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Zyxel - CVE-2023-4398](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4398-2023-11-28)|Visit link for details.|28/11/2023|
+ |[Kingsoft - CVE-2023-31275](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-cve-2023-31275-2023-11-28)|Visit link for details.|28/11/2023|
+ |[ArcServe - CVE-2023-42000](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-42000-2023-11-28)|Visit link for details.|28/11/2023|
+ |[ArcServe UDP - CVE-2023-41999](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41999-2023-11-28)|Visit link for details.|28/11/2023|
+ |[ArcServe UDP - CVE-2023-41998](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41998-2023-11-28)|Visit link for details.|28/11/2023|
+ |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|27/11/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,34 +95,21 @@
  |[USN-6502-3: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6502-3-linux-kernel-nvidia-vulnerabilities.47736/)|Visit link for details.|Nov 28, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Trellix Enterprise Security Manager (ESM) server-side request forgery (CVE-2023-6070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
- |[Cryptography package for Python denial of service (CVE-2023-49083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
- |[Jenkins NeuVector Vulnerability Scanner Plugin security bypass (CVE-2023-49674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Jenkins NeuVector Vulnerability Scanner Plugin cross-site request forgery (CVE-2023-49673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Jenkins MATLAB Plugin information disclosure (CVE-2023-49656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Jenkins MATLAB Plugin cross-site request forgery (CVE-2023-49655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- |[Jenkins MATLAB Plugin security bypass (CVE-2023-49654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2023-6345](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6345-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[SolarWinds - CVE-2023-40056](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40056-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Linux - CVE-2023-5972](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5972-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Artica - CVE-2023-41806](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41806-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Apache - CVE-2023-46589](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2023-46589-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Zyxel - CVE-2023-4398](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4398-2023-11-28)|Visit link for details.|28/11/2023|
- |[Kingsoft - CVE-2023-31275](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-cve-2023-31275-2023-11-28)|Visit link for details.|28/11/2023|
- |[ArcServe - CVE-2023-42000](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2023-42000-2023-11-28)|Visit link for details.|28/11/2023|
- |[ArcServe UDP - CVE-2023-41999](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41999-2023-11-28)|Visit link for details.|28/11/2023|
- |[ArcServe UDP - CVE-2023-41998](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-udp-cve-2023-41998-2023-11-28)|Visit link for details.|28/11/2023|
- |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|27/11/2023|
+ |[<a href="https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988" class="noirorange"><b>qBittorrent</b>: user access via Default Credentials</a>](https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988)|An attacker can bypass restrictions of qBittorrent, via Default Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987" class="noirorange"><b>Drupal Xsendfile</b>: information disclosure via ImageStyleDownloadController</a>](https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987)|An attacker can bypass access restrictions to data of Drupal Xsendfile, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981" class="noirorange"><b>HAProxy</b>: information disclosure via URI Component Hash</a>](https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981)|An attacker can bypass access restrictions to data of HAProxy, via URI Component Hash, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979" class="noirorange"><b>NATS.io</b>: no encryption via All-zeros Key</a>](https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979)|An attacker can access data on NATS.io, via All-zeros Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -124,20 +128,6 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231114)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-11-17] Updated System / Technologies affected, ...| Release Date: 14 Nov 2023 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -153,23 +143,6 @@
  |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987" class="noirorange"><b>Drupal Xsendfile</b>: information disclosure via ImageStyleDownloadController</a>](https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987)|An attacker can bypass access restrictions to data of Drupal Xsendfile, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981" class="noirorange"><b>HAProxy</b>: information disclosure via URI Component Hash</a>](https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981)|An attacker can bypass access restrictions to data of HAProxy, via URI Component Hash, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979" class="noirorange"><b>NATS.io</b>: no encryption via All-zeros Key</a>](https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979)|An attacker can access data on NATS.io, via All-zeros Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
  
 
 # MA-CERT
@@ -203,4 +176,31 @@
  |[ownCloud security advisory (AV23-721)](https://www.cyber.gc.ca/en/alerts-advisories/owncloud-security-advisory-av23-721)|Visit link for details|2023-11-28|
  |[Ubuntu security advisory (AV23-720)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-720)|Visit link for details|2023-11-27|
  |[Dell security advisory (AV23-719)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-719)|Visit link for details|2023-11-27|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trellix Enterprise Security Manager (ESM) server-side request forgery (CVE-2023-6070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
+ |[Cryptography package for Python denial of service (CVE-2023-49083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 29, 2023|
+ |[Jenkins NeuVector Vulnerability Scanner Plugin security bypass (CVE-2023-49674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins NeuVector Vulnerability Scanner Plugin cross-site request forgery (CVE-2023-49673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin information disclosure (CVE-2023-49656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin cross-site request forgery (CVE-2023-49655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ |[Jenkins MATLAB Plugin security bypass (CVE-2023-49654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 28, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1748/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1747/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1746/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1745/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1744/)|Visit link for details|2023-11-27|
  
