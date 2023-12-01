@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/12/2023 16:14:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/12/2023 17:33:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,36 +95,6 @@
  |[Artica - CVE-2023-41806](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41806-2023-11-29-0)|Visit link for details.|29/11/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Safari, macOS Sonoma, iOS and iPadOS information disclosure (CVE-2023-42916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Apple Safari, macOS Sonoma, iOS and iPadOS code execution (CVE-2023-42917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Delta Electronics DOPSoft buffer overflow (CVE-2023-5944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998" class="noirorange"><b>Trellix Application and Change Control</b>: directory traversal via ePO Extension</a>](https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998)|An attacker can traverse directories of Trellix Application and Change Control, via ePO Extension, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996" class="noirorange"><b>OpenStack Horizon</b>: open redirect via success_url</a>](https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996)|An attacker can deceive the user of OpenStack Horizon, via success_url, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995" class="noirorange"><b>WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995)|An attacker can use several vulnerabilities of WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994" class="noirorange"><b>Libde265</b>: denial of service via slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993" class="noirorange"><b>Libde265</b>: buffer overflow via num_tile_columns()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993)|An attacker can trigger a buffer overflow of Libde265, via num_tile_columns(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992" class="noirorange"><b>Libde265</b>: buffer overflow via derive_collocated_motion_vectors()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992)|An attacker can trigger a buffer overflow of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991" class="noirorange"><b>Libde265</b>: denial of service via decoder_context::process_slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-Grappelli-open-redirect-via-views-switch-py-42989" class="noirorange"><b>Django Grappelli</b>: open redirect via views/switch.py</a>](https://vigilance.fr/vulnerability/Django-Grappelli-open-redirect-via-views-switch-py-42989)|An attacker can deceive the user of Django Grappelli, via views/switch.py, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988" class="noirorange"><b>qBittorrent</b>: user access via Default Credentials</a>](https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988)|An attacker can bypass restrictions of qBittorrent, via Default Credentials, in order to gain user privileges...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -141,21 +111,17 @@
  |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
- |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
- |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
- |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
- |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
- |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
- |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
- |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
- |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
- |[[Control systems] Franklin Electric Fueling Systems security advisory (AV23-724)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-electric-fueling-systems-security-advisory-av23-724)|Visit link for details|2023-11-29|
+ |[Apple Safari, macOS Sonoma, iOS and iPadOS information disclosure (CVE-2023-42916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Apple Safari, macOS Sonoma, iOS and iPadOS code execution (CVE-2023-42917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Delta Electronics DOPSoft buffer overflow (CVE-2023-5944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
  
 
 # EU-CERT
@@ -175,6 +141,54 @@
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998" class="noirorange"><b>Trellix Application and Change Control</b>: directory traversal via ePO Extension</a>](https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998)|An attacker can traverse directories of Trellix Application and Change Control, via ePO Extension, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996" class="noirorange"><b>OpenStack Horizon</b>: open redirect via success_url</a>](https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996)|An attacker can deceive the user of OpenStack Horizon, via success_url, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995" class="noirorange"><b>WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995)|An attacker can use several vulnerabilities of WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994" class="noirorange"><b>Libde265</b>: denial of service via slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993" class="noirorange"><b>Libde265</b>: buffer overflow via num_tile_columns()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993)|An attacker can trigger a buffer overflow of Libde265, via num_tile_columns(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992" class="noirorange"><b>Libde265</b>: buffer overflow via derive_collocated_motion_vectors()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992)|An attacker can trigger a buffer overflow of Libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991" class="noirorange"><b>Libde265</b>: denial of service via decoder_context::process_slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-Grappelli-open-redirect-via-views-switch-py-42989" class="noirorange"><b>Django Grappelli</b>: open redirect via views/switch.py</a>](https://vigilance.fr/vulnerability/Django-Grappelli-open-redirect-via-views-switch-py-42989)|An attacker can deceive the user of Django Grappelli, via views/switch.py, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988" class="noirorange"><b>qBittorrent</b>: user access via Default Credentials</a>](https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988)|An attacker can bypass restrictions of qBittorrent, via Default Credentials, in order to gain user privileges...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
+ |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
+ |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
+ |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
+ |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
+ |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
+ |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
+ |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
+ |[[Control systems] Franklin Electric Fueling Systems security advisory (AV23-724)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-electric-fueling-systems-security-advisory-av23-724)|Visit link for details|2023-11-29|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
  
