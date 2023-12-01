@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/12/2023 01:18:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/12/2023 02:14:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -99,17 +99,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010" class="noirorange"><b>IBM Db2</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010)|An attacker can cause a fatal error of IBM Db2, via CLI, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Query Objects</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009)|An attacker can cause a fatal error of IBM Db2, via Federated Query Objects, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Server Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007)|An attacker can cause a fatal error of IBM Db2, via Federated Server Cursor, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005" class="noirorange"><b>IBM Db2</b>: denial of service via RUNSTATS Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005)|An attacker can cause a fatal error of IBM Db2, via RUNSTATS Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004" class="noirorange"><b>IBM Db2</b>: denial of service via Extreme Stress</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004)|An attacker can cause a fatal error of IBM Db2, via Extreme Stress, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-Statement-43003" class="noirorange"><b>IBM Db2</b>: denial of service via SQL Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-Statement-43003)|An attacker can cause a fatal error of IBM Db2, via SQL Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002" class="noirorange"><b>IBM Db2</b>: privilege escalation via DATAACCESS</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002)|An attacker can bypass restrictions of IBM Db2, via DATAACCESS, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001" class="noirorange"><b>ZBar</b>: buffer overflow via lookup_sequence()</a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001)|An attacker can trigger a buffer overflow of ZBar, via lookup_sequence(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000" class="noirorange"><b>ZBar</b>: buffer overflow via qr_reader_match_centers()</a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000)|An attacker can trigger a buffer overflow of ZBar, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998" class="noirorange"><b>Trellix Application and Change Control</b>: directory traversal via ePO Extension</a>](https://vigilance.fr/vulnerability/Trellix-Application-and-Change-Control-directory-traversal-via-ePO-Extension-42998)|An attacker can traverse directories of Trellix Application and Change Control, via ePO Extension, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996" class="noirorange"><b>OpenStack Horizon</b>: open redirect via success_url</a>](https://vigilance.fr/vulnerability/OpenStack-Horizon-open-redirect-via-success-url-42996)|An attacker can deceive the user of OpenStack Horizon, via success_url, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995" class="noirorange"><b>WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKit-two-vulnerabilities-42995)|An attacker can use several vulnerabilities of WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994" class="noirorange"><b>Libde265</b>: denial of service via slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-slice-segment-header-42994)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993" class="noirorange"><b>Libde265</b>: buffer overflow via num_tile_columns()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-num-tile-columns-42993)|An attacker can trigger a buffer overflow of Libde265, via num_tile_columns(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992" class="noirorange"><b>Libde265</b>: buffer overflow via derive_collocated_motion_vectors()</a>](https://vigilance.fr/vulnerability/Libde265-buffer-overflow-via-derive-collocated-motion-vectors-42992)|An attacker can trigger a buffer overflow of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991" class="noirorange"><b>Libde265</b>: denial of service via decoder_context::process_slice_segment_header()</a>](https://vigilance.fr/vulnerability/Libde265-denial-of-service-via-decoder-context-process-slice-segment-header-42991)|An attacker can cause a fatal error of Libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-42990)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -134,28 +134,11 @@
  |---|---|---|
  |[NEHANET ManufacturerCRM SQL injection (CVE-2023-6469)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
  |[Yamcs cross-site scripting (CVE-2023-46470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
+ |[IceCMS weak security (CVE-2023-6438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[ZenTao PMS cross-site scripting (CVE-2023-6439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
  |[PHPGurukul Nipah Virus Testing Management System cross-site scripting (CVE-2023-6442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
  |[Voovi Social Networking Script cross-site scripting (CVE-2023-6420)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
  |[Voovi Social Networking Script cross-site scripting (CVE-2023-6419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Voovi Social Networking Script SQL injection (CVE-2023-6410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Voovi Social Networking Script SQL injection (CVE-2023-6411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
- |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
- |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
- |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
- |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
- |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
- |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
- |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
- |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
- |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
  
 
 # MA-CERT
@@ -173,6 +156,23 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
+ |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
+ |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
+ |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
+ |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
+ |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
+ |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
+ |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
+ |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
  
 
 # ZERODAYINITIATIVE
