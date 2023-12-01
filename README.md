@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/12/2023 08:18:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/12/2023 09:21:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/21/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 21, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2023|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
- |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,21 +62,20 @@
  |[USN-6524-1: PyPy vulnerability](https://www.linux.org/threads/usn-6524-1-pypy-vulnerability.47753/)|Visit link for details.|Nov 29, 2023|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2023-35138](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35138-2023-11-30)|Visit link for details.|30/11/2023|
- |[Zyxel - CVE-2023-4474](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4474-2023-11-30)|Visit link for details.|30/11/2023|
- |[Zyxel - CVE-2023-4473](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4473-2023-11-30)|Visit link for details.|30/11/2023|
- |[NetGear - CVE-2023-49693](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49693-2023-11-30)|Visit link for details.|30/11/2023|
- |[CrushFTP - CVE-2023-43177](https://www.cyberveille-sante.gouv.fr/alertes/crushftp-cve-2023-43177-2023-11-30)|Visit link for details.|30/11/2023|
- |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|30/11/2023|
- |[Wordpress Royal Elementor - CVE-2023-5360](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-royal-elementor-cve-2023-5360-2023-10-18)|Visit link for details.|30/11/2023|
- |[Google Chrome - CVE-2023-6345](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6345-2023-11-29)|Visit link for details.|30/11/2023|
- |[SolarWinds - CVE-2023-40056](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40056-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Linux - CVE-2023-5972](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5972-2023-11-29-0)|Visit link for details.|29/11/2023|
- |[Artica - CVE-2023-41806](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41806-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2023|
+ |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/)|Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 novembre 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/)|Une vulnérabilité a été découverte dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 novembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 24 novembre 2023|
  
 
 # HK-CERT
@@ -111,17 +94,21 @@
  |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Safari, macOS Sonoma, iOS and iPadOS information disclosure (CVE-2023-42916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Apple Safari, macOS Sonoma, iOS and iPadOS code execution (CVE-2023-42917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Zyxel NAS326 and NAS542 devices information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Delta Electronics DOPSoft buffer overflow (CVE-2023-5944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel - CVE-2023-35138](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35138-2023-11-30)|Visit link for details.|30/11/2023|
+ |[Zyxel - CVE-2023-4474](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4474-2023-11-30)|Visit link for details.|30/11/2023|
+ |[Zyxel - CVE-2023-4473](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4473-2023-11-30)|Visit link for details.|30/11/2023|
+ |[NetGear - CVE-2023-49693](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49693-2023-11-30)|Visit link for details.|30/11/2023|
+ |[CrushFTP - CVE-2023-43177](https://www.cyberveille-sante.gouv.fr/alertes/crushftp-cve-2023-43177-2023-11-30)|Visit link for details.|30/11/2023|
+ |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|30/11/2023|
+ |[Wordpress Royal Elementor - CVE-2023-5360](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-royal-elementor-cve-2023-5360-2023-10-18)|Visit link for details.|30/11/2023|
+ |[Google Chrome - CVE-2023-6345](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6345-2023-11-29)|Visit link for details.|30/11/2023|
+ |[SolarWinds - CVE-2023-40056](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40056-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Linux - CVE-2023-5972](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5972-2023-11-29-0)|Visit link for details.|29/11/2023|
+ |[Artica - CVE-2023-41806](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2023-41806-2023-11-29-0)|Visit link for details.|29/11/2023|
  
 
 # OBS-Vigilance
@@ -174,6 +161,20 @@
  |[ 44942211/23 - Vulnérabilités dans les produits Tenable ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-tenable)| Tenable a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 22 novembre 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -191,16 +192,15 @@
  |[[Control systems] Franklin Electric Fueling Systems security advisory (AV23-724)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-franklin-electric-fueling-systems-security-advisory-av23-724)|Visit link for details|2023-11-29|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
+ |[Apple Safari, macOS Sonoma, iOS and iPadOS information disclosure (CVE-2023-42916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Apple Safari, macOS Sonoma, iOS and iPadOS code execution (CVE-2023-42917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Zyxel NAS326 and NAS542 devices information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Delta Electronics DOPSoft buffer overflow (CVE-2023-5944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
  
