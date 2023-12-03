@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/12/2023 19:14:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/12/2023 20:15:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5571-1 rabbitmq-server - security update](https://www.linux.org/threads/dsa-5571-1-rabbitmq-server-security-update.47791/)|Visit link for details.|Dec 2, 2023|
- |[DSA-5570-1 nghttp2 - security update](https://www.linux.org/threads/dsa-5570-1-nghttp2-security-update.47790/)|Visit link for details.|Dec 2, 2023|
- |[USN-6494-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-2-linux-kernel-vulnerabilities.47778/)|Visit link for details.|Nov 30, 2023|
- |[USN-6495-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-2-linux-kernel-vulnerabilities.47777/)|Visit link for details.|Nov 30, 2023|
- |[USN-6496-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-2-linux-kernel-vulnerabilities.47776/)|Visit link for details.|Nov 30, 2023|
- |[USN-6502-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-4-linux-kernel-vulnerabilities.47775/)|Visit link for details.|Nov 30, 2023|
- |[DSA-5569-1 chromium - security update](https://www.linux.org/threads/dsa-5569-1-chromium-security-update.47774/)|Visit link for details.|Nov 30, 2023|
- |[USN-6528-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6528-1-openjdk-8-vulnerabilities.47763/)|Visit link for details.|Nov 30, 2023|
- |[USN-6527-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6527-1-openjdk-vulnerabilities.47762/)|Visit link for details.|Nov 30, 2023|
- |[USN-6526-1: GStreamer Bad Plugins vulnerabilities](https://www.linux.org/threads/usn-6526-1-gstreamer-bad-plugins-vulnerabilities.47761/)|Visit link for details.|Nov 29, 2023|
- |[USN-6519-2: EC2 hibagent update](https://www.linux.org/threads/usn-6519-2-ec2-hibagent-update.47760/)|Visit link for details.|Nov 29, 2023|
- 
 
 # US-CERT
 
@@ -78,34 +61,21 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[NEHANET ManufacturerCRM SQL injection (CVE-2023-6469)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
- |[Yamcs cross-site scripting (CVE-2023-46470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
- |[Schweitzer Engineering Laboratories SEL-411L information disclosure (CVE-2023-2267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Schweitzer Engineering Laboratories SEL-411L cross-site scripting (CVE-2023-2266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Schweitzer Engineering Laboratories SEL-411L clickjacking (CVE-2023-2265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[Schweitzer Engineering Laboratories SEL-411L code execution (CVE-2023-2264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- |[PTC KEPServerEX, ThingWorx, and OPC-Aggregator information disclosure (CVE-2023-5909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google - CVE-2023-6348](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6348-2023-12-01)|Visit link for details.|01/12/2023|
- |[GitLab - CVE-2023-6033](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6033-2023-12-01)|Visit link for details.|01/12/2023|
- |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|01/12/2023|
- |[Zyxel - CVE-2023-37928](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37928-2023-12-01)|Visit link for details.|01/12/2023|
- |[Zyxel - CVE-2023-37927](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37927-2023-12-01)|Visit link for details.|01/12/2023|
- |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|01/12/2023|
- |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|01/12/2023|
- |[Zyxel - CVE-2023-35138](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35138-2023-11-30)|Visit link for details.|30/11/2023|
- |[Zyxel - CVE-2023-4474](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4474-2023-11-30)|Visit link for details.|30/11/2023|
- |[Zyxel - CVE-2023-4473](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4473-2023-11-30)|Visit link for details.|30/11/2023|
- |[NetGear - CVE-2023-49693](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49693-2023-11-30)|Visit link for details.|30/11/2023|
+ |[DSA-5571-1 rabbitmq-server - security update](https://www.linux.org/threads/dsa-5571-1-rabbitmq-server-security-update.47791/)|Visit link for details.|Dec 2, 2023|
+ |[DSA-5570-1 nghttp2 - security update](https://www.linux.org/threads/dsa-5570-1-nghttp2-security-update.47790/)|Visit link for details.|Dec 2, 2023|
+ |[USN-6494-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-2-linux-kernel-vulnerabilities.47778/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6495-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-2-linux-kernel-vulnerabilities.47777/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6496-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-2-linux-kernel-vulnerabilities.47776/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6502-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-4-linux-kernel-vulnerabilities.47775/)|Visit link for details.|Nov 30, 2023|
+ |[DSA-5569-1 chromium - security update](https://www.linux.org/threads/dsa-5569-1-chromium-security-update.47774/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6528-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6528-1-openjdk-8-vulnerabilities.47763/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6527-1: OpenJDK vulnerabilities](https://www.linux.org/threads/usn-6527-1-openjdk-vulnerabilities.47762/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6526-1: GStreamer Bad Plugins vulnerabilities](https://www.linux.org/threads/usn-6526-1-gstreamer-bad-plugins-vulnerabilities.47761/)|Visit link for details.|Nov 29, 2023|
+ |[USN-6519-2: EC2 hibagent update](https://www.linux.org/threads/usn-6519-2-ec2-hibagent-update.47760/)|Visit link for details.|Nov 29, 2023|
  
 
 # OBS-Vigilance
@@ -125,6 +95,23 @@
  |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000" class="noirorange"><b>ZBar</b>: buffer overflow via qr_reader_match_centers()</a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000)|An attacker can trigger a buffer overflow of ZBar, via |Visit link for details|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google - CVE-2023-6348](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6348-2023-12-01)|Visit link for details.|01/12/2023|
+ |[GitLab - CVE-2023-6033](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6033-2023-12-01)|Visit link for details.|01/12/2023|
+ |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|01/12/2023|
+ |[Zyxel - CVE-2023-37928](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37928-2023-12-01)|Visit link for details.|01/12/2023|
+ |[Zyxel - CVE-2023-37927](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37927-2023-12-01)|Visit link for details.|01/12/2023|
+ |[ownCloud - CVE-2023-49103](https://www.cyberveille-sante.gouv.fr/alertes/owncloud-cve-2023-49103-2023-11-27)|Visit link for details.|01/12/2023|
+ |[Qlik - CVE-2023-48365](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-48365-2023-11-16)|Visit link for details.|01/12/2023|
+ |[Zyxel - CVE-2023-35138](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35138-2023-11-30)|Visit link for details.|30/11/2023|
+ |[Zyxel - CVE-2023-4474](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4474-2023-11-30)|Visit link for details.|30/11/2023|
+ |[Zyxel - CVE-2023-4473](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-4473-2023-11-30)|Visit link for details.|30/11/2023|
+ |[NetGear - CVE-2023-49693](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49693-2023-11-30)|Visit link for details.|30/11/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,6 +126,33 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
  |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
  |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NEHANET ManufacturerCRM SQL injection (CVE-2023-6469)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
+ |[Yamcs cross-site scripting (CVE-2023-46470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2023|
+ |[Schweitzer Engineering Laboratories SEL-411L information disclosure (CVE-2023-2267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Schweitzer Engineering Laboratories SEL-411L cross-site scripting (CVE-2023-2266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Schweitzer Engineering Laboratories SEL-411L clickjacking (CVE-2023-2265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[Schweitzer Engineering Laboratories SEL-411L code execution (CVE-2023-2264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ |[PTC KEPServerEX, ThingWorx, and OPC-Aggregator information disclosure (CVE-2023-5909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 30, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
  
 
 # CA-CCS
@@ -190,10 +204,4 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
