@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/12/2023 02:14:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/12/2023 03:16:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
+ |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
+ |[CISA Removes One Known Exploited Vulnerability From Catalog](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-removes-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 01, 2023|
+ |[Multiple Vulnerabilities Affecting Web-Based Court Case and Document Management Systems](https://www.cisa.gov/news-events/alerts/2023/11/30/multiple-vulnerabilities-affecting-web-based-court-case-and-document-management-systems)|Visit link for details.|Nov 30, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 30, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 30, 2023|
+ |[CISA Releases First Secure by Design Alert](https://www.cisa.gov/news-events/alerts/2023/11/29/cisa-releases-first-secure-design-alert)|Visit link for details.|Nov 29, 2023|
+ |[Exploitation of Unitronics PLCs used in Water and Wastewater Systems ](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems)|Visit link for details.|Nov 28, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/28/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 28, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,27 +62,10 @@
  |[USN-6528-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6528-1-openjdk-8-vulnerabilities.47763/)|Visit link for details.|Nov 30, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
- |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
- |[CISA Removes One Known Exploited Vulnerability From Catalog](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-removes-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 01, 2023|
- |[Multiple Vulnerabilities Affecting Web-Based Court Case and Document Management Systems](https://www.cisa.gov/news-events/alerts/2023/11/30/multiple-vulnerabilities-affecting-web-based-court-case-and-document-management-systems)|Visit link for details.|Nov 30, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 30, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 30, 2023|
- |[CISA Releases First Secure by Design Alert](https://www.cisa.gov/news-events/alerts/2023/11/29/cisa-releases-first-secure-design-alert)|Visit link for details.|Nov 29, 2023|
- |[Exploitation of Unitronics PLCs used in Water and Wastewater Systems ](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems)|Visit link for details.|Nov 28, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/28/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 28, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 4 décembre 2023|
  |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/)|Une vulnérabilité a été découverte dans |Publié le 1 décembre 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
@@ -76,22 +75,7 @@
  |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2023|
  |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger  remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-2023-42917, processing web content...|Release Date: 1 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 1 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 30 Nov 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-11-30...| Release Date: 23 Nov 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-11-22] Updated...| Release Date: 2 Nov 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
- |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
  
 
 # CERT-SANTE
@@ -115,13 +99,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-42674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-42675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[UNISOC mobile phone chipsets for Android information disclosure (CVE-2023-42678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42680)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  |[UNISOC mobile phone chipsets for Android privilege escalation (CVE-2023-42681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
- |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
- |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-42684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
- |[UNISOC mobile phone chipsets for Android privilege escalation (CVE-2023-42685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
  
 
 # OBS-Vigilance
@@ -141,20 +125,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,6 +140,22 @@
  |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger  remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-2023-42917, processing web content...|Release Date: 1 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 1 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 30 Nov 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-11-30...| Release Date: 23 Nov 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-11-22] Updated...| Release Date: 2 Nov 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
+ |[ChromeOS Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231117)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 17 Nov 2023 |
  
 
 # CA-CCS
@@ -204,4 +190,18 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-DataCollect Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1754/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master Device-Gateway Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1753/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master UploadMedia Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1752/)|Visit link for details|2023-11-30|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1751/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1750/)|Visit link for details|2023-11-27|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
  
