@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/12/2023 22:16:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/12/2023 23:22:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2023-35137](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35137-2023-12-04)|Visit link for details.|04/12/2023|
+ |[Netgear - CVE-2023-49694](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49694-2023-12-04)|Visit link for details.|04/12/2023|
+ |[IBM Db2 - CVE-2023-38003](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-38003-2023-12-04)|Visit link for details.|04/12/2023|
+ |[GitLab - CVE-2023-6396](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6396-2023-12-04)|Visit link for details.|04/12/2023|
+ |[Dell - CVE-2023-39256](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-39256-2023-12-04)|Visit link for details.|04/12/2023|
+ |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|04/12/2023|
+ |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|04/12/2023|
+ |[Google - CVE-2023-6348](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6348-2023-12-01)|Visit link for details.|01/12/2023|
+ |[GitLab - CVE-2023-6033](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6033-2023-12-01)|Visit link for details.|01/12/2023|
+ |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|01/12/2023|
+ |[Zyxel - CVE-2023-37928](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37928-2023-12-01)|Visit link for details.|01/12/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,23 +122,6 @@
  |[UNISOC mobile phone chipsets for Android privilege escalation (CVE-2023-42685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
  |[UNISOC mobile phone chipsets for Android privilege escalation (CVE-2023-42686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
  |[UNISOC mobile phone chipsets for Android privilege escalation (CVE-2023-42687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 3, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2023-35137](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-35137-2023-12-04)|Visit link for details.|04/12/2023|
- |[Netgear - CVE-2023-49694](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49694-2023-12-04)|Visit link for details.|04/12/2023|
- |[IBM Db2 - CVE-2023-38003](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-38003-2023-12-04)|Visit link for details.|04/12/2023|
- |[GitLab - CVE-2023-6396](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6396-2023-12-04)|Visit link for details.|04/12/2023|
- |[Dell - CVE-2023-39256](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-39256-2023-12-04)|Visit link for details.|04/12/2023|
- |[Qlik - CVE-2023-41265](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41265-2023-08-31)|Visit link for details.|04/12/2023|
- |[Qlik - CVE-2023-41266](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2023-41266-2023-08-31)|Visit link for details.|04/12/2023|
- |[Google - CVE-2023-6348](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-6348-2023-12-01)|Visit link for details.|01/12/2023|
- |[GitLab - CVE-2023-6033](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6033-2023-12-01)|Visit link for details.|01/12/2023|
- |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|01/12/2023|
- |[Zyxel - CVE-2023-37928](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-37928-2023-12-01)|Visit link for details.|01/12/2023|
  
 
 # ZERODAYINITIATIVE
@@ -153,6 +153,23 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005" class="noirorange"><b>IBM Db2</b>: denial of service via RUNSTATS Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005)|An attacker can cause a fatal error of IBM Db2, via RUNSTATS Command, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004" class="noirorange"><b>IBM Db2</b>: denial of service via Extreme Stress</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004)|An attacker can cause a fatal error of IBM Db2, via Extreme Stress, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
+ |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
+ |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
+ |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
+ |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
+ |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
+ |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
+ |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
+ |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
  
 
 # EU-CERT
@@ -187,21 +204,4 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
- |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
- |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
- |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
- |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
- |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
- |[Red Hat security advisory (AV23-728)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-728)|Visit link for details|2023-11-29|
- |[Trellix security advisory (AV23-727)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-727)|Visit link for details|2023-11-29|
- |[Google Chrome security advisory (AV23-726)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-726)|Visit link for details|2023-11-29|
- |[[Control systems] Becton, Dickinson and Company security advisory (AV23-725)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-becton-dickinson-and-company-security-advisory-av23-725)|Visit link for details|2023-11-29|
  
