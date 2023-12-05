@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/12/2023 00:12:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/12/2023 01:18:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -116,26 +116,29 @@
  |Title|Description|Date|
  |---|---|---|
  |[Google Android Framework privilege escalation (CVE-2023-40094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Google Android Framework privilege escalation (CVE-2023-40095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Google Android Framework privilege escalation (CVE-2023-40096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Google Android privilege escalation (CVE-2023-40097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Samsung Mobile devices security bypass (CVE-2023-42581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Google Android information disclosure (CVE-2023-40098)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Google Android privilege escalation (CVE-2023-40103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android privilege escalation (CVE-2023-40087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android code execution (CVE-2023-40088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android Framework privilege escalation (CVE-2023-40089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android privilege escalation (CVE-2023-40090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android Framework privilege escalation (CVE-2023-40091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Google Android Framework information disclosure (CVE-2023-40092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019" class="noirorange"><b>Apache MINA</b>: information disclosure via SFTP Servers</a>](https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019)|An attacker can bypass access restrictions to data of Apache MINA, via SFTP Servers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
  
 
 # EU-CERT
@@ -155,21 +158,18 @@
  |[2023-083: Critical Vulnerability in F5 BIG-IP Configuration utility](https://cert.europa.eu/publications/security-advisories/2023-083/)|On 26 October 2023, F5 released a security advisory for a critical vulnerability impacting BIG-IP that allows an |Friday, October 27, 2023 11:04:34 PM CEST|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019" class="noirorange"><b>Apache MINA</b>: information disclosure via SFTP Servers</a>](https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019)|An attacker can bypass access restrictions to data of Apache MINA, via SFTP Servers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
  
 
 # MA-CERT
