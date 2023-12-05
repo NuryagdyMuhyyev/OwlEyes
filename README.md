@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/12/2023 10:16:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/12/2023 11:23:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 4 décembre 2023|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/)|Une vulnérabilité a été découverte dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2023|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
+ |[USN-6529-1: Request Tracker vulnerabilities](https://www.linux.org/threads/usn-6529-1-request-tracker-vulnerabilities.47818/)|Visit link for details.|Dec 4, 2023|
+ |[DSA-5572-1 roundcube - security update](https://www.linux.org/threads/dsa-5572-1-roundcube-security-update.47813/)|Visit link for details.|Dec 4, 2023|
+ |[USN-6509-2: Firefox regressions](https://www.linux.org/threads/usn-6509-2-firefox-regressions.47812/)|Visit link for details.|Dec 4, 2023|
+ |[DSA-5571-1 rabbitmq-server - security update](https://www.linux.org/threads/dsa-5571-1-rabbitmq-server-security-update.47791/)|Visit link for details.|Dec 2, 2023|
+ |[DSA-5570-1 nghttp2 - security update](https://www.linux.org/threads/dsa-5570-1-nghttp2-security-update.47790/)|Visit link for details.|Dec 2, 2023|
+ |[USN-6494-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-2-linux-kernel-vulnerabilities.47778/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6495-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-2-linux-kernel-vulnerabilities.47777/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6496-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-2-linux-kernel-vulnerabilities.47776/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6502-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-4-linux-kernel-vulnerabilities.47775/)|Visit link for details.|Nov 30, 2023|
+ |[DSA-5569-1 chromium - security update](https://www.linux.org/threads/dsa-5569-1-chromium-security-update.47774/)|Visit link for details.|Nov 30, 2023|
+ |[USN-6528-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6528-1-openjdk-8-vulnerabilities.47763/)|Visit link for details.|Nov 30, 2023|
  
 
 # US-CERT
@@ -61,21 +62,20 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/28/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 28, 2023|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6529-1: Request Tracker vulnerabilities](https://www.linux.org/threads/usn-6529-1-request-tracker-vulnerabilities.47818/)|Visit link for details.|Dec 4, 2023|
- |[DSA-5572-1 roundcube - security update](https://www.linux.org/threads/dsa-5572-1-roundcube-security-update.47813/)|Visit link for details.|Dec 4, 2023|
- |[USN-6509-2: Firefox regressions](https://www.linux.org/threads/usn-6509-2-firefox-regressions.47812/)|Visit link for details.|Dec 4, 2023|
- |[DSA-5571-1 rabbitmq-server - security update](https://www.linux.org/threads/dsa-5571-1-rabbitmq-server-security-update.47791/)|Visit link for details.|Dec 2, 2023|
- |[DSA-5570-1 nghttp2 - security update](https://www.linux.org/threads/dsa-5570-1-nghttp2-security-update.47790/)|Visit link for details.|Dec 2, 2023|
- |[USN-6494-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-2-linux-kernel-vulnerabilities.47778/)|Visit link for details.|Nov 30, 2023|
- |[USN-6495-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6495-2-linux-kernel-vulnerabilities.47777/)|Visit link for details.|Nov 30, 2023|
- |[USN-6496-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6496-2-linux-kernel-vulnerabilities.47776/)|Visit link for details.|Nov 30, 2023|
- |[USN-6502-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6502-4-linux-kernel-vulnerabilities.47775/)|Visit link for details.|Nov 30, 2023|
- |[DSA-5569-1 chromium - security update](https://www.linux.org/threads/dsa-5569-1-chromium-security-update.47774/)|Visit link for details.|Nov 30, 2023|
- |[USN-6528-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6528-1-openjdk-8-vulnerabilities.47763/)|Visit link for details.|Nov 30, 2023|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/)|Une vulnérabilité a été découverte dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2023|
+ |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 novembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2023|
  
 
 # CERT-SANTE
@@ -109,23 +109,6 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231122)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to data manipulation, sensitive information disclosure, elevation of privilege, denial of service, security restriction bypass and remote code execution on the targeted system.|Release Date: 22 Nov 2023 |
  |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20231120)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system.|Release Date: 20 Nov 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010" class="noirorange"><b>IBM Db2</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010)|An attacker can cause a fatal error of IBM Db2, via CLI, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Query Objects</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009)|An attacker can cause a fatal error of IBM Db2, via Federated Query Objects, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Server Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007)|An attacker can cause a fatal error of IBM Db2, via Federated Server Cursor, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -172,21 +155,21 @@
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1749/)|Visit link for details|2023-11-27|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Android security advisory – December 2023 Monthly Rollup (AV23-738)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2023-monthly-rollup-av23-738)|Visit link for details|2023-12-04|
- |[Ubuntu security advisory (AV23-737)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-737)|Visit link for details|2023-12-04|
- |[IBM security advisory (AV23-736)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-736)|Visit link for details|2023-12-04|
- |[Dell security advisory (AV23-735)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-735)|Visit link for details|2023-12-04|
- |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
- |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
- |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
- |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
- |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
- |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010" class="noirorange"><b>IBM Db2</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010)|An attacker can cause a fatal error of IBM Db2, via CLI, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Query Objects</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009)|An attacker can cause a fatal error of IBM Db2, via Federated Query Objects, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Server Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Cursor-43007)|An attacker can cause a fatal error of IBM Db2, via Federated Server Cursor, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -204,4 +187,21 @@
  |[ 44982311/23 - Vulnérabilités dans les produits Mozilla et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-et-thunderbird)| Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de…| 23 novembre 2023|
  |[ 44972311/23 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor-0)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant…| 23 novembre 2023|
  |[ 44962311/23 - Vulnérabilités dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-adobe)|  Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de contourner…| 23 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – December 2023 Monthly Rollup (AV23-738)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2023-monthly-rollup-av23-738)|Visit link for details|2023-12-04|
+ |[Ubuntu security advisory (AV23-737)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-737)|Visit link for details|2023-12-04|
+ |[IBM security advisory (AV23-736)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-736)|Visit link for details|2023-12-04|
+ |[Dell security advisory (AV23-735)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-735)|Visit link for details|2023-12-04|
+ |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
+ |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
+ |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
+ |[[Control systems] PTC security advisory (AV23-732)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ptc-security-advisory-av23-732)|Visit link for details|2023-11-30|
+ |[Microsoft Edge security advisory (AV23-729)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-729)|Visit link for details|2023-11-30|
  
