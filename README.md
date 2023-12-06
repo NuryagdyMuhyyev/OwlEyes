@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/12/2023 19:16:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/12/2023 20:18:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 décembre 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019" class="noirorange"><b>Apache MINA</b>: information disclosure via SFTP Servers</a>](https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019)|An attacker can bypass access restrictions to data of Apache MINA, via SFTP Servers, in order to read sensitive information...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -141,6 +124,23 @@
  |[Buildroot command execution (CVE-2023-45840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019" class="noirorange"><b>Apache MINA</b>: information disclosure via SFTP Servers</a>](https://vigilance.fr/vulnerability/Apache-MINA-information-disclosure-via-SFTP-Servers-43019)|An attacker can bypass access restrictions to data of Apache MINA, via SFTP Servers, in order to read sensitive information...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,20 +156,6 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
  
 
 # MA-CERT
@@ -193,7 +179,8 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-05|
+ |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
+ |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
  |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
  |[Android security advisory – December 2023 Monthly Rollup (AV23-738)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2023-monthly-rollup-av23-738)|Visit link for details|2023-12-04|
  |[Ubuntu security advisory (AV23-737)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-737)|Visit link for details|2023-12-04|
@@ -203,5 +190,18 @@
  |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
  |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
  |[[Control systems] Delta Electronics security advisory (AV23-731)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-731)|Visit link for details|2023-11-30|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-730)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-730)|Visit link for details|2023-11-30|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
  
