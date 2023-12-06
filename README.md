@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/12/2023 09:20:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/12/2023 10:16:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
- |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
- |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
- |[CISA Removes One Known Exploited Vulnerability From Catalog](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-removes-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 01, 2023|
- |[Multiple Vulnerabilities Affecting Web-Based Court Case and Document Management Systems](https://www.cisa.gov/news-events/alerts/2023/11/30/multiple-vulnerabilities-affecting-web-based-court-case-and-document-management-systems)|Visit link for details.|Nov 30, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 30, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 30, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5571-1 rabbitmq-server - security update](https://www.linux.org/threads/dsa-5571-1-rabbitmq-server-security-update.47791/)|Visit link for details.|Dec 2, 2023|
  |[DSA-5570-1 nghttp2 - security update](https://www.linux.org/threads/dsa-5570-1-nghttp2-security-update.47790/)|Visit link for details.|Dec 2, 2023|
  |[USN-6494-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6494-2-linux-kernel-vulnerabilities.47778/)|Visit link for details.|Nov 30, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
+ |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
+ |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
+ |[CISA Removes One Known Exploited Vulnerability From Catalog](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-removes-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 01, 2023|
+ |[Multiple Vulnerabilities Affecting Web-Based Court Case and Document Management Systems](https://www.cisa.gov/news-events/alerts/2023/11/30/multiple-vulnerabilities-affecting-web-based-court-case-and-document-management-systems)|Visit link for details.|Nov 30, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 30, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 30, 2023|
  
 
 # CERT-FR
@@ -111,19 +111,6 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell OS10 Networking Switches denial of service (CVE-2023-39248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Dell PowerScale OneFS denial of service (CVE-2023-44288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Dell PowerScale OneFS information disclosure (CVE-2023-44295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Google Android Framework privilege escalation (CVE-2023-40094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33098)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell OS10 Networking Switches denial of service (CVE-2023-39248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[Dell PowerScale OneFS denial of service (CVE-2023-44288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[Dell PowerScale OneFS information disclosure (CVE-2023-44295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[Google Android Framework privilege escalation (CVE-2023-40094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33098)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 4, 2023|
  
 
 # ZERODAYINITIATIVE
