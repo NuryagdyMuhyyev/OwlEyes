@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/12/2023 16:14:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/12/2023 17:33:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6540-1: BlueZ vulnerability](https://www.linux.org/threads/usn-6540-1-bluez-vulnerability.47850/)|Visit link for details.|Dec 7, 2023|
- |[USN-6539-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6539-1-python-cryptography-vulnerabilities.47845/)|Visit link for details.|Dec 6, 2023|
- |[USN-6538-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-1-postgresql-vulnerabilities.47844/)|Visit link for details.|Dec 6, 2023|
- |[USN-6537-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6537-1-linux-kernel-gcp-vulnerabilities.47843/)|Visit link for details.|Dec 6, 2023|
- |[USN-6536-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6536-1-linux-kernel-vulnerabilities.47842/)|Visit link for details.|Dec 6, 2023|
- |[USN-6535-1: curl vulnerabilities](https://www.linux.org/threads/usn-6535-1-curl-vulnerabilities.47841/)|Visit link for details.|Dec 6, 2023|
- |[USN-6463-2: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-2-open-vm-tools-vulnerabilities.47840/)|Visit link for details.|Dec 6, 2023|
- |[USN-6534-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-1-linux-kernel-vulnerabilities.47834/)|Visit link for details.|Dec 6, 2023|
- |[USN-6533-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6533-1-linux-kernel-oem-vulnerabilities.47833/)|Visit link for details.|Dec 6, 2023|
- |[USN-6532-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6532-1-linux-kernel-vulnerabilities.47832/)|Visit link for details.|Dec 6, 2023|
- |[USN-6531-1: Redis vulnerabilities](https://www.linux.org/threads/usn-6531-1-redis-vulnerabilities.47827/)|Visit link for details.|Dec 5, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/11/30/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Nov 30, 2023|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
- |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
- |[Vulnérabilité dans ElasticSearch pour Hadoop](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/)|Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 décembre 2023|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
- |[Vulnérabilité dans TheGreenBow VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/)|Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 décembre 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0995/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 5 décembre 2023|
- |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0994/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 5 décembre 2023|
- |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 4 décembre 2023|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/)|Une vulnérabilité a été découverte dans |Publié le 1 décembre 2023|
+ |[USN-6540-1: BlueZ vulnerability](https://www.linux.org/threads/usn-6540-1-bluez-vulnerability.47850/)|Visit link for details.|Dec 7, 2023|
+ |[USN-6539-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6539-1-python-cryptography-vulnerabilities.47845/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6538-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-1-postgresql-vulnerabilities.47844/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6537-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6537-1-linux-kernel-gcp-vulnerabilities.47843/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6536-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6536-1-linux-kernel-vulnerabilities.47842/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6535-1: curl vulnerabilities](https://www.linux.org/threads/usn-6535-1-curl-vulnerabilities.47841/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6463-2: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-2-open-vm-tools-vulnerabilities.47840/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6534-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-1-linux-kernel-vulnerabilities.47834/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6533-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6533-1-linux-kernel-oem-vulnerabilities.47833/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6532-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6532-1-linux-kernel-vulnerabilities.47832/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6531-1: Redis vulnerabilities](https://www.linux.org/threads/usn-6531-1-redis-vulnerabilities.47827/)|Visit link for details.|Dec 5, 2023|
  
 
 # CERT-SANTE
@@ -95,6 +79,35 @@
  |[GLPI - CVE-2023-41324](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-41324-2023-10-03)|Visit link for details.|05/12/2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
+ |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
+ |[Vulnérabilité dans ElasticSearch pour Hadoop](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/)|Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 décembre 2023|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
+ |[Vulnérabilité dans TheGreenBow VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/)|Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 décembre 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0995/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 5 décembre 2023|
+ |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0994/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 5 décembre 2023|
+ |[Multiples vulnérabilités dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/)|De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 4 décembre 2023|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/)|Une vulnérabilité a été découverte dans |Publié le 1 décembre 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Group module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[Huawei AJMD-370S security bypass (CVE-2023-6514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[Insyde InsydeH2O denial of service (CVE-2023-40238)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[AMI Aptio V code execution (CVE-2023-39539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[AMI AptioV code execution (CVE-2023-39538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[Phoenix Technologies Phoenix SecureCore code execution (CVE-2023-5058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[cURL libcurl security bypass (CVE-2023-46219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,17 +124,18 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Group module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[Huawei AJMD-370S security bypass (CVE-2023-6514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[Insyde InsydeH2O denial of service (CVE-2023-40238)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[AMI Aptio V code execution (CVE-2023-39539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[AMI AptioV code execution (CVE-2023-39538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[Phoenix Technologies Phoenix SecureCore code execution (CVE-2023-5058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
- |[cURL libcurl security bypass (CVE-2023-46219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 5, 2023|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
  
 
 # OBS-Vigilance
@@ -141,20 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- |[Delta Electronics InfraSuite Device Master RunScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1755/)|Visit link for details|2023-11-30|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,23 +172,6 @@
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian security advisory (AV23-742)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-742)|Visit link for details|2023-12-06|
- |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
- |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
- |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
- |[Android security advisory – December 2023 Monthly Rollup (AV23-738)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2023-monthly-rollup-av23-738)|Visit link for details|2023-12-04|
- |[Ubuntu security advisory (AV23-737)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-737)|Visit link for details|2023-12-04|
- |[IBM security advisory (AV23-736)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-736)|Visit link for details|2023-12-04|
- |[Dell security advisory (AV23-735)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-735)|Visit link for details|2023-12-04|
- |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
- |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
- |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
  |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
  |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian security advisory (AV23-742)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-742)|Visit link for details|2023-12-06|
+ |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
+ |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
+ |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
+ |[Android security advisory – December 2023 Monthly Rollup (AV23-738)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2023-monthly-rollup-av23-738)|Visit link for details|2023-12-04|
+ |[Ubuntu security advisory (AV23-737)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-737)|Visit link for details|2023-12-04|
+ |[IBM security advisory (AV23-736)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-736)|Visit link for details|2023-12-04|
+ |[Dell security advisory (AV23-735)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-735)|Visit link for details|2023-12-04|
+ |[Exploitation of Unitronics programmable logic controllers](https://www.cyber.gc.ca/en/alerts-advisories/exploitation-unitronics-programmable-logic-controllers)|Visit link for details|2023-12-01|
+ |[GitLab security advisory (AV23-734)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-734)|Visit link for details|2023-11-30|
+ |[Apple security advisory (AV23-733)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-733)|Visit link for details|2023-11-30|
  
