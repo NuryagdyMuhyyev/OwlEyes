@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/12/2023 14:17:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/12/2023 15:18:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[Vulnérabilité dans TheGreenBow VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/)|Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 décembre 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
+ |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
+ |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
+ |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,22 +109,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-11-30...| Release Date: 23 Nov 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231102)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-11-22] Updated...| Release Date: 2 Nov 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
- |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
- |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
- |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
  
 
 # OBS-Vigilance
