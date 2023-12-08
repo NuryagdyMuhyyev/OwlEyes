@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/12/2023 04:17:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/12/2023 06:16:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6534-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-1-linux-kernel-vulnerabilities.47834/)|Visit link for details.|Dec 6, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
- |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
- |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
- |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,21 +79,33 @@
  |[Google Chrome - CVE-2023-6509](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6509-2023-12-06)|Visit link for details.|06/12/2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034" class="noirorange"><b>Drupal Group</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034)|An attacker can bypass access restrictions of Drupal Group, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032" class="noirorange"><b>Python Cryptography</b>: NULL pointer dereference via load_pem_pkcs7_certificates()</a>](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032)|An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
+ |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
+ |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
+ |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/01/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 01, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ControlByWeb Relays cross-site scripting (CVE-2023-6333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 7, 2023|
+ |[Multiple UNIX-based products privilege escalation (CVE-2023-45866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 7, 2023|
+ |[HCL Connections cross-site scripting (CVE-2023-28017)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
  
 
 # HK-CERT
@@ -128,17 +124,18 @@
  |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20231127)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 27 Nov 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ControlByWeb Relays cross-site scripting (CVE-2023-6333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 7, 2023|
- |[Multiple UNIX-based products privilege escalation (CVE-2023-45866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 7, 2023|
- |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
- |[System Dashboard plugin for WordPress information disclosure (CVE-2023-5714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2023|
+ |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
  
 
 # EU-CERT
@@ -175,6 +172,23 @@
  |[Dell security advisory (AV23-735)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-735)|Visit link for details|2023-12-04|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034" class="noirorange"><b>Drupal Group</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034)|An attacker can bypass access restrictions of Drupal Group, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032" class="noirorange"><b>Python Cryptography</b>: NULL pointer dereference via load_pem_pkcs7_certificates()</a>](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032)|An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -190,18 +204,4 @@
  |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
  |[ 45002411/23 - Vulnérabilités critiques affectant le plugin «UserPro» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-userpro-pour-wordpress)| WordPress annonce la correction de plusieurs vulnérabilités critiques affectant le plugin «UserPro». Ces vulnérabilités sont activement exploitées et elles peuvent permettre à un attaquant distant…| 24 novembre 2023|
  |[ 44992411/23 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-10)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant distant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, réussir…| 24 novembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
  
