@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/12/2023 14:15:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/12/2023 15:16:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6542-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6542-1-tinyxml-vulnerability.47857/)|Visit link for details.|Dec 7, 2023|
- |[USN-6541-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6541-1-gnu-c-library-vulnerabilities.47856/)|Visit link for details.|Dec 7, 2023|
- |[USN-6522-2: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6522-2-freerdp-vulnerabilities.47855/)|Visit link for details.|Dec 7, 2023|
- |[USN-6540-1: BlueZ vulnerability](https://www.linux.org/threads/usn-6540-1-bluez-vulnerability.47850/)|Visit link for details.|Dec 7, 2023|
- |[USN-6539-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6539-1-python-cryptography-vulnerabilities.47845/)|Visit link for details.|Dec 6, 2023|
- |[USN-6538-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-1-postgresql-vulnerabilities.47844/)|Visit link for details.|Dec 6, 2023|
- |[USN-6537-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6537-1-linux-kernel-gcp-vulnerabilities.47843/)|Visit link for details.|Dec 6, 2023|
- |[USN-6536-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6536-1-linux-kernel-vulnerabilities.47842/)|Visit link for details.|Dec 6, 2023|
- |[USN-6535-1: curl vulnerabilities](https://www.linux.org/threads/usn-6535-1-curl-vulnerabilities.47841/)|Visit link for details.|Dec 6, 2023|
- |[USN-6463-2: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-2-open-vm-tools-vulnerabilities.47840/)|Visit link for details.|Dec 6, 2023|
- |[USN-6534-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-1-linux-kernel-vulnerabilities.47834/)|Visit link for details.|Dec 6, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|08/12/2023|
- |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|08/12/2023|
- |[D-Link - CVE-2023-6580](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6580-2023-12-08)|Visit link for details.|08/12/2023|
- |[Dell - CVE-2023-32460](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32460-2023-12-08)|Visit link for details.|08/12/2023|
- |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|08/12/2023|
- |[WordPress Burst Statistics - CVE-2023-5761](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-burst-statistics-cve-2023-5761-2023-12-07)|Visit link for details.|07/12/2023|
- |[Dell - CVE-2023-44288](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44288-2023-12-07)|Visit link for details.|07/12/2023|
- |[Netgate pfSense - CVE-2023-48123](https://www.cyberveille-sante.gouv.fr/alertes/netgate-pfsense-cve-2023-48123-2023-12-07)|Visit link for details.|07/12/2023|
- |[Squid - CVE-2023-49286](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-49286-2023-12-07)|Visit link for details.|07/12/2023|
- |[WithSecure - CVE-2023-49322](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-49322-2023-12-07)|Visit link for details.|07/12/2023|
- |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
+ |[DSA-5573-1 chromium - security update](https://www.linux.org/threads/dsa-5573-1-chromium-security-update.47869/)|Visit link for details.|Dec 9, 2023|
+ |[USN-6542-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6542-1-tinyxml-vulnerability.47857/)|Visit link for details.|Dec 7, 2023|
+ |[USN-6541-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6541-1-gnu-c-library-vulnerabilities.47856/)|Visit link for details.|Dec 7, 2023|
+ |[USN-6522-2: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6522-2-freerdp-vulnerabilities.47855/)|Visit link for details.|Dec 7, 2023|
+ |[USN-6540-1: BlueZ vulnerability](https://www.linux.org/threads/usn-6540-1-bluez-vulnerability.47850/)|Visit link for details.|Dec 7, 2023|
+ |[USN-6539-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6539-1-python-cryptography-vulnerabilities.47845/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6538-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-1-postgresql-vulnerabilities.47844/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6537-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6537-1-linux-kernel-gcp-vulnerabilities.47843/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6536-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6536-1-linux-kernel-vulnerabilities.47842/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6535-1: curl vulnerabilities](https://www.linux.org/threads/usn-6535-1-curl-vulnerabilities.47841/)|Visit link for details.|Dec 6, 2023|
+ |[USN-6463-2: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-2-open-vm-tools-vulnerabilities.47840/)|Visit link for details.|Dec 6, 2023|
  
 
 # CERT-FR
@@ -95,17 +78,21 @@
  |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Tenda W30E command execution (CVE-2023-49999)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda AX3 buffer overflow (CVE-2023-49408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda AX3 command execution (CVE-2023-49409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|08/12/2023|
+ |[D-Link - CVE-2023-6580](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6580-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Dell - CVE-2023-32460](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32460-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|08/12/2023|
+ |[WordPress Burst Statistics - CVE-2023-5761](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-burst-statistics-cve-2023-5761-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Dell - CVE-2023-44288](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44288-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Netgate pfSense - CVE-2023-48123](https://www.cyberveille-sante.gouv.fr/alertes/netgate-pfsense-cve-2023-48123-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Squid - CVE-2023-49286](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-49286-2023-12-07)|Visit link for details.|07/12/2023|
+ |[WithSecure - CVE-2023-49322](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-49322-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
  
 
 # OBS-Vigilance
@@ -141,18 +128,17 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231129)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 29 Nov 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
+ |[Tenda W30E command execution (CVE-2023-49999)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda AX3 buffer overflow (CVE-2023-49408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda AX3 command execution (CVE-2023-49409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
  
 
 # EU-CERT
@@ -170,6 +156,20 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
  |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
  
 
 # CA-CCS
