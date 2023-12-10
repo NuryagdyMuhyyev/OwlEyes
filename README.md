@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/12/2023 08:17:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/12/2023 09:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[USN-6463-2: Open VM Tools vulnerabilities](https://www.linux.org/threads/usn-6463-2-open-vm-tools-vulnerabilities.47840/)|Visit link for details.|Dec 6, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 décembre 2023|
+ |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
+ |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|08/12/2023|
+ |[D-Link - CVE-2023-6580](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6580-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Dell - CVE-2023-32460](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32460-2023-12-08)|Visit link for details.|08/12/2023|
+ |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|08/12/2023|
+ |[WordPress Burst Statistics - CVE-2023-5761](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-burst-statistics-cve-2023-5761-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Dell - CVE-2023-44288](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44288-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Netgate pfSense - CVE-2023-48123](https://www.cyberveille-sante.gouv.fr/alertes/netgate-pfsense-cve-2023-48123-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Squid - CVE-2023-49286](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-49286-2023-12-07)|Visit link for details.|07/12/2023|
+ |[WithSecure - CVE-2023-49322](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-49322-2023-12-07)|Visit link for details.|07/12/2023|
+ |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,37 +124,6 @@
  |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
- |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|08/12/2023|
- |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|08/12/2023|
- |[D-Link - CVE-2023-6580](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6580-2023-12-08)|Visit link for details.|08/12/2023|
- |[Dell - CVE-2023-32460](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32460-2023-12-08)|Visit link for details.|08/12/2023|
- |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|08/12/2023|
- |[WordPress Burst Statistics - CVE-2023-5761](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-burst-statistics-cve-2023-5761-2023-12-07)|Visit link for details.|07/12/2023|
- |[Dell - CVE-2023-44288](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-44288-2023-12-07)|Visit link for details.|07/12/2023|
- |[Netgate pfSense - CVE-2023-48123](https://www.cyberveille-sante.gouv.fr/alertes/netgate-pfsense-cve-2023-48123-2023-12-07)|Visit link for details.|07/12/2023|
- |[Squid - CVE-2023-49286](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-49286-2023-12-07)|Visit link for details.|07/12/2023|
- |[WithSecure - CVE-2023-49322](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-49322-2023-12-07)|Visit link for details.|07/12/2023|
- |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,37 +141,18 @@
  |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 décembre 2023|
- |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
- |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
- |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
- |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
- |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
- |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
- |[ 45080712/23 - Vulnérabilité critique affectant Atlassian Confluence ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-atlassian-confluence-0)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code…| 07 décembre 2023|
- |[ 45070712/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-13)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 07 décembre 2023|
- |[ 45060612/23 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-6)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android..  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 06 décembre 2023|
- |[ 45050112/23 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données.| 01 décembre 2023|
- |[ 45040112/23 - Deux zero-day corrigés dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/deux-zero-day-corriges-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité corrigeant deux zero-day affectant les produits susmentionnés. Ces vulnérabilités identifiée sous « CVE-2023-42916, CVE-2023-42917» sont activement…| 01 décembre 2023|
- |[ 45032911/23 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 30 novembre 2023|
- |[ 45032911/23 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-2)| Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome y compris une vulnérabilité de type zero-day, ayant comme référence « CVE-2023-6345» activement exploitée.…| 29 novembre 2023|
- |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
- |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
+ |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
+ |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
  
 
 # EU-CERT
@@ -204,4 +187,21 @@
  |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
  |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
  |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
+ |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
+ |[ 45080712/23 - Vulnérabilité critique affectant Atlassian Confluence ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-atlassian-confluence-0)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code…| 07 décembre 2023|
+ |[ 45070712/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-13)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 07 décembre 2023|
+ |[ 45060612/23 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-6)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android..  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 06 décembre 2023|
+ |[ 45050112/23 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données.| 01 décembre 2023|
+ |[ 45040112/23 - Deux zero-day corrigés dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/deux-zero-day-corriges-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité corrigeant deux zero-day affectant les produits susmentionnés. Ces vulnérabilités identifiée sous « CVE-2023-42916, CVE-2023-42917» sont activement…| 01 décembre 2023|
+ |[ 45032911/23 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 30 novembre 2023|
+ |[ 45032911/23 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-2)| Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome y compris une vulnérabilité de type zero-day, ayant comme référence « CVE-2023-6345» activement exploitée.…| 29 novembre 2023|
+ |[ 45022811/23 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Spring. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 28 novembre 2023|
+ |[ 45012711/23 - Vulnérabilités critiques affectant OwnCloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-owncloud)| OwnCloud annonce la correction de trois failles de sécurité de gravité critique affectant les  produits OwnCloud susmentionnés, dont l'une peut exposer les mots de passe des administrateurs et les…| 27 novembre 2023|
  
