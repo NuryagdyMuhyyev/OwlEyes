@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/12/2023 11:20:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/12/2023 12:14:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
+ |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
+ |[Vulnérabilité dans ElasticSearch pour Hadoop](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/)|Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 décembre 2023|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 décembre 2023|
+ |[Vulnérabilité dans TheGreenBow VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/)|Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 décembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,39 +93,6 @@
  |[Squid - CVE-2023-49286](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-49286-2023-12-07)|Visit link for details.|07/12/2023|
  |[WithSecure - CVE-2023-49322](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-49322-2023-12-07)|Visit link for details.|07/12/2023|
  |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 décembre 2023|
- |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
- |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
- |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
- |[Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/)|Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 6 décembre 2023|
- |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034" class="noirorange"><b>Drupal Group</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034)|An attacker can bypass access restrictions of Drupal Group, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032" class="noirorange"><b>Python Cryptography</b>: NULL pointer dereference via load_pem_pkcs7_certificates()</a>](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032)|An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  
 
 # HK-CERT
@@ -139,6 +122,23 @@
  |[Tenda AX3 buffer overflow (CVE-2023-49408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
  |[Tenda AX3 command execution (CVE-2023-49409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
  |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034" class="noirorange"><b>Drupal Group</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034)|An attacker can bypass access restrictions of Drupal Group, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032" class="noirorange"><b>Python Cryptography</b>: NULL pointer dereference via load_pem_pkcs7_certificates()</a>](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032)|An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  
 
 # EU-CERT
