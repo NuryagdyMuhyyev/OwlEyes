@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2023 17:34:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/12/2023 18:21:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,36 +78,6 @@
  |[Multiples vulnérabilités dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit |Publié le 6 décembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda W30E command execution (CVE-2023-49999)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-50002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda AX3 buffer overflow (CVE-2023-49408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda AX3 command execution (CVE-2023-49409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049" class="noirorange"><b>GNU tar</b>: denial of service via PAX Archives Extended Attributes</a>](https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049)|An attacker can cause a fatal error of GNU tar, via PAX Archives Extended Attributes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048" class="noirorange"><b>BlueZ</b>: privilege escalation via Bluetooth HID Hosts</a>](https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048)|An attacker can bypass restrictions of BlueZ, via Bluetooth HID Hosts, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nft_dynset_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nft_dynset_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039" class="noirorange"><b>OpenBSD</b>: denial of service via Pf Packet States Expiration</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039)|An attacker can cause a fatal error of OpenBSD, via Pf Packet States Expiration, in order to trigger a denial of service...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -141,6 +111,36 @@
  |[Softneta MedDream - CVE-2023-40150](https://www.cyberveille-sante.gouv.fr/alertes/softneta-meddream-cve-2023-40150-2023-09-06)|Visit link for details.|07/12/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda W30E command execution (CVE-2023-49999)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-50002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda AX3 buffer overflow (CVE-2023-49408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda AX3 command execution (CVE-2023-49409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ |[Tenda W30E buffer overflow (CVE-2023-49402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 8, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049" class="noirorange"><b>GNU tar</b>: denial of service via PAX Archives Extended Attributes</a>](https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049)|An attacker can cause a fatal error of GNU tar, via PAX Archives Extended Attributes, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048" class="noirorange"><b>BlueZ</b>: privilege escalation via Bluetooth HID Hosts</a>](https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048)|An attacker can bypass restrictions of BlueZ, via Bluetooth HID Hosts, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nft_dynset_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nft_dynset_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039" class="noirorange"><b>OpenBSD</b>: denial of service via Pf Packet States Expiration</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039)|An attacker can cause a fatal error of OpenBSD, via Pf Packet States Expiration, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -159,6 +159,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
  |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
  |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
@@ -168,8 +170,6 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
- |[2023-085: Critical Vulnerability in Confluence Data Center and Server](https://cert.europa.eu/publications/security-advisories/2023-085/)|On October 30 2023, a notable vulnerability, CVE-2023-22518, affecting Confluence Data Center and Server was disclosed by Atlassian. The exploitation of this vulnerability could result in significant data loss. Updates are already available for this vulnerability. The CVE-2023-22518 had an initial CVSS score of 9.1 indicating a critical risk.|Wednesday, November 08, 2023 05:08:31 PM CET|
- |[2023-084: Critical Vulnerability in VMware products](https://cert.europa.eu/publications/security-advisories/2023-084/)|On 25 October 2023, VMware has released security updates to address two vulnerabilities affecting vCenter Server and Cloud Foundation. The exploitation of the vulnerabilities could lead to an out-of-bounds write and a partial information disclosure. The vulnerabilities are tracked as CVE-2023-34048 with a CVSS score 9.8 and CVE-2023-34056 with a CVSS score of 4.3.[1]|Friday, October 27, 2023 11:05:49 PM CEST|
  
 
 # CA-CCS
