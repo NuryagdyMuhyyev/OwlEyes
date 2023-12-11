@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2023 21:23:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/12/2023 22:16:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6546-1: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-1-libreoffice-vulnerabilities.47892/)|Visit link for details.|Dec 11, 2023|
+ |[USN-6545-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6545-1-webkitgtk-vulnerabilities.47891/)|Visit link for details.|Dec 11, 2023|
+ |[USN-6500-2: Squid vulnerabilities](https://www.linux.org/threads/usn-6500-2-squid-vulnerabilities.47890/)|Visit link for details.|Dec 11, 2023|
+ |[USN-6544-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6544-1-gnu-binutils-vulnerabilities.47889/)|Visit link for details.|Dec 11, 2023|
  |[USN-6543-1: GNU Tar vulnerability](https://www.linux.org/threads/usn-6543-1-gnu-tar-vulnerability.47886/)|Visit link for details.|Dec 11, 2023|
  |[DSA-5573-1 chromium - security update](https://www.linux.org/threads/dsa-5573-1-chromium-security-update.47869/)|Visit link for details.|Dec 9, 2023|
  |[USN-6542-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6542-1-tinyxml-vulnerability.47857/)|Visit link for details.|Dec 7, 2023|
@@ -40,26 +44,6 @@
  |[USN-6522-2: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6522-2-freerdp-vulnerabilities.47855/)|Visit link for details.|Dec 7, 2023|
  |[USN-6540-1: BlueZ vulnerability](https://www.linux.org/threads/usn-6540-1-bluez-vulnerability.47850/)|Visit link for details.|Dec 7, 2023|
  |[USN-6539-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6539-1-python-cryptography-vulnerabilities.47845/)|Visit link for details.|Dec 6, 2023|
- |[USN-6538-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-1-postgresql-vulnerabilities.47844/)|Visit link for details.|Dec 6, 2023|
- |[USN-6537-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6537-1-linux-kernel-gcp-vulnerabilities.47843/)|Visit link for details.|Dec 6, 2023|
- |[USN-6536-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6536-1-linux-kernel-vulnerabilities.47842/)|Visit link for details.|Dec 6, 2023|
- |[USN-6535-1: curl vulnerabilities](https://www.linux.org/threads/usn-6535-1-curl-vulnerabilities.47841/)|Visit link for details.|Dec 6, 2023|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
- |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
- |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
- |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
  
 
 # CERT-FR
@@ -82,6 +66,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link - CVE-2023-6581](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6581-2023-12-11)|Visit link for details.|11/12/2023|
+ |[Netgear- CVE-2023-49007](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49007-2023-12-11)|Visit link for details.|11/12/2023|
+ |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|11/12/2023|
  |[Software AG - CVE-2023-6578](https://www.cyberveille-sante.gouv.fr/alertes/software-ag-cve-2023-6578-2023-12-11)|Visit link for details.|11/12/2023|
  |[Wordpress HUSKY - CVE-2023-40010](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2023-40010-2023-12-11)|Visit link for details.|11/12/2023|
  |[Google - CVE-2023-5997](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2023-5997-2023-11-17)|Visit link for details.|11/12/2023|
@@ -90,9 +77,22 @@
  |[Google Chrome - CVE-2023-6509](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6509-2023-12-06)|Visit link for details.|11/12/2023|
  |[Google Chrome - CVE-2023-6508](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6508-2023-12-06)|Visit link for details.|11/12/2023|
  |[PostgreSQL - CVE-2023-5869](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2023-5869-2023-11-10)|Visit link for details.|11/12/2023|
- |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|08/12/2023|
- |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|08/12/2023|
- |[D-Link - CVE-2023-6580](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6580-2023-12-08)|Visit link for details.|08/12/2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
+ |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
+ |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 04, 2023|
+ |[CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs)|Visit link for details.|Dec 01, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -141,6 +141,23 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231123)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-11-30...| Release Date: 23 Nov 2023 |
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-749)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-749)|Visit link for details|2023-12-08|
+ |[Apache security advisory (AV23-748)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-748)|Visit link for details|2023-12-08|
+ |[[Control systems] Sierra Wireless security advisory (AV23-747)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-747)|Visit link for details|2023-12-08|
+ |[[Control systems] Schweitzer Engineering Laboratories security advisory (AV23-746)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schweitzer-engineering-laboratories-security-advisory-av23-746)|Visit link for details|2023-12-08|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-745)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-745)|Visit link for details|2023-12-07|
+ |[[Control systems] Johnson Controls security advisory (AV23-744)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-744)|Visit link for details|2023-12-07|
+ |[[Control systems] ControlbyWeb security advisory (AV23-743)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-controlbyweb-security-advisory-av23-743)|Visit link for details|2023-12-07|
+ |[Atlassian security advisory (AV23-742)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-742)|Visit link for details|2023-12-06|
+ |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
+ |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
+ |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,23 +187,6 @@
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1758/)|Visit link for details|2023-12-05|
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1757/)|Visit link for details|2023-12-05|
  |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV23-749)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-749)|Visit link for details|2023-12-08|
- |[Apache security advisory (AV23-748)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-748)|Visit link for details|2023-12-08|
- |[[Control systems] Sierra Wireless security advisory (AV23-747)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-747)|Visit link for details|2023-12-08|
- |[[Control systems] Schweitzer Engineering Laboratories security advisory (AV23-746)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schweitzer-engineering-laboratories-security-advisory-av23-746)|Visit link for details|2023-12-08|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-745)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-745)|Visit link for details|2023-12-07|
- |[[Control systems] Johnson Controls security advisory (AV23-744)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-744)|Visit link for details|2023-12-07|
- |[[Control systems] ControlbyWeb security advisory (AV23-743)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-controlbyweb-security-advisory-av23-743)|Visit link for details|2023-12-07|
- |[Atlassian security advisory (AV23-742)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-742)|Visit link for details|2023-12-06|
- |[Google Chrome security advisory (AV23-741)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-741)|Visit link for details|2023-12-06|
- |[Qualcomm security advisory (AV23-740)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av23-740)|Visit link for details|2023-12-06|
- |[[Control systems] Zebra security advisory (AV23-739)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-zebra-security-advisory-av23-739)|Visit link for details|2023-12-05|
  
 
 # MA-CERT
