@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2023 20:18:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2023 21:22:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
+ |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
+ |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
+ |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
+ |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
  
 
 # LINUX-SEC
@@ -60,6 +60,22 @@
  |[USN-6500-2: Squid vulnerabilities](https://www.linux.org/threads/usn-6500-2-squid-vulnerabilities.47890/)|Visit link for details.|Dec 11, 2023|
  |[USN-6544-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6544-1-gnu-binutils-vulnerabilities.47889/)|Visit link for details.|Dec 11, 2023|
  |[USN-6543-1: GNU Tar vulnerability](https://www.linux.org/threads/usn-6543-1-gnu-tar-vulnerability.47886/)|Visit link for details.|Dec 11, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
+ |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
  
 
 # CERT-SANTE
@@ -92,26 +108,11 @@
  |[Apple macOS Sonoma code execution (CVE-2023-42908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
- |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
- |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 05, 2023|
- |[CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion)|Visit link for details.|Dec 05, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities via User Management Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063)|An attacker can use several vulnerabilities of SIMATIC PCS neo, via User Management Component...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via Webserver</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062)|An attacker can use several vulnerabilities of SIMATIC, via Webserver...|Visit link for details|
@@ -122,7 +123,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43055" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43055)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
  
 
 # HK-CERT
@@ -155,23 +155,6 @@
  |[Delta Electronics InfraSuite Device Master PlayWaveFile Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1756/)|Visit link for details|2023-11-30|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
- |[Dell security advisory (AV23-752)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-752)|Visit link for details|2023-12-11|
- |[IBM security advisory (AV23-751)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-751)|Visit link for details|2023-12-11|
- |[Ubuntu security advisory (AV23-750)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-750)|Visit link for details|2023-12-11|
- |[Microsoft Edge security advisory (AV23-749)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-749)|Visit link for details|2023-12-08|
- |[Apache security advisory (AV23-748)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-748)|Visit link for details|2023-12-08|
- |[[Control systems] Sierra Wireless security advisory (AV23-747)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-747)|Visit link for details|2023-12-08|
- |[[Control systems] Schweitzer Engineering Laboratories security advisory (AV23-746)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schweitzer-engineering-laboratories-security-advisory-av23-746)|Visit link for details|2023-12-08|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-745)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-745)|Visit link for details|2023-12-07|
- |[[Control systems] Johnson Controls security advisory (AV23-744)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-744)|Visit link for details|2023-12-07|
- |[[Control systems] ControlbyWeb security advisory (AV23-743)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-controlbyweb-security-advisory-av23-743)|Visit link for details|2023-12-07|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
+ |[Dell security advisory (AV23-752)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-752)|Visit link for details|2023-12-11|
+ |[IBM security advisory (AV23-751)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-751)|Visit link for details|2023-12-11|
+ |[Ubuntu security advisory (AV23-750)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-750)|Visit link for details|2023-12-11|
+ |[Microsoft Edge security advisory (AV23-749)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-749)|Visit link for details|2023-12-08|
+ |[Apache security advisory (AV23-748)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-748)|Visit link for details|2023-12-08|
+ |[[Control systems] Sierra Wireless security advisory (AV23-747)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-747)|Visit link for details|2023-12-08|
+ |[[Control systems] Schweitzer Engineering Laboratories security advisory (AV23-746)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schweitzer-engineering-laboratories-security-advisory-av23-746)|Visit link for details|2023-12-08|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-745)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-745)|Visit link for details|2023-12-07|
+ |[[Control systems] Johnson Controls security advisory (AV23-744)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-744)|Visit link for details|2023-12-07|
+ |[[Control systems] ControlbyWeb security advisory (AV23-743)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-controlbyweb-security-advisory-av23-743)|Visit link for details|2023-12-07|
  
 
 # MA-CERT
