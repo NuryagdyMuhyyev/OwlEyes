@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2023 01:18:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2023 02:15:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6548-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6548-2-linux-kernel-vulnerabilities.47914/)|Visit link for details.|Dec 12, 2023|
+ |[USN-6549-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6549-2-linux-kernel-gke-vulnerabilities.47913/)|Visit link for details.|Dec 12, 2023|
+ |[USN-6534-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-2-linux-kernel-vulnerabilities.47912/)|Visit link for details.|Dec 12, 2023|
  |[USN-6552-1: Netatalk vulnerability](https://www.linux.org/threads/usn-6552-1-netatalk-vulnerability.47906/)|Visit link for details.|Dec 12, 2023|
  |[USN-6551-1: Ghostscript vulnerability](https://www.linux.org/threads/usn-6551-1-ghostscript-vulnerability.47905/)|Visit link for details.|Dec 12, 2023|
  |[USN-6550-1: PostfixAdmin vulnerabilities](https://www.linux.org/threads/usn-6550-1-postfixadmin-vulnerabilities.47904/)|Visit link for details.|Dec 12, 2023|
@@ -41,25 +44,6 @@
  |[USN-6549-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-1-linux-kernel-vulnerabilities.47896/)|Visit link for details.|Dec 12, 2023|
  |[DSA-5574-1 libreoffice - security update](https://www.linux.org/threads/dsa-5574-1-libreoffice-security-update.47895/)|Visit link for details.|Dec 11, 2023|
  |[USN-6547-1: Python vulnerability](https://www.linux.org/threads/usn-6547-1-python-vulnerability.47893/)|Visit link for details.|Dec 11, 2023|
- |[USN-6546-1: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-1-libreoffice-vulnerabilities.47892/)|Visit link for details.|Dec 11, 2023|
- |[USN-6545-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6545-1-webkitgtk-vulnerabilities.47891/)|Visit link for details.|Dec 11, 2023|
- |[USN-6500-2: Squid vulnerabilities](https://www.linux.org/threads/usn-6500-2-squid-vulnerabilities.47890/)|Visit link for details.|Dec 11, 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
  
 
 # US-CERT
@@ -76,6 +60,38 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 07, 2023|
  |[CISA Releases Joint Guide for Software Manufacturers: The Case for Memory Safe Roadmaps](https://www.cisa.gov/news-events/alerts/2023/12/06/cisa-releases-joint-guide-software-manufacturers-case-memory-safe-roadmaps)|Visit link for details.|Dec 06, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 05, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 décembre 2023|
+ |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
+ |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 6 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231205)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Dec 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger  remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-2023-42917, processing web content...|Release Date: 1 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 30 Nov 2023 |
  
 
 # CERT-SANTE
@@ -99,46 +115,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Elecom routers command execution (CVE-2023-49695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Azure Connected Machine Agent privilege escalation (CVE-2023-35624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Windows DNS spoofing (CVE-2023-35622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Dynamics 365 Finance and Operations denial of service (CVE-2023-35621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Outlook for Mac spoofing (CVE-2023-35619)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Outlook information disclosure (CVE-2023-35636)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Microsoft Windows Kernel denial of service (CVE-2023-35635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Microsoft Windows Bluetooth Driver code execution (CVE-2023-35634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069" class="noirorange"><b>FreeBSD</b>: information disclosure via NFS Client</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069)|An attacker can bypass access restrictions to data of FreeBSD, via NFS Client, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities via User Management Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063)|An attacker can use several vulnerabilities of SIMATIC PCS neo, via User Management Component...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via Webserver</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062)|An attacker can use several vulnerabilities of SIMATIC, via Webserver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-STEP-7-information-disclosure-via-Hardware-Configuration-43061" class="noirorange"><b>SIMATIC STEP 7</b>: information disclosure via Hardware Configuration</a>](https://vigilance.fr/vulnerability/SIMATIC-STEP-7-information-disclosure-via-Hardware-Configuration-43061)|An attacker can bypass access restrictions to data of SIMATIC STEP 7, via Hardware Configuration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-December-2023-43058" class="noirorange"><b>SAP</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-December-2023-43058)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
- |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 6 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20231205)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Dec 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger  remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-2023-42917, processing web content...|Release Date: 1 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, remote code execution and denial of service condition on the targeted system. Note:For CVE-2023-6345, ...|Release Date: 30 Nov 2023 |
  
 
 # ZERODAYINITIATIVE
@@ -153,6 +153,23 @@
  |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
  |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
  |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
+ |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
+ |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
+ |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
+ |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
+ |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
 # MA-CERT
@@ -176,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
  |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
  |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
  |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
@@ -186,22 +204,4 @@
  |[Apache security advisory (AV23-748)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av23-748)|Visit link for details|2023-12-08|
  |[[Control systems] Sierra Wireless security advisory (AV23-747)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-747)|Visit link for details|2023-12-08|
  |[[Control systems] Schweitzer Engineering Laboratories security advisory (AV23-746)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schweitzer-engineering-laboratories-security-advisory-av23-746)|Visit link for details|2023-12-08|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-745)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-745)|Visit link for details|2023-12-07|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
- |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
- |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
- |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
