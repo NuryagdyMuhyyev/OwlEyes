@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2023 17:32:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2023 18:21:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6549-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-1-linux-kernel-vulnerabilities.47896/)|Visit link for details.|Dec 12, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2023-50424](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50424-2023-12-12)|Visit link for details.|12/12/2023|
+ |[SAP - CVE-2023-50423](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50423-2023-12-12)|Visit link for details.|12/12/2023|
+ |[SAP - CVE-2023-50422](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50422-2023-12-12)|Visit link for details.|12/12/2023|
+ |[SAP - CVE-2023-49583](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-49583-2023-12-12)|Visit link for details.|12/12/2023|
+ |[LibreOffice - CVE-2023-6186](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-6186-2023-12-12)|Visit link for details.|12/12/2023|
+ |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|12/12/2023|
+ |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|12/12/2023|
+ |[D-Link - CVE-2023-6581](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6581-2023-12-11)|Visit link for details.|11/12/2023|
+ |[Netgear- CVE-2023-49007](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49007-2023-12-11)|Visit link for details.|11/12/2023|
+ |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|11/12/2023|
+ |[Software AG - CVE-2023-6578](https://www.cyberveille-sante.gouv.fr/alertes/software-ag-cve-2023-6578-2023-12-11)|Visit link for details.|11/12/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -91,21 +108,34 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  
 
-# CERT-SANTE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[SAP - CVE-2023-50424](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50424-2023-12-12)|Visit link for details.|12/12/2023|
- |[SAP - CVE-2023-50423](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50423-2023-12-12)|Visit link for details.|12/12/2023|
- |[SAP - CVE-2023-50422](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50422-2023-12-12)|Visit link for details.|12/12/2023|
- |[SAP - CVE-2023-49583](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-49583-2023-12-12)|Visit link for details.|12/12/2023|
- |[LibreOffice - CVE-2023-6186](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-6186-2023-12-12)|Visit link for details.|12/12/2023|
- |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|12/12/2023|
- |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|12/12/2023|
- |[D-Link - CVE-2023-6581](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6581-2023-12-11)|Visit link for details.|11/12/2023|
- |[Netgear- CVE-2023-49007](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49007-2023-12-11)|Visit link for details.|11/12/2023|
- |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|11/12/2023|
- |[Software AG - CVE-2023-6578](https://www.cyberveille-sante.gouv.fr/alertes/software-ag-cve-2023-6578-2023-12-11)|Visit link for details.|11/12/2023|
+ |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
+ |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
+ |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Extreme Networks AP410C ah_webui Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1766/)|Visit link for details|2023-12-12|
+ |[Extreme Networks HiveOS ah_auth Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1765/)|Visit link for details|2023-12-12|
+ |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1764/)|Visit link for details|2023-12-12|
+ |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
  
 
 # OBS-Vigilance
@@ -142,20 +172,21 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
-# HK-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
- |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
- |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
+ |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
+ |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
+ |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
+ |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
+ |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
+ |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
+ |[[Control systems] Schneider Electric security advisory (AV23-754)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-754)|Visit link for details|2023-12-12|
+ |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
+ |[Dell security advisory (AV23-752)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-752)|Visit link for details|2023-12-11|
+ |[IBM security advisory (AV23-751)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-751)|Visit link for details|2023-12-11|
+ |[Ubuntu security advisory (AV23-750)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-750)|Visit link for details|2023-12-11|
  
 
 # MA-CERT
@@ -173,35 +204,4 @@
  |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
  |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
  |[ 45080712/23 - Vulnérabilité critique affectant Atlassian Confluence ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-atlassian-confluence-0)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code…| 07 décembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
- |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
- |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
- |[[Control systems] Schneider Electric security advisory (AV23-754)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-754)|Visit link for details|2023-12-12|
- |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
- |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
- |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
- |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
- |[Dell security advisory (AV23-752)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-752)|Visit link for details|2023-12-11|
- |[IBM security advisory (AV23-751)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-751)|Visit link for details|2023-12-11|
- |[Ubuntu security advisory (AV23-750)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-750)|Visit link for details|2023-12-11|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Extreme Networks AP410C ah_webui Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1766/)|Visit link for details|2023-12-12|
- |[Extreme Networks HiveOS ah_auth Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1765/)|Visit link for details|2023-12-12|
- |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1764/)|Visit link for details|2023-12-12|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
  
