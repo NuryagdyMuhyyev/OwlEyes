@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/12/2023 03:16:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/12/2023 04:17:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits PRIM’X](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 décembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
+ 
 
 # LINUX-SEC
 
@@ -79,22 +95,6 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
- |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,19 +109,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiOS and Fortinet FortiPAM code execution (CVE-2023-41678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Google Chrome code execution (CVE-2023-6703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Google Chrome code execution (CVE-2023-6702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Siemens SINEC INS privilege escalation (CVE-2023-48427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Siemens SINEC INS command execution (CVE-2023-48428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Siemens SINEC INS denial of service (CVE-2023-48429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Siemens SINEC INS denial of service (CVE-2023-48430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  
 
 # OBS-Vigilance
@@ -139,6 +126,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_conntrack_dccp_packet()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FortiOS and FortiProxy security bypass (CVE-2023-47536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Fortinet FortiSandbox cross-site scripting (CVE-2023-45587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Fortinet FortiSandbox cross-site scripting (CVE-2023-41844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Fortinet FortiADC information disclosure (CVE-2023-41673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Google Chrome code execution (CVE-2023-6707)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Fortinet FortiOS and Fortinet FortiPAM code execution (CVE-2023-41678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Google Chrome code execution (CVE-2023-6706)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -172,23 +172,6 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
- |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
- |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
- |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
- |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- |[ 45131312/23 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 13 décembre 2023|
- |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
- |[ 45111212/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités critiques affectant     ses produits                susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant…| 12 décembre 2023|
- |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
- |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
  |[[Control systems] Schneider Electric security advisory (AV23-754)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-754)|Visit link for details|2023-12-12|
  |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
+ |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
+ |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
+ |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
+ |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ |[ 45131312/23 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 13 décembre 2023|
+ |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
+ |[ 45111212/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités critiques affectant     ses produits                susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant…| 12 décembre 2023|
+ |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
+ |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
  
