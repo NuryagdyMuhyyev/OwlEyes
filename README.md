@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2023 20:18:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2023 21:21:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,17 +82,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2023-36019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36019-2023-12-13)|Visit link for details.|13/12/2023|
+ |[Microsoft - CVE-2023-35639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35639-2023-12-13)|Visit link for details.|13/12/2023|
+ |[Microsoft - CVE-2023-35630](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35630-2023-12-13)|Visit link for details.|13/12/2023|
+ |[Fortinet - CVE-2023-47539](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-47539-2023-12-13)|Visit link for details.|13/12/2023|
+ |[Fortinet - CVE-2023-41678](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-41678-2023-12-13)|Visit link for details.|13/12/2023|
  |[SAP - CVE-2023-50424](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50424-2023-12-12)|Visit link for details.|12/12/2023|
  |[SAP - CVE-2023-50423](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50423-2023-12-12)|Visit link for details.|12/12/2023|
  |[SAP - CVE-2023-50422](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-50422-2023-12-12)|Visit link for details.|12/12/2023|
  |[SAP - CVE-2023-49583](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2023-49583-2023-12-12)|Visit link for details.|12/12/2023|
  |[LibreOffice - CVE-2023-6186](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-6186-2023-12-12)|Visit link for details.|12/12/2023|
  |[Bluetooth - CVE-2023-45866](https://www.cyberveille-sante.gouv.fr/alertes/bluetooth-cve-2023-45866-2023-12-08)|Visit link for details.|12/12/2023|
- |[Apple - CVE-2023-42917](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42917-2023-12-01)|Visit link for details.|12/12/2023|
- |[D-Link - CVE-2023-6581](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-6581-2023-12-11)|Visit link for details.|11/12/2023|
- |[Netgear- CVE-2023-49007](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-49007-2023-12-11)|Visit link for details.|11/12/2023|
- |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|11/12/2023|
- |[Software AG - CVE-2023-6578](https://www.cyberveille-sante.gouv.fr/alertes/software-ag-cve-2023-6578-2023-12-11)|Visit link for details.|11/12/2023|
  
 
 # OBS-Vigilance
@@ -116,12 +116,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens products security bypass (CVE-2022-42784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Siemens SIMATIC STEP 7 (TIA Portal) information disclosure (CVE-2022-46141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Siemens products denial of service (CVE-2022-47374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Siemens products denial of service (CVE-2022-47375)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Zoom Mobile App for Android, Zoom Mobile App for iOS and Zoom SDKs nformation disclosure (CVE-2023-43583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[Zoom Desktop Client for Windows, Zoom VDI Client for Windows and Zoom SDKs for Windows privilege escalation (CVE-2023-43586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Zoom Mobile App for iOS and SDKs for iOS information disclosure (CVE-2023-43585)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Zoom Clients denial of service (CVE-2023-49646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Extreme Networks HiveOS buffer overflow (CVE-2023-46272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Extreme Networks AP410C code execution (CVE-2023-46271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
  
 
