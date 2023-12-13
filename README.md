@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2023 15:18:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2023 16:14:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
+ |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
+ |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ 
 
 # LINUX-SEC
 
@@ -62,6 +78,19 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoom Mobile App for Android, Zoom Mobile App for iOS and Zoom SDKs nformation disclosure (CVE-2023-43583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Zoom Desktop Client for Windows, Zoom VDI Client for Windows and Zoom SDKs for Windows privilege escalation (CVE-2023-43586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Zoom Mobile App for iOS and SDKs for iOS information disclosure (CVE-2023-43585)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Zoom Clients denial of service (CVE-2023-49646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Extreme Networks HiveOS buffer overflow (CVE-2023-46272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[Extreme Networks AP410C code execution (CVE-2023-46271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,20 +108,34 @@
  |[Software AG - CVE-2023-6578](https://www.cyberveille-sante.gouv.fr/alertes/software-ag-cve-2023-6578-2023-12-11)|Visit link for details.|11/12/2023|
  
 
-# US-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
- |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
- |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- |[CISA and International Partners Release Advisory on Russia-based Threat Actor Group, Star Blizzard](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-and-international-partners-release-advisory-russia-based-threat-actor-group-star-blizzard)|Visit link for details.|Dec 07, 2023|
+ |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
+ |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
+ |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Extreme Networks AP410C ah_webui Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1766/)|Visit link for details|2023-12-12|
+ |[Extreme Networks HiveOS ah_auth Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1765/)|Visit link for details|2023-12-12|
+ |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1764/)|Visit link for details|2023-12-12|
+ |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
+ |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
+ |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
  
 
 # OBS-Vigilance
@@ -112,35 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
- |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
- |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20231211)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231208)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231206)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 6 Dec 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoom Mobile App for Android, Zoom Mobile App for iOS and Zoom SDKs nformation disclosure (CVE-2023-43583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Zoom Desktop Client for Windows, Zoom VDI Client for Windows and Zoom SDKs for Windows privilege escalation (CVE-2023-43586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Zoom Mobile App for iOS and SDKs for iOS information disclosure (CVE-2023-43585)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Zoom Clients denial of service (CVE-2023-49646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Extreme Networks HiveOS buffer overflow (CVE-2023-46272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[Extreme Networks AP410C code execution (CVE-2023-46271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -158,24 +172,12 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Extreme Networks AP410C ah_webui Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1766/)|Visit link for details|2023-12-12|
- |[Extreme Networks HiveOS ah_auth Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1765/)|Visit link for details|2023-12-12|
- |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1764/)|Visit link for details|2023-12-12|
- |[Apple macOS Hydra Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1763/)|Visit link for details|2023-12-07|
- |[SolarWinds Orion Platform VimChartInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1762/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1761/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1760/)|Visit link for details|2023-12-05|
- |[Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1759/)|Visit link for details|2023-12-05|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
+ |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
@@ -185,8 +187,6 @@
  |[ 45100812/23 - Vulnérabilité affectant Apache Struts 2 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-apache-struts-2)| Apache annonce la correction d’une vulnérabilité affectant  Apache Struts 2. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
  |[ 45090812/23 - Mise à jour de sécurité pour le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-cms-wordpress-1)| WordPress annonce la correction d’une vulnérabilité affectant son CMS WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.| 08 décembre 2023|
  |[ 45080712/23 - Vulnérabilité critique affectant Atlassian Confluence ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-atlassian-confluence-0)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code…| 07 décembre 2023|
- |[ 45070712/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-13)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 07 décembre 2023|
- |[ 45060612/23 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-6)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android..  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 06 décembre 2023|
  
 
 # CA-CCS
