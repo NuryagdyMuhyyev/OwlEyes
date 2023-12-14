@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/12/2023 22:16:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/12/2023 23:22:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,23 +33,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
  |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
  |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
  |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
  |[USN-6549-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6549-3-linux-kernel-low-latency-vulnerabilities.47924/)|Visit link for details.|Dec 13, 2023|
  |[USN-6534-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-3-linux-kernel-vulnerabilities.47923/)|Visit link for details.|Dec 13, 2023|
  |[USN-6555-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-1-x-org-x-server-vulnerabilities.47922/)|Visit link for details.|Dec 13, 2023|
- |[USN-6553-1: Pydantic vulnerability](https://www.linux.org/threads/usn-6553-1-pydantic-vulnerability.47920/)|Visit link for details.|Dec 13, 2023|
- |[DSA-5576-1 xorg-server - security update](https://www.linux.org/threads/dsa-5576-1-xorg-server-security-update.47918/)|Visit link for details.|Dec 13, 2023|
- |[USN-6554-1: GNOME Settings vulnerability](https://www.linux.org/threads/usn-6554-1-gnome-settings-vulnerability.47917/)|Visit link for details.|Dec 13, 2023|
- |[USN-6548-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6548-2-linux-kernel-vulnerabilities.47914/)|Visit link for details.|Dec 12, 2023|
- |[USN-6549-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6549-2-linux-kernel-gke-vulnerabilities.47913/)|Visit link for details.|Dec 12, 2023|
  
 
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
  |[FortiGuard Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortiguard-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
  |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
@@ -59,7 +60,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
  |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
- |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
  
 
 # CERT-FR
@@ -111,19 +111,6 @@
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS information disclosure (CVE-2023-6791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS command execution (CVE-2023-6792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS denial of service (CVE-2023-6793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS file upload (CVE-2023-6794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS command execution (CVE-2023-6795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -141,6 +128,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS information disclosure (CVE-2023-6791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2023-6792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS denial of service (CVE-2023-6793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS file upload (CVE-2023-6794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2023-6795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +153,23 @@
  |[Adobe Dimension USD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1778/)|Visit link for details|2023-12-14|
  |[Adobe Dimension GLB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1777/)|Visit link for details|2023-12-14|
  |[Adobe Prelude MP4 File Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1776/)|Visit link for details|2023-12-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
+ |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
+ |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
+ |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
+ |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
+ |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
+ |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
+ |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ |[ 45131312/23 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 13 décembre 2023|
+ |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
  
 
 # EU-CERT
@@ -176,6 +193,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
  |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
  |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
  |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
@@ -186,22 +204,4 @@
  |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
  |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
  |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
- |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
- |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
- |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
- |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
- |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
- |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
- |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
- |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- |[ 45131312/23 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 13 décembre 2023|
- |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
  
