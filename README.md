@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/12/2023 14:17:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/12/2023 15:19:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,38 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
+ |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
+ |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits PRIM’X](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 décembre 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
+ 
 
 # LINUX-SEC
 
@@ -79,39 +111,24 @@
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
- |[CISA Releases SCuBA Google Workspace Secure Configuration Baselines for Public Comment ](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-scuba-google-workspace-secure-configuration-baselines-public-comment)|Visit link for details.|Dec 12, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Dec 11, 2023|
- |[Atlassian Releases Security Advisories for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/08/atlassian-releases-security-advisories-multiple-products)|Visit link for details.|Dec 08, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/07/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Dec 07, 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab security bypass (CVE-2023-6680)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[X.Org X server information disclosure (CVE-2023-6478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[X.Org X server code execution (CVE-2023-6377)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[WESEEK GROWI cross-site scripting (CVE-2023-50339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[WESEEK GROWI security bypass (CVE-2023-50332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[WESEEK GROWI information disclosure (CVE-2023-50294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[WESEEK GROWI cross-site scripting (CVE-2023-50175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[femanager Extension extension for TYPO3 security bypass (CVE-2023-50459)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[femanager Extension extension for TYPO3 security bypass (CVE-2023-50460)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Office Visio code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Word code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Teams privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Direct Mail extension for TYPO3 code execution (CVE-2023-50461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[GitLab security bypass (CVE-2023-3511)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098" class="noirorange"><b>Jupyter Server</b>: information disclosure via API Requests Traceback Path</a>](https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098)|An attacker can bypass access restrictions to data of Jupyter Server, via API Requests Traceback Path, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097" class="noirorange"><b>PAN-OS</b>: code execution via Web Interface OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097)|An attacker can use a vulnerability of PAN-OS, via Web Interface OS Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-upload-via-Web-Interface-43096" class="noirorange"><b>PAN-OS</b>: file upload via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-file-upload-via-Web-Interface-43096)|An attacker can upload a malicious file on PAN-OS, via Web Interface, in order for example to upload a Trojan...|Visit link for details|
@@ -122,40 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans les produits PRIM’X](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 décembre 2023|
- |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 décembre 2023|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
- |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
- |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
- |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
- |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
- |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
- |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
- |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
- |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
- |[[Control systems] Schneider Electric security advisory (AV23-754)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-754)|Visit link for details|2023-12-12|
- |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
+ |[Adobe After Effects AEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1783/)|Visit link for details|2023-12-14|
+ |[Adobe After Effects AEP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1782/)|Visit link for details|2023-12-14|
+ |[Adobe After Effects AEP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1781/)|Visit link for details|2023-12-14|
+ |[Adobe Dimension USD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1780/)|Visit link for details|2023-12-14|
+ |[Adobe Dimension GLTF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1779/)|Visit link for details|2023-12-14|
+ |[Adobe Dimension USD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1778/)|Visit link for details|2023-12-14|
+ |[Adobe Dimension GLB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1777/)|Visit link for details|2023-12-14|
+ |[Adobe Prelude MP4 File Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1776/)|Visit link for details|2023-12-14|
  
 
 # EU-CERT
@@ -179,6 +176,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
  |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
  |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
  |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
@@ -189,19 +187,21 @@
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45131312/23 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 13 décembre 2023|
  |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
- |[ 45111212/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités critiques affectant     ses produits                susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant…| 12 décembre 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe After Effects AEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1783/)|Visit link for details|2023-12-14|
- |[Adobe After Effects AEP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1782/)|Visit link for details|2023-12-14|
- |[Adobe After Effects AEP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1781/)|Visit link for details|2023-12-14|
- |[Adobe Dimension USD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1780/)|Visit link for details|2023-12-14|
- |[Adobe Dimension GLTF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1779/)|Visit link for details|2023-12-14|
- |[Adobe Dimension USD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1778/)|Visit link for details|2023-12-14|
- |[Adobe Dimension GLB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1777/)|Visit link for details|2023-12-14|
- |[Adobe Prelude MP4 File Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1776/)|Visit link for details|2023-12-14|
+ |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
+ |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
+ |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
+ |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
+ |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
+ |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
+ |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
+ |[SAP security advisory – December 2023 monthly rollup (AV23-756)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2023-monthly-rollup-av23-756)|Visit link for details|2023-12-12|
+ |[HPE security advisory (AV23-755)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-755)|Visit link for details|2023-12-12|
+ |[[Control systems] Schneider Electric security advisory (AV23-754)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-754)|Visit link for details|2023-12-12|
+ |[Apple security advisory (AV23-753)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-753)|Visit link for details|2023-12-11|
  
