@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/12/2023 06:16:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/12/2023 07:30:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,14 +82,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
  |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
  |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 13 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
  
@@ -98,47 +98,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens SIMATIC CP, SINAMICS, SIPLUS NET CP denial of service (CVE-2023-38380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[PRIMX products information disclosure (CVE-2023-50444)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[One Identity Password Manager privilege escalation (CVE-2023-48654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[DedeBIZ cross-site scripting (CVE-2023-31546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[Palo Alto Networks PAN-OS cross-site scripting (CVE-2023-6790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  |[Palo Alto Networks PAN-OS information disclosure (CVE-2023-6791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Palo Alto Networks PAN-OS command execution (CVE-2023-6792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ex-substitute-43103" class="noirorange"><b>Vim</b>: use after free via ex_substitute()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ex-substitute-43103)|An attacker can force the reuse of a freed memory area of Vim, via ex_substitute(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098" class="noirorange"><b>Jupyter Server</b>: information disclosure via API Requests Traceback Path</a>](https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098)|An attacker can bypass access restrictions to data of Jupyter Server, via API Requests Traceback Path, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097" class="noirorange"><b>PAN-OS</b>: code execution via Web Interface OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097)|An attacker can use a vulnerability of PAN-OS, via Web Interface OS Command Injection, in order to run code...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Johnson Controls security advisory (AV23-767)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-767)|Visit link for details|2023-12-14|
- |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
- |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
- |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
- |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
- |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
- |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
- |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
- |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
- |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
- |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
  
 
 # CERT-SANTE
@@ -156,6 +122,37 @@
  |[Microsoft - CVE-2023-35630](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35630-2023-12-13)|Visit link for details.|13/12/2023|
  |[Fortinet - CVE-2023-47539](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-47539-2023-12-13)|Visit link for details.|13/12/2023|
  |[Fortinet - CVE-2023-41678](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-41678-2023-12-13)|Visit link for details.|13/12/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Excel SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1791/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1790/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1789/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1788/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1787/)|Visit link for details|2023-12-14|
+ |[Microsoft Word SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1786/)|Visit link for details|2023-12-14|
+ |[Microsoft Office SKP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1785/)|Visit link for details|2023-12-14|
+ |[Microsoft Word SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1784/)|Visit link for details|2023-12-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ex-substitute-43103" class="noirorange"><b>Vim</b>: use after free via ex_substitute()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ex-substitute-43103)|An attacker can force the reuse of a freed memory area of Vim, via ex_substitute(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098" class="noirorange"><b>Jupyter Server</b>: information disclosure via API Requests Traceback Path</a>](https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098)|An attacker can bypass access restrictions to data of Jupyter Server, via API Requests Traceback Path, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097" class="noirorange"><b>PAN-OS</b>: code execution via Web Interface OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097)|An attacker can use a vulnerability of PAN-OS, via Web Interface OS Command Injection, in order to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -192,16 +189,19 @@
  |[ 45121212/23 - Vulnérabilités affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-5)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Excel SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1791/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1790/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1789/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1788/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1787/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1786/)|Visit link for details|2023-12-14|
- |[Microsoft Office SKP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1785/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1784/)|Visit link for details|2023-12-14|
+ |[[Control systems] Johnson Controls security advisory (AV23-767)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-767)|Visit link for details|2023-12-14|
+ |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
+ |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
+ |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
+ |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
+ |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
+ |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
+ |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
+ |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
+ |[Microsoft security advisory – December 2023 monthly rollup (AV23-758)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2023-monthly-rollup-av23-758)|Visit link for details|2023-12-12|
+ |[Fortinet security advisory (AV23-757)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-757)|Visit link for details|2023-12-12|
  
