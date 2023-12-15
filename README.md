@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/12/2023 15:18:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/12/2023 16:15:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
- |[Vulnérabilité dans les produits Wallix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1028/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1027/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
- |[Vulnérabilité dans VMware Workspace ONE Launcher](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Launcher. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
- 
 
 # US-CERT
 
@@ -78,6 +62,22 @@
  |[USN-6534-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-3-linux-kernel-vulnerabilities.47923/)|Visit link for details.|Dec 13, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
+ |[Vulnérabilité dans les produits Wallix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1028/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1027/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
+ |[Vulnérabilité dans VMware Workspace ONE Launcher](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Launcher. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 décembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +93,19 @@
  |[Microsoft - CVE-2023-35630](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35630-2023-12-13)|Visit link for details.|13/12/2023|
  |[Fortinet - CVE-2023-47539](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-47539-2023-12-13)|Visit link for details.|13/12/2023|
  |[Fortinet - CVE-2023-41678](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-41678-2023-12-13)|Visit link for details.|13/12/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MW WP Form Plugin for WordPress file upload (CVE-2023-6316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ |[Joomla! Starshop extension SQL injection (CVE-2023-49708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Joomla! S5 Register extension SQL injection (CVE-2023-49707)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft office buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Word information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  
 
 # OBS-Vigilance
@@ -112,19 +125,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Joomla! Starshop extension SQL injection (CVE-2023-49708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Joomla! S5 Register extension SQL injection (CVE-2023-49707)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Microsoft office buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Microsoft Word information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,20 +139,6 @@
  |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Excel SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1791/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1790/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1789/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1788/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1787/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1786/)|Visit link for details|2023-12-14|
- |[Microsoft Office SKP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1785/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1784/)|Visit link for details|2023-12-14|
  
 
 # EU-CERT
@@ -204,4 +190,18 @@
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Excel SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1791/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1790/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1789/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1788/)|Visit link for details|2023-12-14|
+ |[Microsoft Excel SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1787/)|Visit link for details|2023-12-14|
+ |[Microsoft Word SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1786/)|Visit link for details|2023-12-14|
+ |[Microsoft Office SKP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1785/)|Visit link for details|2023-12-14|
+ |[Microsoft Word SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1784/)|Visit link for details|2023-12-14|
  
