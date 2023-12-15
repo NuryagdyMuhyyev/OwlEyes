@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/12/2023 23:21:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/12/2023 00:14:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
- |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
- |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
- |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
- |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
- |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
- |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
- |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
- |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
- |[USN-6549-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6549-3-linux-kernel-low-latency-vulnerabilities.47924/)|Visit link for details.|Dec 13, 2023|
- |[USN-6534-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-3-linux-kernel-vulnerabilities.47923/)|Visit link for details.|Dec 13, 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress - CVE-2023-6364](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2023-6364-2023-12-15)|Visit link for details.|15/12/2023|
- |[Palo Alto - CVE-2023-6790](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-6790-2023-12-15)|Visit link for details.|15/12/2023|
- |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|15/12/2023|
- |[Google Chrome - CVE-2023-6702](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6702-2023-12-15)|Visit link for details.|15/12/2023|
- |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/12/2023|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|14/12/2023|
- |[WordPress Duplicator - CVE-2023-6114](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-duplicator-cve-2023-6114-2023-12-14)|Visit link for details.|14/12/2023|
- |[PRIM’X - CVE-2023-50444](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50444-2023-12-14)|Visit link for details.|14/12/2023|
- |[PRIM’X - CVE-2023-50440](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50440-2023-12-14)|Visit link for details.|14/12/2023|
- |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|14/12/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
+ |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
+ |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
+ |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
+ |[USN-6549-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6549-3-linux-kernel-low-latency-vulnerabilities.47924/)|Visit link for details.|Dec 13, 2023|
+ |[USN-6534-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6534-3-linux-kernel-vulnerabilities.47923/)|Visit link for details.|Dec 13, 2023|
  
 
 # CERT-FR
@@ -95,17 +78,21 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[MW WP Form Plugin for WordPress file upload (CVE-2023-6316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Joomla! Starshop extension SQL injection (CVE-2023-49708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Joomla! S5 Register extension SQL injection (CVE-2023-49707)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Microsoft office buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Microsoft Word code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Microsoft Word information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
- |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Progress - CVE-2023-6364](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2023-6364-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Palo Alto - CVE-2023-6790](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-6790-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Google Chrome - CVE-2023-6702](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6702-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|14/12/2023|
+ |[WordPress Duplicator - CVE-2023-6114](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-duplicator-cve-2023-6114-2023-12-14)|Visit link for details.|14/12/2023|
+ |[PRIM’X - CVE-2023-50444](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50444-2023-12-14)|Visit link for details.|14/12/2023|
+ |[PRIM’X - CVE-2023-50440](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50440-2023-12-14)|Visit link for details.|14/12/2023|
+ |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|14/12/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
  
 
 # OBS-Vigilance
@@ -141,18 +128,17 @@
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20231211)|A vulnerability has been identified in Apache Struts. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Excel SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1791/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1790/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1789/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1788/)|Visit link for details|2023-12-14|
- |[Microsoft Excel SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1787/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1786/)|Visit link for details|2023-12-14|
- |[Microsoft Office SKP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1785/)|Visit link for details|2023-12-14|
- |[Microsoft Word SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1784/)|Visit link for details|2023-12-14|
+ |[MW WP Form Plugin for WordPress file upload (CVE-2023-6316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ |[Joomla! Starshop extension SQL injection (CVE-2023-49708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Joomla! S5 Register extension SQL injection (CVE-2023-49707)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft office buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Word code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Microsoft Word information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
+ |[Ubuntu Budgie Budgie Extras security bypass (CVE-2023-49347)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 13, 2023|
  
 
 # EU-CERT
@@ -204,4 +190,10 @@
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
