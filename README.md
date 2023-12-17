@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2023 10:15:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2023 11:20:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
- |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
- |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 décembre 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
  
 
 # LINUX-SEC
@@ -62,6 +62,28 @@
  |[USN-6549-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6549-3-linux-kernel-low-latency-vulnerabilities.47924/)|Visit link for details.|Dec 13, 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
+ |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
+ |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +99,6 @@
  |[PRIM’X - CVE-2023-50440](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50440-2023-12-14)|Visit link for details.|14/12/2023|
  |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|14/12/2023|
  |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 décembre 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
  
 
 # OBS-Vigilance
@@ -145,6 +151,20 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
+ |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
+ |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
+ |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
+ |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -162,19 +182,6 @@
  |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-36878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD appliance SQL injection (CVE-2023-44284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD privilege escalation (CVE-2023-44285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD cross-site scripting (CVE-2023-44286)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD appliance command execution (CVE-2023-44279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -190,18 +197,4 @@
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
- |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
- |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
- |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
- |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
