@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2023 01:17:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2023 02:15:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
+ |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
+ |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
+ |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
+ |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
+ 
 
 # US-CERT
 
@@ -59,23 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
- |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
- |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
- |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
- |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
- |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
- |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
- |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
- |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
- |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
- |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
  
 
 # CERT-SANTE
@@ -118,16 +118,19 @@
  |[OpenSSH machine-in-the-middle (CVE-2023-48795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
  |[3CX SQL injection (CVE-2023-49954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2023|
  |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
+ |[Netgear WNR2000v4 command execution (CVE-2023-50089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  |[IBM i information disclosure (CVE-2023-47741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[IBM MQ Appliance information disclosure (CVE-2023-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136" class="noirorange"><b>AIX</b>: denial of service via AIXwindows</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136)|An attacker can cause a fatal error of AIX, via AIXwindows, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -136,9 +139,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Modèles</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130)|An attacker can trigger a Cross Site Scripting of SPIP, via Modèles, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Misidentified-Data-43129" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Misidentified Data</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Misidentified-Data-43129)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Misidentified Data, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SpringBlade-SQL-injection-43128" class="noirorange"><b>SpringBlade</b>: SQL injection</a>](https://vigilance.fr/vulnerability/SpringBlade-SQL-injection-43128)|An attacker can use a SQL injection of SpringBlade, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-for-Apache-Kafka-code-execution-via-Deserialization-43127" class="noirorange"><b>Spring for Apache Kafka</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/Spring-for-Apache-Kafka-code-execution-via-Deserialization-43127)|An attacker can use a vulnerability of Spring for Apache Kafka, via Deserialization, in order to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -156,6 +156,20 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
+ |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
+ |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
+ |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
+ |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
 
 # MA-CERT
@@ -190,10 +204,4 @@
  |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
  |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
  |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
