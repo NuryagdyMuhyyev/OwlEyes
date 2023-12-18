@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2023 18:21:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2023 19:16:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,20 +46,21 @@
  |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 décembre 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
+ |[Progress - CVE-2023-6364](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2023-6364-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Palo Alto - CVE-2023-6790](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-6790-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Google Chrome - CVE-2023-6702](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6702-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/12/2023|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|14/12/2023|
+ |[WordPress Duplicator - CVE-2023-6114](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-duplicator-cve-2023-6114-2023-12-14)|Visit link for details.|14/12/2023|
+ |[PRIM’X - CVE-2023-50444](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50444-2023-12-14)|Visit link for details.|14/12/2023|
+ |[PRIM’X - CVE-2023-50440](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50440-2023-12-14)|Visit link for details.|14/12/2023|
+ |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|14/12/2023|
+ |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
  
 
 # US-CERT
@@ -78,40 +79,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress - CVE-2023-6364](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2023-6364-2023-12-15)|Visit link for details.|15/12/2023|
- |[Palo Alto - CVE-2023-6790](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2023-6790-2023-12-15)|Visit link for details.|15/12/2023|
- |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|15/12/2023|
- |[Google Chrome - CVE-2023-6702](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6702-2023-12-15)|Visit link for details.|15/12/2023|
- |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/12/2023|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|14/12/2023|
- |[WordPress Duplicator - CVE-2023-6114](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-duplicator-cve-2023-6114-2023-12-14)|Visit link for details.|14/12/2023|
- |[PRIM’X - CVE-2023-50444](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50444-2023-12-14)|Visit link for details.|14/12/2023|
- |[PRIM’X - CVE-2023-50440](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2023-50440-2023-12-14)|Visit link for details.|14/12/2023|
- |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|14/12/2023|
- |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118" class="noirorange"><b>Stormshield Network Security</b>: denial of service via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118)|An attacker can cause a fatal error of Stormshield Network Security, via IPSEC Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117" class="noirorange"><b>WordPress Team Circle Image Slider With Lightbox</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117)|An attacker can trigger a Cross Site Scripting of WordPress Team Circle Image Slider With Lightbox, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116" class="noirorange"><b>IBM i</b>: information disclosure via Web Browser Clients</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116)|An attacker can bypass access restrictions to data of IBM i, via Web Browser Clients, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115" class="noirorange"><b>PyDrive2</b>: code execution via YAML Deserilization</a>](https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115)|An attacker can use a vulnerability of PyDrive2, via YAML Deserilization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-SENDTRAPCFG-43114" class="noirorange"><b>Centreon Web</b>: SQL injection via SENDTRAPCFG</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-SENDTRAPCFG-43114)|An attacker can use a SQL injection of Centreon Web, via SENDTRAPCFG, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-Redirect-URI-lowerCaseHostname-43113" class="noirorange"><b>Keycloak</b>: open redirect via Redirect URI lowerCaseHostname</a>](https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-Redirect-URI-lowerCaseHostname-43113)|An attacker can deceive the user of Keycloak, via Redirect URI lowerCaseHostname, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +95,39 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133" class="noirorange"><b>Zabbix</b>: code execution via Zabbix_agent2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133)|An attacker can use a vulnerability of Zabbix, via Zabbix_agent2 Smartctl Plugin, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Modèles</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130)|An attacker can trigger a Cross Site Scripting of SPIP, via Modèles, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Misidentified-Data-43129" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Misidentified Data</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Misidentified-Data-43129)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Misidentified Data, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SpringBlade-SQL-injection-43128" class="noirorange"><b>SpringBlade</b>: SQL injection</a>](https://vigilance.fr/vulnerability/SpringBlade-SQL-injection-43128)|An attacker can use a SQL injection of SpringBlade, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-for-Apache-Kafka-code-execution-via-Deserialization-43127" class="noirorange"><b>Spring for Apache Kafka</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/Spring-for-Apache-Kafka-code-execution-via-Deserialization-43127)|An attacker can use a vulnerability of Spring for Apache Kafka, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 décembre 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -139,6 +139,20 @@
  |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
  |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
  |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
+ |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
+ |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
+ |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
+ |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
 
 # EU-CERT
@@ -158,37 +172,6 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45241512/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-1)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 15 décembre 2023|
- |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
- |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
- |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
- |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
- |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
- |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
- |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
- |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
- |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
- |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
- |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
- |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
- |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
  |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
  |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45241512/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-1)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 15 décembre 2023|
+ |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
+ |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
+ |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
+ |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
+ |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
+ |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
+ |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
+ |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
+ |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  
