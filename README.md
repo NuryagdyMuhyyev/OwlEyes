@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2023 13:22:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2023 14:18:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/12/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 12, 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
- |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
- |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
- |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
- |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
- |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
- |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
- |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
- |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
- |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
- |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,19 +59,6 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
  |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
- |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-36878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD appliance SQL injection (CVE-2023-44284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD privilege escalation (CVE-2023-44285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
- |[Dell PowerProtect DD cross-site scripting (CVE-2023-44286)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
  
 
 # HK-CERT
@@ -107,18 +77,21 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
- |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
- |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
- |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
- |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
+ |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
+ |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
+ |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6546-2: LibreOffice vulnerabilities](https://www.linux.org/threads/usn-6546-2-libreoffice-vulnerabilities.47936/)|Visit link for details.|Dec 14, 2023|
+ |[DSA-5577-1 chromium - security update](https://www.linux.org/threads/dsa-5577-1-chromium-security-update.47932/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
+ |[USN-6548-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6548-3-linux-kernel-oracle-vulnerabilities.47925/)|Visit link for details.|Dec 13, 2023|
  
 
 # CERT-SANTE
@@ -138,6 +111,19 @@
  |[pfSense - CVE-2023-42326](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2023-42326-2023-11-14)|Visit link for details.|14/12/2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
+ |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ |[Progress Software WhatsUp Gold information disclosure (CVE-2023-6367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -153,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-Redirect-URI-lowerCaseHostname-43113" class="noirorange"><b>Keycloak</b>: open redirect via Redirect URI lowerCaseHostname</a>](https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-Redirect-URI-lowerCaseHostname-43113)|An attacker can deceive the user of Keycloak, via Redirect URI lowerCaseHostname, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
+ |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
+ |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
+ |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
+ |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
 
 # EU-CERT
@@ -172,23 +172,6 @@
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnerability impacting Apache Struts 2 (CVE-2023-50164 )](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-apache-struts-2-cve-2023-50164)|Visit link for details|2023-12-15|
- |[[Control systems] Unitronics security advisory (AV23-768)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-unitronics-security-advisory-av23-768)|Visit link for details|2023-12-15|
- |[[Control systems] Johnson Controls security advisory (AV23-767)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-767)|Visit link for details|2023-12-14|
- |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
- |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
- |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
- |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
- |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
- |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
- |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
- |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +187,21 @@
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerability impacting Apache Struts 2 (CVE-2023-50164 )](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-apache-struts-2-cve-2023-50164)|Visit link for details|2023-12-15|
+ |[[Control systems] Unitronics security advisory (AV23-768)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-unitronics-security-advisory-av23-768)|Visit link for details|2023-12-15|
+ |[[Control systems] Johnson Controls security advisory (AV23-767)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-767)|Visit link for details|2023-12-14|
+ |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
+ |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
+ |[Palo Alto Networks security advisory (AV23-764)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av23-764)|Visit link for details|2023-12-14|
+ |[GitLab security advisory (AV23-763)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-763)|Visit link for details|2023-12-13|
+ |[Atlassian security advisory (AV23-762)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-762)|Visit link for details|2023-12-13|
+ |[Ivanti security advisory (AV23-761)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-761)|Visit link for details|2023-12-13|
+ |[[Control systems] Siemens security advisory (AV23-760)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-760)|Visit link for details|2023-12-12|
+ |[Adobe security advisory (AV23-759)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-759)|Visit link for details|2023-12-12|
  
