@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2023 04:17:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2023 06:14:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6555-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6555-2-x-org-x-server-vulnerabilities.47926/)|Visit link for details.|Dec 13, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
- |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
- |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,35 +60,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
- |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
- |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenSSH machine-in-the-middle (CVE-2023-48795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
- |[3CX SQL injection (CVE-2023-49954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2023|
- |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
- |[Netgear WNR2000v4 command execution (CVE-2023-50089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- |[IBM i information disclosure (CVE-2023-47741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  
 
 # CERT-SANTE
@@ -124,6 +79,35 @@
  |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/12/2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
+ |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
+ |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSH machine-in-the-middle (CVE-2023-48795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
+ |[3CX SQL injection (CVE-2023-49954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2023|
+ |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
+ |[Apache Doris denial of service (CVE-2023-41314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ |[Netgear WNR2000v4 command execution (CVE-2023-50089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ |[Apache Dubbo code execution (CVE-2023-46279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -139,6 +123,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Modèles</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130)|An attacker can trigger a Cross Site Scripting of SPIP, via Modèles, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
+ |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
+ |[Microsoft Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskElevation of PrivilegeInformation Disclosure Windows Medium RiskElevation of PrivilegeInformation DisclosureRemote Code ExecutionSpoofing...|Release Date: 13 Dec 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...|Release Date: 12 Dec 2023 |
  
 
 # ZERODAYINITIATIVE
