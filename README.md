@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2023 22:12:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2023 23:17:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
  |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
  |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
  |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
@@ -42,7 +43,6 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
  |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
  |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
  
 
 # LINUX-SEC
@@ -78,22 +78,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenSSL Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssl-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger security restriction bypass.|Release Date: 19 Dec 2023 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
- |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,6 +95,22 @@
  |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|18/12/2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSL Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssl-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger security restriction bypass.|Release Date: 19 Dec 2023 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
+ |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,37 +122,6 @@
  |[SureTriggers Plugin for WordPress cross-site request forgery (CVE-2023-49749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  |[Guest Author Plugin for WordPress cross-site scripting (CVE-2023-49747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  |[Gift Up Gift Cards for WordPress and WooCommerce Plugin for WordPress cross-site request forgery (CVE-2023-49744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136" class="noirorange"><b>AIX</b>: denial of service via AIXwindows</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136)|An attacker can cause a fatal error of AIX, via AIXwindows, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
- |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
- |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
- |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
- |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
- |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
  
 
 # EU-CERT
@@ -172,6 +141,20 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
+ |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
+ |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
+ |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
+ |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[[Control systems] Johnson Controls security advisory (AV23-767)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-767)|Visit link for details|2023-12-14|
  |[[Control systems] Cambium security advisory (AV23-766)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cambium-security-advisory-av23-766)|Visit link for details|2023-12-14|
  |[HPE security advisory (AV23-765)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-765)|Visit link for details|2023-12-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136" class="noirorange"><b>AIX</b>: denial of service via AIXwindows</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136)|An attacker can cause a fatal error of AIX, via AIXwindows, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
  
 
 # MA-CERT
