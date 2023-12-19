@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2023 08:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2023 09:20:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,33 +83,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 décembre 2023|
- |[Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 décembre 2023|
- |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
- |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
- |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 18 décembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1034/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136" class="noirorange"><b>AIX</b>: denial of service via AIXwindows</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136)|An attacker can cause a fatal error of AIX, via AIXwindows, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133" class="noirorange"><b>Zabbix</b>: code execution via Zabbix_agent2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133)|An attacker can use a vulnerability of Zabbix, via Zabbix_agent2 Smartctl Plugin, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Modèles</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130)|An attacker can trigger a Cross Site Scripting of SPIP, via Modèles, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 décembre 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 décembre 2023|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/)|Une vulnérabilité a été découverte dans |Publié le 14 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 décembre 2023|
  
 
 # HK-CERT
@@ -141,6 +124,23 @@
  |[Dell PowerProtect DD command execution (CVE-2023-44277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136" class="noirorange"><b>AIX</b>: denial of service via AIXwindows</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-AIXwindows-43136)|An attacker can cause a fatal error of AIX, via AIXwindows, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133" class="noirorange"><b>Zabbix</b>: code execution via Zabbix_agent2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133)|An attacker can use a vulnerability of Zabbix, via Zabbix_agent2 Smartctl Plugin, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Modèles</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Modeles-43130)|An attacker can trigger a Cross Site Scripting of SPIP, via Modèles, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,6 +156,20 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  |[2023-087: Critical Vulnerabilities in QNAP products](https://cert.europa.eu/publications/security-advisories/2023-087/)|On November 4 2023, QNAP Systems has released advisories addressing critical vulnerabilities affecting multiple versions of the QTS operating system and applications on its network-attached storage (NAS) devices. These vulnerabilities could allow an attacker to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:26:21 AM CET|
  |[2023-086: Critical Vulnerabilities in Veeam ONE](https://cert.europa.eu/publications/security-advisories/2023-086/)|On November 6 2023, Veeam has released an advisory addressing critical vulnerabilities affecting the Veeam ONE product. These vulnerabilities could allow an attacker to steal NTLM hashes, or to achieve Remote Code Execution.|Tuesday, November 07, 2023 11:21:10 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
+ |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
+ |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
+ |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
+ |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
+ |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
+ |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
 
 # CA-CCS
@@ -190,18 +204,4 @@
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
  |[ 45151312/23 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
  |[ 45141312/23 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2023) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2023)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut      …| 13 décembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1799/)|Visit link for details|2023-12-15|
- |[PaperCut NG Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1798/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit TransferCommand Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1797/)|Visit link for details|2023-12-15|
- |[Schneider Electric C-Bus Toolkit FileCommand Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1796/)|Visit link for details|2023-12-15|
- |[Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1795/)|Visit link for details|2023-12-15|
- |[Schneider Electric APC Easy UPS Online deletePdfReportFile Directory Traversal Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1794/)|Visit link for details|2023-12-15|
- |[Delta Electronics DOPSoft DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1793/)|Visit link for details|2023-12-15|
- |[Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1792/)|Visit link for details|2023-12-15|
  
