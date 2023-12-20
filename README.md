@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2023 21:20:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2023 22:13:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 décembre 2023|
+ |[Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/)|Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 décembre 2023|
  |[Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 décembre 2023|
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/)|Une vulnérabilité a été découverte dans |Publié le 19 décembre 2023|
  |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 décembre 2023|
@@ -74,55 +76,6 @@
  |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
  |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
  |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 18 décembre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zabbix - CVE-2023-32725](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32725-2023-12-19)|Visit link for details.|19/12/2023|
- |[Netgear - CVE-2023-50089](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-50089-2023-12-19)|Visit link for details.|19/12/2023|
- |[Linux - CVE-2023-6817](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6817-2023-12-19)|Visit link for details.|19/12/2023|
- |[HL7 FHIR - CVE-2023-28465](https://www.cyberveille-sante.gouv.fr/alertes/hl7-fhir-cve-2023-28465-2023-12-19)|Visit link for details.|19/12/2023|
- |[ClamAV - CVE-2023-20197](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20197-2023-12-19)|Visit link for details.|19/12/2023|
- |[Squid - CVE-2023-50269](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-50269-2023-12-18)|Visit link for details.|18/12/2023|
- |[LibreOffice - CVE-2023-6185](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2023-6185-2023-12-18)|Visit link for details.|18/12/2023|
- |[Google Chrome - CVE-2023-6703](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-6703-2023-12-18)|Visit link for details.|18/12/2023|
- |[GLPI - CVE-2023-46727](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2023-46727-2023-12-18)|Visit link for details.|18/12/2023|
- |[Fortinet - CVE-2023-48791](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48791-2023-12-18)|Visit link for details.|18/12/2023|
- |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|18/12/2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-denial-of-service-via-Message-Digest-43153" class="noirorange"><b>libssh</b>: denial of service via Message Digest</a>](https://vigilance.fr/vulnerability/libssh-denial-of-service-via-Message-Digest-43153)|An attacker can cause a fatal error of libssh, via Message Digest, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151" class="noirorange"><b>Apple MacOS</b>: information disclosure via Screen Sharing</a>](https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151)|An attacker can bypass access restrictions to data of Apple MacOS, via Screen Sharing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox code execution (CVE-2023-6862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Thunderbird security bypass (CVE-2023-50761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Thunderbird spoofing (CVE-2023-50762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox code execution (CVE-2023-6873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox weak security (CVE-2023-6863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox information disclosure (CVE-2023-6872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
  
 
 # HK-CERT
@@ -141,6 +94,36 @@
  |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TheGreenBow/Stormshield - CVE-2023-47267](https://www.cyberveille-sante.gouv.fr/alertes/thegreenbowstormshield-cve-2023-47267-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Mozilla - CVE-2023-6864](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6864-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46259](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46259-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46220](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46220-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46216](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46216-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Zabbix - CVE-2023-32725](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32725-2023-12-19)|Visit link for details.|19/12/2023|
+ |[Netgear - CVE-2023-50089](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-50089-2023-12-19)|Visit link for details.|19/12/2023|
+ |[Linux - CVE-2023-6817](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6817-2023-12-19)|Visit link for details.|19/12/2023|
+ |[HL7 FHIR - CVE-2023-28465](https://www.cyberveille-sante.gouv.fr/alertes/hl7-fhir-cve-2023-28465-2023-12-19)|Visit link for details.|19/12/2023|
+ |[ClamAV - CVE-2023-20197](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20197-2023-12-19)|Visit link for details.|19/12/2023|
+ |[Squid - CVE-2023-50269](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-50269-2023-12-18)|Visit link for details.|18/12/2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-6862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Thunderbird security bypass (CVE-2023-50761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Thunderbird spoofing (CVE-2023-50762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-6873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox weak security (CVE-2023-6863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox information disclosure (CVE-2023-6872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,21 +138,21 @@
  |[D-Link G416 httpd API-AUTH Digest Processing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1826/)|Visit link for details|2023-12-20|
  
 
-# MA-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
- |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
- |[ 45261912/23 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-2)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 19 décembre 2023|
- |[ 45251912/23 - Vulnérabilités critiques dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortinet-0)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 19 décembre 2023|
- |[ 45241512/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-1)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 15 décembre 2023|
- |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
- |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
- |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
- |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
- |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
- |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-denial-of-service-via-Message-Digest-43153" class="noirorange"><b>libssh</b>: denial of service via Message Digest</a>](https://vigilance.fr/vulnerability/libssh-denial-of-service-via-Message-Digest-43153)|An attacker can cause a fatal error of libssh, via Message Digest, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151" class="noirorange"><b>Apple MacOS</b>: information disclosure via Screen Sharing</a>](https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151)|An attacker can bypass access restrictions to data of Apple MacOS, via Screen Sharing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
  
 
 # EU-CERT
@@ -204,4 +187,21 @@
  |[Microsoft Edge security advisory (AV23-775)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-775)|Visit link for details|2023-12-19|
  |[Cisco security advisory (AV23-774)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-774)|Visit link for details|2023-12-19|
  |[Red Hat security advisory (AV23-773)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-773)|Visit link for details|2023-12-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
+ |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
+ |[ 45261912/23 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-2)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 19 décembre 2023|
+ |[ 45251912/23 - Vulnérabilités critiques dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortinet-0)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 19 décembre 2023|
+ |[ 45241512/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-1)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 15 décembre 2023|
+ |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
+ |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
+ |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
+ |[ 45201412/23 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-8)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 décembre 2023|
+ |[ 45191312/23 - Vulnérabilité critique affectant le plugin «The Backup Migration» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-backup-migration-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «The Backup Migration». Cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du…| 13 décembre 2023|
+ |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
  
