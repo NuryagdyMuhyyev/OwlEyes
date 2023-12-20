@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2023 04:14:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2023 06:01:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
- |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
- |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
- |[DSA-5579-1 freeimage - security update](https://www.linux.org/threads/dsa-5579-1-freeimage-security-update.47980/)|Visit link for details.|Dec 18, 2023|
- |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
- |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
- |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
- |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
- |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
- |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
- |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
- 
 
 # US-CERT
 
@@ -78,6 +61,52 @@
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 décembre 2023|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
+ |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
+ |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
+ |[DSA-5579-1 freeimage - security update](https://www.linux.org/threads/dsa-5579-1-freeimage-security-update.47980/)|Visit link for details.|Dec 18, 2023|
+ |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
+ |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
+ |[USN-6488-2: strongSwan vulnerability](https://www.linux.org/threads/usn-6488-2-strongswan-vulnerability.47942/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6557-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6557-1-vim-vulnerabilities.47940/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
+ |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSL Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssl-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger security restriction bypass.|Release Date: 19 Dec 2023 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
+ |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-6864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Apple macOS Sonoma information disclosure (CVE-2023-42940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[OpenSSH machine-in-the-middle (CVE-2023-48795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
+ |[IBM QRadar SIEM information disclosure (CVE-2023-47146)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
+ |[IBM AIX denial of service (CVE-2023-45172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
+ |[3CX SQL injection (CVE-2023-49954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,17 +124,18 @@
  |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|18/12/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Apple macOS Sonoma information disclosure (CVE-2023-42940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[OpenSSH machine-in-the-middle (CVE-2023-48795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
- |[IBM QRadar SIEM information disclosure (CVE-2023-47146)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
- |[IBM AIX denial of service (CVE-2023-45172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2023|
- |[3CX SQL injection (CVE-2023-49954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2023|
- |[Stupid Simple CMS security bypass (CVE-2023-6907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2023|
+ |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
+ |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
+ |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
+ |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
+ |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
  
 
 # OBS-Vigilance
@@ -125,22 +155,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenSSL Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssl-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger security restriction bypass.|Release Date: 19 Dec 2023 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in RedHat Linux Kernel Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and elevation of privilege on the targeted system.|Release Date: 14 Dec 2023 |
- |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 13 Dec 2023 |
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,20 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  |[2023-089: VMware Cloud Director Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2023-089/)|On November 14, 2023, VMware issued an advisory about a critical authentication bypass vulnerability, "CVE-2023-34060", affecting Cloud Director Appliance. The CVSSv3 score is 9.8, indicating a critical level of severity. This vulnerability is present on an upgraded version of VMware Cloud Director Appliance.|Monday, November 20, 2023 11:02:05 AM CET|
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
- |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
- |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
- |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
- |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
- |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
  
 
 # MA-CERT
