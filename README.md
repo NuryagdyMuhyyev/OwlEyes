@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2023 08:14:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2023 09:17:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
- |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
- |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
- |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6233-2: YAJL vulnerabilities](https://www.linux.org/threads/usn-6233-2-yajl-vulnerabilities.47939/)|Visit link for details.|Dec 14, 2023|
  |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
  |[USN-6556-1: Budgie Extras vulnerabilities](https://www.linux.org/threads/usn-6556-1-budgie-extras-vulnerabilities.47937/)|Visit link for details.|Dec 14, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/14/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Dec 14, 2023|
+ |[Fortinet Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2023/12/14/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Dec 14, 2023|
+ |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Dec 12, 2023|
+ |[The Apache Software Foundation Updates Struts 2](https://www.cisa.gov/news-events/alerts/2023/12/12/apache-software-foundation-updates-struts-2)|Visit link for details.|Dec 12, 2023|
  
 
 # CERT-FR
@@ -95,17 +95,21 @@
  |[QNAP - CVE-2023-47565](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47565-2023-12-11)|Visit link for details.|18/12/2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox code execution (CVE-2023-6873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox weak security (CVE-2023-6863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox information disclosure (CVE-2023-6872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-6871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox for Android security bypass (CVE-2023-6870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-6869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151" class="noirorange"><b>Apple MacOS</b>: information disclosure via Screen Sharing</a>](https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151)|An attacker can bypass access restrictions to data of Apple MacOS, via Screen Sharing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
  
 
 # HK-CERT
@@ -124,52 +128,17 @@
  |[Adobe Monthly Security Update (December 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Prelude Medium RiskInformation Disclosure APSB23-67Adobe Illustrator Medium RiskRemote Code Execution APSB23-...|Release Date: 13 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
- |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
- |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
- |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
- |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
- |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
- |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151" class="noirorange"><b>Apple MacOS</b>: information disclosure via Screen Sharing</a>](https://vigilance.fr/vulnerability/Apple-MacOS-information-disclosure-via-Screen-Sharing-43151)|An attacker can bypass access restrictions to data of Apple MacOS, via Screen Sharing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144" class="noirorange"><b>OpenSSH</b>: code execution via User / Host Names Shell Metacharacters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-User-Host-Names-Shell-Metacharacters-43144)|An attacker can use a vulnerability of OpenSSH, via User / Host Names Shell Metacharacters, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
- |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
- |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
- |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
- |[[Control systems] Subnet Solutions security advisory (AV23-778)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-subnet-solutions-security-advisory-av23-778)|Visit link for details|2023-12-19|
- |[HPE security advisory (AV23-777)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-777)|Visit link for details|2023-12-19|
- |[Mozilla security advisory (AV23-776)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-776)|Visit link for details|2023-12-19|
- |[Microsoft Edge security advisory (AV23-775)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-775)|Visit link for details|2023-12-19|
- |[Cisco security advisory (AV23-774)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-774)|Visit link for details|2023-12-19|
- |[Red Hat security advisory (AV23-773)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-773)|Visit link for details|2023-12-19|
- |[IBM security advisory (AV23-772)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-772)|Visit link for details|2023-12-18|
+ |[NETGEAR ProSAFE NMS300 cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-6862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Thunderbird security bypass (CVE-2023-50761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Thunderbird spoofing (CVE-2023-50762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-6873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox weak security (CVE-2023-6863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
+ |[Mozilla Firefox information disclosure (CVE-2023-6872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2023|
  
 
 # EU-CERT
@@ -189,6 +158,23 @@
  |[2023-088: High Vulnerabilities in Ivanti Endpoint Manager Mobile](https://cert.europa.eu/publications/security-advisories/2023-088/)|On November 9 2023, Ivanti disclosed two vulnerabilities, "CVE-2023-39335" and "CVE-2023-39337", affecting all versions of Endpoint Manager Mobile (formerly MobileIron Core).|Monday, November 20, 2023 10:58:53 AM CET|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
+ |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
+ |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
+ |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
+ |[[Control systems] Subnet Solutions security advisory (AV23-778)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-subnet-solutions-security-advisory-av23-778)|Visit link for details|2023-12-19|
+ |[HPE security advisory (AV23-777)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-777)|Visit link for details|2023-12-19|
+ |[Mozilla security advisory (AV23-776)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-776)|Visit link for details|2023-12-19|
+ |[Microsoft Edge security advisory (AV23-775)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-775)|Visit link for details|2023-12-19|
+ |[Cisco security advisory (AV23-774)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-774)|Visit link for details|2023-12-19|
+ |[Red Hat security advisory (AV23-773)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-773)|Visit link for details|2023-12-19|
+ |[IBM security advisory (AV23-772)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-772)|Visit link for details|2023-12-18|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -204,4 +190,18 @@
  |[ 45181312/23 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-9)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 décembre 2023|
  |[ 45171312/23 - Vulnérabilités affectant les Firewall Pfsense ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-firewall-pfsense)| Trois vulnérabilités ont été corrigées au niveau des versions susmentionnées des firewalls pfSense. L’exploitation de ces vulnérabilités peut permettre à un   attaquant d’injecter du code dans une…| 13 décembre 2023|
  |[ 45161312/23 - Vulnérabilité critique affectant les Firewall Sophos ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-firewall-sophos)| Sophos  annonce la  disponibilité d’une mise à jour exceptionnelle pour des versions en fin de vie du système d’exploitation   de son Firewall. L’exploitation de cette vulnérabilité peut permettre à…| 13 décembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link TL-WR902AC dm_fillObjByStr Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1809/)|Visit link for details|2023-12-19|
+ |[TP-Link TL-WR841N dropbearpwd Improper Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1808/)|Visit link for details|2023-12-19|
+ |[X.Org Server Damage Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1807/)|Visit link for details|2023-12-19|
+ |[X.Org Server Window Object Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1806/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1805/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop virtio-gpu Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1804/)|Visit link for details|2023-12-19|
+ |[Parallels Desktop Updater Improper Verification of Cryptographic Signature Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1803/)|Visit link for details|2023-12-19|
+ |[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1802/)|Visit link for details|2023-12-19|
  
