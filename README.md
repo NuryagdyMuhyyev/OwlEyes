@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/12/2023 19:15:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/12/2023 20:17:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA and Partners Release Advisory on Russian SVR-affiliated Cyber Actors Exploiting CVE-2023-42793](https://www.cisa.gov/news-events/alerts/2023/12/13/cisa-and-partners-release-advisory-russian-svr-affiliated-cyber-actors-exploiting-cve-2023-42793)|Visit link for details.|Dec 13, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 décembre 2023|
- |[Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/)|Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 décembre 2023|
- |[Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 décembre 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/)|Une vulnérabilité a été découverte dans |Publié le 19 décembre 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 décembre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 décembre 2023|
- |[Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 décembre 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,6 +62,22 @@
  |[USN-6558-1: audiofile vulnerabilities](https://www.linux.org/threads/usn-6558-1-audiofile-vulnerabilities.47938/)|Visit link for details.|Dec 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 décembre 2023|
+ |[Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/)|Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 décembre 2023|
+ |[Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 décembre 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/)|Une vulnérabilité a été découverte dans |Publié le 19 décembre 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 décembre 2023|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 décembre 2023|
+ |[Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 décembre 2023|
+ |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 décembre 2023|
+ |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 18 décembre 2023|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,19 +93,6 @@
  |[HL7 FHIR - CVE-2023-28465](https://www.cyberveille-sante.gouv.fr/alertes/hl7-fhir-cve-2023-28465-2023-12-19)|Visit link for details.|19/12/2023|
  |[ClamAV - CVE-2023-20197](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20197-2023-12-19)|Visit link for details.|19/12/2023|
  |[Squid - CVE-2023-50269](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2023-50269-2023-12-18)|Visit link for details.|18/12/2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Data Visualisation Framework module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50190)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50191)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Trimble SketchUp Viewer code execution (CVE-2023-50192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
  
 
 # OBS-Vigilance
@@ -141,21 +128,17 @@
  |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 14 Dec 2023 |
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
- |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
- |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
- |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
- |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
- |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
- |[[Control systems] Subnet Solutions security advisory (AV23-778)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-subnet-solutions-security-advisory-av23-778)|Visit link for details|2023-12-19|
- |[HPE security advisory (AV23-777)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-777)|Visit link for details|2023-12-19|
- |[Mozilla security advisory (AV23-776)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-776)|Visit link for details|2023-12-19|
- |[Microsoft Edge security advisory (AV23-775)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-775)|Visit link for details|2023-12-19|
- |[Cisco security advisory (AV23-774)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-774)|Visit link for details|2023-12-19|
+ |[Data Visualisation Framework module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50190)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50191)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Trimble SketchUp Viewer code execution (CVE-2023-50192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
  
 
 # EU-CERT
@@ -204,4 +187,21 @@
  |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
  |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
  |[ 45211412/23 - Vulnérabilité dans Apache Struts affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-struts-affectant-plusieurs-produits-de-cisco)| Cisco annonce que plusieurs de ses produits sont susceptibles d’être affectés par la vulnérabilité critique affectant Apache Struts. L’exploitation de ces vulnérabilités peut   permettre  à un…| 14 décembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
+ |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
+ |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
+ |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
+ |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
+ |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
+ |[[Control systems] Subnet Solutions security advisory (AV23-778)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-subnet-solutions-security-advisory-av23-778)|Visit link for details|2023-12-19|
+ |[HPE security advisory (AV23-777)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-777)|Visit link for details|2023-12-19|
+ |[Mozilla security advisory (AV23-776)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-776)|Visit link for details|2023-12-19|
+ |[Microsoft Edge security advisory (AV23-775)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-775)|Visit link for details|2023-12-19|
+ |[Cisco security advisory (AV23-774)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-774)|Visit link for details|2023-12-19|
  
