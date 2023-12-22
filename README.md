@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/12/2023 17:30:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/12/2023 18:19:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,56 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5581-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5581-1-firefox-esr-security-update.48011/)|Visit link for details.|Dec 21, 2023|
- |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
- |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
- |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
- |[DSA-5579-1 freeimage - security update](https://www.linux.org/threads/dsa-5579-1-freeimage-security-update.47980/)|Visit link for details.|Dec 18, 2023|
- |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
- |[DSA-5578-1 ghostscript - security update](https://www.linux.org/threads/dsa-5578-1-ghostscript-security-update.47948/)|Visit link for details.|Dec 16, 2023|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Unlimited Elements for Elementor - CVE-2023-31231](https://www.cyberveille-sante.gouv.fr/alertes/unlimited-elements-elementor-cve-2023-31231-2023-12-21)|Visit link for details.|21/12/2023|
- |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|21/12/2023|
- |[Google Chrome - CVE-2023-7024](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-7024-2023-12-21)|Visit link for details.|21/12/2023|
- |[D-Link - CVE-2023-50217](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50217-2023-12-21)|Visit link for details.|21/12/2023|
- |[D-Link - CVE-2023-49004](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-49004-2023-12-21)|Visit link for details.|21/12/2023|
- |[TheGreenBow/Stormshield - CVE-2023-47267](https://www.cyberveille-sante.gouv.fr/alertes/thegreenbowstormshield-cve-2023-47267-2023-12-20)|Visit link for details.|20/12/2023|
- |[Ivanti - CVE-2023-46259](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46259-2023-12-20)|Visit link for details.|20/12/2023|
- |[Ivanti - CVE-2023-46220](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46220-2023-12-20)|Visit link for details.|20/12/2023|
- |[Ivanti - CVE-2023-46216](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46216-2023-12-20)|Visit link for details.|20/12/2023|
- |[Mozilla - CVE-2023-6864](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6864-2023-12-20)|Visit link for details.|20/12/2023|
- |[Zabbix - CVE-2023-32725](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32725-2023-12-19)|Visit link for details.|19/12/2023|
- 
 
 # CERT-FR
 
@@ -111,6 +61,39 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5581-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5581-1-firefox-esr-security-update.48011/)|Visit link for details.|Dec 21, 2023|
+ |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
+ |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
+ |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
+ |[DSA-5579-1 freeimage - security update](https://www.linux.org/threads/dsa-5579-1-freeimage-security-update.47980/)|Visit link for details.|Dec 18, 2023|
+ |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,6 +105,37 @@
  |[Apache Airflow security bypass (CVE-2023-50783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
  |[Apache IoTDB code execution (CVE-2023-51656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
  |[Sudo Project Sudo security bypass (CVE-2023-42465)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Unlimited Elements for Elementor - CVE-2023-31231](https://www.cyberveille-sante.gouv.fr/alertes/unlimited-elements-elementor-cve-2023-31231-2023-12-21)|Visit link for details.|21/12/2023|
+ |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|21/12/2023|
+ |[Google Chrome - CVE-2023-7024](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-7024-2023-12-21)|Visit link for details.|21/12/2023|
+ |[D-Link - CVE-2023-50217](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50217-2023-12-21)|Visit link for details.|21/12/2023|
+ |[D-Link - CVE-2023-49004](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-49004-2023-12-21)|Visit link for details.|21/12/2023|
+ |[TheGreenBow/Stormshield - CVE-2023-47267](https://www.cyberveille-sante.gouv.fr/alertes/thegreenbowstormshield-cve-2023-47267-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46259](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46259-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46220](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46220-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Ivanti - CVE-2023-46216](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46216-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Mozilla - CVE-2023-6864](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6864-2023-12-20)|Visit link for details.|20/12/2023|
+ |[Zabbix - CVE-2023-32725](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32725-2023-12-19)|Visit link for details.|19/12/2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # OBS-Vigilance
@@ -173,20 +187,6 @@
  |[ 45241512/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-1)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités peut…| 15 décembre 2023|
  |[ 45231512/23 - Vulnérabilités affectant Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-palo-alto-pan-os)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant le système PAN-OS. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code…| 15 décembre 2023|
  |[ 45221412/23 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-14)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 14 décembre 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # CA-CCS
