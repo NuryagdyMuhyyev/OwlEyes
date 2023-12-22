@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/12/2023 19:15:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/12/2023 20:16:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,20 @@
  |[DSA-5576-2 xorg-server - security update](https://www.linux.org/threads/dsa-5576-2-xorg-server-security-update.47966/)|Visit link for details.|Dec 17, 2023|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 décembre 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 décembre 2023|
+ |[Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 décembre 2023|
+ |[Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/)|Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 décembre 2023|
+ |[Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 décembre 2023|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/)|Une vulnérabilité a été découverte dans |Publié le 19 décembre 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 décembre 2023|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 décembre 2023|
+ |[Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 décembre 2023|
  
 
 # CERT-SANTE
@@ -79,52 +95,6 @@
  |[Zabbix - CVE-2023-32725](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32725-2023-12-19)|Visit link for details.|19/12/2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 décembre 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 décembre 2023|
- |[Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/)|Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 décembre 2023|
- |[Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 décembre 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/)|Une vulnérabilité a été découverte dans |Publié le 19 décembre 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 décembre 2023|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 décembre 2023|
- |[Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 décembre 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple ESET products information disclosure (CVE-2023-5594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Apache Airflow cross-site scripting (CVE-2023-47265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Apache Airflow security bypass (CVE-2023-48291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Apache Airflow cross-site request forgery (CVE-2023-49920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Apache Airflow security bypass (CVE-2023-50783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Apache IoTDB code execution (CVE-2023-51656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- |[Sudo Project Sudo security bypass (CVE-2023-42465)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176" class="noirorange"><b>ppp</b>: memory corruption via pppdump()</a>](https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176)|An attacker can trigger a memory corruption of ppp, via pppdump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ath10k_wmi_tlv_op_pull_mgmt_tx_compl_ev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171" class="noirorange"><b>Mozilla NSS</b>: information disclosure via Minerva Side Channel</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171)|An attacker can bypass access restrictions to data of Mozilla NSS, via Minerva Side Channel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167" class="noirorange"><b>Crypto++</b>: denial of service via DER Public-key Data</a>](https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167)|An attacker can cause a fatal error of Crypto++, via DER Public-key Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166" class="noirorange"><b>SMTP</b>: spoofing via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166)|An attacker can create spoofed data on SMTP, via SMTP Smuggling, in order to deceive the victim...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -141,6 +111,19 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20231214)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 14 Dec 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple ESET products information disclosure (CVE-2023-5594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Apache Airflow cross-site scripting (CVE-2023-47265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Apache Airflow security bypass (CVE-2023-48291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Apache Airflow cross-site request forgery (CVE-2023-49920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Apache Airflow security bypass (CVE-2023-50783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Apache IoTDB code execution (CVE-2023-51656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ |[Sudo Project Sudo security bypass (CVE-2023-42465)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 20, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -153,6 +136,23 @@
  |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
  |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
  |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176" class="noirorange"><b>ppp</b>: memory corruption via pppdump()</a>](https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176)|An attacker can trigger a memory corruption of ppp, via pppdump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ath10k_wmi_tlv_op_pull_mgmt_tx_compl_ev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171" class="noirorange"><b>Mozilla NSS</b>: information disclosure via Minerva Side Channel</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171)|An attacker can bypass access restrictions to data of Mozilla NSS, via Minerva Side Channel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167" class="noirorange"><b>Crypto++</b>: denial of service via DER Public-key Data</a>](https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167)|An attacker can cause a fatal error of Crypto++, via DER Public-key Data, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
