@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/12/2023 21:21:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/12/2023 22:14:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
+ |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
+ |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
+ |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5581-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5581-1-firefox-esr-security-update.48011/)|Visit link for details.|Dec 21, 2023|
+ |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
+ |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
+ |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
  
 
 # CERT-FR
@@ -61,27 +62,20 @@
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 décembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
- |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
- |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5581-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5581-1-firefox-esr-security-update.48011/)|Visit link for details.|Dec 21, 2023|
- |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
- |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
- |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
  
 
 # CERT-SANTE
@@ -101,6 +95,23 @@
  |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|26/12/2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186" class="noirorange"><b>OpenSSH</b>: information disclosure via DRAM Mayhem Bit Flipping</a>](https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186)|An attacker can bypass access restrictions to data of OpenSSH, via DRAM Mayhem Bit Flipping, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,35 +128,17 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176" class="noirorange"><b>ppp</b>: memory corruption via pppdump()</a>](https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176)|An attacker can trigger a memory corruption of ppp, via pppdump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ath10k_wmi_tlv_op_pull_mgmt_tx_compl_ev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[ShopSite mediam.cgi cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 26, 2023|
+ |[Alfasado PowerCMS cross-site scripting (CVE-2023-50297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 26, 2023|
+ |[Alfasado PowerCMS cross-site scripting (CVE-2023-49117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 26, 2023|
+ |[Open Design Alliance Drawings SDK code execution (CVE-2023-5180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 26, 2023|
+ |[Postfix SMTP smuggling (CVE-2023-51764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 25, 2023|
+ |[Apache OFBiz server-side request forgery (CVE-2023-51467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 25, 2023|
+ |[Apache OFBiz server-side request forgery (CVE-2023-50968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 25, 2023|
  
 
 # EU-CERT
@@ -163,6 +156,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # MA-CERT
