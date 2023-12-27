@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/12/2023 18:19:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/12/2023 19:15:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[DSA-5580-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5580-1-webkit2gtk-security-update.47984/)|Visit link for details.|Dec 19, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nagios - CVE-2023-48085](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48085-2023-12-26)|Visit link for details.|26/12/2023|
- |[Zabbix - CVE-2023-32728](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32728-2023-12-26)|Visit link for details.|26/12/2023|
- |[Cacti - CVE-2023-49085](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-49085-2023-12-26)|Visit link for details.|26/12/2023|
- |[Nagios - CVE-2023-48084](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48084-2023-12-26)|Visit link for details.|26/12/2023|
- |[Cacti - CVE-2023-51448](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-51448-2023-12-26)|Visit link for details.|26/12/2023|
- |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|26/12/2023|
- |[Mozilla - CVE-2023-6864](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6864-2023-12-20)|Visit link for details.|26/12/2023|
- |[D-Link - CVE-2023-49004](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-49004-2023-12-21)|Visit link for details.|26/12/2023|
- |[Sudo - CVE-2023-42465](https://www.cyberveille-sante.gouv.fr/alertes/sudo-cve-2023-42465-2023-12-22)|Visit link for details.|22/12/2023|
- |[Linux - CVE-2023-6546](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6546-2023-12-22)|Visit link for details.|22/12/2023|
- |[Ivanti - CVE-2023-41727](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41727-2023-12-22)|Visit link for details.|22/12/2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -109,6 +92,40 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Nagios - CVE-2023-48085](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48085-2023-12-26)|Visit link for details.|26/12/2023|
+ |[Zabbix - CVE-2023-32728](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2023-32728-2023-12-26)|Visit link for details.|26/12/2023|
+ |[Cacti - CVE-2023-49085](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-49085-2023-12-26)|Visit link for details.|26/12/2023|
+ |[Nagios - CVE-2023-48084](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48084-2023-12-26)|Visit link for details.|26/12/2023|
+ |[Cacti - CVE-2023-51448](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2023-51448-2023-12-26)|Visit link for details.|26/12/2023|
+ |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|26/12/2023|
+ |[Mozilla - CVE-2023-6864](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6864-2023-12-20)|Visit link for details.|26/12/2023|
+ |[D-Link - CVE-2023-49004](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-49004-2023-12-21)|Visit link for details.|26/12/2023|
+ |[Sudo - CVE-2023-42465](https://www.cyberveille-sante.gouv.fr/alertes/sudo-cve-2023-42465-2023-12-22)|Visit link for details.|22/12/2023|
+ |[Linux - CVE-2023-6546](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-6546-2023-12-22)|Visit link for details.|22/12/2023|
+ |[Ivanti - CVE-2023-41727](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41727-2023-12-22)|Visit link for details.|22/12/2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176" class="noirorange"><b>ppp</b>: memory corruption via pppdump()</a>](https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176)|An attacker can trigger a memory corruption of ppp, via pppdump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ath10k_wmi_tlv_op_pull_mgmt_tx_compl_ev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171" class="noirorange"><b>Mozilla NSS</b>: information disclosure via Minerva Side Channel</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171)|An attacker can bypass access restrictions to data of Mozilla NSS, via Minerva Side Channel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -170,23 +187,6 @@
  |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
  |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
  |[[Control systems] Subnet Solutions security advisory (AV23-778)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-subnet-solutions-security-advisory-av23-778)|Visit link for details|2023-12-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176" class="noirorange"><b>ppp</b>: memory corruption via pppdump()</a>](https://vigilance.fr/vulnerability/ppp-memory-corruption-via-pppdump-43176)|An attacker can trigger a memory corruption of ppp, via pppdump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ath10k_wmi_tlv_op_pull_mgmt_tx_compl_ev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ath10k-wmi-tlv-op-pull-mgmt-tx-compl-ev-43175)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171" class="noirorange"><b>Mozilla NSS</b>: information disclosure via Minerva Side Channel</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-Minerva-Side-Channel-43171)|An attacker can bypass access restrictions to data of Mozilla NSS, via Minerva Side Channel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167" class="noirorange"><b>Crypto++</b>: denial of service via DER Public-key Data</a>](https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167)|An attacker can cause a fatal error of Crypto++, via DER Public-key Data, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
