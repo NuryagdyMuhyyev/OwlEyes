@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/12/2023 15:17:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/12/2023 16:14:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5581-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5581-1-firefox-esr-security-update.48011/)|Visit link for details.|Dec 21, 2023|
  |[USN-6561-1: libssh vulnerability](https://www.linux.org/threads/usn-6561-1-libssh-vulnerability.47988/)|Visit link for details.|Dec 19, 2023|
  |[USN-6560-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-1-openssh-vulnerabilities.47987/)|Visit link for details.|Dec 19, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
  
 
 # CERT-FR
@@ -95,6 +95,22 @@
  |[Mozilla - CVE-2023-6856](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2023-6856-2023-12-21)|Visit link for details.|26/12/2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
+ |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
+ |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -125,37 +141,18 @@
  |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
- |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
- |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
- |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
- |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
- |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
- |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
- |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
- |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
- |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
- |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
- |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # EU-CERT
@@ -175,18 +172,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
+ |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
+ |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
+ |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
+ |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
+ |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
+ |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
+ |[[Control systems] Open Design Alliance security advisory (AV23-780)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-open-design-alliance-security-advisory-av23-780)|Visit link for details|2023-12-19|
+ |[[Control systems] EFACEC security advisory (AV23-779)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-efacec-security-advisory-av23-779)|Visit link for details|2023-12-19|
  
 
 # MA-CERT
