@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/12/2023 23:19:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2024 00:12:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
+ |[DSA-5591-1 libssh - security update](https://www.linux.org/threads/dsa-5591-1-libssh-security-update.48079/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5590-1 haproxy - security update](https://www.linux.org/threads/dsa-5590-1-haproxy-security-update.48078/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5589-1 nodejs - security update](https://www.linux.org/threads/dsa-5589-1-nodejs-security-update.48073/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
+ |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
+ |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
+ 
 
 # US-CERT
 
@@ -61,23 +78,6 @@
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/)|Une vulnérabilité a été découverte dans |Publié le 22 décembre 2023|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
- |[DSA-5591-1 libssh - security update](https://www.linux.org/threads/dsa-5591-1-libssh-security-update.48079/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5590-1 haproxy - security update](https://www.linux.org/threads/dsa-5590-1-haproxy-security-update.48078/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5589-1 nodejs - security update](https://www.linux.org/threads/dsa-5589-1-nodejs-security-update.48073/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
- |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
- |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,22 +95,6 @@
  |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|28/12/2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
- |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
- |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,6 +110,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
+ |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
+ |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
