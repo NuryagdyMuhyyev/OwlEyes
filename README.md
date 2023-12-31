@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/01/2024 00:12:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2024 01:17:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
- |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1054/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 décembre 2023|
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/)|Une vulnérabilité a été découverte dans |Publié le 22 décembre 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
+ |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
  
 
 # CERT-SANTE
@@ -158,20 +158,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -185,6 +171,20 @@
  |[ 45292112/23 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-7024». L’exploitation de cette faille peut permettre à un attaquant…| 21 décembre 2023|
  |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
  |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # CA-CCS
