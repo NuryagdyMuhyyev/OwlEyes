@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/01/2024 11:23:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2024 12:16:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[DSA-5582-1 thunderbird - security update](https://www.linux.org/threads/dsa-5582-1-thunderbird-security-update.48022/)|Visit link for details.|Dec 22, 2023|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring Web Services - CVE-2019-3773](https://www.cyberveille-sante.gouv.fr/alertes/spring-web-services-cve-2019-3773-2023-12-29)|Visit link for details.|29/12/2023|
+ |[SourceCodester Medicine Tracking System - CVE-2023-7134](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7134-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Linux - CVE-2023-51781](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51781-2023-12-29)|Visit link for details.|29/12/2023|
+ |[D-Link - CVE-2023-7163](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-7163-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Apache Open Office - CVE-2023-47804](https://www.cyberveille-sante.gouv.fr/alertes/apache-open-office-cve-2023-47804-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Vim - CVE-2023-4781](https://www.cyberveille-sante.gouv.fr/alertes/vim-cve-2023-4781-2023-12-28)|Visit link for details.|28/12/2023|
+ |[SourceCodester Medicine Tracking System - CVE-2023-7123](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7123-2023-12-28)|Visit link for details.|28/12/2023|
+ |[Linux - CVE-2023-51779](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51779-2023-12-28)|Visit link for details.|28/12/2023|
+ |[IBM - CVE-2023-43064](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-43064-2023-12-28)|Visit link for details.|28/12/2023|
+ |[D-Link - CVE-2023-50216](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50216-2023-12-28)|Visit link for details.|28/12/2023|
+ |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|28/12/2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +95,21 @@
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/)|Une vulnérabilité a été découverte dans |Publié le 22 décembre 2023|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Spring Web Services - CVE-2019-3773](https://www.cyberveille-sante.gouv.fr/alertes/spring-web-services-cve-2019-3773-2023-12-29)|Visit link for details.|29/12/2023|
- |[SourceCodester Medicine Tracking System - CVE-2023-7134](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7134-2023-12-29)|Visit link for details.|29/12/2023|
- |[Linux - CVE-2023-51781](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51781-2023-12-29)|Visit link for details.|29/12/2023|
- |[D-Link - CVE-2023-7163](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-7163-2023-12-29)|Visit link for details.|29/12/2023|
- |[Apache Open Office - CVE-2023-47804](https://www.cyberveille-sante.gouv.fr/alertes/apache-open-office-cve-2023-47804-2023-12-29)|Visit link for details.|29/12/2023|
- |[Vim - CVE-2023-4781](https://www.cyberveille-sante.gouv.fr/alertes/vim-cve-2023-4781-2023-12-28)|Visit link for details.|28/12/2023|
- |[SourceCodester Medicine Tracking System - CVE-2023-7123](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7123-2023-12-28)|Visit link for details.|28/12/2023|
- |[Linux - CVE-2023-51779](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51779-2023-12-28)|Visit link for details.|28/12/2023|
- |[IBM - CVE-2023-43064](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-43064-2023-12-28)|Visit link for details.|28/12/2023|
- |[D-Link - CVE-2023-50216](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50216-2023-12-28)|Visit link for details.|28/12/2023|
- |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|28/12/2023|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192" class="noirorange"><b>Apache OpenOffice</b>: code execution via Links Internal Macros</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192)|An attacker can use a vulnerability of Apache OpenOffice, via Links Internal Macros, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-information-disclosure-via-Embedded-Content-43191" class="noirorange"><b>LibreOffice  OpenOffice</b>: information disclosure via Embedded Content</a>](https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-information-disclosure-via-Embedded-Content-43191)|An attacker can bypass access restrictions to data of LibreOffice  OpenOffice, via Embedded Content, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186" class="noirorange"><b>OpenSSH</b>: information disclosure via DRAM Mayhem Bit Flipping</a>](https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186)|An attacker can bypass access restrictions to data of OpenSSH, via DRAM Mayhem Bit Flipping, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -124,37 +141,6 @@
  |[HCL Launch information disclosure (CVE-2023-45701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 27, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192" class="noirorange"><b>Apache OpenOffice</b>: code execution via Links Internal Macros</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192)|An attacker can use a vulnerability of Apache OpenOffice, via Links Internal Macros, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-information-disclosure-via-Embedded-Content-43191" class="noirorange"><b>LibreOffice  OpenOffice</b>: information disclosure via Embedded Content</a>](https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-information-disclosure-via-Embedded-Content-43191)|An attacker can bypass access restrictions to data of LibreOffice  OpenOffice, via Embedded Content, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186" class="noirorange"><b>OpenSSH</b>: information disclosure via DRAM Mayhem Bit Flipping</a>](https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186)|An attacker can bypass access restrictions to data of OpenSSH, via DRAM Mayhem Bit Flipping, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -172,21 +158,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
- |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
- |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
- |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
- |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
- |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
- |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
- |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
- |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # MA-CERT
@@ -202,4 +185,21 @@
  |[ 45292112/23 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-7024». L’exploitation de cette faille peut permettre à un attaquant…| 21 décembre 2023|
  |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
  |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
+ |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
+ |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
+ |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
+ |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
+ |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
+ |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
+ |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
  
