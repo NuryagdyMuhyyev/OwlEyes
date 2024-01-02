@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/01/2024 13:21:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/01/2024 14:16:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
+ |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
+ |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
+ |[DSA-5591-1 libssh - security update](https://www.linux.org/threads/dsa-5591-1-libssh-security-update.48079/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5590-1 haproxy - security update](https://www.linux.org/threads/dsa-5590-1-haproxy-security-update.48078/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5589-1 nodejs - security update](https://www.linux.org/threads/dsa-5589-1-nodejs-security-update.48073/)|Visit link for details.|Dec 28, 2023|
+ |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
+ |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
+ |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
+ |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,23 +60,6 @@
  |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
  |[CISA Secure by Design Alert Urges Manufacturers to Eliminate Default Passwords](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-secure-design-alert-urges-manufacturers-eliminate-default-passwords)|Visit link for details.|Dec 15, 2023|
  |[CISA Releases Advisory on Cyber Resilience for the HPH Sector](https://www.cisa.gov/news-events/alerts/2023/12/15/cisa-releases-advisory-cyber-resilience-hph-sector)|Visit link for details.|Dec 15, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
- |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
- |[DSA-5591-1 libssh - security update](https://www.linux.org/threads/dsa-5591-1-libssh-security-update.48079/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5590-1 haproxy - security update](https://www.linux.org/threads/dsa-5590-1-haproxy-security-update.48078/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5589-1 nodejs - security update](https://www.linux.org/threads/dsa-5589-1-nodejs-security-update.48073/)|Visit link for details.|Dec 28, 2023|
- |[DSA-5588-1 putty - security update](https://www.linux.org/threads/dsa-5588-1-putty-security-update.48050/)|Visit link for details.|Dec 24, 2023|
- |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
- |[DSA-5586-1 openssh - security update](https://www.linux.org/threads/dsa-5586-1-openssh-security-update.48030/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5585-1 chromium - security update](https://www.linux.org/threads/dsa-5585-1-chromium-security-update.48025/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5584-1 bluez - security update](https://www.linux.org/threads/dsa-5584-1-bluez-security-update.48024/)|Visit link for details.|Dec 22, 2023|
- |[DSA-5583-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5583-1-gst-plugins-bad1-0-security-update.48023/)|Visit link for details.|Dec 22, 2023|
  
 
 # CERT-FR
@@ -78,20 +78,21 @@
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/)|Une vulnérabilité a été découverte dans |Publié le 22 décembre 2023|
  
 
-# HK-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
- |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
- |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ |[Spring Web Services - CVE-2019-3773](https://www.cyberveille-sante.gouv.fr/alertes/spring-web-services-cve-2019-3773-2023-12-29)|Visit link for details.|29/12/2023|
+ |[SourceCodester Medicine Tracking System - CVE-2023-7134](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7134-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Linux - CVE-2023-51781](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51781-2023-12-29)|Visit link for details.|29/12/2023|
+ |[D-Link - CVE-2023-7163](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-7163-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Apache Open Office - CVE-2023-47804](https://www.cyberveille-sante.gouv.fr/alertes/apache-open-office-cve-2023-47804-2023-12-29)|Visit link for details.|29/12/2023|
+ |[Vim - CVE-2023-4781](https://www.cyberveille-sante.gouv.fr/alertes/vim-cve-2023-4781-2023-12-28)|Visit link for details.|28/12/2023|
+ |[SourceCodester Medicine Tracking System - CVE-2023-7123](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7123-2023-12-28)|Visit link for details.|28/12/2023|
+ |[Linux - CVE-2023-51779](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51779-2023-12-28)|Visit link for details.|28/12/2023|
+ |[IBM - CVE-2023-43064](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-43064-2023-12-28)|Visit link for details.|28/12/2023|
+ |[D-Link - CVE-2023-50216](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50216-2023-12-28)|Visit link for details.|28/12/2023|
+ |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|28/12/2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,6 +125,22 @@
  |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
+ |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
+ |[OpenSSH Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/openssh-security-restriction-bypass-vulnerability_20231219)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger security restriction bypass. [Updated on 2023-12-20] Updated Vulnerability Identifier.|Release Date: 19 Dec 2023 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20231201)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-12-...| Release Date: 1 Dec 2023 |
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,23 +153,6 @@
  |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
  |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
  |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring Web Services - CVE-2019-3773](https://www.cyberveille-sante.gouv.fr/alertes/spring-web-services-cve-2019-3773-2023-12-29)|Visit link for details.|29/12/2023|
- |[SourceCodester Medicine Tracking System - CVE-2023-7134](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7134-2023-12-29)|Visit link for details.|29/12/2023|
- |[Linux - CVE-2023-51781](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51781-2023-12-29)|Visit link for details.|29/12/2023|
- |[D-Link - CVE-2023-7163](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-7163-2023-12-29)|Visit link for details.|29/12/2023|
- |[Apache Open Office - CVE-2023-47804](https://www.cyberveille-sante.gouv.fr/alertes/apache-open-office-cve-2023-47804-2023-12-29)|Visit link for details.|29/12/2023|
- |[Vim - CVE-2023-4781](https://www.cyberveille-sante.gouv.fr/alertes/vim-cve-2023-4781-2023-12-28)|Visit link for details.|28/12/2023|
- |[SourceCodester Medicine Tracking System - CVE-2023-7123](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7123-2023-12-28)|Visit link for details.|28/12/2023|
- |[Linux - CVE-2023-51779](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51779-2023-12-28)|Visit link for details.|28/12/2023|
- |[IBM - CVE-2023-43064](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-43064-2023-12-28)|Visit link for details.|28/12/2023|
- |[D-Link - CVE-2023-50216](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-50216-2023-12-28)|Visit link for details.|28/12/2023|
- |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|28/12/2023|
  
 
 # EU-CERT
@@ -172,21 +172,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
- |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
- |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
- |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
- |[ 45312112/23 - Vulnérabilités critiques affectant Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-avalanche)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant son produit     Ivanti Avalanche. L’exploitation de ces vulnérabilités peut permettre à…| 21 décembre 2023|
- |[ 45302112/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits     susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’accéder à  des données…| 21 décembre 2023|
- |[ 45292112/23 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-7024». L’exploitation de cette faille peut permettre à un attaquant…| 21 décembre 2023|
- |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
- |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +187,19 @@
  |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
  |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
  |[[Control systems] EuroTel security advisory (AV23-781)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-eurotel-security-advisory-av23-781)|Visit link for details|2023-12-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
+ |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
+ |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
+ |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
+ |[ 45312112/23 - Vulnérabilités critiques affectant Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-avalanche)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant son produit     Ivanti Avalanche. L’exploitation de ces vulnérabilités peut permettre à…| 21 décembre 2023|
+ |[ 45302112/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits     susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’accéder à  des données…| 21 décembre 2023|
+ |[ 45292112/23 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-7024». L’exploitation de cette faille peut permettre à un attaquant…| 21 décembre 2023|
+ |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
+ |[ 45272012/23 - Vulnérabilités dans OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-openssh)| Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’exécuter du code arbitraire à distance et…| 20 décembre 2023|
  
