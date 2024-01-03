@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/01/2024 21:20:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/01/2024 22:14:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
+ |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,37 +62,21 @@
  |[DSA-5587-1 curl - security update](https://www.linux.org/threads/dsa-5587-1-curl-security-update.48044/)|Visit link for details.|Dec 23, 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- |[FBI, CISA, and ASD’s ACSC Release Advisory on Play Ransomware](https://www.cisa.gov/news-events/alerts/2023/12/18/fbi-cisa-and-asds-acsc-release-advisory-play-ransomware)|Visit link for details.|Dec 18, 2023|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
+ |[WordPress POST SMTP - CVE-2023-7027](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-post-smtp-cve-2023-7027-2024-01-03)|Visit link for details.|03/01/2024|
+ |[Stormshield - CVE-2023-48795](https://www.cyberveille-sante.gouv.fr/alertes/stormshield-cve-2023-48795-2024-01-03)|Visit link for details.|03/01/2024|
+ |[Linux - CVE-2024-0193](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0193-2024-01-03)|Visit link for details.|03/01/2024|
+ |[Dell - CVE-2023-48667](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-48667-2024-01-03)|Visit link for details.|03/01/2024|
+ |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|03/01/2024|
+ |[TheGreenBow/Stormshield - CVE-2023-47267](https://www.cyberveille-sante.gouv.fr/alertes/thegreenbowstormshield-cve-2023-47267-2023-12-20)|Visit link for details.|03/01/2024|
  |[Zyxel - CVE-2023-43314](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-43314-2024-01-02)|Visit link for details.|02/01/2024|
  |[Linux - CVE-2023-51780](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51780-2024-01-02)|Visit link for details.|02/01/2024|
  |[Dell - CVE-2023-48670](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-48670-2024-01-02)|Visit link for details.|02/01/2024|
  |[Apple - CVE-2023-41060](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41060-2024-01-02)|Visit link for details.|02/01/2024|
- |[Spreadsheet::ParseExcel - CVE-2023-7101](https://www.cyberveille-sante.gouv.fr/alertes/spreadsheetparseexcel-cve-2023-7101-2024-01-02)|Visit link for details.|02/01/2024|
- |[Barracuda - CVE-2023-7102](https://www.cyberveille-sante.gouv.fr/alertes/barracuda-cve-2023-7102-2023-12-27)|Visit link for details.|02/01/2024|
- |[OpenSSH - CVE-2023-51385](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-51385-2023-12-27)|Visit link for details.|02/01/2024|
- |[Spring Web Services - CVE-2019-3773](https://www.cyberveille-sante.gouv.fr/alertes/spring-web-services-cve-2019-3773-2023-12-29)|Visit link for details.|29/12/2023|
- |[SourceCodester Medicine Tracking System - CVE-2023-7134](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-medicine-tracking-system-cve-2023-7134-2023-12-29)|Visit link for details.|29/12/2023|
- |[Linux - CVE-2023-51781](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-51781-2023-12-29)|Visit link for details.|29/12/2023|
- |[D-Link - CVE-2023-7163](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-7163-2023-12-29)|Visit link for details.|29/12/2023|
  
 
 # CERT-FR
@@ -95,19 +95,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 décembre 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[HuiRan Host Reseller System weak security (CVE-2024-0186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 2, 2024|
- |[RRJ Nueva Ecija Engineer Online Portal weak security (CVE-2024-0188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 2, 2024|
- |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
- |[Engineers Online Portal SQL injection (CVE-2024-0182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
- |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
- |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
- |[RRJ Nueva Ecija Engineer Online Portal file upload (CVE-2024-0185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +109,33 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20231219)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 19 Dec 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20231213)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-12-...| Release Date: 13 Dec 2023 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20231218)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Dec 2023 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HuiRan Host Reseller System weak security (CVE-2024-0186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 2, 2024|
+ |[RRJ Nueva Ecija Engineer Online Portal weak security (CVE-2024-0188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 2, 2024|
+ |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
+ |[Engineers Online Portal SQL injection (CVE-2024-0182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
+ |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
+ |[RRJ Nueva Ecija Engineer Online Portal cross-site scripting (CVE-2024-0184)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
+ |[RRJ Nueva Ecija Engineer Online Portal file upload (CVE-2024-0185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 1, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # EU-CERT
@@ -141,35 +155,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
- |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
- |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
- |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
- |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
- |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
- |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
- |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
- |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207" class="noirorange"><b>Linux kernel</b>: denial of service via ctnetlink_create_conntrack()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206" class="noirorange"><b>QEMU</b>: information disclosure via virtio_net_flush_tx()</a>](https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206)|An attacker, in a guest system, can bypass access restrictions to data of QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -187,19 +187,19 @@
  |[ 45282012/23 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-0)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 20 décembre 2023|
  
 
-# OBS-Vigilance
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207" class="noirorange"><b>Linux kernel</b>: denial of service via ctnetlink_create_conntrack()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206" class="noirorange"><b>QEMU</b>: information disclosure via virtio_net_flush_tx()</a>](https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206)|An attacker, in a guest system, can bypass access restrictions to data of QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
+ |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
+ |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
+ |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
+ |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
+ |[Google Chrome security advisory (AV23-784)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-784)|Visit link for details|2023-12-20|
+ |[Ivanti security advisory (AV23-783)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av23-783)|Visit link for details|2023-12-20|
+ |[Apple security advisory (AV23-782)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-782)|Visit link for details|2023-12-19|
  
