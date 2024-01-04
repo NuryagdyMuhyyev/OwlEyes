@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/01/2024 00:13:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/01/2024 01:18:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,33 +46,26 @@
  |[DSA-5589-1 nodejs - security update](https://www.linux.org/threads/dsa-5589-1-nodejs-security-update.48073/)|Visit link for details.|Dec 28, 2023|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
- |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1062/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 décembre 2023|
- |[Multiples vulnérabilités dans Apache OpenOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 décembre 2023|
- |[Vulnérabilité dans NetApp Active IQ Unified Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1060/)|Une vulnérabilité a été découverte dans NetApp Active IQ Unified Manager. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 décembre 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik E1200](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik E1200. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 26 décembre 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
+ |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[WebCalendar datesel.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar availability.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar colors.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar edit_entry.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
  
 
 # CERT-SANTE
@@ -106,6 +83,22 @@
  |[Linux - CVE-2024-0193](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0193-2024-01-03)|Visit link for details.|03/01/2024|
  |[Dell - CVE-2023-48667](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-48667-2024-01-03)|Visit link for details.|03/01/2024|
  |[Apple - CVE-2023-41993](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-41993-2023-09-22)|Visit link for details.|03/01/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
+ |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
+ |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1062/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 décembre 2023|
+ |[Multiples vulnérabilités dans Apache OpenOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 décembre 2023|
+ |[Vulnérabilité dans NetApp Active IQ Unified Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1060/)|Une vulnérabilité a été découverte dans NetApp Active IQ Unified Manager. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik E1200](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik E1200. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 26 décembre 2023|
  
 
 # HK-CERT
@@ -142,6 +135,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
@@ -152,7 +146,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
  
 
 # EU-CERT
@@ -172,6 +165,23 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
+ |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
+ |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
+ |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
+ |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
+ |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
+ |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
+ |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -184,21 +194,4 @@
  |[ 45312112/23 - Vulnérabilités critiques affectant Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-avalanche)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant son produit     Ivanti Avalanche. L’exploitation de ces vulnérabilités peut permettre à…| 21 décembre 2023|
  |[ 45302112/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-2)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits     susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’accéder à  des données…| 21 décembre 2023|
  |[ 45292112/23 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-7024». L’exploitation de cette faille peut permettre à un attaquant…| 21 décembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
- |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
- |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
- |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
- |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
- |[HPE security advisory (AV23-787)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-787)|Visit link for details|2023-12-21|
- |[[Control systems] QNAP security advisory (AV23-786)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-qnap-security-advisory-av23-786)|Visit link for details|2023-12-21|
- |[[Control systems] FXC security advisory (AV23-785)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fxc-security-advisory-av23-785)|Visit link for details|2023-12-21|
  
