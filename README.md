@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/01/2024 09:20:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/01/2024 10:16:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5597-1 exim4 - security update](https://www.linux.org/threads/dsa-5597-1-exim4-security-update.48157/)|Visit link for details.|Jan 5, 2024|
+ |[DSA-5596-1 asterisk - security update](https://www.linux.org/threads/dsa-5596-1-asterisk-security-update.48156/)|Visit link for details.|Jan 5, 2024|
+ |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
+ |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
+ |[USN-6565-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6565-1-openssh-vulnerabilities.48142/)|Visit link for details.|Jan 3, 2024|
+ |[USN-6564-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6564-1-node-js-vulnerabilities.48138/)|Visit link for details.|Jan 3, 2024|
+ |[DSA-5594-1 linux - security update](https://www.linux.org/threads/dsa-5594-1-linux-security-update.48134/)|Visit link for details.|Jan 3, 2024|
+ |[USN-6563-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6563-1-thunderbird-vulnerabilities.48129/)|Visit link for details.|Jan 2, 2024|
+ |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
+ |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
+ |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -49,33 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
  |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
  |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1062/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 décembre 2023|
  |[Multiples vulnérabilités dans Apache OpenOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 décembre 2023|
  |[Vulnérabilité dans NetApp Active IQ Unified Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1060/)|Une vulnérabilité a été découverte dans NetApp Active IQ Unified Manager. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 décembre 2023|
  |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik E1200](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik E1200. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 26 décembre 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5597-1 exim4 - security update](https://www.linux.org/threads/dsa-5597-1-exim4-security-update.48157/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5596-1 asterisk - security update](https://www.linux.org/threads/dsa-5596-1-asterisk-security-update.48156/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
- |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
- |[USN-6565-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6565-1-openssh-vulnerabilities.48142/)|Visit link for details.|Jan 3, 2024|
- |[USN-6564-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6564-1-node-js-vulnerabilities.48138/)|Visit link for details.|Jan 3, 2024|
- |[DSA-5594-1 linux - security update](https://www.linux.org/threads/dsa-5594-1-linux-security-update.48134/)|Visit link for details.|Jan 3, 2024|
- |[USN-6563-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6563-1-thunderbird-vulnerabilities.48129/)|Visit link for details.|Jan 2, 2024|
- |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
- |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
- |[DSA-5592-1 libspreadsheet-parseexcel-perl - security update](https://www.linux.org/threads/dsa-5592-1-libspreadsheet-parseexcel-perl-security-update.48103/)|Visit link for details.|Dec 30, 2023|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1058/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 26 décembre 2023|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1057/)|De multiples vulnérabilités ont été corrigées dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 décembre 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1056/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 décembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 décembre 2023|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WebCalendar datesel.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar availability.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar colors.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[WebCalendar edit_entry.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- |[Wireshark denial of service (CVE-2024-0210)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -141,18 +128,17 @@
  |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
+ |[oFono buffer overflow (CVE-2023-4235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF code execution (CVE-2023-51563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF information disclosure (CVE-2023-51564)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF code execution (CVE-2023-51565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF buffer overflow (CVE-2023-51566)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF information disclosure (CVE-2023-51568)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Kofax Power PDF information disclosure (CVE-2023-51567)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
  
 
 # EU-CERT
@@ -170,6 +156,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # MA-CERT
