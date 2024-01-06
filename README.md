@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/01/2024 20:15:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/01/2024 21:20:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
- |[Multiples vulnérabilités dans Centreon Web](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 janvier 2024|
- |[Vulnérabilité dans Ivanti Endpoint Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0008/)|Une vulnérabilité a été découverte dans |Publié le 5 janvier 2024|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
  |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
  |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1062/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 décembre 2023|
+ |[Multiples vulnérabilités dans Apache OpenOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 décembre 2023|
+ |[Vulnérabilité dans NetApp Active IQ Unified Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1060/)|Une vulnérabilité a été découverte dans NetApp Active IQ Unified Manager. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik E1200](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik E1200. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 26 décembre 2023|
  
 
 # CERT-SANTE
@@ -172,6 +172,19 @@
  |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
+ |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
+ |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
+ |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
+ |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
+ |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
+ |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,17 +200,4 @@
  |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
  |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
  |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
- |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
- |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
- |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
- |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
- |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
- |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
  
