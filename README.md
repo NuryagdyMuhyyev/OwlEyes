@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/01/2024 22:14:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/01/2024 23:20:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,19 @@
  |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,17 +124,18 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # OBS-Vigilance
@@ -139,20 +153,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # EU-CERT
