@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/01/2024 00:13:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/01/2024 01:17:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,6 @@
  |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
- |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
- |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
- |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
- |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
- |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -93,6 +76,23 @@
  |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
  |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
+ |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
+ |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
  
 
 # OBS-Vigilance
@@ -158,21 +158,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
- |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
- |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
- |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
- |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
- |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
- |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
- |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # MA-CERT
@@ -188,16 +185,19 @@
  |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
+ |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
+ |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
+ |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
+ |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
+ |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
+ |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
+ |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
+ |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
+ |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
  
