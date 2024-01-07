@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/01/2024 22:14:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/01/2024 23:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
- |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
- |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
- |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
- |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
- |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -77,6 +60,23 @@
  |[USN-6563-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6563-1-thunderbird-vulnerabilities.48129/)|Visit link for details.|Jan 2, 2024|
  |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
  |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
+ |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
+ |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
  
 
 # CERT-FR
@@ -124,20 +124,6 @@
  |[Inductive Automation Ignition code execution (CVE-2023-50219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
- |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -153,6 +139,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1913/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1912/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1911/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1910/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF J2K File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1909/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1908/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1907/)|Visit link for details|2023-12-21|
+ |[(0Day) Kofax Power PDF U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1906/)|Visit link for details|2023-12-21|
  
 
 # EU-CERT
