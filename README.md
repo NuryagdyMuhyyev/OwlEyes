@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/01/2024 21:22:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/01/2024 22:15:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
  |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
@@ -59,7 +60,6 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
  |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
  |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Dec 19, 2023|
  
 
 # CERT-FR
@@ -82,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SourceCodester Clinic Queuing System - CVE-2024-0265](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0265-2024-01-08)|Visit link for details.|08/01/2024|
  |[SourceCodester Clinic Queuing System - CVE-2024-0264](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0264-2024-01-08)|Visit link for details.|08/01/2024|
  |[QNAP - CVE-2023-41288](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-41288-2024-01-08)|Visit link for details.|08/01/2024|
  |[QNAP - CVE-2022-43634](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2022-43634-2024-01-08)|Visit link for details.|08/01/2024|
@@ -92,20 +93,6 @@
  |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|08/01/2024|
  |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
  |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
- |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[IBM Security Verify Access OIDC Provider information disclosure (CVE-2022-43876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
  
 
 # HK-CERT
@@ -124,31 +111,17 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
- |[X.Org Server RecalculateMasterButtons Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-011/)|Visit link for details|2024-01-04|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
- |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
- |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
- |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
- |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
- |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
- |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
+ |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
+ |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Security Verify Access OIDC Provider information disclosure (CVE-2022-43876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
  
 
 # EU-CERT
@@ -166,6 +139,19 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
+ |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
+ |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
+ |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
+ |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
+ |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
+ |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
  
 
 # CA-CCS
@@ -200,4 +186,10 @@
  |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via av1_loop_restoration_dealloc()</a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
