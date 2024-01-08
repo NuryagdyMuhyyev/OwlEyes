@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/01/2024 15:19:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/01/2024 16:14:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[DSA-5593-1 linux - security update](https://www.linux.org/threads/dsa-5593-1-linux-security-update.48119/)|Visit link for details.|Jan 1, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -117,20 +111,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
- |[X.Org Server RecalculateMasterButtons Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-011/)|Visit link for details|2024-01-04|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -148,21 +128,17 @@
  |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
- |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
- |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
- |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
- |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
- |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
- |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
- |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
- |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
- |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
+ |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
+ |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Security Verify Access OIDC Provider information disclosure (CVE-2022-43876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
  
 
 # EU-CERT
@@ -180,6 +156,37 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
+ |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
+ |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
+ |[X.Org Server RecalculateMasterButtons Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-011/)|Visit link for details|2024-01-04|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
+ |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
+ |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
+ |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
+ |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
+ |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
+ |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
+ |[Juniper Networks security advisory (AV23-791)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-791)|Visit link for details|2023-12-28|
+ |[Dell security advisory (AV23-790)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-790)|Visit link for details|2023-12-28|
+ |[IBM security advisory (AV23-789)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-789)|Visit link for details|2023-12-27|
+ |[Microsoft Edge security advisory (AV23-788)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-788)|Visit link for details|2023-12-22|
  
 
 # MA-CERT
