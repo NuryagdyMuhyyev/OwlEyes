@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/01/2024 17:33:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/01/2024 18:21:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
+ |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
+ |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
+ |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
+ |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,6 +95,19 @@
  |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
+ |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[IBM Security Verify Access OIDC Provider information disclosure (CVE-2022-43876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,36 +122,6 @@
  |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20231221)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. Google is aware that an exploit for CVE-...|Release Date: 21 Dec 2023 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
- |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[IBM Security Verify Access OIDC Provider information disclosure (CVE-2022-43876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- |[Inductive Automation Ignition code execution (CVE-2023-50222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|05/01/2024|
- |[Red Hat - CVE-2023-6944](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-6944-2024-01-05)|Visit link for details.|05/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0225](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0225-2024-01-05)|Visit link for details.|05/01/2024|
- |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|05/01/2024|
- |[SpringBlade/Juniper - CVE-2023-40787](https://www.cyberveille-sante.gouv.fr/alertes/springbladejuniper-cve-2023-40787-2024-01-04)|Visit link for details.|04/01/2024|
- |[Linux/Juniper - CVE-2023-32233](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2023-32233-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0223](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0223-2024-01-04)|Visit link for details.|04/01/2024|
- |[Google - CVE-2024-0222](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0222-2024-01-04)|Visit link for details.|04/01/2024|
- |[Dell - CVE-2023-43088](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-43088-2024-01-04)|Visit link for details.|04/01/2024|
- |[WordPress OMGF - CVE-2023-6600](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-omgf-cve-2023-6600-2024-01-03)|Visit link for details.|03/01/2024|
  
 
 # ZERODAYINITIATIVE
