@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/01/2024 01:18:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/01/2024 02:14:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6499-2: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-2-gnutls-vulnerability.48185/)|Visit link for details.|Jan 8, 2024|
- |[USN-6549-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6549-4-linux-kernel-intel-iotg-vulnerabilities.48162/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5597-1 exim4 - security update](https://www.linux.org/threads/dsa-5597-1-exim4-security-update.48157/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5596-1 asterisk - security update](https://www.linux.org/threads/dsa-5596-1-asterisk-security-update.48156/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
- |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
- |[USN-6565-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6565-1-openssh-vulnerabilities.48142/)|Visit link for details.|Jan 3, 2024|
- |[USN-6564-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6564-1-node-js-vulnerabilities.48138/)|Visit link for details.|Jan 3, 2024|
- |[DSA-5594-1 linux - security update](https://www.linux.org/threads/dsa-5594-1-linux-security-update.48134/)|Visit link for details.|Jan 3, 2024|
- |[USN-6563-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6563-1-thunderbird-vulnerabilities.48129/)|Visit link for details.|Jan 2, 2024|
- |[USN-6562-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6562-1-firefox-vulnerabilities.48127/)|Visit link for details.|Jan 2, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
  |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
  |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6569-1: libclamunrar vulnerabilities](https://www.linux.org/threads/usn-6569-1-libclamunrar-vulnerabilities.48191/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6568-1: ClamAV update](https://www.linux.org/threads/usn-6568-1-clamav-update.48190/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6567-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6567-1-qemu-vulnerabilities.48189/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6499-2: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-2-gnutls-vulnerability.48185/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6549-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6549-4-linux-kernel-intel-iotg-vulnerabilities.48162/)|Visit link for details.|Jan 5, 2024|
+ |[DSA-5597-1 exim4 - security update](https://www.linux.org/threads/dsa-5597-1-exim4-security-update.48157/)|Visit link for details.|Jan 5, 2024|
+ |[DSA-5596-1 asterisk - security update](https://www.linux.org/threads/dsa-5596-1-asterisk-security-update.48156/)|Visit link for details.|Jan 5, 2024|
+ |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
+ |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
+ |[USN-6565-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6565-1-openssh-vulnerabilities.48142/)|Visit link for details.|Jan 3, 2024|
+ |[USN-6564-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6564-1-node-js-vulnerabilities.48138/)|Visit link for details.|Jan 3, 2024|
  
 
 # CERT-FR
@@ -99,13 +99,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[HCL DRYiCE MyXalytics information disclosure (CVE-2023-50346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[Youke365 server-side request forgery (CVE-2024-0304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
  |[Youke365 server-side request forgery (CVE-2024-0303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
  |[Puma denial of service (CVE-2024-21647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
  |[IBM Db2 for Windows privilege escalation (CVE-2023-47145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2024|
- |[D-Tale server-side request forgery (CVE-2024-21642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[W3m denial of service (CVE-2023-4255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[Tcpreplay denial of service (CVE-2023-4256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
- |[IBM Storage Fusion HCI information disclosure (CVE-2023-50948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Dynamic Lab Management System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
+ |[Dynamic Lab Management System SQL injection (CVE-2024-0306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2024|
  
 
 # OBS-Vigilance
@@ -141,6 +141,20 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20231220)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Dec 2023 |
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
+ |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
+ |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
+ |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,20 +170,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
  
 
 # CA-CCS
