@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/01/2024 08:18:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/01/2024 09:21:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,19 @@
  |[USN-6564-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6564-1-node-js-vulnerabilities.48138/)|Visit link for details.|Jan 3, 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HCL DRYiCE MyXalytics information disclosure (CVE-2023-50346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[Inis server-side request forgery (CVE-2024-0308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[Youke365 server-side request forgery (CVE-2024-0304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[Youke365 server-side request forgery (CVE-2024-0303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[Puma denial of service (CVE-2024-21647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[ManageEngine OpManager directory traversal (CVE-2023-47211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ |[HCL DRYiCE MyXalytics weak security (CVE-2023-50351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,19 +124,6 @@
  |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[HCL DRYiCE MyXalytics information disclosure (CVE-2023-50346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[Inis server-side request forgery (CVE-2024-0308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[Youke365 server-side request forgery (CVE-2024-0304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[Youke365 server-side request forgery (CVE-2024-0303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[Puma denial of service (CVE-2024-21647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[ManageEngine OpManager directory traversal (CVE-2023-47211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- |[HCL DRYiCE MyXalytics weak security (CVE-2023-50351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,6 +155,23 @@
  |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via av1_loop_restoration_dealloc()</a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-011)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-011)|Visit link for details|2024-01-08|
+ |[IBM security advisory (AV24-010)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-010)|Visit link for details|2024-01-08|
+ |[Dell security advisory (AV24-009)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-009)|Visit link for details|2024-01-08|
+ |[Ubuntu security advisory (AV24-008)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-008)|Visit link for details|2024-01-08|
+ |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
+ |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
+ |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
+ |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
+ |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
+ |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
+ |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -183,21 +200,4 @@
  |[ 45342812/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-barracuda-email-security-gateway-0)| Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité « CVE-2023-7102 » existait dans « Spreadsheet::ParseExcel », une bibliothèque tierce open-source…| 28 décembre 2023|
  |[ 45332712/23 - Vulnérabilité dans Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postfix)| Une vulnérabilité a été corrigée dans les versions Postfix susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 décembre 2023|
  |[ 45322212/23 - Vulnérabilité affectant des produits d’ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-produits-deset)| ESET annonce la disponibilité de mises à jour qui permettant la correction  d’une vulnérabilité affectant certains de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 22 décembre 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-011)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-011)|Visit link for details|2024-01-08|
- |[IBM security advisory (AV24-010)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-010)|Visit link for details|2024-01-08|
- |[Dell security advisory (AV24-009)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-009)|Visit link for details|2024-01-08|
- |[Ubuntu security advisory (AV24-008)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-008)|Visit link for details|2024-01-08|
- |[Ivanti security advisory (AV24-007)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-007)|Visit link for details|2024-01-04|
- |[[Control systems] Mitsubishi Electric security advisory (AV24-006)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av24-006)|Visit link for details|2024-01-04|
- |[[Control systems] Rockwell Automation security advisory (AV24-005)](https://www.cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av24-005)|Visit link for details|2024-01-04|
- |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
- |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
- |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
  
