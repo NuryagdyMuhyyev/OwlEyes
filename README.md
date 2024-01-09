@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/01/2024 20:18:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/01/2024 21:22:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
- |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- |[CISA and FBI Release Advisory on ALPHV Blackcat Affiliates](https://www.cisa.gov/news-events/alerts/2023/12/19/cisa-and-fbi-release-advisory-alphv-blackcat-affiliates)|Visit link for details.|Dec 19, 2023|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
  |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
  |[USN-6565-1: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6565-1-openssh-vulnerabilities.48142/)|Visit link for details.|Jan 3, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
+ |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
  
 
 # CERT-FR
@@ -108,6 +108,23 @@
  |[HCL DRYiCE MyXalytics weak security (CVE-2023-50351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CN-4100-three-vulnerabilities-43247" class="noirorange"><b>SIMATIC CN 4100</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-CN-4100-three-vulnerabilities-43247)|An attacker can use several vulnerabilities of SIMATIC CN 4100...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-IPC-code-execution-via-Redfish-MaxView-Storage-Manager-43246" class="noirorange"><b>SIMATIC IPC</b>: code execution via Redfish MaxView Storage Manager</a>](https://vigilance.fr/vulnerability/SIMATIC-IPC-code-execution-via-Redfish-MaxView-Storage-Manager-43246)|An attacker can use a vulnerability of SIMATIC IPC, via Redfish MaxView Storage Manager, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-January-2024-43245" class="noirorange"><b>SAP</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-January-2024-43245)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239)|An attacker can cause a fatal error of IBM Db2, via Crafted Cursor, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238" class="noirorange"><b>IBM Db2</b>: code execution via Like Named Jar Files</a>](https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238)|An attacker can use a vulnerability of IBM Db2, via Like Named Jar Files, in order to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +139,20 @@
  |[ESET Products Security Restriction Bypass Execution Vulnerability](https://www.hkcert.org/security-bulletin/eset-products-security-restriction-bypass-execution-vulnerability_20231227)|A vulnerability has been identified in ESET Products. A remote attacker could exploit this vulnerability to bypass security restrictions on the targeted system.|Release Date: 27 Dec 2023 |
  |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20231222)|A vulnerability has been identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:For CVE-2023-7024, heap buffer overflow in WebRTC. The CVE-2023-7024 vulnerability is being...|Release Date: 22 Dec 2023 |
  |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-020/)|Visit link for details|2024-01-09|
+ |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
+ |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
+ |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
  
 
 # EU-CERT
@@ -141,34 +172,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- |[X.Org Server ProcXIChangeProperty Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-012/)|Visit link for details|2024-01-04|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45440901/24 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-5)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire à distance. | 09 janvier 2024|
- |[ 45440901/24 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-4)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 09 janvier 2024|
- |[ 45430901/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-11)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la…| 09 janvier 2024|
- |[ 45420801/24 - Vulnérabilité dans Ivanti Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-ivanti-sentry)| Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité dans les produits susmentionnés. Une exploitation réussie de  cette faille pourrait permette à un attaquant d'exécuter du…| 08 janvier 2024|
- |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
- |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
- |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
- |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,19 +189,16 @@
  |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
  
 
-# OBS-Vigilance
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CN-4100-three-vulnerabilities-43247" class="noirorange"><b>SIMATIC CN 4100</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/SIMATIC-CN-4100-three-vulnerabilities-43247)|An attacker can use several vulnerabilities of SIMATIC CN 4100...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-IPC-code-execution-via-Redfish-MaxView-Storage-Manager-43246" class="noirorange"><b>SIMATIC IPC</b>: code execution via Redfish MaxView Storage Manager</a>](https://vigilance.fr/vulnerability/SIMATIC-IPC-code-execution-via-Redfish-MaxView-Storage-Manager-43246)|An attacker can use a vulnerability of SIMATIC IPC, via Redfish MaxView Storage Manager, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-January-2024-43245" class="noirorange"><b>SAP</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-January-2024-43245)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239)|An attacker can cause a fatal error of IBM Db2, via Crafted Cursor, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238" class="noirorange"><b>IBM Db2</b>: code execution via Like Named Jar Files</a>](https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238)|An attacker can use a vulnerability of IBM Db2, via Like Named Jar Files, in order to run code...|Visit link for details|
+ |[ 45440901/24 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-5)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire à distance. | 09 janvier 2024|
+ |[ 45440901/24 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-4)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 09 janvier 2024|
+ |[ 45430901/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-11)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la…| 09 janvier 2024|
+ |[ 45420801/24 - Vulnérabilité dans Ivanti Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-ivanti-sentry)| Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité dans les produits susmentionnés. Une exploitation réussie de  cette faille pourrait permette à un attaquant d'exécuter du…| 08 janvier 2024|
+ |[ 45410501/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, contourner…| 05 janvier 2024|
+ |[ 45400501/24 - Vulnérabilités dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces…| 05 janvier 2024|
+ |[ 45380201/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 02 janvier 2024|
+ |[ 45362912/23 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz)| Apache a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2023-51467) dans son système de planification des ressources de l'entreprise (ERP) OFBiz.L'exploitation…| 29 décembre 2023|
  
