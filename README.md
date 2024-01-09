@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/01/2024 01:18:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/01/2024 02:15:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
@@ -41,33 +43,12 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Dec 21, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Dec 21, 2023|
  |[CISA Releases Microsoft 365 Secure Configuration Baselines and SCuBAGear Tool](https://www.cisa.gov/news-events/alerts/2023/12/21/cisa-releases-microsoft-365-secure-configuration-baselines-and-scubagear-tool)|Visit link for details.|Dec 21, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/12/20/apple-releases-security-updates-multiple-products)|Visit link for details.|Dec 20, 2023|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2023/12/20/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Dec 20, 2023|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6038-2: Go vulnerabilities](https://www.linux.org/threads/usn-6038-2-go-vulnerabilities.48201/)|Visit link for details.|Jan 9, 2024|
- |[USN-6570-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6570-1-postgresql-vulnerabilities.48199/)|Visit link for details.|Jan 9, 2024|
- |[USN-6569-1: libclamunrar vulnerabilities](https://www.linux.org/threads/usn-6569-1-libclamunrar-vulnerabilities.48191/)|Visit link for details.|Jan 8, 2024|
- |[USN-6568-1: ClamAV update](https://www.linux.org/threads/usn-6568-1-clamav-update.48190/)|Visit link for details.|Jan 8, 2024|
- |[USN-6567-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6567-1-qemu-vulnerabilities.48189/)|Visit link for details.|Jan 8, 2024|
- |[USN-6499-2: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-2-gnutls-vulnerability.48185/)|Visit link for details.|Jan 8, 2024|
- |[USN-6549-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6549-4-linux-kernel-intel-iotg-vulnerabilities.48162/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5597-1 exim4 - security update](https://www.linux.org/threads/dsa-5597-1-exim4-security-update.48157/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5596-1 asterisk - security update](https://www.linux.org/threads/dsa-5596-1-asterisk-security-update.48156/)|Visit link for details.|Jan 5, 2024|
- |[DSA-5595-1 chromium - security update](https://www.linux.org/threads/dsa-5595-1-chromium-security-update.48155/)|Visit link for details.|Jan 4, 2024|
- |[USN-6566-1: SQLite vulnerabilities](https://www.linux.org/threads/usn-6566-1-sqlite-vulnerabilities.48143/)|Visit link for details.|Jan 3, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0014/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0013/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 janvier 2024|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 8 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
@@ -76,6 +57,8 @@
  |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  
 
 # CERT-SANTE
@@ -95,19 +78,6 @@
  |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|08/01/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom SDKs for Windows security bypass (CVE-2023-49647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Siemens Solid Edge SE2023 buffer overflow (CVE-2023-49122)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Siemens Solid Edge SE2023 buffer overflow (CVE-2023-49123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Siemens Solid Edge SE2023 code execution (CVE-2023-49124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Siemens Solid Edge SE2023 code execution (CVE-2023-49126)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Siemens Solid Edge SE2023 code execution (CVE-2023-49127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,21 +94,34 @@
  |[Apple Product Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-information-disclosure-vulnerability_20231221)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger information disclosure on the targeted system.|Release Date: 21 Dec 2023 |
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251" class="noirorange"><b>FortiOS</b>: privilege escalation via HA RestAPI Authentication Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251)|An attacker can bypass restrictions of FortiOS, via HA RestAPI Authentication Bypass, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250" class="noirorange"><b>OpenSSL</b>: weak signature via POLY1305 MAC PowerPC</a>](https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250)|An attacker can use malicious data on OpenSSL, via POLY1305 MAC PowerPC, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
+ |[USN-6548-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6548-4-linux-kernel-gke-vulnerabilities.48208/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6573-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6573-1-linux-kernel-azure-vulnerabilities.48207/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6572-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6572-1-linux-kernel-azure-vulnerabilities.48206/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6571-1: Monit vulnerability](https://www.linux.org/threads/usn-6571-1-monit-vulnerability.48205/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6038-2: Go vulnerabilities](https://www.linux.org/threads/usn-6038-2-go-vulnerabilities.48201/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6570-1: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6570-1-postgresql-vulnerabilities.48199/)|Visit link for details.|Jan 9, 2024|
+ |[USN-6569-1: libclamunrar vulnerabilities](https://www.linux.org/threads/usn-6569-1-libclamunrar-vulnerabilities.48191/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6568-1: ClamAV update](https://www.linux.org/threads/usn-6568-1-clamav-update.48190/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6567-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6567-1-qemu-vulnerabilities.48189/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6499-2: GnuTLS vulnerability](https://www.linux.org/threads/usn-6499-2-gnutls-vulnerability.48185/)|Visit link for details.|Jan 8, 2024|
+ |[USN-6549-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6549-4-linux-kernel-intel-iotg-vulnerabilities.48162/)|Visit link for details.|Jan 5, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[savignano S/Notify cross-site request forgery (CVE-2023-50930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[savignano S/Notify cross-site request forgery (CVE-2023-50931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[savignano S/Notify cross-site request forgery (CVE-2023-50932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom SDKs for Windows security bypass (CVE-2023-49647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Siemens Solid Edge SE2023 buffer overflow (CVE-2023-49122)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Siemens Solid Edge SE2023 buffer overflow (CVE-2023-49123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -153,6 +136,23 @@
  |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
  |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
  |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251" class="noirorange"><b>FortiOS</b>: privilege escalation via HA RestAPI Authentication Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251)|An attacker can bypass restrictions of FortiOS, via HA RestAPI Authentication Bypass, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250" class="noirorange"><b>OpenSSL</b>: weak signature via POLY1305 MAC PowerPC</a>](https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250)|An attacker can use malicious data on OpenSSL, via POLY1305 MAC PowerPC, in order to deceive the victim...|Visit link for details|
  
 
 # EU-CERT
@@ -176,6 +176,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Schneider Electric security advisory (AV24-012)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-012)|Visit link for details|2024-01-09|
  |[Microsoft Edge security advisory (AV24-011)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-011)|Visit link for details|2024-01-08|
  |[IBM security advisory (AV24-010)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-010)|Visit link for details|2024-01-08|
  |[Dell security advisory (AV24-009)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-009)|Visit link for details|2024-01-08|
@@ -186,7 +187,6 @@
  |[HPE security advisory (AV24-004)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-004)|Visit link for details|2024-01-04|
  |[Google Chrome security advisory (AV24-003)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-003)|Visit link for details|2024-01-03|
  |[Android security advisory – January 2024 Monthly Rollup (AV24-002)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2024-monthly-rollup-av24-002)|Visit link for details|2024-01-03|
- |[IBM security advisory (AV24-001)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-001)|Visit link for details|2024-01-02|
  
 
 # MA-CERT
