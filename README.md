@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/01/2024 15:18:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/01/2024 16:15:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6549-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6549-4-linux-kernel-intel-iotg-vulnerabilities.48162/)|Visit link for details.|Jan 5, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link - CVE-2023-27098](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-27098-2024-01-09)|Visit link for details.|09/01/2024|
+ |[SAP - CVE-2024-21737](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-21737-2024-01-09)|Visit link for details.|09/01/2024|
+ |[QNAP - CVE-2023-39296](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-39296-2024-01-09)|Visit link for details.|09/01/2024|
+ |[ManageEngine - CVE-2023-47211](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-47211-2024-01-09)|Visit link for details.|09/01/2024|
+ |[IBM - CVE-2023-47145](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-47145-2024-01-09)|Visit link for details.|09/01/2024|
+ |[SourceCodester Clinic Queuing System - CVE-2024-0265](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0265-2024-01-08)|Visit link for details.|08/01/2024|
+ |[SourceCodester Clinic Queuing System - CVE-2024-0264](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0264-2024-01-08)|Visit link for details.|08/01/2024|
+ |[QNAP - CVE-2023-41288](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-41288-2024-01-08)|Visit link for details.|08/01/2024|
+ |[QNAP - CVE-2022-43634](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2022-43634-2024-01-08)|Visit link for details.|08/01/2024|
+ |[Babel/IBM Db2 - CVE-2023-45133](https://www.cyberveille-sante.gouv.fr/alertes/babelibm-db2-cve-2023-45133-2024-01-08)|Visit link for details.|08/01/2024|
+ |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|08/01/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +95,34 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link - CVE-2023-27098](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-27098-2024-01-09)|Visit link for details.|09/01/2024|
- |[SAP - CVE-2024-21737](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-21737-2024-01-09)|Visit link for details.|09/01/2024|
- |[QNAP - CVE-2023-39296](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-39296-2024-01-09)|Visit link for details.|09/01/2024|
- |[ManageEngine - CVE-2023-47211](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-47211-2024-01-09)|Visit link for details.|09/01/2024|
- |[IBM - CVE-2023-47145](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-47145-2024-01-09)|Visit link for details.|09/01/2024|
- |[SourceCodester Clinic Queuing System - CVE-2024-0265](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0265-2024-01-08)|Visit link for details.|08/01/2024|
- |[SourceCodester Clinic Queuing System - CVE-2024-0264](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-clinic-queuing-system-cve-2024-0264-2024-01-08)|Visit link for details.|08/01/2024|
- |[QNAP - CVE-2023-41288](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-41288-2024-01-08)|Visit link for details.|08/01/2024|
- |[QNAP - CVE-2022-43634](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2022-43634-2024-01-08)|Visit link for details.|08/01/2024|
- |[Babel/IBM Db2 - CVE-2023-45133](https://www.cyberveille-sante.gouv.fr/alertes/babelibm-db2-cve-2023-45133-2024-01-08)|Visit link for details.|08/01/2024|
- |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|08/01/2024|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261" class="noirorange"><b>Linux kernel</b>: memory reading via vhost_new_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261)|An attacker can read a memory fragment of the Linux kernel, via vhost_new_msg(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Splunk Enterprise denial of service (CVE-2024-22165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel Integrated Sensor Hub driver for Windows 10 for Intel NUC P14E Laptop Element privilege escalation (CVE-2023-29244)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-28722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-29495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-28743)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel HID Event Filter drivers for Windows 10 for Intel NUC laptops privilege escalation (CVE-2023-38541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
  
 
 # HK-CERT
@@ -111,50 +141,6 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Splunk Enterprise denial of service (CVE-2024-22165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel Integrated Sensor Hub driver for Windows 10 for Intel NUC P14E Laptop Element privilege escalation (CVE-2023-29244)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-28722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-29495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-28743)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel HID Event Filter drivers for Windows 10 for Intel NUC laptops privilege escalation (CVE-2023-38541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-020/)|Visit link for details|2024-01-09|
- |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261" class="noirorange"><b>Linux kernel</b>: memory reading via vhost_new_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261)|An attacker can read a memory fragment of the Linux kernel, via vhost_new_msg(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251" class="noirorange"><b>FortiOS</b>: privilege escalation via HA RestAPI Authentication Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251)|An attacker can bypass restrictions of FortiOS, via HA RestAPI Authentication Bypass, in order to escalate his privileges...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,6 +156,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-020/)|Visit link for details|2024-01-09|
+ |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
+ |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
+ |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
  
 
 # MA-CERT
