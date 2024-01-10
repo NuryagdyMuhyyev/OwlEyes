@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/01/2024 12:16:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/01/2024 13:21:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0014/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0013/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 janvier 2024|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 8 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
@@ -74,21 +76,6 @@
  |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Splunk Enterprise denial of service (CVE-2024-22165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel Integrated Sensor Hub driver for Windows 10 for Intel NUC P14E Laptop Element privilege escalation (CVE-2023-29244)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-28722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-29495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel NUC BIOS privilege escalation (CVE-2023-28743)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[Intel HID Event Filter drivers for Windows 10 for Intel NUC laptops privilege escalation (CVE-2023-38541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
  
 
 # CERT-SANTE
@@ -108,36 +95,6 @@
  |[Google - CVE-2024-0224](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-0224-2024-01-05)|Visit link for details.|08/01/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
- |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
- |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240104)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240104)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 4 Jan 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2024 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-020/)|Visit link for details|2024-01-09|
- |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
- |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
- |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
- |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -155,21 +112,33 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250" class="noirorange"><b>OpenSSL</b>: weak signature via POLY1305 MAC PowerPC</a>](https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250)|An attacker can use malicious data on OpenSSL, via POLY1305 MAC PowerPC, in order to deceive the victim...|Visit link for details|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft security advisory – January 2024 monthly rollup (AV24-018)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-january-2024-monthly-rollup-av24-018)|Visit link for details|2024-01-09|
- |[Fortinet security advisory (AV24-017)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-017)|Visit link for details|2024-01-09|
- |[HPE security advisory (AV24-016)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-016)|Visit link for details|2024-01-09|
- |[Google Chrome security advisory (AV24-015)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-015)|Visit link for details|2024-01-09|
- |[SAP security advisory – January 2024 monthly rollup (AV24-014)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-january-2024-monthly-rollup-av24-014)|Visit link for details|2024-01-09|
- |[[Control systems] Siemens security advisory (AV24-013)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-013)|Visit link for details|2024-01-09|
- |[[Control systems] Schneider Electric security advisory (AV24-012)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-012)|Visit link for details|2024-01-09|
- |[Microsoft Edge security advisory (AV24-011)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-011)|Visit link for details|2024-01-08|
- |[IBM security advisory (AV24-010)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-010)|Visit link for details|2024-01-08|
- |[Dell security advisory (AV24-009)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-009)|Visit link for details|2024-01-08|
- |[Ubuntu security advisory (AV24-008)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-008)|Visit link for details|2024-01-08|
+ |[Splunk Enterprise denial of service (CVE-2024-22165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel Integrated Sensor Hub driver for Windows 10 for Intel NUC P14E Laptop Element privilege escalation (CVE-2023-29244)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-28722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-29495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel NUC BIOS privilege escalation (CVE-2023-28743)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[Intel HID Event Filter drivers for Windows 10 for Intel NUC laptops privilege escalation (CVE-2023-38541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
+ |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
+ |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
+ |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240104)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240104)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 4 Jan 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2024 |
  
 
 # MA-CERT
@@ -201,4 +170,35 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-020/)|Visit link for details|2024-01-09|
+ |[Bentley View SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-019/)|Visit link for details|2023-12-21|
+ |[Inductive Automation Ignition ExtendedDocumentCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-018/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser Notification Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-017/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition ResponseParser SerializedResponse Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-016/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition Base64Element Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-015/)|Visit link for details|2024-01-05|
+ |[Inductive Automation Ignition RunQuery Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-014/)|Visit link for details|2024-01-05|
+ |[oFono SMS Decoder Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-013/)|Visit link for details|2024-01-04|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft security advisory – January 2024 monthly rollup (AV24-018)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-january-2024-monthly-rollup-av24-018)|Visit link for details|2024-01-09|
+ |[Fortinet security advisory (AV24-017)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-017)|Visit link for details|2024-01-09|
+ |[HPE security advisory (AV24-016)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-016)|Visit link for details|2024-01-09|
+ |[Google Chrome security advisory (AV24-015)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-015)|Visit link for details|2024-01-09|
+ |[SAP security advisory – January 2024 monthly rollup (AV24-014)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-january-2024-monthly-rollup-av24-014)|Visit link for details|2024-01-09|
+ |[[Control systems] Siemens security advisory (AV24-013)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-013)|Visit link for details|2024-01-09|
+ |[[Control systems] Schneider Electric security advisory (AV24-012)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-012)|Visit link for details|2024-01-09|
+ |[Microsoft Edge security advisory (AV24-011)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-011)|Visit link for details|2024-01-08|
+ |[IBM security advisory (AV24-010)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-010)|Visit link for details|2024-01-08|
+ |[Dell security advisory (AV24-009)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-009)|Visit link for details|2024-01-08|
+ |[Ubuntu security advisory (AV24-008)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-008)|Visit link for details|2024-01-08|
  
