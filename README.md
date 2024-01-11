@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/01/2024 12:16:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/01/2024 13:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
- |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6541-2: GNU C Library regression](https://www.linux.org/threads/usn-6541-2-gnu-c-library-regression.48216/)|Visit link for details.|Jan 10, 2024|
  |[USN-6548-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6548-4-linux-kernel-gke-vulnerabilities.48208/)|Visit link for details.|Jan 9, 2024|
  |[USN-6573-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6573-1-linux-kernel-azure-vulnerabilities.48207/)|Visit link for details.|Jan 9, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/04/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jan 04, 2024|
+ |[Juniper Releases Security Advisory for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/01/02/juniper-releases-security-advisory-juniper-secure-analytics)|Visit link for details.|Jan 02, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 02, 2024|
  
 
 # CERT-FR
@@ -95,6 +95,23 @@
  |[IBM - CVE-2023-47145](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-47145-2024-01-09)|Visit link for details.|09/01/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266" class="noirorange"><b>BIND</b>: vulnerabity unveiled on 17/01/2024</a>](https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266)|A vulnerability of BIND will be unveiled on 17/01/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263" class="noirorange"><b>FreeIPA</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263)|An attacker can trigger a Cross Site Request Forgery of FreeIPA, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,20 +141,6 @@
  |[Cisco ThousandEyes Enterprise Agent Virtual Appliance privilege escalation (CVE-2024-20277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Foxit PDF Reader Doc Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-032/)|Visit link for details|2024-01-10|
- |[Microsoft Windows cldflt Integer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-031/)|Visit link for details|2024-01-10|
- |[Microsoft Office Word FBX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-030/)|Visit link for details|2024-01-10|
- |[Trend Micro Apex One Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-029/)|Visit link for details|2024-01-10|
- |[Trend Micro Apex One Security Agent Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-028/)|Visit link for details|2024-01-10|
- |[Trend Micro Apex One Anti-Spyware Engine Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-027/)|Visit link for details|2024-01-10|
- |[Trend Micro Apex One Virus Scan Engine Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-026/)|Visit link for details|2024-01-10|
- |[Trend Micro Apex One Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-025/)|Visit link for details|2024-01-10|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -155,21 +158,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266" class="noirorange"><b>BIND</b>: vulnerabity unveiled on 17/01/2024</a>](https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266)|A vulnerability of BIND will be unveiled on 17/01/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263" class="noirorange"><b>FreeIPA</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263)|An attacker can trigger a Cross Site Request Forgery of FreeIPA, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261" class="noirorange"><b>Linux kernel</b>: memory reading via vhost_new_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261)|An attacker can read a memory fragment of the Linux kernel, via vhost_new_msg(), in order to obtain sensitive information...|Visit link for details|
+ |[Foxit PDF Reader Doc Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-032/)|Visit link for details|2024-01-10|
+ |[Microsoft Windows cldflt Integer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-031/)|Visit link for details|2024-01-10|
+ |[Microsoft Office Word FBX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-030/)|Visit link for details|2024-01-10|
+ |[Trend Micro Apex One Exposed Dangerous Function Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-029/)|Visit link for details|2024-01-10|
+ |[Trend Micro Apex One Security Agent Updater Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-028/)|Visit link for details|2024-01-10|
+ |[Trend Micro Apex One Anti-Spyware Engine Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-027/)|Visit link for details|2024-01-10|
+ |[Trend Micro Apex One Virus Scan Engine Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-026/)|Visit link for details|2024-01-10|
+ |[Trend Micro Apex One Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-025/)|Visit link for details|2024-01-10|
  
 
 # MA-CERT
