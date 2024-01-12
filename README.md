@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/01/2024 13:22:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/01/2024 14:17:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,22 +78,6 @@
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0018/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 janvier 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
- |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
- |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
- |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,31 +95,50 @@
  |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|10/01/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_tables_newtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
+ |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
+ |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
+ |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
+ |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Apple Magic Keyboard machine-in-the-middle (CVE-2024-0230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[Microsoft Edge (Chromium-based) unspecified (CVE-2024-20709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  |[Ivanti Avalanche security bypass (CVE-2023-46266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  |[Ivanti Avalanche information disclosure (CVE-2023-46265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  |[D-Link DCS-8300LHV2 Wi-Fi Camera security bypass (CVE-2023-51629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  |[D-Link DCS-8300LHV2 Wi-Fi Camera buffer overflow (CVE-2023-51628)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
  |[D-Link DCS-8300LHV2 Wi-Fi Camera buffer overflow (CVE-2023-51627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
- |[D-Link DCS-8300LHV2 Wi-Fi Camera buffer overflow (CVE-2023-51626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
  
 
 # EU-CERT
@@ -155,6 +158,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,27 +189,12 @@
  |[Google Chrome security advisory (AV24-015)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-015)|Visit link for details|2024-01-09|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_tables_newtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 45541201/24 - Vulnérabilité dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-cisco)| Une vulnérabilité a été corrigée dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 12 janvier 2024|
+ |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
  |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
  |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
  |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
@@ -202,6 +204,4 @@
  |[ 45461001/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 10 janvier 2024|
  |[ 45440901/24 - Vulnérabilités dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-edge-5)| Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire à distance. | 09 janvier 2024|
  |[ 45440901/24 - Vulnérabilités dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-4)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation de ces failles peut permettre à un…| 09 janvier 2024|
- |[ 45430901/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-11)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la…| 09 janvier 2024|
- |[ 45420801/24 - Vulnérabilité dans Ivanti Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-ivanti-sentry)| Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité dans les produits susmentionnés. Une exploitation réussie de  cette faille pourrait permette à un attaquant d'exécuter du…| 08 janvier 2024|
  
