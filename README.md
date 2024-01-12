@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/01/2024 02:14:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/01/2024 03:16:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0014/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0013/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 8 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
+ |[Multiples vulnérabilités dans Centreon Web](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 janvier 2024|
+ |[Vulnérabilité dans Ivanti Endpoint Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0008/)|Une vulnérabilité a été découverte dans |Publié le 5 janvier 2024|
+ |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 janvier 2024|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,6 +59,23 @@
  |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|12/01/2024|
+ |[WordPress - CVE-2023-6875](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6875-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Trend Micro - CVE-2023-52331](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52331-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Juniper - CVE-2024-21611](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21611-2024-01-12)|Visit link for details.|12/01/2024|
+ |[D-Link - CVE-2023-51123](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51123-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|12/01/2024|
+ |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|12/01/2024|
+ |[Trend Micro - CVE-2023-52090](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52090-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Juniper - CVE-2024-21591](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21591-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
  
 
 # LINUX-SEC
@@ -60,22 +93,6 @@
  |[USN-6577-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6577-1-linux-kernel-aws-vulnerabilities.48223/)|Visit link for details.|Jan 11, 2024|
  |[USN-6549-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-5-linux-kernel-vulnerabilities.48222/)|Visit link for details.|Jan 11, 2024|
  |[USN-6548-5: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6548-5-linux-kernel-iot-vulnerabilities.48221/)|Visit link for details.|Jan 11, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0024/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 janvier 2024|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0023/)|Une vulnérabilité a été corrigée dans |Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0021/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 janvier 2024|
- |[Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0020/)|Une vulnérabilité a été corrigée dans |Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0019/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0018/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0017/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans les produits Trend Micro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0016/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 10 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0015/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 10 janvier 2024|
  
 
 # HK-CERT
@@ -99,43 +116,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Microsoft Edge (Chromium-based) privilege escalation (CVE-2024-21337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Event Ticketing System cross-site scripting (CVE-2023-51303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Meeting Room Booking System code execution (CVE-2023-51336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
  |[PHPJabbers Event Ticketing System denial of service (CVE-2023-51339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
  |[Rapid Software Rapid SCADA information disclosure (CVE-2024-21866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
  |[Rapid Software Rapid SCADA information disclosure (CVE-2024-21869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
  |[Rapid Software Rapid SCADA default account (CVE-2024-21764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[Rapid Software Rapid SCADA open redirect (CVE-2024-21794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[Rapid Software Rapid SCADA privilege escalation (CVE-2024-22016)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|12/01/2024|
- |[WordPress - CVE-2023-6875](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6875-2024-01-12)|Visit link for details.|12/01/2024|
- |[Trend Micro - CVE-2023-52331](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52331-2024-01-12)|Visit link for details.|12/01/2024|
- |[Juniper - CVE-2024-21611](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21611-2024-01-12)|Visit link for details.|12/01/2024|
- |[D-Link - CVE-2023-51123](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51123-2024-01-12)|Visit link for details.|12/01/2024|
- |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|12/01/2024|
- |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|12/01/2024|
- |[Trend Micro - CVE-2023-52090](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52090-2024-01-11)|Visit link for details.|11/01/2024|
- |[Juniper - CVE-2024-21591](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21591-2024-01-11)|Visit link for details.|11/01/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|11/01/2024|
- |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
  
 
 # OBS-Vigilance
@@ -155,21 +141,18 @@
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
- |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
- |[ 45541201/24 - Vulnérabilité dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-cisco)| Une vulnérabilité a été corrigée dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 12 janvier 2024|
- |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
- |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
- |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
- |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
- |[ 45471001/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 10 janvier 2024|
- |[ 45521001/24 - Vulnérabilité affectant Fortinet FortiOS et FortiProxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-fortinet-fortios-et-fortiproxy)| Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction            d’une vulnérabilité affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette…| 10 janvier 2024|
- |[ 45511001/24 - Vulnérabilité affectant Adobe Substance 3D Stager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-adobe-substance-3d-stager)| Adobe a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant son produit Adobe Substance 3D Stager. Selon Adobe, l’exploitation de  ces vulnérabilités peut…| 10 janvier 2024|
- |[ 45461001/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 10 janvier 2024|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
  
 
 # EU-CERT
@@ -204,4 +187,21 @@
  |[Intel security advisory (AV24-019)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-019)|Visit link for details|2024-01-10|
  |[Microsoft security advisory – January 2024 monthly rollup (AV24-018)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-january-2024-monthly-rollup-av24-018)|Visit link for details|2024-01-09|
  |[Fortinet security advisory (AV24-017)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-017)|Visit link for details|2024-01-09|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ |[ 45541201/24 - Vulnérabilité dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-cisco)| Une vulnérabilité a été corrigée dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 12 janvier 2024|
+ |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
+ |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
+ |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
+ |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
+ |[ 45471001/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 10 janvier 2024|
+ |[ 45521001/24 - Vulnérabilité affectant Fortinet FortiOS et FortiProxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-fortinet-fortios-et-fortiproxy)| Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction            d’une vulnérabilité affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette…| 10 janvier 2024|
+ |[ 45511001/24 - Vulnérabilité affectant Adobe Substance 3D Stager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-adobe-substance-3d-stager)| Adobe a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant son produit Adobe Substance 3D Stager. Selon Adobe, l’exploitation de  ces vulnérabilités peut…| 10 janvier 2024|
+ |[ 45461001/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 10 janvier 2024|
  
