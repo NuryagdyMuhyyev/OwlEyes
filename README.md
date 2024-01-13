@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/01/2024 08:18:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/01/2024 09:21:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,17 +78,21 @@
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Microsoft Edge (Chromium-based) privilege escalation (CVE-2024-21337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[PHPJabbers Shared Asset Booking System cross-site scripting (CVE-2023-51325)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[PHPJabbers Shared Asset Booking System code execution (CVE-2023-51324)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[PHPJabbers Shared Asset Booking System denial of service (CVE-2023-51323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[PHPJabbers Cleaning Business Software denial of service (CVE-2023-51326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
- |[PHPJabbers Cleaning Business Software cross-site scripting (CVE-2023-51328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|12/01/2024|
+ |[WordPress - CVE-2023-6875](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6875-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Trend Micro - CVE-2023-52331](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52331-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Juniper - CVE-2024-21611](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21611-2024-01-12)|Visit link for details.|12/01/2024|
+ |[D-Link - CVE-2023-51123](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51123-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|12/01/2024|
+ |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|12/01/2024|
+ |[Trend Micro - CVE-2023-52090](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52090-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Juniper - CVE-2024-21591](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21591-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|11/01/2024|
+ |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
  
 
 # HK-CERT
@@ -107,6 +111,19 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[SimpleWebServer denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[Microsoft Edge (Chromium-based) privilege escalation (CVE-2024-21337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Car Park Booking System cross-site scripting (CVE-2023-51305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Restaurant Booking System denial of service (CVE-2023-51314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Restaurant Booking System code execution (CVE-2023-51313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ |[PHPJabbers Restaurant Booking System cross-site scripting (CVE-2023-51317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -119,23 +136,6 @@
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|12/01/2024|
- |[WordPress - CVE-2023-6875](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6875-2024-01-12)|Visit link for details.|12/01/2024|
- |[Trend Micro - CVE-2023-52331](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52331-2024-01-12)|Visit link for details.|12/01/2024|
- |[Juniper - CVE-2024-21611](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21611-2024-01-12)|Visit link for details.|12/01/2024|
- |[D-Link - CVE-2023-51123](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51123-2024-01-12)|Visit link for details.|12/01/2024|
- |[Xen - CVE-2023-34322](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34322-2023-09-21)|Visit link for details.|12/01/2024|
- |[Xen - CVE-2023-34325](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2023-34325-2023-10-13)|Visit link for details.|12/01/2024|
- |[Trend Micro - CVE-2023-52090](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52090-2024-01-11)|Visit link for details.|11/01/2024|
- |[Juniper - CVE-2024-21591](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21591-2024-01-11)|Visit link for details.|11/01/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|11/01/2024|
- |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
  
 
 # OBS-Vigilance
