@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/01/2024 18:18:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/01/2024 19:15:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
- |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
- |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6577-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6577-1-linux-kernel-aws-vulnerabilities.48223/)|Visit link for details.|Jan 11, 2024|
  |[USN-6549-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-5-linux-kernel-vulnerabilities.48222/)|Visit link for details.|Jan 11, 2024|
  |[USN-6548-5: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6548-5-linux-kernel-iot-vulnerabilities.48221/)|Visit link for details.|Jan 11, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
+ |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
+ |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  
 
 # CERT-FR
@@ -95,20 +95,20 @@
  |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
- |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
- |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
- |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_tables_newtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,20 +124,20 @@
  |[TOTOLINK A3300R command execution (CVE-2024-23057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2024|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_tables_newtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
+ |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
+ |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
+ |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 9 Jan 2024 |
+ |[F5 BIG-IP Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240105)|A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jan 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240105)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, data manipulation and sensitive information disclosure on the targeted system. Note:CVE-2023-33063...|Release Date: 5 Jan 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
- |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
- |[ 45541201/24 - Vulnérabilité dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-cisco)| Une vulnérabilité a été corrigée dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 12 janvier 2024|
- |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
- |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
- |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
- |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
- |[ 45471001/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 10 janvier 2024|
- |[ 45521001/24 - Vulnérabilité affectant Fortinet FortiOS et FortiProxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-fortinet-fortios-et-fortiproxy)| Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction            d’une vulnérabilité affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette…| 10 janvier 2024|
- |[ 45511001/24 - Vulnérabilité affectant Adobe Substance 3D Stager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-adobe-substance-3d-stager)| Adobe a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant son produit Adobe Substance 3D Stager. Selon Adobe, l’exploitation de  ces vulnérabilités peut…| 10 janvier 2024|
- |[ 45461001/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 10 janvier 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[Intel security advisory (AV24-019)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-019)|Visit link for details|2024-01-10|
  |[Microsoft security advisory – January 2024 monthly rollup (AV24-018)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-january-2024-monthly-rollup-av24-018)|Visit link for details|2024-01-09|
  |[Fortinet security advisory (AV24-017)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-017)|Visit link for details|2024-01-09|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ |[ 45541201/24 - Vulnérabilité dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-cisco)| Une vulnérabilité a été corrigée dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 12 janvier 2024|
+ |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
+ |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
+ |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
+ |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
+ |[ 45471001/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 10 janvier 2024|
+ |[ 45521001/24 - Vulnérabilité affectant Fortinet FortiOS et FortiProxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-fortinet-fortios-et-fortiproxy)| Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction            d’une vulnérabilité affectant ses produits Fortinet FortiOS et FortiProxy. L'exploitation de cette…| 10 janvier 2024|
+ |[ 45511001/24 - Vulnérabilité affectant Adobe Substance 3D Stager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-adobe-substance-3d-stager)| Adobe a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant son produit Adobe Substance 3D Stager. Selon Adobe, l’exploitation de  ces vulnérabilités peut…| 10 janvier 2024|
+ |[ 45461001/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 10 janvier 2024|
  
