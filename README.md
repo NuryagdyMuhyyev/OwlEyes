@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/01/2024 22:15:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/01/2024 23:21:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
- |[USN-6581-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6581-1-gnu-binutils-vulnerabilities.48271/)|Visit link for details.|Jan 15, 2024|
- |[USN-6580-1: w3m vulnerability](https://www.linux.org/threads/usn-6580-1-w3m-vulnerability.48270/)|Visit link for details.|Jan 15, 2024|
- |[DSA-5601-1 php-phpseclib3 - security update](https://www.linux.org/threads/dsa-5601-1-php-phpseclib3-security-update.48240/)|Visit link for details.|Jan 12, 2024|
- |[DSA-5600-1 php-phpseclib - security update](https://www.linux.org/threads/dsa-5600-1-php-phpseclib-security-update.48239/)|Visit link for details.|Jan 12, 2024|
- |[DSA-5599-1 phpseclib - security update](https://www.linux.org/threads/dsa-5599-1-phpseclib-security-update.48238/)|Visit link for details.|Jan 12, 2024|
- |[USN-6579-1: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-1-xerces-c-vulnerability.48235/)|Visit link for details.|Jan 11, 2024|
- |[USN-6578-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6578-1-net-vulnerabilities.48234/)|Visit link for details.|Jan 11, 2024|
- |[USN-6560-2: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-2-openssh-vulnerabilities.48230/)|Visit link for details.|Jan 11, 2024|
- |[USN-6574-1: Go vulnerabilities](https://www.linux.org/threads/usn-6574-1-go-vulnerabilities.48226/)|Visit link for details.|Jan 11, 2024|
- |[USN-6562-2: Firefox regressions](https://www.linux.org/threads/usn-6562-2-firefox-regressions.48225/)|Visit link for details.|Jan 11, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,37 +45,21 @@
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/)|Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
- |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
- |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
- |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
+ |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6581-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6581-1-gnu-binutils-vulnerabilities.48271/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6580-1: w3m vulnerability](https://www.linux.org/threads/usn-6580-1-w3m-vulnerability.48270/)|Visit link for details.|Jan 15, 2024|
+ |[DSA-5601-1 php-phpseclib3 - security update](https://www.linux.org/threads/dsa-5601-1-php-phpseclib3-security-update.48240/)|Visit link for details.|Jan 12, 2024|
+ |[DSA-5600-1 php-phpseclib - security update](https://www.linux.org/threads/dsa-5600-1-php-phpseclib-security-update.48239/)|Visit link for details.|Jan 12, 2024|
+ |[DSA-5599-1 phpseclib - security update](https://www.linux.org/threads/dsa-5599-1-phpseclib-security-update.48238/)|Visit link for details.|Jan 12, 2024|
+ |[USN-6579-1: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-1-xerces-c-vulnerability.48235/)|Visit link for details.|Jan 11, 2024|
+ |[USN-6578-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6578-1-net-vulnerabilities.48234/)|Visit link for details.|Jan 11, 2024|
+ |[USN-6560-2: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-2-openssh-vulnerabilities.48230/)|Visit link for details.|Jan 11, 2024|
+ |[USN-6574-1: Go vulnerabilities](https://www.linux.org/threads/usn-6574-1-go-vulnerabilities.48226/)|Visit link for details.|Jan 11, 2024|
+ |[USN-6562-2: Firefox regressions](https://www.linux.org/threads/usn-6562-2-firefox-regressions.48225/)|Visit link for details.|Jan 11, 2024|
  
 
 # HK-CERT
@@ -124,20 +91,37 @@
  |[PageTriage extension for MediaWiki cross-site scripting (CVE-2024-23174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ida_free()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ida_free(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
+ |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
+ |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
+ |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 janvier 2024|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 janvier 2024|
+ |[Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/)|Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 janvier 2024|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
 
 # ZERODAYINITIATIVE
@@ -152,6 +136,22 @@
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ida_free()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ida_free(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  
 
 # EU-CERT
