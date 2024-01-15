@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/01/2024 21:22:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/01/2024 22:15:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6581-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6581-1-gnu-binutils-vulnerabilities.48271/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6580-1: w3m vulnerability](https://www.linux.org/threads/usn-6580-1-w3m-vulnerability.48270/)|Visit link for details.|Jan 15, 2024|
  |[DSA-5601-1 php-phpseclib3 - security update](https://www.linux.org/threads/dsa-5601-1-php-phpseclib3-security-update.48240/)|Visit link for details.|Jan 12, 2024|
  |[DSA-5600-1 php-phpseclib - security update](https://www.linux.org/threads/dsa-5600-1-php-phpseclib-security-update.48239/)|Visit link for details.|Jan 12, 2024|
  |[DSA-5599-1 phpseclib - security update](https://www.linux.org/threads/dsa-5599-1-phpseclib-security-update.48238/)|Visit link for details.|Jan 12, 2024|
@@ -41,9 +44,6 @@
  |[USN-6560-2: OpenSSH vulnerabilities](https://www.linux.org/threads/usn-6560-2-openssh-vulnerabilities.48230/)|Visit link for details.|Jan 11, 2024|
  |[USN-6574-1: Go vulnerabilities](https://www.linux.org/threads/usn-6574-1-go-vulnerabilities.48226/)|Visit link for details.|Jan 11, 2024|
  |[USN-6562-2: Firefox regressions](https://www.linux.org/threads/usn-6562-2-firefox-regressions.48225/)|Visit link for details.|Jan 11, 2024|
- |[USN-6577-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6577-1-linux-kernel-aws-vulnerabilities.48223/)|Visit link for details.|Jan 11, 2024|
- |[USN-6549-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-5-linux-kernel-vulnerabilities.48222/)|Visit link for details.|Jan 11, 2024|
- |[USN-6548-5: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6548-5-linux-kernel-iot-vulnerabilities.48221/)|Visit link for details.|Jan 11, 2024|
  
 
 # US-CERT
@@ -78,6 +78,23 @@
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
+ |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
+ |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
+ |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,21 +111,17 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
- |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
- |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
- |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|12/01/2024|
+ |[Loan Management System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Quick TFTP Server denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[GlobalBlocking extension for MediaWiki cross-site scripting (CVE-2024-23179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Phonos extension for MediaWiki cross-site scripting (CVE-2024-23178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[WatchAnalytics extension for MediaWiki cross-site scripting (CVE-2024-23177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[PageTriage extension for MediaWiki cross-site scripting (CVE-2024-23174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
  
 
 # OBS-Vigilance
@@ -125,19 +138,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Loan Management System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Quick TFTP Server denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[GlobalBlocking extension for MediaWiki cross-site scripting (CVE-2024-23179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Phonos extension for MediaWiki cross-site scripting (CVE-2024-23178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[WatchAnalytics extension for MediaWiki cross-site scripting (CVE-2024-23177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[PageTriage extension for MediaWiki cross-site scripting (CVE-2024-23174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -175,6 +175,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
+ |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
+ |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
  |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
  |[GitLab security advisory (AV24-025)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-025)|Visit link for details|2024-01-12|
  |[[Control systems] Rapid Software security advisory (AV24-024)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rapid-software-security-advisory-av24-024)|Visit link for details|2024-01-11|
@@ -183,9 +186,6 @@
  |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-11|
  |[Cisco security advisory (AV24-021)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-021)|Visit link for details|2024-01-10|
  |[Ivanti security advisory (AV24-020)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-020)|Visit link for details|2024-01-10|
- |[Intel security advisory (AV24-019)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-019)|Visit link for details|2024-01-10|
- |[Microsoft security advisory – January 2024 monthly rollup (AV24-018)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-january-2024-monthly-rollup-av24-018)|Visit link for details|2024-01-09|
- |[Fortinet security advisory (AV24-017)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-017)|Visit link for details|2024-01-09|
  
 
 # MA-CERT
