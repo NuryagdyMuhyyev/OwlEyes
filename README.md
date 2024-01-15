@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/01/2024 10:17:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/01/2024 11:23:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
- |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
- |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6577-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6577-1-linux-kernel-aws-vulnerabilities.48223/)|Visit link for details.|Jan 11, 2024|
  |[USN-6549-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6549-5-linux-kernel-vulnerabilities.48222/)|Visit link for details.|Jan 11, 2024|
  |[USN-6548-5: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6548-5-linux-kernel-iot-vulnerabilities.48221/)|Visit link for details.|Jan 11, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
+ |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
+ |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  
 
 # CERT-FR
@@ -95,17 +95,20 @@
  |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|11/01/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Loan Management System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Quick TFTP Server denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[GlobalBlocking extension for MediaWiki cross-site scripting (CVE-2024-23179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[Phonos extension for MediaWiki cross-site scripting (CVE-2024-23178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[WatchAnalytics extension for MediaWiki cross-site scripting (CVE-2024-23177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
- |[PageTriage extension for MediaWiki cross-site scripting (CVE-2024-23174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
+ |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
+ |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
+ |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
  
 
 # OBS-Vigilance
@@ -124,34 +127,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_tables_newtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
- |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
- |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
+ |[Loan Management System SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Quick TFTP Server denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Quiz Maker plugin for WordPress information disclosure (CVE-2024-22027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[GlobalBlocking extension for MediaWiki cross-site scripting (CVE-2024-23179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[Phonos extension for MediaWiki cross-site scripting (CVE-2024-23178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[WatchAnalytics extension for MediaWiki cross-site scripting (CVE-2024-23177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
+ |[PageTriage extension for MediaWiki cross-site scripting (CVE-2024-23174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2024|
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-065/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-064/)|Visit link for details|2024-01-11|
  
 
 # CA-CCS
