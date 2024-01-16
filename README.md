@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/01/2024 11:23:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/01/2024 12:16:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/)|Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
+ |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
+ |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
+ |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
  
 
 # LINUX-SEC
@@ -62,20 +62,20 @@
  |[USN-6578-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6578-1-net-vulnerabilities.48234/)|Visit link for details.|Jan 11, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
- |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
- |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
- |[Fortinet Releases Security Updates for FortiOS and FortiProxy](https://www.cisa.gov/news-events/alerts/2024/01/09/fortinet-releases-security-updates-fortios-and-fortiproxy)|Visit link for details.|Jan 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 09, 2024|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/08/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 08, 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 janvier 2024|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 janvier 2024|
+ |[Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/)|Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 janvier 2024|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
 
 # CERT-SANTE
@@ -95,19 +95,6 @@
  |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda W9 buffer overflow (CVE-2024-0536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Linux Kernel code execution (CVE-2024-0565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 14, 2024|
- |[Linux Kernel information disclosure (CVE-2024-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 14, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[Google Chrome Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-security-restriction-bypass-vulnerability_20240110)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. |Release Date: 10 Jan 2024 |
  |[Microsoft Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-january-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskSecurity Restriction BypassRemote Code ExecutionElevation of PrivilegeInformation DisclosureSpoofingDenial of Service Extended Security Updates (...|Release Date: 10 Jan 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240109)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 9 Jan 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda W9 buffer overflow (CVE-2024-0536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda W9 buffer overflow (CVE-2024-0537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda W9 buffer overflow (CVE-2024-0538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda W9 buffer overflow (CVE-2024-0539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda W9 buffer overflow (CVE-2024-0540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Linux Kernel code execution (CVE-2024-0565)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 14, 2024|
+ |[Linux Kernel information disclosure (CVE-2024-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 14, 2024|
  
 
 # OBS-Vigilance
