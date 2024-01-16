@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/01/2024 16:14:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/01/2024 17:33:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -115,27 +115,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Xitami denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda A15 buffer overflow (CVE-2024-0531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
+ |[Tenda A15 buffer overflow (CVE-2024-0532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
  |[Tenda A15 buffer overflow (CVE-2024-0533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
  |[Tenda A15 buffer overflow (CVE-2024-0534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
  |[Tenda PA6 buffer overflow (CVE-2024-0535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
  |[Tenda W9 buffer overflow (CVE-2024-0536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- |[Tenda W9 buffer overflow (CVE-2024-0539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 15, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
 # OBS-Vigilance
@@ -154,21 +140,18 @@
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
- |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
- |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
- |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
- |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
- |[GitLab security advisory (AV24-025)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-025)|Visit link for details|2024-01-12|
- |[[Control systems] Rapid Software security advisory (AV24-024)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rapid-software-security-advisory-av24-024)|Visit link for details|2024-01-11|
- |[[Control systems] Horner Automation security advisory (AV24-023)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av24-023)|Visit link for details|2024-01-11|
- |[Apple security advisory (AV24-022)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-022)|Visit link for details|2024-01-11|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-11|
- |[Cisco security advisory (AV24-021)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-021)|Visit link for details|2024-01-10|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
 # EU-CERT
@@ -186,6 +169,23 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
+ |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
+ |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
+ |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
+ |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
+ |[GitLab security advisory (AV24-025)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-025)|Visit link for details|2024-01-12|
+ |[[Control systems] Rapid Software security advisory (AV24-024)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rapid-software-security-advisory-av24-024)|Visit link for details|2024-01-11|
+ |[[Control systems] Horner Automation security advisory (AV24-023)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av24-023)|Visit link for details|2024-01-11|
+ |[Apple security advisory (AV24-022)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-022)|Visit link for details|2024-01-11|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-11|
+ |[Cisco security advisory (AV24-021)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-021)|Visit link for details|2024-01-10|
  
 
 # MA-CERT
