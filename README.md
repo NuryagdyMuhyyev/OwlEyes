@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/01/2024 12:16:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/01/2024 13:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
- |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
- |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
- |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
- |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,20 +107,21 @@
  |[Linux Kernel information disclosure (CVE-2024-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 14, 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ida_free()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ida_free(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
+ |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
+ |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|15/01/2024|
+ |[Microsoft - CVE-2024-20700](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20700-2024-01-10)|Visit link for details.|15/01/2024|
+ |[Ivanti - CVE-2023-39336](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-39336-2024-01-05)|Visit link for details.|15/01/2024|
+ |[PaperCut - CVE-2023-39143](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2023-39143-2023-08-07)|Visit link for details.|15/01/2024|
+ |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|15/01/2024|
  
 
 # ZERODAYINITIATIVE
@@ -171,21 +155,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
- |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
- |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
- |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
- |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
- |[GitLab security advisory (AV24-025)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-025)|Visit link for details|2024-01-12|
- |[[Control systems] Rapid Software security advisory (AV24-024)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rapid-software-security-advisory-av24-024)|Visit link for details|2024-01-11|
- |[[Control systems] Horner Automation security advisory (AV24-023)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av24-023)|Visit link for details|2024-01-11|
- |[Apple security advisory (AV24-022)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-022)|Visit link for details|2024-01-11|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-11|
- |[Cisco security advisory (AV24-021)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-021)|Visit link for details|2024-01-10|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ida_free()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ida_free(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via input_set_capability()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via cgroup_rstat_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  
 
 # MA-CERT
@@ -202,4 +185,21 @@
  |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
  |[ 45481001/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-janvier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de causer un déni de service et d’exécuter du code arbitraire. | 10 janvier 2024|
  |[ 45471001/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 10 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
+ |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
+ |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
+ |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
+ |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
+ |[GitLab security advisory (AV24-025)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-025)|Visit link for details|2024-01-12|
+ |[[Control systems] Rapid Software security advisory (AV24-024)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rapid-software-security-advisory-av24-024)|Visit link for details|2024-01-11|
+ |[[Control systems] Horner Automation security advisory (AV24-023)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-horner-automation-security-advisory-av24-023)|Visit link for details|2024-01-11|
+ |[Apple security advisory (AV24-022)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-022)|Visit link for details|2024-01-11|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-11|
+ |[Cisco security advisory (AV24-021)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-021)|Visit link for details|2024-01-10|
  
