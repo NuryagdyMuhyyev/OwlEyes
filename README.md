@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/01/2024 21:23:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/01/2024 22:16:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
+ |[VMware Releases Security Advisory for Aria Operations](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations)|Visit link for details.|Jan 17, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 16, 2024|
  |[CISA and FBI Release Known IOCs Associated with Androxgh0st Malware](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware)|Visit link for details.|Jan 16, 2024|
@@ -58,41 +60,39 @@
  |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
  |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
- |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/)|Une vulnérabilité a été découverte dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0036/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans Synology Disk Station Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/)|Une vulnérabilité a été découverte dans Synology Disk Station Manager (DSM). Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 16 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
  |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
  |[SonicWall - CVE-2023-6340](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-6340-2024-01-16)|Visit link for details.|16/01/2024|
  |[Paessler PRTG - CVE-2024-51630](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-51630-2024-01-16)|Visit link for details.|16/01/2024|
  |[Linux - CVE-2024-0562](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0562-2024-01-16)|Visit link for details.|16/01/2024|
  |[Trend Micro - CVE-2023-52091](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52091-2024-01-16)|Visit link for details.|16/01/2024|
  |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
- |[D-Link - CVE-2023-51989](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-51989-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-7028](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-7028-2024-01-15)|Visit link for details.|15/01/2024|
- |[GitLab CE/EE - CVE-2023-5356](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ceee-cve-2023-5356-2024-01-15)|Visit link for details.|15/01/2024|
- |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
  
 
 # OBS-Vigilance
@@ -140,20 +140,6 @@
  |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
 # CA-CCS
