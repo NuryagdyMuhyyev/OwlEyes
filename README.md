@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/01/2024 00:14:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/01/2024 01:18:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6580-1: w3m vulnerability](https://www.linux.org/threads/usn-6580-1-w3m-vulnerability.48270/)|Visit link for details.|Jan 15, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
+ |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -79,20 +95,20 @@
  |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
- |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -109,22 +125,6 @@
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
  |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -191,6 +191,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
  |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
  |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
  |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
@@ -201,5 +202,4 @@
  |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
  |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
  |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
- |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
  
