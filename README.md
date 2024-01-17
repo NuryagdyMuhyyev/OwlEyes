@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/01/2024 15:19:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/01/2024 16:14:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,35 @@
  |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome code execution (CVE-2024-0517)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Google Chrome code execution (CVE-2024-0518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2023-22527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,19 +140,6 @@
  |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome code execution (CVE-2024-0517)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Google Chrome code execution (CVE-2024-0518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2023-22527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,22 +152,6 @@
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
  
 
 # EU-CERT
