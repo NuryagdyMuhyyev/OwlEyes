@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/01/2024 10:16:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/01/2024 11:23:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 16, 2024|
+ |[CISA and FBI Release Known IOCs Associated with Androxgh0st Malware](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware)|Visit link for details.|Jan 16, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
+ |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
+ |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[DSA-5600-1 php-phpseclib - security update](https://www.linux.org/threads/dsa-5600-1-php-phpseclib-security-update.48239/)|Visit link for details.|Jan 12, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 16, 2024|
- |[CISA and FBI Release Known IOCs Associated with Androxgh0st Malware](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware)|Visit link for details.|Jan 16, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
- |[Cisco Releases Security Advisory for Cisco Unity Connection](https://www.cisa.gov/news-events/alerts/2024/01/11/cisco-releases-security-advisory-cisco-unity-connection)|Visit link for details.|Jan 11, 2024|
- |[Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 10, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/09/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Jan 09, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +76,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:CVE-2023-6548 and CVE-2023-6549 is being exploited in...|Release Date: 17 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 17 Jan 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
+ |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
  
 
 # CERT-SANTE
@@ -95,22 +111,6 @@
  |[Microsoft - CVE-2024-20674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20674-2024-01-10)|Visit link for details.|15/01/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:CVE-2023-6548 and CVE-2023-6549 is being exploited in...|Release Date: 17 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 17 Jan 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 11 Jan 2024 |
- |[Adobe Monthly Security Update (January 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-january-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Animate Medium RiskInformation DisclosureRemote Code Execution APSB24-06 Number of 'Extremely High Risk' product...|Release Date: 10 Jan 2024 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,22 +122,6 @@
  |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2024-21674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
  |[Atlassian Confluence Data Center and Atlassian Confluence Server code execution (CVE-2023-22527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -154,21 +138,20 @@
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
- |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
- |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
- |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
- |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
- |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
- |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
- |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
- |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -202,4 +185,21 @@
  |[ 45531201/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-2)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une élévation de…| 12 janvier 2024|
  |[ 45501001/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 10 janvier 2024|
  |[ 45491001/24 - Vulnérabilité dans les produits Microsoft SQL (Patch Tuesday Janvier 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-patch-tuesday-janvier-2024)| Une vulnérabilité a été corrigée dans les produits Microsoft SQL susmentionnés. L’exploitation de cette faille permet à un attaquant de contourner la politique de sécurité. | 10 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
+ |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
+ |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
+ |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
+ |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
+ |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
+ |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
+ |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
+ |[Juniper Networks security advisory (AV24-027)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-027)|Visit link for details|2024-01-15|
+ |[Microsoft Edge security advisory (AV24-026)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-026)|Visit link for details|2024-01-12|
  
