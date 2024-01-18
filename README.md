@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/01/2024 01:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/01/2024 02:15:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
- |[Synology - CVE-2024-21473](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-21473-2024-01-18)|Visit link for details.|18/01/2024|
- |[X.Org - CVE-2024-0229](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-0229-2024-01-18)|Visit link for details.|18/01/2024|
- |[X.Org - CVE-2024-21886](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21886-2024-01-18)|Visit link for details.|18/01/2024|
- |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|18/01/2024|
- |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
- |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -138,6 +121,23 @@
  |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
+ |[Synology - CVE-2024-21473](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-21473-2024-01-18)|Visit link for details.|18/01/2024|
+ |[X.Org - CVE-2024-0229](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-0229-2024-01-18)|Visit link for details.|18/01/2024|
+ |[X.Org - CVE-2024-21886](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21886-2024-01-18)|Visit link for details.|18/01/2024|
+ |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|18/01/2024|
+ |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
  
 
 # ZERODAYINITIATIVE
