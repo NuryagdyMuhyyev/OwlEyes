@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/01/2024 21:22:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/01/2024 22:16:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,38 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
+ |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
+ |[VMware Releases Security Advisory for Aria Operations](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations)|Visit link for details.|Jan 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 16, 2024|
+ |[CISA and FBI Release Known IOCs Associated with Androxgh0st Malware](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware)|Visit link for details.|Jan 16, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
+ |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +78,17 @@
  |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
- |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
- |[VMware Releases Security Advisory for Aria Operations](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations)|Visit link for details.|Jan 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 16, 2024|
- |[CISA and FBI Release Known IOCs Associated with Androxgh0st Malware](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-and-fbi-release-known-iocs-associated-androxgh0st-malware)|Visit link for details.|Jan 16, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Jan 11, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS and Junos OS Evolved](https://www.cisa.gov/news-events/alerts/2024/01/11/juniper-networks-releases-security-bulletin-junos-os-and-junos-os-evolved)|Visit link for details.|Jan 11, 2024|
+ |[UNISOC mobile phone chipsets for Android denial of service (CVE-2023-48359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[IBM QRadar information disclosure (CVE-2023-50950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2024|
+ |[IBM App Connect Enterprise denial of service (CVE-2024-22317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2024|
+ |[Linux Kernel denial of service (CVE-2024-0639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Progress MOVEit Transfer denial of service (CVE-2024-0396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Oracle Agile PLM unspecified (CVE-2024-20953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[GitHub Enterprise Server privilege escalation (CVE-2024-0507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
  
 
 # CERT-SANTE
@@ -79,38 +108,6 @@
  |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
- |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,17 +124,34 @@
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM QRadar information disclosure (CVE-2023-50950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2024|
- |[IBM App Connect Enterprise denial of service (CVE-2024-22317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2024|
- |[Linux Kernel denial of service (CVE-2024-0639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Progress MOVEit Transfer denial of service (CVE-2024-0396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Oracle Agile PLM unspecified (CVE-2024-20953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[GitHub Enterprise Server privilege escalation (CVE-2024-0507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
- |[Oracle BI Publisher unspecified (CVE-2024-20979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
+ |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
+ |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
 
 # EU-CERT
@@ -155,20 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- |[Synology RT6600ax Qualcomm LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-072/)|Visit link for details|2024-01-15|
- |[Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-071/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-070/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-069/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-068/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Divide By Zero Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-067/)|Visit link for details|2024-01-11|
- |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
 # MA-CERT
