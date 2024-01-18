@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/01/2024 02:15:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/01/2024 03:16:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,49 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Trend Micro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2024|
+ |[Vulnérabilité dans MongoDB C-Driver](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/)|Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
+ |[Synology - CVE-2024-21473](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-21473-2024-01-18)|Visit link for details.|18/01/2024|
+ |[X.Org - CVE-2024-0229](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-0229-2024-01-18)|Visit link for details.|18/01/2024|
+ |[X.Org - CVE-2024-21886](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21886-2024-01-18)|Visit link for details.|18/01/2024|
+ |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|18/01/2024|
+ |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -105,39 +138,6 @@
  |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
  |[Cisco Unity Connection Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-unity-connection-remote-code-execution-vulnerability_20240112)|A vulnerability was identified in Cisco Unity Connection. A remote attacker could exploit this vulnerability to trigger remote code execution and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240112)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 12 Jan 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
- |[Synology - CVE-2024-21473](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-21473-2024-01-18)|Visit link for details.|18/01/2024|
- |[X.Org - CVE-2024-0229](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-0229-2024-01-18)|Visit link for details.|18/01/2024|
- |[X.Org - CVE-2024-21886](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21886-2024-01-18)|Visit link for details.|18/01/2024|
- |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|18/01/2024|
- |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
- |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
  
 
 # ZERODAYINITIATIVE
