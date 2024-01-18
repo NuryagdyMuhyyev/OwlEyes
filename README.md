@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/01/2024 10:17:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/01/2024 11:23:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
- |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
- |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
- |[USN-6587-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-1-x-org-x-server-vulnerabilities.48285/)|Visit link for details.|Jan 16, 2024|
- |[USN-6586-1: FreeImage vulnerabilities](https://www.linux.org/threads/usn-6586-1-freeimage-vulnerabilities.48284/)|Visit link for details.|Jan 16, 2024|
- |[USN-6579-2: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-2-xerces-c-vulnerability.48283/)|Visit link for details.|Jan 16, 2024|
- |[USN-6585-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6585-1-libssh2-vulnerability.48280/)|Visit link for details.|Jan 15, 2024|
- |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
- |[USN-6583-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6583-1-mysql-vulnerabilities.48278/)|Visit link for details.|Jan 15, 2024|
- |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
- |[USN-6581-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6581-1-gnu-binutils-vulnerabilities.48271/)|Visit link for details.|Jan 15, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 10, 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
- |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
- |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
- |[SonicWall - CVE-2023-6340](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-6340-2024-01-16)|Visit link for details.|16/01/2024|
- |[Paessler PRTG - CVE-2024-51630](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-51630-2024-01-16)|Visit link for details.|16/01/2024|
- |[Linux - CVE-2024-0562](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0562-2024-01-16)|Visit link for details.|16/01/2024|
- |[Trend Micro - CVE-2023-52091](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52091-2024-01-16)|Visit link for details.|16/01/2024|
- |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
+ |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
+ |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6587-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-1-x-org-x-server-vulnerabilities.48285/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6586-1: FreeImage vulnerabilities](https://www.linux.org/threads/usn-6586-1-freeimage-vulnerabilities.48284/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6579-2: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-2-xerces-c-vulnerability.48283/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6585-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6585-1-libssh2-vulnerability.48280/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6583-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6583-1-mysql-vulnerabilities.48278/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6582-1: WebKitGTK vulnerability](https://www.linux.org/threads/usn-6582-1-webkitgtk-vulnerability.48272/)|Visit link for details.|Jan 15, 2024|
  
 
 # CERT-FR
@@ -108,20 +91,21 @@
  |[Oracle MySQL Server unspecified (CVE-2024-20965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Citrix - CVE-2023-6549](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2023-6549-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|17/01/2024|
+ |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|16/01/2024|
+ |[SonicWall - CVE-2023-6340](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2023-6340-2024-01-16)|Visit link for details.|16/01/2024|
+ |[Paessler PRTG - CVE-2024-51630](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-51630-2024-01-16)|Visit link for details.|16/01/2024|
+ |[Linux - CVE-2024-0562](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0562-2024-01-16)|Visit link for details.|16/01/2024|
+ |[Trend Micro - CVE-2023-52091](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52091-2024-01-16)|Visit link for details.|16/01/2024|
+ |[PHP Gurukul Hospital Management System - CVE-2024-0364](https://www.cyberveille-sante.gouv.fr/alertes/php-gurukul-hospital-management-system-cve-2024-0364-2024-01-15)|Visit link for details.|15/01/2024|
  
 
 # HK-CERT
@@ -154,6 +138,22 @@
  |[Ivanti Avalanche WLAvalancheService Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-066/)|Visit link for details|2024-01-11|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -171,6 +171,22 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
+ |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
+ |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
+ |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
+ |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
+ |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
+ |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
+ |[ 45581501/24 - Vulnérabilités critiques dans les produits GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab)| GitLab a publié des mises à jour de sécurité pour corriger des vulnérabilités critiques (CVE-2023-7028 et CVE-2023-5356) dans ses éditions Community Edition (CE) et Enterprise Edition (EE).…| 15 janvier 2024|
+ |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,20 +202,4 @@
  |[Vulnerability impacting GitLab (CVE-2023-7028)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-gitlab-cve-2023-7028)|Visit link for details|2024-01-15|
  |[IBM security advisory (AV24-029)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-029)|Visit link for details|2024-01-15|
  |[Ubuntu security advisory (AV24-028)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-028)|Visit link for details|2024-01-15|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
- |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
- |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
- |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
- |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
- |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
- |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
- |[ 45581501/24 - Vulnérabilités critiques dans les produits GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab)| GitLab a publié des mises à jour de sécurité pour corriger des vulnérabilités critiques (CVE-2023-7028 et CVE-2023-5356) dans ses éditions Community Edition (CE) et Enterprise Edition (EE).…| 15 janvier 2024|
- |[ 45561201/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-0)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
- |[ 45551201/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-9)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 janvier 2024|
  
