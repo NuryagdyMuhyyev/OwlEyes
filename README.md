@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/01/2024 16:15:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/01/2024 17:33:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6590-1: Xerces-C++ vulnerabilities](https://www.linux.org/threads/usn-6590-1-xerces-c-vulnerabilities.48307/)|Visit link for details.|Jan 18, 2024|
- |[USN-6589-1: FileZilla vulnerability](https://www.linux.org/threads/usn-6589-1-filezilla-vulnerability.48306/)|Visit link for details.|Jan 18, 2024|
- |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
- |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
- |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
- |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
- |[USN-6587-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-1-x-org-x-server-vulnerabilities.48285/)|Visit link for details.|Jan 16, 2024|
- |[USN-6586-1: FreeImage vulnerabilities](https://www.linux.org/threads/usn-6586-1-freeimage-vulnerabilities.48284/)|Visit link for details.|Jan 16, 2024|
- |[USN-6579-2: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-2-xerces-c-vulnerability.48283/)|Visit link for details.|Jan 16, 2024|
- |[USN-6585-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6585-1-libssh2-vulnerability.48280/)|Visit link for details.|Jan 15, 2024|
- |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
+ |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
+ |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
+ |[Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway](https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway)|Visit link for details.|Jan 18, 2024|
+ |[Atlassian Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
+ |[VMware Releases Security Advisory for Aria Operations](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations)|Visit link for details.|Jan 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
  
 
 # CERT-FR
@@ -79,20 +78,21 @@
  |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|17/01/2024|
  
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
- |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
- |[Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway](https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway)|Visit link for details.|Jan 18, 2024|
- |[Atlassian Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
- |[VMware Releases Security Advisory for Aria Operations](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-operations)|Visit link for details.|Jan 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 16, 2024|
+ |[USN-6590-1: Xerces-C++ vulnerabilities](https://www.linux.org/threads/usn-6590-1-xerces-c-vulnerabilities.48307/)|Visit link for details.|Jan 18, 2024|
+ |[USN-6589-1: FileZilla vulnerability](https://www.linux.org/threads/usn-6589-1-filezilla-vulnerability.48306/)|Visit link for details.|Jan 18, 2024|
+ |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
+ |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6587-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-1-x-org-x-server-vulnerabilities.48285/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6586-1: FreeImage vulnerabilities](https://www.linux.org/threads/usn-6586-1-freeimage-vulnerabilities.48284/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6579-2: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-2-xerces-c-vulnerability.48283/)|Visit link for details.|Jan 16, 2024|
+ |[USN-6585-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6585-1-libssh2-vulnerability.48280/)|Visit link for details.|Jan 15, 2024|
+ |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -106,22 +106,6 @@
  |[X.Org Server weak security (CVE-2024-0229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[X.Org server buffer overflow (CVE-2023-6816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[AVEVA PI Server denial of service (CVE-2023-31274)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -152,6 +136,22 @@
  |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
  |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via sctp_auto_asconf_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
