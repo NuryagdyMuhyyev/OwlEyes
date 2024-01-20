@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/01/2024 00:13:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/01/2024 01:17:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6579-2: Xerces-C++ vulnerability](https://www.linux.org/threads/usn-6579-2-xerces-c-vulnerability.48283/)|Visit link for details.|Jan 16, 2024|
  |[USN-6585-1: libssh2 vulnerability](https://www.linux.org/threads/usn-6585-1-libssh2-vulnerability.48280/)|Visit link for details.|Jan 15, 2024|
  |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
  
 
 # US-CERT
@@ -78,21 +78,20 @@
  |[VMware Releases Security Advisory for Aria Automation](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-automation)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-SANTE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
- |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
- |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
- |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240119)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access in...|Release Date: 19 Jan 2024 |
+ |[Drupal Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/drupal-information-disclosure-vulnerability_20240119)|A vulnerability was identified in Drupal Core. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 19 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Jan 2024 |
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:CVE-2023-6548 and CVE-2023-6549 is being exploited in...| Release Date: 17 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 17 Jan 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -108,20 +107,21 @@
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  
 
-# HK-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240119)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access in...|Release Date: 19 Jan 2024 |
- |[Drupal Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/drupal-information-disclosure-vulnerability_20240119)|A vulnerability was identified in Drupal Core. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 19 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Jan 2024 |
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:CVE-2023-6548 and CVE-2023-6549 is being exploited in...| Release Date: 17 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 17 Jan 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Jan 2024 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
+ |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
 # OBS-Vigilance
@@ -154,23 +154,6 @@
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
- |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
- |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
- |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -186,6 +169,23 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
+ |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
+ |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
+ |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
+ |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
  
 
 # MA-CERT
