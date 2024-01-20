@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/01/2024 06:15:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/01/2024 07:29:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
+ |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
+ |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
+ |[Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway](https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway)|Visit link for details.|Jan 18, 2024|
+ |[Atlassian Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
+ |[VMware Releases Security Advisory for Aria Automation](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-automation)|Visit link for details.|Jan 17, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[USN-6584-1: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-1-libspf2-vulnerabilities.48279/)|Visit link for details.|Jan 15, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
- |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
- |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
- |[Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway](https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway)|Visit link for details.|Jan 18, 2024|
- |[Atlassian Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
- |[VMware Releases Security Advisory for Aria Automation](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-automation)|Visit link for details.|Jan 17, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +76,23 @@
  |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
  |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
+ |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
 # HK-CERT
@@ -115,29 +132,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[PCMan FTP Server denial of service (CVE-2024-0732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Apache Tomcat information disclosure (CVE-2024-21733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43818)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
- |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
- |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
- |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
 # ZERODAYINITIATIVE
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
- |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
- |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
- |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
  |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
  |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
+ |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
+ |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
+ |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
+ |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
  
