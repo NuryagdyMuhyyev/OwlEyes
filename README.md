@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/01/2024 22:15:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/01/2024 23:20:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[VMware Releases Security Advisory for Aria Automation](https://www.cisa.gov/news-events/alerts/2024/01/17/vmware-releases-security-advisory-aria-automation)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
- |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
- |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
- |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
- |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -111,17 +94,21 @@
  |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[PCMan FTP Server denial of service (CVE-2024-0732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[vyperlang Vyper security bypass (CVE-2024-22419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Intermesh BV Group Office cross-site scripting (CVE-2024-22418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Argo Project Argo CD cross-site request forgery (CVE-2024-22424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Apache Tomcat information disclosure (CVE-2024-21733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
- |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ |[VMware - CVE-2023-34058](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34058-2023-10-31)|Visit link for details.|19/01/2024|
+ |[Ivanti - CVE-2023-41719](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41719-2023-12-06)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0519](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0519-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
 # HK-CERT
@@ -140,18 +127,17 @@
  |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[PCMan FTP Server denial of service (CVE-2024-0732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[vyperlang Vyper security bypass (CVE-2024-22419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Intermesh BV Group Office cross-site scripting (CVE-2024-22418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Argo Project Argo CD cross-site request forgery (CVE-2024-22424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Apache Tomcat information disclosure (CVE-2024-21733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
+ |[Delta Electronics Delta Industrial Automation DOPSoft buffer overflow (CVE-2023-43816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2024|
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # CA-CCS
