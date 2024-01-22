@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/01/2024 20:19:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/01/2024 21:22:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,22 +95,6 @@
  |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -175,6 +159,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
  |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
  |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
  |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
@@ -185,7 +170,22 @@
  |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
  |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
  |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
- |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
