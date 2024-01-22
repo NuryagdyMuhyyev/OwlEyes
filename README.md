@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 00:14:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/01/2024 01:18:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,10 +62,29 @@
  |[USN-6587-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-1-x-org-x-server-vulnerabilities.48285/)|Visit link for details.|Jan 16, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[X.Org - CVE-2024-21885](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21885-2024-01-22)|Visit link for details.|22/01/2024|
+ |[WordPress WPForms - CVE-2023-7063](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2023-7063-2024-01-22)|Visit link for details.|22/01/2024|
+ |[Python/MySQL - CVE-2023-41105](https://www.cyberveille-sante.gouv.fr/alertes/pythonmysql-cve-2023-41105-2024-01-22)|Visit link for details.|22/01/2024|
+ |[OpenVPN - CVE-2023-7224](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-7224-2024-01-22)|Visit link for details.|22/01/2024|
+ |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|22/01/2024|
+ |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
@@ -74,8 +93,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
  |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
  |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
  
 
 # OBS-Vigilance
@@ -94,21 +111,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[X.Org - CVE-2024-21885](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21885-2024-01-22)|Visit link for details.|22/01/2024|
- |[WordPress WPForms - CVE-2023-7063](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2023-7063-2024-01-22)|Visit link for details.|22/01/2024|
- |[Python/MySQL - CVE-2023-41105](https://www.cyberveille-sante.gouv.fr/alertes/pythonmysql-cve-2023-41105-2024-01-22)|Visit link for details.|22/01/2024|
- |[OpenVPN - CVE-2023-7224](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-7224-2024-01-22)|Visit link for details.|22/01/2024|
- |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|22/01/2024|
- |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
- |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
- |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ |[Swftools denial of service (CVE-2023-37644)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
  
 
 # HK-CERT
@@ -127,17 +140,18 @@
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Swftools denial of service (CVE-2023-37644)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # EU-CERT
@@ -157,18 +171,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
+ |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
+ |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
+ |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
  
 
 # MA-CERT
@@ -186,21 +203,4 @@
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
  |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
  |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
- |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
- |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
  
