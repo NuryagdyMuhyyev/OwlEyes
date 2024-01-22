@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/01/2024 12:17:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/01/2024 13:23:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,22 +95,6 @@
  |[Trend Micro - CVE-2023-52337](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52337-2024-01-18)|Visit link for details.|18/01/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -125,6 +109,49 @@
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:CVE-2023-6548 and CVE-2023-6549 is being exploited in...| Release Date: 17 Jan 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 17 Jan 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240117)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jan 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Swftools denial of service (CVE-2023-37644)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[Swftools denial of service (CVE-2024-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
  
 
 # CA-CCS
@@ -144,23 +171,6 @@
  |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
- |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
- |[ 45671801/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb)| Une vulnérabilité a été corrigée dans MongoDB client C-Driver. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de service à distance.| 18 janvier 2024|
- |[ 45661801/24 - "Oracle Critical Patch Update" du Mois Janvier 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-janvier-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Janvier 2024. L'exploitation de…| 18 janvier 2024|
- |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
- |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
- |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
- |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
- |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
- |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
- |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -178,29 +188,19 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Swftools denial of service (CVE-2023-37644)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
- |[Swftools denial of service (CVE-2024-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2024|
+ |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
+ |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
+ |[ 45671801/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb)| Une vulnérabilité a été corrigée dans MongoDB client C-Driver. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de service à distance.| 18 janvier 2024|
+ |[ 45661801/24 - "Oracle Critical Patch Update" du Mois Janvier 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-janvier-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Janvier 2024. L'exploitation de…| 18 janvier 2024|
+ |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
+ |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
+ |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
+ |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
+ |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
+ |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
+ |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
  
