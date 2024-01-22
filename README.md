@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/01/2024 17:34:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/01/2024 18:21:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -154,6 +154,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
+ |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
+ |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
+ |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
+ |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
  |[ 45601601/24 - Vulnérabilité critique dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-zoom)| Zoom annonce la correction d’une vulnérabilité critique affectant ces produits susmentionnés déployés sur les appareils Windows. L’exploitation de cette faille peut permettre à un attaquant…| 16 janvier 2024|
  |[ 45591501/24 - Vulnérabilités critiques affectant le plugin «POST SMTP Mailer» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-post-smtp-mailer-pour-wordpress)| WordPress  annonce la correction de deux vulnérabilités affectant le plugin   «POST SMTP Mailer». L'exploitation de ces vulnérabilités peut permettre à un attaquant distant  d’injecter du contenu dans…| 15 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- |[[Control systems] Integration Objects security advisory (AV24-033)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-integration-objects-security-advisory-av24-033)|Visit link for details|2024-01-16|
- |[[Control systems] SEW-EURODRIVE security advisory (AV24-032)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sew-eurodrive-security-advisory-av24-032)|Visit link for details|2024-01-16|
- |[VMWare security advisory (AV24-031)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-031)|Visit link for details|2024-01-16|
- |[Citrix security advisory (AV24-030)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-030)|Visit link for details|2024-01-16|
  
