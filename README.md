@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 12:17:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/01/2024 13:23:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
+ |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
+ |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
+ |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
+ |[Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway](https://www.cisa.gov/news-events/alerts/2024/01/18/citrix-releases-security-updates-netscaler-adc-and-netscaler-gateway)|Visit link for details.|Jan 18, 2024|
+ |[Atlassian Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/01/18/atlassian-releases-security-updates-multiple-products)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
  
 
 # LINUX-SEC
@@ -52,22 +62,6 @@
  |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Weblogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 janvier 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -83,6 +77,38 @@
  |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
  |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
  |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
  
 
 # HK-CERT
@@ -114,36 +140,6 @@
  |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -159,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # CA-CCS
