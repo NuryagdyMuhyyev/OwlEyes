@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 19:16:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/01/2024 20:18:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
  |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
@@ -73,9 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
  |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
  
 
 # CERT-SANTE
@@ -171,6 +171,23 @@
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
+ |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
+ |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
+ |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
+ |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
  |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
- |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
- |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
- |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
  
