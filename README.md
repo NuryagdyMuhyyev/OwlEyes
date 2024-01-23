@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 16:14:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/01/2024 17:33:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[X.Org - CVE-2024-21885](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21885-2024-01-22)|Visit link for details.|22/01/2024|
- |[WordPress WPForms - CVE-2023-7063](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2023-7063-2024-01-22)|Visit link for details.|22/01/2024|
- |[Python/MySQL - CVE-2023-41105](https://www.cyberveille-sante.gouv.fr/alertes/pythonmysql-cve-2023-41105-2024-01-22)|Visit link for details.|22/01/2024|
- |[OpenVPN - CVE-2023-7224](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-7224-2024-01-22)|Visit link for details.|22/01/2024|
- |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|22/01/2024|
- |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
- |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
- |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
- |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
- |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,33 +78,21 @@
  |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple iOS and iPadOS security bypass (CVE-2024-23219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma code execution (CVE-2024-23214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma information disclosure (CVE-2024-23203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma code execution (CVE-2024-23209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2023-42887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2023-42935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[X.Org - CVE-2024-21885](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-21885-2024-01-22)|Visit link for details.|22/01/2024|
+ |[WordPress WPForms - CVE-2023-7063](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2023-7063-2024-01-22)|Visit link for details.|22/01/2024|
+ |[Python/MySQL - CVE-2023-41105](https://www.cyberveille-sante.gouv.fr/alertes/pythonmysql-cve-2023-41105-2024-01-22)|Visit link for details.|22/01/2024|
+ |[OpenVPN - CVE-2023-7224](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2023-7224-2024-01-22)|Visit link for details.|22/01/2024|
+ |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|22/01/2024|
+ |[Woodstox/Juniper - CVE-2022-40152](https://www.cyberveille-sante.gouv.fr/alertes/woodstoxjuniper-cve-2022-40152-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Google Chrome - CVE-2024-0518](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0518-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Mit - CVE-2023-39975](https://www.cyberveille-sante.gouv.fr/alertes/mit-cve-2023-39975-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Trend Micro - CVE-2023-52338](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-52338-2024-01-19)|Visit link for details.|19/01/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
  
 
 # HK-CERT
@@ -140,6 +111,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-23219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma code execution (CVE-2024-23214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma information disclosure (CVE-2024-23203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma code execution (CVE-2024-23209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2023-42887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2023-42935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -152,6 +136,22 @@
  |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
  |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
  
 
 # EU-CERT
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
- |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
- |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
- |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
- |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
- |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
- |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
- |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
  |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
+ |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
+ |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
+ |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
+ |[Oracle security advisory – January 2024 quarterly rollup (AV24-037)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2024-quarterly-rollup-av24-037)|Visit link for details|2024-01-18|
+ |[Ivanti Connect Secure and Ivanti Policy Secure gateways zero-day vulnerabilities – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-connect-secure-and-ivanti-policy-secure-gateways-zero-day-vulnerabilities)|Visit link for details|2024-01-17|
+ |[SonicWall security advisory (AV24-036)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-036)|Visit link for details|2024-01-17|
+ |[Atlassian security advisory (AV24-035)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-035)|Visit link for details|2024-01-16|
+ |[Google Chrome security advisory (AV24-034)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-034)|Visit link for details|2024-01-16|
  
