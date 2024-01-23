@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 23:22:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/01/2024 00:14:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
- |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,20 +63,20 @@
  |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
  
 
 # HK-CERT
@@ -111,6 +95,35 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-23219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma code execution (CVE-2024-23214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma information disclosure (CVE-2024-23203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Sonoma code execution (CVE-2024-23209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2023-42887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2023-42935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -125,19 +138,6 @@
  |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
  |[Oracle Releases Critical Patch Update Advisory for January 2024](https://www.cisa.gov/news-events/alerts/2024/01/18/oracle-releases-critical-patch-update-advisory-january-2024)|Visit link for details.|Jan 18, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple iOS and iPadOS security bypass (CVE-2024-23219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma code execution (CVE-2024-23214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma information disclosure (CVE-2024-23203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Sonoma code execution (CVE-2024-23209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2023-42887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2023-42935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
- |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
  
 
 # ZERODAYINITIATIVE
