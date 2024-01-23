@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/01/2024 15:18:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/01/2024 16:14:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6594-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6594-1-squid-vulnerabilities.48349/)|Visit link for details.|Jan 23, 2024|
- |[USN-6593-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6593-1-gnutls-vulnerabilities.48341/)|Visit link for details.|Jan 22, 2024|
- |[USN-6587-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-2-x-org-x-server-vulnerabilities.48340/)|Visit link for details.|Jan 22, 2024|
- |[USN-6592-1: libssh vulnerabilities](https://www.linux.org/threads/usn-6592-1-libssh-vulnerabilities.48339/)|Visit link for details.|Jan 22, 2024|
- |[USN-6591-1: Postfix vulnerability](https://www.linux.org/threads/usn-6591-1-postfix-vulnerability.48338/)|Visit link for details.|Jan 22, 2024|
- |[USN-6590-1: Xerces-C++ vulnerabilities](https://www.linux.org/threads/usn-6590-1-xerces-c-vulnerabilities.48307/)|Visit link for details.|Jan 18, 2024|
- |[USN-6589-1: FileZilla vulnerability](https://www.linux.org/threads/usn-6589-1-filezilla-vulnerability.48306/)|Visit link for details.|Jan 18, 2024|
- |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
- |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
- |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
- |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jan 17, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
- |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
+ |[USN-6594-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6594-1-squid-vulnerabilities.48349/)|Visit link for details.|Jan 23, 2024|
+ |[USN-6593-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6593-1-gnutls-vulnerabilities.48341/)|Visit link for details.|Jan 22, 2024|
+ |[USN-6587-2: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-2-x-org-x-server-vulnerabilities.48340/)|Visit link for details.|Jan 22, 2024|
+ |[USN-6592-1: libssh vulnerabilities](https://www.linux.org/threads/usn-6592-1-libssh-vulnerabilities.48339/)|Visit link for details.|Jan 22, 2024|
+ |[USN-6591-1: Postfix vulnerability](https://www.linux.org/threads/usn-6591-1-postfix-vulnerability.48338/)|Visit link for details.|Jan 22, 2024|
+ |[USN-6590-1: Xerces-C++ vulnerabilities](https://www.linux.org/threads/usn-6590-1-xerces-c-vulnerabilities.48307/)|Visit link for details.|Jan 18, 2024|
+ |[USN-6589-1: FileZilla vulnerability](https://www.linux.org/threads/usn-6589-1-filezilla-vulnerability.48306/)|Visit link for details.|Jan 18, 2024|
+ |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
+ |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
+ |[USN-6538-2: PostgreSQL vulnerabilities](https://www.linux.org/threads/usn-6538-2-postgresql-vulnerabilities.48292/)|Visit link for details.|Jan 17, 2024|
  
 
 # CERT-SANTE
@@ -95,20 +79,36 @@
  |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|19/01/2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:For CVE-2024-23222, processing...|Release Date: 23 Jan 2024 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Jan 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...| Release Date: 12 Dec 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
- |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
- |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system. Note:For CVE-2023-34048, a malicious actor with network access to vCenter...| Release Date: 26 Oct 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240119)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access in...|Release Date: 19 Jan 2024 |
- |[Drupal Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/drupal-information-disclosure-vulnerability_20240119)|A vulnerability was identified in Drupal Core. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 19 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,20 +124,20 @@
  |[Apple macOS Ventura information disclosure (CVE-2024-23224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 22, 2024|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342" class="noirorange"><b>zlib</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/zlib-multiple-vulnerabilities-43342)|An attacker can use several vulnerabilities of zlib...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:For CVE-2024-23222, processing...|Release Date: 23 Jan 2024 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Jan 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...| Release Date: 12 Dec 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
+ |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
+ |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system. Note:For CVE-2023-34048, a malicious actor with network access to vCenter...| Release Date: 26 Oct 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240119)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access in...|Release Date: 19 Jan 2024 |
+ |[Drupal Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/drupal-information-disclosure-vulnerability_20240119)|A vulnerability was identified in Drupal Core. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 19 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
 # ZERODAYINITIATIVE
