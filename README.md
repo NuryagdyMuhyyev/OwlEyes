@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/01/2024 07:32:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/01/2024 08:18:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
  |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
@@ -73,15 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
  |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -117,20 +111,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -145,6 +125,33 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple Yamaha wireless LAN access point devices command execution (CVE-2024-22366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # EU-CERT
