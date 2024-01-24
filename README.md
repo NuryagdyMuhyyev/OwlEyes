@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/01/2024 08:18:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/01/2024 09:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,6 +111,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple Yamaha wireless LAN access point devices command execution (CVE-2024-22366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -127,31 +140,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiple Yamaha wireless LAN access point devices command execution (CVE-2024-22366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Google Chrome security bypass (CVE-2024-0810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
+ |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
+ |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
+ |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
+ |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
+ |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
+ |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
+ |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
+ |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
+ |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
+ |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
  
 
 # EU-CERT
@@ -171,6 +174,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
  |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
  |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
- |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
- |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
- |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
- |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
- |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
- |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
- |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
- |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
  
