@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/01/2024 04:17:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/01/2024 06:18:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5604-1 openjdk-11 - security update](https://www.linux.org/threads/dsa-5604-1-openjdk-11-security-update.48367/)|Visit link for details.|Jan 24, 2024|
+ |[DSA-5603-1 xorg-server - security update](https://www.linux.org/threads/dsa-5603-1-xorg-server-security-update.48366/)|Visit link for details.|Jan 24, 2024|
  |[USN-6595-1: PyCryptodome vulnerability](https://www.linux.org/threads/usn-6595-1-pycryptodome-vulnerability.48354/)|Visit link for details.|Jan 23, 2024|
  |[USN-6594-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6594-1-squid-vulnerabilities.48349/)|Visit link for details.|Jan 23, 2024|
  |[USN-6593-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6593-1-gnutls-vulnerabilities.48341/)|Visit link for details.|Jan 22, 2024|
@@ -42,56 +44,6 @@
  |[USN-6590-1: Xerces-C++ vulnerabilities](https://www.linux.org/threads/usn-6590-1-xerces-c-vulnerabilities.48307/)|Visit link for details.|Jan 18, 2024|
  |[USN-6589-1: FileZilla vulnerability](https://www.linux.org/threads/usn-6589-1-filezilla-vulnerability.48306/)|Visit link for details.|Jan 18, 2024|
  |[DSA-5602-1 chromium - security update](https://www.linux.org/threads/dsa-5602-1-chromium-security-update.48302/)|Visit link for details.|Jan 18, 2024|
- |[USN-6588-1: PAM vulnerability](https://www.linux.org/threads/usn-6588-1-pam-vulnerability.48299/)|Visit link for details.|Jan 17, 2024|
- |[USN-6559-1: ZooKeeper vulnerabilities](https://www.linux.org/threads/usn-6559-1-zookeeper-vulnerabilities.48295/)|Visit link for details.|Jan 17, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
- |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
- |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
- |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
- |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
- |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
- |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43358" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43358)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/httparty-file-write-via-Multipart-form-data-Upload-43357" class="noirorange"><b>httparty</b>: file write via Multipart/form-data Upload</a>](https://vigilance.fr/vulnerability/httparty-file-write-via-Multipart-form-data-Upload-43357)|An attacker can bypass access restrictions of httparty, via Multipart/form-data Upload, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
  
 
 # CERT-SANTE
@@ -111,6 +63,51 @@
  |[Progress MOVEit Transfer - CVE-2024-0396](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-0396-2024-01-19)|Visit link for details.|19/01/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 janvier 2024|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 janvier 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 janvier 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
+ |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
+ |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
+ |[Incident Response Guide for the WWS Sector](https://www.cisa.gov/news-events/alerts/2024/01/18/incident-response-guide-wws-sector)|Visit link for details.|Jan 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jan 18, 2024|
+ |[Drupal Releases Security Advisory for Drupal Core](https://www.cisa.gov/news-events/alerts/2024/01/18/drupal-releases-security-advisory-drupal-core)|Visit link for details.|Jan 18, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/18/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 18, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple Yamaha wireless LAN access point devices command execution (CVE-2024-22366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ |[Google Chrome security bypass (CVE-2024-0810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,19 +124,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:For CVE-2024-0519, Out of bounds memory access...|Release Date: 18 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Westermo Lynx 206-F2G cross-site scripting (CVE-2023-45227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Westermo Lynx 206-F2G cross-site request forgery (CVE-2023-38579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Westermo Lynx 206-F2G cross-site scripting (CVE-2023-40544)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-0750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Mozilla Firefox spoofing (CVE-2024-0749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-0748)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-0747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -152,6 +136,23 @@
  |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
  |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
+ |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
+ |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
+ |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
+ |[ 45671801/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb)| Une vulnérabilité a été corrigée dans MongoDB client C-Driver. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de service à distance.| 18 janvier 2024|
+ |[ 45661801/24 - "Oracle Critical Patch Update" du Mois Janvier 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-janvier-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Janvier 2024. L'exploitation de…| 18 janvier 2024|
+ |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
+ |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
+ |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
+ |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
+ |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
  
 
 # EU-CERT
@@ -171,6 +172,22 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43358" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43358)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/httparty-file-write-via-Multipart-form-data-Upload-43357" class="noirorange"><b>httparty</b>: file write via Multipart/form-data Upload</a>](https://vigilance.fr/vulnerability/httparty-file-write-via-Multipart-form-data-Upload-43357)|An attacker can bypass access restrictions of httparty, via Multipart/form-data Upload, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43355)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-43350)|An attacker can use several vulnerabilities of Splunk Enterprise...|Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
  |[[Control systems] AVEVA security advisory (AV24-039)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av24-039)|Visit link for details|2024-01-19|
  |[HPE security advisory (AV24-038)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-038)|Visit link for details|2024-01-19|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
- |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
- |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
- |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
- |[ 45671801/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb)| Une vulnérabilité a été corrigée dans MongoDB client C-Driver. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de service à distance.| 18 janvier 2024|
- |[ 45661801/24 - "Oracle Critical Patch Update" du Mois Janvier 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-janvier-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Janvier 2024. L'exploitation de…| 18 janvier 2024|
- |[ 45641701/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-2)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 janvier 2024|
- |[ 45651701/24 - Vulnérabilité critique affectant VMware Aria Automation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-vmware-aria-automation)| VMware annonce la correction  d’une vulnérabilité critique affectant son produit VMware Aria Automation. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant de contourner les…| 17 janvier 2024|
- |[ 45631701/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Citrix susmentionnés. L’exploitation de ces failles peut…| 17 janvier 2024|
- |[ 45621701/24 - Vulnérabilité critique dans Confluence Server et Data Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-confluence-server-et-data-center-0)| Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre…| 17 janvier 2024|
- |[ 45611601/24 - Vulnérabilités critiques dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-nvidia)| NVIDIA annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 16 janvier 2024|
  
