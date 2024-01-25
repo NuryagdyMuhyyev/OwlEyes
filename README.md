@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/01/2024 03:14:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/01/2024 04:17:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
  |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
@@ -74,8 +76,6 @@
  |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
  |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
- |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
  
 
 # CERT-SANTE
@@ -111,6 +111,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375" class="noirorange"><b>Puma</b>: header injection via Chunked Transfer Encoding Bodies</a>](https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375)|An attacker can add new headers on Puma, via Chunked Transfer Encoding Bodies, in order to alter the service behavior...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenKM cross-site scripting (CVE-2023-50072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[Cisco Unity Connection cross-site scripting (CVE-2024-20305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ |[Open Social module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ |[Swift Mailer module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ |[Two-factor Authentication module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ |[Mercari App for Android URL redirect (CVE-2024-23388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ |[Cisco Business 250 Series Smart Switches and Business 350 Series Managed Switches security bypass (CVE-2024-20263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -125,33 +138,6 @@
  |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
  |[VMware vCenter Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-vcenter-server-multiple-vulnerabilities_20231026)|Multiple vulnerabilities were identified in VMware vCenter Server. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system. Note:For CVE-2023-34048, a malicious actor with network access to vCenter...| Release Date: 26 Oct 2023 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Unity Connection cross-site scripting (CVE-2024-20305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Open Social module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Swift Mailer module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Two-factor Authentication module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Mercari App for Android URL redirect (CVE-2024-23388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Cisco Business 250 Series Smart Switches and Business 350 Series Managed Switches security bypass (CVE-2024-20263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- |[Cisco Unified Communications and Contact Center Solutions products code execution (CVE-2024-20253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # EU-CERT
@@ -171,21 +157,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
- |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
- |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
- |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
- |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
- |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
- |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
- |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
- |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
- |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
- |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # CA-CCS
@@ -203,4 +186,21 @@
  |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
  |[IBM security advisory (AV24-041)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-041)|Visit link for details|2024-01-22|
  |[Dell security advisory (AV24-040)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-040)|Visit link for details|2024-01-22|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
+ |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
+ |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
+ |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
+ |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
+ |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
+ |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
+ |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
+ |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
+ |[ 45691901/24 - Vulnérabilités affectant Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-secure-analytics)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  les versions susmentionnées  de son     produit Secure Analytics.   Un attaquant distant  pourrait exploiter ces vulnérabilités…| 19 janvier 2024|
+ |[ 45681901/24 - Vulnérabilité dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-cms-drupal-3)| Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 19 janvier 2024|
  
