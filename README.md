@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/01/2024 02:14:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/01/2024 03:16:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,21 @@
  |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
+ |[Symantec - CVE-2024-23613](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23613-2024-01-26)|Visit link for details.|26/01/2024|
+ |[MachineSense FeverWarn - CVE-2023-49617](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-feverwarn-cve-2023-49617-2024-01-26)|Visit link for details.|26/01/2024|
+ |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Mozilla - CVE-2024-0745](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-0745-2024-01-25)|Visit link for details.|25/01/2024|
+ |[HPE - CVE-2023-50274](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-50274-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Cisco - CVE-2024-20253](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20253-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
  
 
 # HK-CERT
@@ -92,23 +109,6 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
  |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
- |[Symantec - CVE-2024-23613](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23613-2024-01-26)|Visit link for details.|26/01/2024|
- |[MachineSense FeverWarn - CVE-2023-49617](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-feverwarn-cve-2023-49617-2024-01-26)|Visit link for details.|26/01/2024|
- |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|25/01/2024|
- |[Mozilla - CVE-2024-0745](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-0745-2024-01-25)|Visit link for details.|25/01/2024|
- |[HPE - CVE-2023-50274](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-50274-2024-01-25)|Visit link for details.|25/01/2024|
- |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|25/01/2024|
- |[Cisco - CVE-2024-20253](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20253-2024-01-25)|Visit link for details.|25/01/2024|
- |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
