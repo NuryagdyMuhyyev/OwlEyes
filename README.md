@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/01/2024 03:16:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/01/2024 04:17:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
- |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
- |[Mozilla Releases Security Updates for Thunderbird and Firefox ](https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox)|Visit link for details.|Jan 24, 2024|
- |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
- |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
+ |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6606-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6606-1-linux-kernel-oem-vulnerabilities.48408/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6601-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6601-1-linux-kernel-vulnerability.48403/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6600-1: MariaDB vulnerabilities](https://www.linux.org/threads/usn-6600-1-mariadb-vulnerabilities.48400/)|Visit link for details.|Jan 25, 2024|
+ |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
  
 
 # CERT-FR
@@ -61,21 +62,20 @@
  |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
- |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
- |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
- |[USN-6606-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6606-1-linux-kernel-oem-vulnerabilities.48408/)|Visit link for details.|Jan 26, 2024|
- |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
- |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
- |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
- |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
- |[USN-6601-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6601-1-linux-kernel-vulnerability.48403/)|Visit link for details.|Jan 26, 2024|
- |[USN-6600-1: MariaDB vulnerabilities](https://www.linux.org/threads/usn-6600-1-mariadb-vulnerabilities.48400/)|Visit link for details.|Jan 25, 2024|
- |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
+ |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
+ |[Mozilla Releases Security Updates for Thunderbird and Firefox ](https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox)|Visit link for details.|Jan 24, 2024|
+ |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
+ |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
  
 
 # CERT-SANTE
@@ -95,6 +95,19 @@
  |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[OpenKM cross-site scripting (CVE-2023-50072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-5612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-5933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,35 +122,6 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
  |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[OpenKM cross-site scripting (CVE-2023-50072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-5612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-5933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -171,23 +155,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
- |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
- |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
- |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
- |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
- |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
- |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +170,37 @@
  |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
  |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
  |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
+ |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
+ |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
+ |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
+ |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
+ |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
+ |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
+ |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
+ |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
+ |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
  
