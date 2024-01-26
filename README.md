@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/01/2024 12:14:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/01/2024 13:19:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Issues Emergency Directive on Ivanti Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/01/19/cisa-issues-emergency-directive-ivanti-vulnerabilities)|Visit link for details.|Jan 19, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,33 @@
  |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
+ |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240124)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 24 Jan 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:For CVE-2024-23222, processing...|Release Date: 23 Jan 2024 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Jan 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...| Release Date: 12 Dec 2023 |
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
+ |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[OpenKM cross-site scripting (CVE-2023-50072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-5612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-5933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
 # CERT-SANTE
@@ -93,35 +122,6 @@
  |[Paessler PRTG - CVE-2023-32781](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2023-32781-2024-01-24)|Visit link for details.|24/01/2024|
  |[Google Chrome - CVE-2024-0807](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0807-2024-01-24)|Visit link for details.|24/01/2024|
  |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|24/01/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[OpenKM cross-site scripting (CVE-2023-50072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2023-5612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2023-5933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[GitLab Community Edition and Enterprise Edition security bypass (CVE-2024-0402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
- |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240124)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 24 Jan 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:For CVE-2024-23222, processing...|Release Date: 23 Jan 2024 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 23 Jan 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20231212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and information disclosure on the targeted system. Note:For CVE-2023-42916 and CVE-...| Release Date: 12 Dec 2023 |
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
- |[VMware Aria Automation Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/vmware-aria-automation-security-restriction-bypass-vulnerability_20240122)|A vulnerability was identified in VMWare Aria Automation. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 22 Jan 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-six-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-six-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
@@ -151,7 +152,6 @@
  |[<a href="https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Race-Condition-43378" class="noirorange"><b>rpm</b>: privilege escalation via Race Condition</a>](https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Race-Condition-43378)|An attacker can bypass restrictions of rpm, via Race Condition, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tcpslice-use-after-free-via-extract-slice-43377" class="noirorange"><b>tcpslice</b>: use after free via extract_slice()</a>](https://vigilance.fr/vulnerability/tcpslice-use-after-free-via-extract-slice-43377)|An attacker can force the reuse of a freed memory area of tcpslice, via extract_slice(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43376" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43376)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375" class="noirorange"><b>Puma</b>: header injection via Chunked Transfer Encoding Bodies</a>](https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375)|An attacker can add new headers on Puma, via Chunked Transfer Encoding Bodies, in order to alter the service behavior...|Visit link for details|
  
 
 # EU-CERT
