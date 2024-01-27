@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/01/2024 19:14:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/01/2024 20:14:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
- |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
- |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
- |[USN-6606-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6606-1-linux-kernel-oem-vulnerabilities.48408/)|Visit link for details.|Jan 26, 2024|
- |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
- |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
- |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
- |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
- |[USN-6601-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6601-1-linux-kernel-vulnerability.48403/)|Visit link for details.|Jan 26, 2024|
- |[USN-6600-1: MariaDB vulnerabilities](https://www.linux.org/threads/usn-6600-1-mariadb-vulnerabilities.48400/)|Visit link for details.|Jan 25, 2024|
- |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 22, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
- |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
- |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6606-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6606-1-linux-kernel-oem-vulnerabilities.48408/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6601-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6601-1-linux-kernel-vulnerability.48403/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6600-1: MariaDB vulnerabilities](https://www.linux.org/threads/usn-6600-1-mariadb-vulnerabilities.48400/)|Visit link for details.|Jan 25, 2024|
+ |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
  
 
 # CERT-SANTE
@@ -95,20 +79,20 @@
  |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
  
 
 # HK-CERT
@@ -127,6 +111,22 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240118)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-01...| Release Date: 18 Jan 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -138,23 +138,6 @@
  |[rhboot shim denial of service (CVE-2023-40547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim denial of service (CVE-2023-40546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
- |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
- |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
- |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
- |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
- |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
- |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
- |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
- |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
- |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
- |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
  
 
 # EU-CERT
@@ -186,6 +169,23 @@
  |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
  |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
+ |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
+ |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
+ |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
+ |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
+ |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
+ |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
+ |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
+ |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
+ |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
+ |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
  
 
 # CA-CCS
