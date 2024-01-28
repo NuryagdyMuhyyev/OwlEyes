@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/01/2024 04:16:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/01/2024 06:15:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,20 @@
  |[USN-6599-1: Jinja2 vulnerabilities](https://www.linux.org/threads/usn-6599-1-jinja2-vulnerabilities.48397/)|Visit link for details.|Jan 25, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
 # CERT-SANTE
@@ -93,22 +93,6 @@
  |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|25/01/2024|
  |[Cisco - CVE-2024-20253](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20253-2024-01-25)|Visit link for details.|25/01/2024|
  |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
- |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
- |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
 # HK-CERT
@@ -140,18 +124,20 @@
  |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389" class="noirorange"><b>Webmin</b>: Cross Site Scripting via Execute Cron Job As</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-Execute-Cron-Job-As-43389)|An attacker can trigger a Cross Site Scripting of Webmin, via Execute Cron Job As, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFRasterScanlineSize64()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFRasterScanlineSize64-43387)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # CA-CCS
