@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/01/2024 00:11:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/01/2024 01:15:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Jan 28, 2024|
  |[DSA-5608-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5608-1-gst-plugins-bad1-0-security-update.48432/)|Visit link for details.|Jan 28, 2024|
  |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
  |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
@@ -43,7 +44,6 @@
  |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
  |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
  |[USN-6601-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6601-1-linux-kernel-vulnerability.48403/)|Visit link for details.|Jan 26, 2024|
- |[USN-6600-1: MariaDB vulnerabilities](https://www.linux.org/threads/usn-6600-1-mariadb-vulnerabilities.48400/)|Visit link for details.|Jan 25, 2024|
  
 
 # US-CERT
@@ -140,6 +140,23 @@
  |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
+ |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
+ |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
+ |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
+ |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
+ |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
+ |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
+ |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
+ |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
+ |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
+ |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
  |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
  |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
- |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
- |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
- |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
- |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
- |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
- |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
- |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
- |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
- |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
- |[ 45702301/24 - Vulnérabilité affectant Postfix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postfix)| Une vulnérabilité affectant les versions susmentionnées de Postfix a été corrigée.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 23 janvier 2024|
  
