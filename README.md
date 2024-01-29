@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/01/2024 03:16:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/01/2024 04:17:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
- |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
- |[Mozilla Releases Security Updates for Thunderbird and Firefox ](https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox)|Visit link for details.|Jan 24, 2024|
- |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
- |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/)|Une vulnérabilité a été découverte dans |Publié le 29 janvier 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
@@ -74,21 +60,22 @@
  |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
  |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
  |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-21336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2024|
- |[rhboot shim denial of service (CVE-2023-40551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim information disclsoure (CVE-2023-40550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim denial of service (CVE-2023-40549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim integer overflow (CVE-2023-40548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim denial of service (CVE-2023-40547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim denial of service (CVE-2023-40546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399" class="noirorange"><b>Linux kernel</b>: use after free via ICMPv6 Router Advertisement Packet</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ICMPv6 Router Advertisement Packet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397" class="noirorange"><b>Atril</b>: code execution via CBT Document TAR Archive</a>](https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397)|An attacker can use a vulnerability of Atril, via CBT Document TAR Archive, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396" class="noirorange"><b>GStreamer</b>: buffer overflow via Tile List</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396)|An attacker can trigger a buffer overflow of GStreamer, via Tile List, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
  
 
 # CERT-SANTE
@@ -108,6 +95,22 @@
  |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
+ |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
+ |[Mozilla Releases Security Updates for Thunderbird and Firefox ](https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox)|Visit link for details.|Jan 24, 2024|
+ |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
+ |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/01/23/apple-releases-security-updates-multiple-products)|Visit link for details.|Jan 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 23, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,20 +127,17 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399" class="noirorange"><b>Linux kernel</b>: use after free via ICMPv6 Router Advertisement Packet</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ICMPv6 Router Advertisement Packet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397" class="noirorange"><b>Atril</b>: code execution via CBT Document TAR Archive</a>](https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397)|An attacker can use a vulnerability of Atril, via CBT Document TAR Archive, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396" class="noirorange"><b>GStreamer</b>: buffer overflow via Tile List</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396)|An attacker can trigger a buffer overflow of GStreamer, via Tile List, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-21336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2024|
+ |[rhboot shim denial of service (CVE-2023-40551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[rhboot shim information disclsoure (CVE-2023-40550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[rhboot shim denial of service (CVE-2023-40549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[rhboot shim integer overflow (CVE-2023-40548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[rhboot shim denial of service (CVE-2023-40547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[rhboot shim denial of service (CVE-2023-40546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
 # ZERODAYINITIATIVE
