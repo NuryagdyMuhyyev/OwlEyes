@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/01/2024 00:12:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/01/2024 01:17:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6613-1: Ceph vulnerability](https://www.linux.org/threads/usn-6613-1-ceph-vulnerability.48452/)|Visit link for details.|Jan 29, 2024|
  |[USN-6610-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6610-1-firefox-vulnerabilities.48449/)|Visit link for details.|Jan 29, 2024|
  |[USN-6611-1: Exim vulnerability](https://www.linux.org/threads/usn-6611-1-exim-vulnerability.48447/)|Visit link for details.|Jan 29, 2024|
  |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Jan 28, 2024|
@@ -59,23 +60,23 @@
  |[USN-6606-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6606-1-linux-kernel-oem-vulnerabilities.48408/)|Visit link for details.|Jan 26, 2024|
  |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
  |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
- |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
- |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
- |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
+ |[Symantec - CVE-2024-23614](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23614-2024-01-29)|Visit link for details.|29/01/2024|
+ |[Microsoft - CVE-2024-21326](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21326-2024-01-29)|Visit link for details.|29/01/2024|
+ |[MachineSense - CVE-2023-46706](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-cve-2023-46706-2024-01-29)|Visit link for details.|29/01/2024|
+ |[IBM - CVE-2024-23619](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-23619-2024-01-29)|Visit link for details.|29/01/2024|
+ |[D-Link - CVE-2024-23625](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-23625-2024-01-29)|Visit link for details.|29/01/2024|
+ |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|29/01/2024|
+ |[Google Chrome - CVE-2024-0807](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0807-2024-01-24)|Visit link for details.|29/01/2024|
+ |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|29/01/2024|
+ |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
  
 
 # HK-CERT
@@ -107,21 +108,20 @@
  |[rhboot shim denial of service (CVE-2023-40546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Symantec - CVE-2024-23614](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23614-2024-01-29)|Visit link for details.|29/01/2024|
- |[Microsoft - CVE-2024-21326](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21326-2024-01-29)|Visit link for details.|29/01/2024|
- |[MachineSense - CVE-2023-46706](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-cve-2023-46706-2024-01-29)|Visit link for details.|29/01/2024|
- |[IBM - CVE-2024-23619](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-23619-2024-01-29)|Visit link for details.|29/01/2024|
- |[D-Link - CVE-2024-23625](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-23625-2024-01-29)|Visit link for details.|29/01/2024|
- |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|29/01/2024|
- |[Google Chrome - CVE-2024-0807](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0807-2024-01-24)|Visit link for details.|29/01/2024|
- |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|29/01/2024|
- |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399" class="noirorange"><b>Linux kernel</b>: use after free via ICMPv6 Router Advertisement Packet</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ICMPv6 Router Advertisement Packet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397" class="noirorange"><b>Atril</b>: code execution via CBT Document TAR Archive</a>](https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397)|An attacker can use a vulnerability of Atril, via CBT Document TAR Archive, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396" class="noirorange"><b>GStreamer</b>: buffer overflow via Tile List</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396)|An attacker can trigger a buffer overflow of GStreamer, via Tile List, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -138,20 +138,20 @@
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399" class="noirorange"><b>Linux kernel</b>: use after free via ICMPv6 Router Advertisement Packet</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ICMPv6-Router-Advertisement-Packet-43399)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ICMPv6 Router Advertisement Packet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397" class="noirorange"><b>Atril</b>: code execution via CBT Document TAR Archive</a>](https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397)|An attacker can use a vulnerability of Atril, via CBT Document TAR Archive, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396" class="noirorange"><b>GStreamer</b>: buffer overflow via Tile List</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396)|An attacker can trigger a buffer overflow of GStreamer, via Tile List, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 janvier 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
 # EU-CERT
@@ -171,6 +171,23 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
+ |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
+ |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
+ |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
+ |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
+ |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
+ |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
+ |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
+ |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
  |[ 45722401/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework)| Une vulnérabilité a été corrigée dans Spring Framework. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 24 janvier 2024|
  |[ 45712301/24 - Vulnérabilité critique dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2024-23222) dans ses produits. Cette vulnérabilité est activement exploitée. Une…| 23 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
- |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
- |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
- |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
- |[Mozilla security advisory (AV24-046)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-046)|Visit link for details|2024-01-23|
- |[HPE security advisory (AV24-045)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-045)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
- |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
- |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
  
