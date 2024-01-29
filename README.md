@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/01/2024 20:16:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/01/2024 21:19:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6610-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6610-1-firefox-vulnerabilities.48449/)|Visit link for details.|Jan 29, 2024|
  |[USN-6611-1: Exim vulnerability](https://www.linux.org/threads/usn-6611-1-exim-vulnerability.48447/)|Visit link for details.|Jan 29, 2024|
  |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Jan 28, 2024|
  |[DSA-5608-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5608-1-gst-plugins-bad1-0-security-update.48432/)|Visit link for details.|Jan 28, 2024|
@@ -59,7 +60,6 @@
  |[USN-6605-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6605-1-linux-kernel-vulnerabilities.48407/)|Visit link for details.|Jan 26, 2024|
  |[USN-6604-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6604-1-linux-kernel-vulnerabilities.48406/)|Visit link for details.|Jan 26, 2024|
  |[USN-6603-1: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6603-1-linux-kernel-aws-vulnerabilities.48405/)|Visit link for details.|Jan 26, 2024|
- |[USN-6602-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6602-1-linux-kernel-vulnerabilities.48404/)|Visit link for details.|Jan 26, 2024|
  
 
 # CERT-FR
@@ -78,6 +78,23 @@
  |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|29/01/2024|
+ |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
+ |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
+ |[Symantec - CVE-2024-23613](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23613-2024-01-26)|Visit link for details.|26/01/2024|
+ |[MachineSense FeverWarn - CVE-2023-49617](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-feverwarn-cve-2023-49617-2024-01-26)|Visit link for details.|26/01/2024|
+ |[Mozilla - CVE-2024-0745](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-0745-2024-01-25)|Visit link for details.|25/01/2024|
+ |[HPE - CVE-2023-50274](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-50274-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Cisco - CVE-2024-20253](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20253-2024-01-25)|Visit link for details.|25/01/2024|
+ |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,48 +111,17 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20240122)|A vulnerability was identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 22 Jan 2024 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab - CVE-2024-0402](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0402-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23622](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23622-2024-01-26)|Visit link for details.|26/01/2024|
- |[IBM Merge Healthcare - CVE-2024-23621](https://www.cyberveille-sante.gouv.fr/alertes/ibm-merge-healthcare-cve-2024-23621-2024-01-26)|Visit link for details.|26/01/2024|
- |[Symantec - CVE-2024-23613](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23613-2024-01-26)|Visit link for details.|26/01/2024|
- |[MachineSense FeverWarn - CVE-2023-49617](https://www.cyberveille-sante.gouv.fr/alertes/machinesense-feverwarn-cve-2023-49617-2024-01-26)|Visit link for details.|26/01/2024|
- |[WordPress Better Search Replace - CVE-2023-6933](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-better-search-replace-cve-2023-6933-2024-01-25)|Visit link for details.|25/01/2024|
- |[Mozilla - CVE-2024-0745](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-0745-2024-01-25)|Visit link for details.|25/01/2024|
- |[HPE - CVE-2023-50274](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-50274-2024-01-25)|Visit link for details.|25/01/2024|
- |[Google Chrome - CVE-2024-0808](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0808-2024-01-25)|Visit link for details.|25/01/2024|
- |[Cisco - CVE-2024-20253](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20253-2024-01-25)|Visit link for details.|25/01/2024|
- |[Orthanc Osimis - CVE-2023-7238](https://www.cyberveille-sante.gouv.fr/alertes/orthanc-osimis-cve-2023-7238-2024-01-24)|Visit link for details.|24/01/2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-21336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2024|
  |[rhboot shim denial of service (CVE-2023-40551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim information disclsoure (CVE-2023-40550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim denial of service (CVE-2023-40549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim integer overflow (CVE-2023-40548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim denial of service (CVE-2023-40547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  |[rhboot shim denial of service (CVE-2023-40546)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[Plone Docker Official Image code execution (CVE-2024-23055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
- |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
 # OBS-Vigilance
@@ -203,4 +189,18 @@
  |[Apple security advisory (AV24-044)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-044)|Visit link for details|2024-01-23|
  |[Apple security advisory (AV24-043)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-043)|Visit link for details|2024-01-22|
  |[Red Hat security advisory (AV24-042)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-042)|Visit link for details|2024-01-22|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-076/)|Visit link for details|2024-01-19|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-075/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-074/)|Visit link for details|2024-01-11|
+ |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
