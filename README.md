@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/01/2024 08:16:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/01/2024 09:18:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -61,6 +61,23 @@
  |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6605-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6605-2-linux-kernel-kvm-vulnerabilities.48459/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6604-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6604-2-linux-kernel-azure-vulnerabilities.48458/)|Visit link for details.|Jan 30, 2024|
+ |[DSA-5610-1 redis - security update](https://www.linux.org/threads/dsa-5610-1-redis-security-update.48457/)|Visit link for details.|Jan 29, 2024|
+ |[USN-6613-1: Ceph vulnerability](https://www.linux.org/threads/usn-6613-1-ceph-vulnerability.48452/)|Visit link for details.|Jan 29, 2024|
+ |[USN-6610-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6610-1-firefox-vulnerabilities.48449/)|Visit link for details.|Jan 29, 2024|
+ |[USN-6611-1: Exim vulnerability](https://www.linux.org/threads/usn-6611-1-exim-vulnerability.48447/)|Visit link for details.|Jan 29, 2024|
+ |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Jan 28, 2024|
+ |[DSA-5608-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5608-1-gst-plugins-bad1-0-security-update.48432/)|Visit link for details.|Jan 28, 2024|
+ |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
+ |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -94,21 +111,17 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240123)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:For CVE-2024-23222, processing...|Release Date: 23 Jan 2024 |
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6605-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6605-2-linux-kernel-kvm-vulnerabilities.48459/)|Visit link for details.|Jan 30, 2024|
- |[USN-6604-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6604-2-linux-kernel-azure-vulnerabilities.48458/)|Visit link for details.|Jan 30, 2024|
- |[DSA-5610-1 redis - security update](https://www.linux.org/threads/dsa-5610-1-redis-security-update.48457/)|Visit link for details.|Jan 29, 2024|
- |[USN-6613-1: Ceph vulnerability](https://www.linux.org/threads/usn-6613-1-ceph-vulnerability.48452/)|Visit link for details.|Jan 29, 2024|
- |[USN-6610-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6610-1-firefox-vulnerabilities.48449/)|Visit link for details.|Jan 29, 2024|
- |[USN-6611-1: Exim vulnerability](https://www.linux.org/threads/usn-6611-1-exim-vulnerability.48447/)|Visit link for details.|Jan 29, 2024|
- |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Jan 28, 2024|
- |[DSA-5608-1 gst-plugins-bad1.0 - security update](https://www.linux.org/threads/dsa-5608-1-gst-plugins-bad1-0-security-update.48432/)|Visit link for details.|Jan 28, 2024|
- |[USN-6609-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6609-1-linux-kernel-vulnerabilities.48411/)|Visit link for details.|Jan 26, 2024|
- |[USN-6608-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6608-1-linux-kernel-vulnerabilities.48410/)|Visit link for details.|Jan 26, 2024|
- |[USN-6607-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6607-1-linux-kernel-azure-vulnerabilities.48409/)|Visit link for details.|Jan 26, 2024|
+ |[Apache Kylin information disclosure (CVE-2023-29055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 28, 2024|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-21336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2024|
+ |[mimasaka_farm mini-app on Line security bypass (CVE-2023-48135)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[angel coffee mini-app on Line security bypass (CVE-2023-48133)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[kosei entertainment esportsstudioLegends mini-app on Line security bypass (CVE-2023-48132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[CHIGASAKI BAKERY mini-app on Line security bypass (CVE-2023-48131)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
+ |[GINZA CAFE mini-app on Line security bypass (CVE-2023-48130)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
 # OBS-Vigilance
@@ -125,19 +138,6 @@
  |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Kylin information disclosure (CVE-2023-29055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 28, 2024|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-21336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2024|
- |[rhboot shim denial of service (CVE-2023-40551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim information disclsoure (CVE-2023-40550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim denial of service (CVE-2023-40549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim integer overflow (CVE-2023-40548)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
- |[rhboot shim denial of service (CVE-2023-40547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2024|
  
 
 # ZERODAYINITIATIVE
