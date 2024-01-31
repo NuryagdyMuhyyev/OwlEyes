@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/02/2024 02:16:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/02/2024 03:16:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
+ |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
+ |[New Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/new-mitigations-defend-against-exploitation-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
+ |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
+ |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,36 +62,20 @@
  |[USN-6612-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6612-1-tinyxml-vulnerability.48466/)|Visit link for details.|Jan 30, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
- |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
- |[New Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/new-mitigations-defend-against-exploitation-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
- |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
- |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/)|De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 31 janvier 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
  |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/)|Une vulnérabilité a été découverte dans |Publié le 29 janvier 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
- |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
  
 
 # CERT-SANTE
@@ -95,20 +95,20 @@
  |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|31/01/2024|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 31 Jan 2024 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note:For CVE-2024-23897, arbitrary...|Release Date: 30 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-01-29] Updated System / Technologies affected, ...| Release Date: 11 Jan 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
- |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -124,34 +124,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 31 Jan 2024 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note:For CVE-2024-23897, arbitrary...|Release Date: 30 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-01-29] Updated System / Technologies affected, ...| Release Date: 11 Jan 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
+ |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
  
 
 # CA-CCS
