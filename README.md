@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/01/2024 12:15:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/01/2024 13:20:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
+ |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6617-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6617-1-libde265-vulnerabilities.48475/)|Visit link for details.|Jan 30, 2024|
+ |[DSA-5611-1 glibc - security update](https://www.linux.org/threads/dsa-5611-1-glibc-security-update.48474/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6587-3: X.Org X Server regression](https://www.linux.org/threads/usn-6587-3-x-org-x-server-regression.48471/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6616-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6616-1-openldap-vulnerability.48470/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6615-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6615-1-mysql-vulnerabilities.48469/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6614-1: amanda vulnerability](https://www.linux.org/threads/usn-6614-1-amanda-vulnerability.48468/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6612-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6612-1-tinyxml-vulnerability.48466/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6605-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6605-2-linux-kernel-kvm-vulnerabilities.48459/)|Visit link for details.|Jan 30, 2024|
+ |[USN-6604-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6604-2-linux-kernel-azure-vulnerabilities.48458/)|Visit link for details.|Jan 30, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jan 23, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
- |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
- |[USN-6617-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6617-1-libde265-vulnerabilities.48475/)|Visit link for details.|Jan 30, 2024|
- |[DSA-5611-1 glibc - security update](https://www.linux.org/threads/dsa-5611-1-glibc-security-update.48474/)|Visit link for details.|Jan 30, 2024|
- |[USN-6587-3: X.Org X Server regression](https://www.linux.org/threads/usn-6587-3-x-org-x-server-regression.48471/)|Visit link for details.|Jan 30, 2024|
- |[USN-6616-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6616-1-openldap-vulnerability.48470/)|Visit link for details.|Jan 30, 2024|
- |[USN-6615-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6615-1-mysql-vulnerabilities.48469/)|Visit link for details.|Jan 30, 2024|
- |[USN-6614-1: amanda vulnerability](https://www.linux.org/threads/usn-6614-1-amanda-vulnerability.48468/)|Visit link for details.|Jan 30, 2024|
- |[USN-6612-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6612-1-tinyxml-vulnerability.48466/)|Visit link for details.|Jan 30, 2024|
- |[USN-6605-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6605-2-linux-kernel-kvm-vulnerabilities.48459/)|Visit link for details.|Jan 30, 2024|
- |[USN-6604-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6604-2-linux-kernel-azure-vulnerabilities.48458/)|Visit link for details.|Jan 30, 2024|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/)|Une vulnérabilité a été découverte dans |Publié le 29 janvier 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Cisco Unified Communications](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/)|Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 janvier 2024|
  
 
 # HK-CERT
@@ -95,38 +111,6 @@
  |[D-Link - CVE-2024-23625](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-23625-2024-01-29)|Visit link for details.|29/01/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
- |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/)|Une vulnérabilité a été découverte dans |Publié le 29 janvier 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
- |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404" class="noirorange"><b>Mock</b>: privilege escalation via Jinja2 Templates</a>](https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404)|An attacker can bypass restrictions of Mock, via Jinja2 Templates, in order to escalate his privileges...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -154,6 +138,22 @@
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
- |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
- |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
- |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
- |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
- |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
- |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
- |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
  |[ 45742401/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-0)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 24 janvier 2024|
  |[ 45732401/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 24 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
+ |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
+ |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
+ |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
+ |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
+ |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
+ |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
+ |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
+ |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
  
