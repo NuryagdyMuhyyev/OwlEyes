@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/01/2024 21:19:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/01/2024 22:13:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6591-2: Postfix update](https://www.linux.org/threads/usn-6591-2-postfix-update.48487/)|Visit link for details.|Jan 31, 2024|
  |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
  |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
  |[USN-6617-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6617-1-libde265-vulnerabilities.48475/)|Visit link for details.|Jan 30, 2024|
@@ -43,23 +44,22 @@
  |[USN-6614-1: amanda vulnerability](https://www.linux.org/threads/usn-6614-1-amanda-vulnerability.48468/)|Visit link for details.|Jan 30, 2024|
  |[USN-6612-1: TinyXML vulnerability](https://www.linux.org/threads/usn-6612-1-tinyxml-vulnerability.48466/)|Visit link for details.|Jan 30, 2024|
  |[USN-6605-2: Linux kernel (KVM) vulnerabilities](https://www.linux.org/threads/usn-6605-2-linux-kernel-kvm-vulnerabilities.48459/)|Visit link for details.|Jan 30, 2024|
- |[USN-6604-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6604-2-linux-kernel-azure-vulnerabilities.48458/)|Visit link for details.|Jan 30, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/)|De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 31 janvier 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
  |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/)|Une vulnérabilité a été découverte dans |Publié le 29 janvier 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 26 janvier 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 janvier 2024|
+ |[Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/)|Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.|Publié le 26 janvier 2024|
  
 
 # US-CERT
@@ -67,6 +67,7 @@
  |Title|Description|Date|
  |---|---|---|
  |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
  |[New Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/new-mitigations-defend-against-exploitation-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Jan 30, 2024|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
  |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
@@ -75,23 +76,6 @@
  |[Cisco Releases Security Advisory for Multiple Unified Communications and Contact Center Solutions Products](https://www.cisa.gov/news-events/alerts/2024/01/25/cisco-releases-security-advisory-multiple-unified-communications-and-contact-center-solutions)|Visit link for details.|Jan 25, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 24, 2024|
  |[Mozilla Releases Security Updates for Thunderbird and Firefox ](https://www.cisa.gov/news-events/alerts/2024/01/24/mozilla-releases-security-updates-thunderbird-and-firefox)|Visit link for details.|Jan 24, 2024|
- |[CISA Joins ACSC-led Guidance on How to Use AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/01/23/cisa-joins-acsc-led-guidance-how-use-ai-systems-securely)|Visit link for details.|Jan 23, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
  
 
 # CERT-SANTE
@@ -115,12 +99,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways privilege escalation (CVE-2024-21888)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
  |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways server-side request forgery (CVE-2024-21893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
- |[OpenBI file upload (CVE-2024-1036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
- |[XenSource Xen phantom functions information disclosure (CVE-2023-46839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
- |[XenSource Xen HVM builds security bypass (CVE-2023-46840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
- |[Google Chrome code execution (CVE-2024-1077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
- |[Google Chrome code execution (CVE-2024-1059)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
+ |[OpenBI code execution (CVE-2024-1032)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
+ |[OpenBI information disclosure (CVE-2024-1033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
+ |[OpenBI file upload (CVE-2024-1034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
+ |[OpenBI file upload (CVE-2024-1035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2024|
  
 
@@ -154,21 +138,20 @@
  |[Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-073/)|Visit link for details|2024-01-15|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
- |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
- |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
- |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
- |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
- |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
- |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
- |[Fortra security advisory (AV24-047)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-047)|Visit link for details|2024-01-23|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
  
 
 # EU-CERT
@@ -203,4 +186,21 @@
  |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
  |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
  |[ 45752501/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du code arbitraire…| 25 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
+ |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
+ |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
+ |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
+ |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
+ |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
+ |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
+ |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
+ |[Google Chrome security advisory (AV24-048)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-048)|Visit link for details|2024-01-23|
  
