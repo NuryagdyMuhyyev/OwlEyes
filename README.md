@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/02/2024 23:19:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/02/2024 00:14:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[USN-6616-1: OpenLDAP vulnerability](https://www.linux.org/threads/usn-6616-1-openldap-vulnerability.48470/)|Visit link for details.|Jan 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 février 2024|
+ |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2024|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/)|De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 31 janvier 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
+ |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
+ |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,20 +95,17 @@
  |[GNU C - CVE-2023-6246](https://www.cyberveille-sante.gouv.fr/alertes/gnu-c-cve-2023-6246-2024-01-31)|Visit link for details.|31/01/2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 février 2024|
- |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/)|De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 31 janvier 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
- |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
+ |[Dell EMC PowerScale OneFS denial of service (CVE-2024-22430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2024|
+ |[Dell EMC PowerScale OneFS privilege escalation (CVE-2024-22449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2024|
+ |[Open Container Initiative runc security bypass (CVE-2024-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways privilege escalation (CVE-2024-21888)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways server-side request forgery (CVE-2024-21893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ |[Entity Delete Log module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ |[Moby BuildKit privilege escalation (CVE-2024-23653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
  
 
 # OBS-Vigilance
@@ -127,17 +140,21 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell EMC PowerScale OneFS denial of service (CVE-2024-22430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2024|
- |[Dell EMC PowerScale OneFS privilege escalation (CVE-2024-22449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2024|
- |[Open Container Initiative runc security bypass (CVE-2024-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
- |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways privilege escalation (CVE-2024-21888)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
- |[Ivanti Connect Secure, Policy Secure, and Neurons for ZTA gateways server-side request forgery (CVE-2024-21893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
- |[Entity Delete Log module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
+ |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
+ |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
+ |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
+ |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
+ |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
+ |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
+ |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
+ |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
  
 
 # EU-CERT
@@ -186,21 +203,4 @@
  |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
  |[ 45762501/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-0)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 25 janvier 2024|
  |[ 45772501/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-15)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 25 janvier 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
- |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
- |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
- |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
- |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
- |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
- |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- |[GitLab security advisory (AV24-050)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-050)|Visit link for details|2024-01-25|
- |[Cisco security advisory (AV24-049)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-049)|Visit link for details|2024-01-24|
  
