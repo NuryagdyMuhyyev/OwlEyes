@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/02/2024 16:14:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/02/2024 17:29:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/)|Une vulnérabilité a été corrigée dans |Publié le 29 janvier 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|01/02/2024|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|01/02/2024|
- |[Trend Micro - CVE-2024-23940](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-23940-2024-01-31)|Visit link for details.|31/01/2024|
- |[Symantec - CVE-2024-23616](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23616-2024-01-31)|Visit link for details.|31/01/2024|
- |[Google - CVE-2024-1060](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-1060-2024-01-31)|Visit link for details.|31/01/2024|
- |[GNU C - CVE-2023-6246](https://www.cyberveille-sante.gouv.fr/alertes/gnu-c-cve-2023-6246-2024-01-31)|Visit link for details.|31/01/2024|
- |[Trend Micro - CVE-2023-47192](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47192-2023-11-08)|Visit link for details.|31/01/2024|
- |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|31/01/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|31/01/2024|
- |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|31/01/2024|
- |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|31/01/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -125,6 +108,23 @@
  |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|01/02/2024|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|01/02/2024|
+ |[Trend Micro - CVE-2024-23940](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-23940-2024-01-31)|Visit link for details.|31/01/2024|
+ |[Symantec - CVE-2024-23616](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23616-2024-01-31)|Visit link for details.|31/01/2024|
+ |[Google - CVE-2024-1060](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-1060-2024-01-31)|Visit link for details.|31/01/2024|
+ |[GNU C - CVE-2023-6246](https://www.cyberveille-sante.gouv.fr/alertes/gnu-c-cve-2023-6246-2024-01-31)|Visit link for details.|31/01/2024|
+ |[Trend Micro - CVE-2023-47192](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47192-2023-11-08)|Visit link for details.|31/01/2024|
+ |[Trend Micro - CVE-2023-47193](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2023-47193-2023-11-09)|Visit link for details.|31/01/2024|
+ |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|31/01/2024|
+ |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|31/01/2024|
+ |[VMware - CVE-2023-34063](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34063-2024-01-17)|Visit link for details.|31/01/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
