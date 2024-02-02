@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/02/2024 07:21:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/02/2024 08:17:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
- |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
- |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
- |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
  |[USN-6617-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6617-1-libde265-vulnerabilities.48475/)|Visit link for details.|Jan 30, 2024|
  |[DSA-5611-1 glibc - security update](https://www.linux.org/threads/dsa-5611-1-glibc-security-update.48474/)|Visit link for details.|Jan 30, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
+ |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
+ |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
+ |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jan 25, 2024|
  
 
 # CERT-FR
@@ -78,20 +78,21 @@
  |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
  
 
-# HK-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 31 Jan 2024 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note:For CVE-2024-23897, arbitrary...|Release Date: 30 Jan 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-01-29] Updated System / Technologies affected, ...| Release Date: 11 Jan 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
- |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[Zyxel - CVE-2023-5372](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5372-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Plugin Cookie Information  Free GDPR Consent Solution - CVE-2023-6700](https://www.cyberveille-sante.gouv.fr/alertes/plugin-cookie-information-free-gdpr-consent-solution-cve-2023-6700-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Juniper - CVE-2024-21620](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21620-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Ivanti - CVE-2024-21888](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21888-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Apple - CVE-2022-48618](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-48618-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|01/02/2024|
+ |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|01/02/2024|
+ |[Trend Micro - CVE-2024-23940](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-23940-2024-01-31)|Visit link for details.|31/01/2024|
+ |[Symantec - CVE-2024-23616](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23616-2024-01-31)|Visit link for details.|31/01/2024|
+ |[Google - CVE-2024-1060](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-1060-2024-01-31)|Visit link for details.|31/01/2024|
+ |[GNU C - CVE-2023-6246](https://www.cyberveille-sante.gouv.fr/alertes/gnu-c-cve-2023-6246-2024-01-31)|Visit link for details.|31/01/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -123,18 +124,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 31 Jan 2024 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240131)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note:For CVE-2024-23897, arbitrary...|Release Date: 30 Jan 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240111)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-01-29] Updated System / Technologies affected, ...| Release Date: 11 Jan 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240126)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 26 Jan 2024 |
+ |[Citrix Hypervisor Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerabilities_20240125)|A vulnerability was identified in Citrix Hypervisor. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240125)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, spoofing, information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 25 Jan 2024 |
  
 
 # EU-CERT
@@ -154,21 +157,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2023-5372](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5372-2024-02-01)|Visit link for details.|01/02/2024|
- |[Plugin Cookie Information  Free GDPR Consent Solution - CVE-2023-6700](https://www.cyberveille-sante.gouv.fr/alertes/plugin-cookie-information-free-gdpr-consent-solution-cve-2023-6700-2024-02-01)|Visit link for details.|01/02/2024|
- |[Juniper - CVE-2024-21620](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21620-2024-02-01)|Visit link for details.|01/02/2024|
- |[Ivanti - CVE-2024-21888](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21888-2024-02-01)|Visit link for details.|01/02/2024|
- |[Apple - CVE-2022-48618](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2022-48618-2024-02-01)|Visit link for details.|01/02/2024|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|01/02/2024|
- |[Mirth - CVE-2023-37679](https://www.cyberveille-sante.gouv.fr/alertes/mirth-cve-2023-37679-2023-08-04)|Visit link for details.|01/02/2024|
- |[Trend Micro - CVE-2024-23940](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-23940-2024-01-31)|Visit link for details.|31/01/2024|
- |[Symantec - CVE-2024-23616](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-23616-2024-01-31)|Visit link for details.|31/01/2024|
- |[Google - CVE-2024-1060](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-1060-2024-01-31)|Visit link for details.|31/01/2024|
- |[GNU C - CVE-2023-6246](https://www.cyberveille-sante.gouv.fr/alertes/gnu-c-cve-2023-6246-2024-01-31)|Visit link for details.|31/01/2024|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
  
 
 # CA-CCS
