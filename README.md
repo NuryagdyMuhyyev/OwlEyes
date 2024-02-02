@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/02/2024 23:21:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/02/2024 00:15:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/02/02/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Feb 02, 2024|
+ |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
+ |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
+ |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
+ |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ 
 
 # LINUX-SEC
 
@@ -62,22 +78,6 @@
  |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/02/02/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Feb 02, 2024|
- |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
- |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
- |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
- |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,6 +105,20 @@
  |[Group Office cross-site scripting (CVE-2024-23941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2024|
  |[Gessler GmbH WEB-MASTER information disclosure (CVE-2024-1040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
  |[Gessler GmbH WEB-MASTER security bypass (CVE-2024-1039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
+ |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
  
 
 # CERT-SANTE
@@ -140,37 +154,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424" class="noirorange"><b>Docker Moby</b>: privilege escalation via Classic Builder Cache Poisoning</a>](https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424)|An attacker can bypass restrictions of Docker Moby, via Classic Builder Cache Poisoning, in order to escalate his privileges...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-061)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-061)|Visit link for details|2024-02-02|
- |[Apple security advisory (AV24-060)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-060)|Visit link for details|2024-02-01|
- |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
- |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
- |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
- |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
- |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
- |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
- |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
- |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
- |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
  |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
  |[ 45782501/24 - Vulnérabilité critique dans GoAnywhere MFT de Fortra ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-goanywhere-mft-de-fortra)| Une vulnérabilité critique a été corrigée dans GoAnywhere MFT (Managed File Transfer) de Fortra. Un code d'exploitation est disponible pour cette faille de contournement d'authentification permettant…| 25 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-061)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-061)|Visit link for details|2024-02-02|
+ |[Apple security advisory (AV24-060)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-060)|Visit link for details|2024-02-01|
+ |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
+ |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
+ |[Google Chrome security advisory (AV24-057)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-057)|Visit link for details|2024-01-30|
+ |[Jenkins security advisory (AV24-056)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-056)|Visit link for details|2024-01-29|
+ |[[Control systems] CISA ICS security advisories (AV24-055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-055)|Visit link for details|2024-01-29|
+ |[Ubuntu security advisory (AV24-054)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-054)|Visit link for details|2024-01-29|
+ |[Dell security advisory (AV24-053)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-053)|Visit link for details|2024-01-29|
+ |[Microsoft Edge security advisory (AV24-052)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-052)|Visit link for details|2024-01-26|
+ |[Juniper Networks security advisory (AV24-051)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-051)|Visit link for details|2024-01-26|
  
