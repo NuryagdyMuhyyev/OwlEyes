@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/02/2024 21:20:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/02/2024 22:15:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6592-2: libssh vulnerabilities](https://www.linux.org/threads/usn-6592-2-libssh-vulnerabilities.48546/)|Visit link for details.|Feb 5, 2024|
  |[USN-6622-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6622-1-openssl-vulnerabilities.48541/)|Visit link for details.|Feb 5, 2024|
  |[DSA-5615-1 runc - security update](https://www.linux.org/threads/dsa-5615-1-runc-security-update.48535/)|Visit link for details.|Feb 4, 2024|
  |[DSA-5614-1 zbar - security update](https://www.linux.org/threads/dsa-5614-1-zbar-security-update.48524/)|Visit link for details.|Feb 3, 2024|
@@ -43,7 +44,6 @@
  |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
  |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
  |[USN-6591-2: Postfix update](https://www.linux.org/threads/usn-6591-2-postfix-update.48487/)|Visit link for details.|Jan 31, 2024|
- |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
  
 
 # US-CERT
@@ -82,23 +82,25 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Moby - CVE-2024-23652](https://www.cyberveille-sante.gouv.fr/alertes/moby-cve-2024-23652-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Python - CVE-2023-43804](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2023-43804-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Google Chrome - CVE-2024-1059](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1059-2024-02-05)|Visit link for details.|05/02/2024|
+ |[QNAP - CVE-2023-45025](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-45025-2024-02-05)|Visit link for details.|05/02/2024|
+ |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Babel/IBM Db2 - CVE-2023-45133](https://www.cyberveille-sante.gouv.fr/alertes/babelibm-db2-cve-2023-45133-2024-01-08)|Visit link for details.|05/02/2024|
  |[Moderna Sistemas ModernaNet Hospital Management System 2024 - CVE-2024-23747](https://www.cyberveille-sante.gouv.fr/alertes/moderna-sistemas-modernanet-hospital-management-system-2024-cve-2024-23747-2024-02-02)|Visit link for details.|02/02/2024|
  |[Microsoft - CVE-2024-21399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21399-2024-02-02)|Visit link for details.|02/02/2024|
  |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|02/02/2024|
  |[Netlib LAPACK / OpenBLAS - CVE-2021-4048](https://www.cyberveille-sante.gouv.fr/alertes/netlib-lapack-openblas-cve-2021-4048-2024-02-02)|Visit link for details.|02/02/2024|
  |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21888](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21888-2024-02-01)|Visit link for details.|02/02/2024|
- |[Zyxel - CVE-2023-5372](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5372-2024-02-01)|Visit link for details.|01/02/2024|
- |[Plugin Cookie Information  Free GDPR Consent Solution - CVE-2023-6700](https://www.cyberveille-sante.gouv.fr/alertes/plugin-cookie-information-free-gdpr-consent-solution-cve-2023-6700-2024-02-01)|Visit link for details.|01/02/2024|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
@@ -107,8 +109,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183" class="noirorange"><b>Django</b>: file upload via Multiple Files</a>](https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183)|An attacker can upload a malicious file on Django, via Multiple Files, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via tipc_crypto_key_revoke()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,11 +117,11 @@
  |---|---|---|
  |[HOME SPOT CUBE2 buffer overflow (CVE-2024-23978)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
  |[HOME SPOT CUBE2 buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
+ |[ManageEngine ADAudit Plus SQL injection (CVE-2024-0253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
+ |[iTop VPN denial of service (CVE-2024-1195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
  |[Testimonial Page Manager cross-site scripting (CVE-2024-1196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
  |[Testimonial Page Manager SQL injection (CVE-2024-1197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
  |[OpenBI code execution (CVE-2024-1198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
- |[HOME SPOT CUBE2 denial of service (CVE-2024-21780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
- |[OpenHarmony overflow (CVE-2024-21851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2024|
  
 
 # HK-CERT
