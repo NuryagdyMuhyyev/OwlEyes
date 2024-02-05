@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/02/2024 13:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/02/2024 14:16:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5615-1 runc - security update](https://www.linux.org/threads/dsa-5615-1-runc-security-update.48535/)|Visit link for details.|Feb 4, 2024|
- |[DSA-5614-1 zbar - security update](https://www.linux.org/threads/dsa-5614-1-zbar-security-update.48524/)|Visit link for details.|Feb 3, 2024|
- |[DSA-5613-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5613-1-openjdk-17-security-update.48508/)|Visit link for details.|Feb 2, 2024|
- |[DSA-5612-1 chromium - security update](https://www.linux.org/threads/dsa-5612-1-chromium-security-update.48505/)|Visit link for details.|Feb 1, 2024|
- |[USN-6621-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6621-1-imagemagick-vulnerability.48502/)|Visit link for details.|Feb 1, 2024|
- |[USN-6587-4: X.Org X Server regression](https://www.linux.org/threads/usn-6587-4-x-org-x-server-regression.48501/)|Visit link for details.|Feb 1, 2024|
- |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
- |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
- |[USN-6591-2: Postfix update](https://www.linux.org/threads/usn-6591-2-postfix-update.48487/)|Visit link for details.|Jan 31, 2024|
- |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
- |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -78,21 +61,21 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Moderna Sistemas ModernaNet Hospital Management System 2024 - CVE-2024-23747](https://www.cyberveille-sante.gouv.fr/alertes/moderna-sistemas-modernanet-hospital-management-system-2024-cve-2024-23747-2024-02-02)|Visit link for details.|02/02/2024|
- |[Microsoft - CVE-2024-21399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21399-2024-02-02)|Visit link for details.|02/02/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|02/02/2024|
- |[Netlib LAPACK / OpenBLAS - CVE-2021-4048](https://www.cyberveille-sante.gouv.fr/alertes/netlib-lapack-openblas-cve-2021-4048-2024-02-02)|Visit link for details.|02/02/2024|
- |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|02/02/2024|
- |[Ivanti - CVE-2024-21888](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21888-2024-02-01)|Visit link for details.|02/02/2024|
- |[Zyxel - CVE-2023-5372](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5372-2024-02-01)|Visit link for details.|01/02/2024|
- |[Plugin Cookie Information  Free GDPR Consent Solution - CVE-2023-6700](https://www.cyberveille-sante.gouv.fr/alertes/plugin-cookie-information-free-gdpr-consent-solution-cve-2023-6700-2024-02-01)|Visit link for details.|01/02/2024|
+ |[DSA-5615-1 runc - security update](https://www.linux.org/threads/dsa-5615-1-runc-security-update.48535/)|Visit link for details.|Feb 4, 2024|
+ |[DSA-5614-1 zbar - security update](https://www.linux.org/threads/dsa-5614-1-zbar-security-update.48524/)|Visit link for details.|Feb 3, 2024|
+ |[DSA-5613-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5613-1-openjdk-17-security-update.48508/)|Visit link for details.|Feb 2, 2024|
+ |[DSA-5612-1 chromium - security update](https://www.linux.org/threads/dsa-5612-1-chromium-security-update.48505/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6621-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6621-1-imagemagick-vulnerability.48502/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6587-4: X.Org X Server regression](https://www.linux.org/threads/usn-6587-4-x-org-x-server-regression.48501/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
+ |[USN-6591-2: Postfix update](https://www.linux.org/threads/usn-6591-2-postfix-update.48487/)|Visit link for details.|Jan 31, 2024|
+ |[USN-6609-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6609-2-linux-kernel-nvidia-vulnerabilities.48479/)|Visit link for details.|Jan 31, 2024|
+ |[USN-6618-1: Pillow vulnerabilities](https://www.linux.org/threads/usn-6618-1-pillow-vulnerabilities.48476/)|Visit link for details.|Jan 30, 2024|
  
 
 # HK-CERT
@@ -136,6 +119,23 @@
  |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
  |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
  |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Moderna Sistemas ModernaNet Hospital Management System 2024 - CVE-2024-23747](https://www.cyberveille-sante.gouv.fr/alertes/moderna-sistemas-modernanet-hospital-management-system-2024-cve-2024-23747-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Microsoft - CVE-2024-21399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21399-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Netlib LAPACK / OpenBLAS - CVE-2021-4048](https://www.cyberveille-sante.gouv.fr/alertes/netlib-lapack-openblas-cve-2021-4048-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|02/02/2024|
+ |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|02/02/2024|
+ |[Ivanti - CVE-2023-46805](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46805-2024-01-11)|Visit link for details.|02/02/2024|
+ |[Ivanti - CVE-2024-21888](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21888-2024-02-01)|Visit link for details.|02/02/2024|
+ |[Zyxel - CVE-2023-5372](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-5372-2024-02-01)|Visit link for details.|01/02/2024|
+ |[Plugin Cookie Information  Free GDPR Consent Solution - CVE-2023-6700](https://www.cyberveille-sante.gouv.fr/alertes/plugin-cookie-information-free-gdpr-consent-solution-cve-2023-6700-2024-02-01)|Visit link for details.|01/02/2024|
  
 
 # OBS-Vigilance
