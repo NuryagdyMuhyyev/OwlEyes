@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/02/2024 04:17:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/02/2024 06:10:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6592-2: libssh vulnerabilities](https://www.linux.org/threads/usn-6592-2-libssh-vulnerabilities.48546/)|Visit link for details.|Feb 5, 2024|
- |[USN-6622-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6622-1-openssl-vulnerabilities.48541/)|Visit link for details.|Feb 5, 2024|
- |[DSA-5615-1 runc - security update](https://www.linux.org/threads/dsa-5615-1-runc-security-update.48535/)|Visit link for details.|Feb 4, 2024|
- |[DSA-5614-1 zbar - security update](https://www.linux.org/threads/dsa-5614-1-zbar-security-update.48524/)|Visit link for details.|Feb 3, 2024|
- |[DSA-5613-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5613-1-openjdk-17-security-update.48508/)|Visit link for details.|Feb 2, 2024|
- |[DSA-5612-1 chromium - security update](https://www.linux.org/threads/dsa-5612-1-chromium-security-update.48505/)|Visit link for details.|Feb 1, 2024|
- |[USN-6621-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6621-1-imagemagick-vulnerability.48502/)|Visit link for details.|Feb 1, 2024|
- |[USN-6587-4: X.Org X Server regression](https://www.linux.org/threads/usn-6587-4-x-org-x-server-regression.48501/)|Visit link for details.|Feb 1, 2024|
- |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
- |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
- |[USN-6591-2: Postfix update](https://www.linux.org/threads/usn-6591-2-postfix-update.48487/)|Visit link for details.|Jan 31, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
  |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
  |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5616-1 ruby-sanitize - security update](https://www.linux.org/threads/dsa-5616-1-ruby-sanitize-security-update.48549/)|Visit link for details.|Feb 6, 2024|
+ |[USN-6592-2: libssh vulnerabilities](https://www.linux.org/threads/usn-6592-2-libssh-vulnerabilities.48546/)|Visit link for details.|Feb 5, 2024|
+ |[USN-6622-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6622-1-openssl-vulnerabilities.48541/)|Visit link for details.|Feb 5, 2024|
+ |[DSA-5615-1 runc - security update](https://www.linux.org/threads/dsa-5615-1-runc-security-update.48535/)|Visit link for details.|Feb 4, 2024|
+ |[DSA-5614-1 zbar - security update](https://www.linux.org/threads/dsa-5614-1-zbar-security-update.48524/)|Visit link for details.|Feb 3, 2024|
+ |[DSA-5613-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5613-1-openjdk-17-security-update.48508/)|Visit link for details.|Feb 2, 2024|
+ |[DSA-5612-1 chromium - security update](https://www.linux.org/threads/dsa-5612-1-chromium-security-update.48505/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6621-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-6621-1-imagemagick-vulnerability.48502/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6587-4: X.Org X Server regression](https://www.linux.org/threads/usn-6587-4-x-org-x-server-regression.48501/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
+ |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
  
 
 # CERT-SANTE
@@ -95,22 +95,6 @@
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -138,6 +122,39 @@
  |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
  |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
  |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
+ |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
+ |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
+ |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
+ |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
+ |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
+ |[Ubuntu security advisory (AV24-062)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-062)|Visit link for details|2024-02-05|
+ |[Microsoft Edge security advisory (AV24-061)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-061)|Visit link for details|2024-02-02|
+ |[Apple security advisory (AV24-060)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-060)|Visit link for details|2024-02-01|
+ |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
+ |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
  
 
 # MA-CERT
@@ -177,29 +194,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
  |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
  |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
  |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
  |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
  |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
  |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises DevicesManagementEditNotePopupTip Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-078/)|Visit link for details|2024-01-19|
- |[Trend Micro Apex Central Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-077/)|Visit link for details|2024-01-19|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
- |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
- |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
- |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
- |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
- |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
- |[Ubuntu security advisory (AV24-062)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-062)|Visit link for details|2024-02-05|
- |[Microsoft Edge security advisory (AV24-061)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-061)|Visit link for details|2024-02-02|
- |[Apple security advisory (AV24-060)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-060)|Visit link for details|2024-02-01|
- |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
- |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
  
