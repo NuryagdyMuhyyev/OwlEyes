@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/02/2024 13:20:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/02/2024 14:16:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/02/02/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Feb 02, 2024|
- |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
- |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
- |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
- |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
- |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6587-4: X.Org X Server regression](https://www.linux.org/threads/usn-6587-4-x-org-x-server-regression.48501/)|Visit link for details.|Feb 1, 2024|
  |[USN-6620-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6620-1-gnu-c-library-vulnerabilities.48498/)|Visit link for details.|Feb 1, 2024|
  |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/02/02/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Feb 02, 2024|
+ |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
+ |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
+ |[Updated: New Software Updates and Mitigations to Defend Against Exploitation of Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/30/updated-new-software-updates-and-mitigations-defend-against-exploitation-ivanti-connect-secure-and)|Visit link for details.|Jan 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/01/30/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Jan 30, 2024|
+ |[Juniper Networks Releases Security Bulletin for J-Web in Junos OS SRX Series and EX Series](https://www.cisa.gov/news-events/alerts/2024/01/29/juniper-networks-releases-security-bulletin-j-web-junos-os-srx-series-and-ex-series)|Visit link for details.|Jan 29, 2024|
+ |[Guidance: Assembling a Group of Products for SBOM](https://www.cisa.gov/news-events/alerts/2024/01/26/guidance-assembling-group-products-sbom)|Visit link for details.|Jan 26, 2024|
  
 
 # CERT-FR
@@ -95,6 +95,19 @@
  |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,17 +124,18 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
  
 
 # OBS-Vigilance
@@ -138,20 +152,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
  
 
 # EU-CERT
@@ -192,6 +192,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
  |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
  |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
  |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
@@ -201,5 +202,4 @@
  |[ 45823001/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 30 janvier 2024|
  |[ 45812901/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-3)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de contourner la politique de…| 29 janvier 2024|
  |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
- |[ 45792601/24 - Vulnérabilité critique dans plugin « Better Search Replace » de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-better-search-replace-de-wordpress)| Une vulnérabilité critique d'injection d'objets PHP a été corrigée dans le plugin « Better Search Replace » pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant de…| 26 janvier 2024|
  
