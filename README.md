@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/02/2024 14:16:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/02/2024 15:18:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,22 @@
  |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -124,36 +140,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
  
 
 # CA-CCS
