@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/02/2024 12:15:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/02/2024 13:20:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Moby - CVE-2024-23652](https://www.cyberveille-sante.gouv.fr/alertes/moby-cve-2024-23652-2024-02-05)|Visit link for details.|05/02/2024|
- |[Python - CVE-2023-43804](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2023-43804-2024-02-05)|Visit link for details.|05/02/2024|
- |[Google Chrome - CVE-2024-1059](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1059-2024-02-05)|Visit link for details.|05/02/2024|
- |[QNAP - CVE-2023-45025](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-45025-2024-02-05)|Visit link for details.|05/02/2024|
- |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|05/02/2024|
- |[Babel/IBM Db2 - CVE-2023-45133](https://www.cyberveille-sante.gouv.fr/alertes/babelibm-db2-cve-2023-45133-2024-01-08)|Visit link for details.|05/02/2024|
- |[Moderna Sistemas ModernaNet Hospital Management System 2024 - CVE-2024-23747](https://www.cyberveille-sante.gouv.fr/alertes/moderna-sistemas-modernanet-hospital-management-system-2024-cve-2024-23747-2024-02-02)|Visit link for details.|02/02/2024|
- |[Microsoft - CVE-2024-21399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21399-2024-02-02)|Visit link for details.|02/02/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|02/02/2024|
- |[Netlib LAPACK / OpenBLAS - CVE-2021-4048](https://www.cyberveille-sante.gouv.fr/alertes/netlib-lapack-openblas-cve-2021-4048-2024-02-02)|Visit link for details.|02/02/2024|
- |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -95,20 +78,21 @@
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
+ |[Moby - CVE-2024-23652](https://www.cyberveille-sante.gouv.fr/alertes/moby-cve-2024-23652-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Python - CVE-2023-43804](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2023-43804-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Google Chrome - CVE-2024-1059](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1059-2024-02-05)|Visit link for details.|05/02/2024|
+ |[QNAP - CVE-2023-45025](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-45025-2024-02-05)|Visit link for details.|05/02/2024|
+ |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|05/02/2024|
+ |[Babel/IBM Db2 - CVE-2023-45133](https://www.cyberveille-sante.gouv.fr/alertes/babelibm-db2-cve-2023-45133-2024-01-08)|Visit link for details.|05/02/2024|
+ |[Moderna Sistemas ModernaNet Hospital Management System 2024 - CVE-2024-23747](https://www.cyberveille-sante.gouv.fr/alertes/moderna-sistemas-modernanet-hospital-management-system-2024-cve-2024-23747-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Microsoft - CVE-2024-21399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21399-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Netlib LAPACK / OpenBLAS - CVE-2021-4048](https://www.cyberveille-sante.gouv.fr/alertes/netlib-lapack-openblas-cve-2021-4048-2024-02-02)|Visit link for details.|02/02/2024|
+ |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
  
 
 # HK-CERT
@@ -140,6 +124,36 @@
  |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017" class="noirorange"><b>ansible-core</b>: read-write access via Internal Templating Actions Unsafe Designation</a>](https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017)|An attacker can bypass access restrictions of ansible-core, via Internal Templating Actions Unsafe Designation, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015" class="noirorange"><b>IBM API Connect</b>: user access via Browser Cache User Credentials</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Browser-Cache-User-Credentials-43015)|An attacker can bypass restrictions of IBM API Connect, via Browser Cache User Credentials, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -155,20 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
  
 
 # CA-CCS
