@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/02/2024 18:19:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/02/2024 19:15:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[USN-6619-1: runC vulnerability](https://www.linux.org/threads/usn-6619-1-runc-vulnerability.48490/)|Visit link for details.|Jan 31, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
- |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0091/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0090/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
- |[Vulnérabilité dans Kaspersky Security pour Linux Mail Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/)|Une vulnérabilité a été découverte dans Kaspersky Security pour Linux Mail Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 février 2024|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 février 2024|
- |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,33 +79,20 @@
  |[Certifi - CVE-2023-37920](https://www.cyberveille-sante.gouv.fr/alertes/certifi-cve-2023-37920-2024-02-02)|Visit link for details.|02/02/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
- |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
+ |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0091/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0090/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Vulnérabilité dans Kaspersky Security pour Linux Mail Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/)|Une vulnérabilité a été découverte dans Kaspersky Security pour Linux Mail Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 février 2024|
+ |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2024|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
  
 
 # HK-CERT
@@ -138,6 +109,49 @@
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240130)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 30 Jan 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240129)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and spoofing on the targeted system. |Release Date: 29 Jan 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ |[Multiple MediaTek Chipsets privelege escalation (CVE-2024-20012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 5, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
+ |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
+ |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
+ |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
+ |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333" class="noirorange"><b>Debian 10</b>: security improvement via Subunit OpenStack Building</a>](https://vigilance.fr/vulnerability/Debian-10-security-improvement-via-Subunit-OpenStack-Building-43333)|The security of Debian 10 was improved via Subunit OpenStack Building...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021" class="noirorange"><b>Ivanti Connect Secure</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-three-vulnerabilities-43021)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Another VPN User IP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Another-VPN-User-IP-43020)|An attacker can bypass filtering rules of Cisco ASA, via Another VPN User IP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018" class="noirorange"><b>Galleon</b>: information disclosure via Custom Provisioning Unsecured Http-invoker</a>](https://vigilance.fr/vulnerability/Galleon-information-disclosure-via-Custom-Provisioning-Unsecured-Http-invoker-43018)|An attacker can bypass access restrictions to data of Galleon, via Custom Provisioning Unsecured Http-invoker, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -157,18 +171,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-086/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-085/)|Visit link for details|2024-02-05|
- |[(Pwn2Own) Lexmark CX331adwe Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-084/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PostScript File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-083/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-082/)|Visit link for details|2024-01-31|
- |[(Pwn2Own) Lexmark CX331adwe make42charstring Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-081/)|Visit link for details|2024-01-31|
- |[Trend Micro Mobile Security for Enterprises vpplist_assign_list Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-080/)|Visit link for details|2024-01-19|
- |[Trend Micro Mobile Security for Enterprises ServerUpdate_UpdateSuccessful Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-079/)|Visit link for details|2024-01-19|
+ |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
+ |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
+ |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
+ |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
+ |[ 45853101/24 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring-0)| Deux vulnérabilités ont été corrigées dans les produits Spring. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité. | 31 janvier 2024|
+ |[ 45843101/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress)| Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la…| 31 janvier 2024|
+ |[ 45833001/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 30 janvier 2024|
+ |[ 45823001/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 30 janvier 2024|
+ |[ 45812901/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-3)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de contourner la politique de…| 29 janvier 2024|
+ |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
  
 
 # CA-CCS
@@ -186,20 +202,4 @@
  |[Apple security advisory (AV24-060)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-060)|Visit link for details|2024-02-01|
  |[Juniper Networks security advisory (AV24-059)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-059)|Visit link for details|2024-02-01|
  |[Ivanti security advisory (AV24-058)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-058)|Visit link for details|2024-01-31|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
- |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
- |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
- |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
- |[ 45853101/24 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring-0)| Deux vulnérabilités ont été corrigées dans les produits Spring. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité. | 31 janvier 2024|
- |[ 45843101/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress)| Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la…| 31 janvier 2024|
- |[ 45833001/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 30 janvier 2024|
- |[ 45823001/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 30 janvier 2024|
- |[ 45812901/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-3)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de contourner la politique de…| 29 janvier 2024|
- |[ 45802601/24 - Vulnérabilités critiques affectant des produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-jenkins)| Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  Une de ces vulnérabilités, identifiée par «CVE-2024-23897 » est critique et pourrait être activement…| 26 janvier 2024|
  
