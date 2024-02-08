@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/02/2024 20:17:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/02/2024 21:20:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
  |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
  |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 06, 2024|
@@ -42,7 +43,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog-0)|Visit link for details.|Jan 31, 2024|
  |[CISA and FBI Release Secure by Design Alert Urging Manufacturers to Eliminate Defects in SOHO Routers](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-and-fbi-release-secure-design-alert-urging-manufacturers-eliminate-defects-soho-routers)|Visit link for details.|Jan 31, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/01/31/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jan 31, 2024|
  
 
 # LINUX-SEC
@@ -76,22 +76,6 @@
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
  |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
  
 
 # HK-CERT
@@ -139,6 +123,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Product Lifecycle Management ExportServlet Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-096/)|Visit link for details|2024-02-06|
+ |[Canon imageCLASS MF753Cdw Fax Job Heap-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-095/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw CADM setResource Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-094/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw SLP service-url Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-093/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-092/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw Probe message Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-091/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-090/)|Visit link for details|2024-02-06|
+ |[(Pwn2Own) Canon imageCLASS MF753Cdw CADM rmSetFileName Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-089/)|Visit link for details|2024-02-06|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,35 +154,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle Product Lifecycle Management ExportServlet Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-096/)|Visit link for details|2024-02-06|
- |[Canon imageCLASS MF753Cdw Fax Job Heap-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-095/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw CADM setResource Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-094/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw SLP service-url Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-093/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-092/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw Probe message Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-091/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw rls-login Authorization Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-090/)|Visit link for details|2024-02-06|
- |[(Pwn2Own) Canon imageCLASS MF753Cdw CADM rmSetFileName Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-089/)|Visit link for details|2024-02-06|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
- |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
- |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
- |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
- |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
- |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
- |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
- |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
- |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
- |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
- |[Ubuntu security advisory (AV24-062)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-062)|Visit link for details|2024-02-05|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via send_acknowledge()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-send-acknowledge-43351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via send_acknowledge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-via-Template-Injection-43030)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, via Template Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via openssl::x509::verify::X509VerifyParamRef::set_host()</a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
  
 
 # MA-CERT
@@ -201,4 +184,21 @@
  |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
  |[ 45853101/24 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring-0)| Deux vulnérabilités ont été corrigées dans les produits Spring. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité. | 31 janvier 2024|
  |[ 45843101/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress)| Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la…| 31 janvier 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
+ |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
+ |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
+ |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
+ |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
+ |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
+ |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
+ |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
+ |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
+ |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
+ |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
  
