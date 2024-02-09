@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/02/2024 15:17:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/02/2024 16:14:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
- |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
- |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
- |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
- |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
- |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
- |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
- |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
- |[USN-6609-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6609-3-linux-kernel-oracle-vulnerabilities.48562/)|Visit link for details.|Feb 6, 2024|
- |[USN-6623-1: Django vulnerability](https://www.linux.org/threads/usn-6623-1-django-vulnerability.48561/)|Visit link for details.|Feb 6, 2024|
- |[DSA-5616-1 ruby-sanitize - security update](https://www.linux.org/threads/dsa-5616-1-ruby-sanitize-security-update.48549/)|Visit link for details.|Feb 6, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,39 @@
  |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/02/02/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Feb 02, 2024|
  |[Moby and Open Container Initiative Release Critical Updates for Multiple Vulnerabilities Affecting Docker-related Components](https://www.cisa.gov/news-events/alerts/2024/02/01/moby-and-open-container-initiative-release-critical-updates-multiple-vulnerabilities-affecting)|Visit link for details.|Feb 01, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 01, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans Fortinet FortiSIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/)|De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ |[Vulnérabilité dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/)|Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.|Publié le 7 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
+ |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
+ |[Multiples vulnérabilités dans VMware Aria Operations pour les réseaux](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
+ |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
+ |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
+ |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
+ |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
+ |[USN-6609-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6609-3-linux-kernel-oracle-vulnerabilities.48562/)|Visit link for details.|Feb 6, 2024|
+ |[USN-6623-1: Django vulnerability](https://www.linux.org/threads/usn-6623-1-django-vulnerability.48561/)|Visit link for details.|Feb 6, 2024|
  
 
 # CERT-SANTE
@@ -79,20 +95,17 @@
  |[Google Chrome - CVE-2023-4762](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4762-2023-09-11)|Visit link for details.|07/02/2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.|Publié le 7 février 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans VMware Aria Operations pour les réseaux](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans Veeam Recovery Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0095/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 février 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
- |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Qolsys IQ Panel 4 and Qolsys IQ4 Hub information disclosure (CVE-2024-0242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Fortinet FortiOS code execution (CVE-2024-21762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[Ivanti Connect Secure, Policy Secure and ZTA gateways information disclosure (CVE-2024-22024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab denial of service (CVE-2024-1066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab denial of service (CVE-2024-6386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab security bypass (CVE-2024-6840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
  
 
 # OBS-Vigilance
@@ -109,19 +122,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029" class="noirorange"><b>Brocade Fabric OS</b>: write access via License Forgery</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-write-access-via-License-Forgery-43029)|An attacker can bypass access restrictions of Brocade Fabric OS, via License Forgery, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Qolsys IQ Panel 4 and Qolsys IQ4 Hub information disclosure (CVE-2024-0242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Fortinet FortiOS code execution (CVE-2024-21762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[Ivanti Connect Secure, Policy Secure and ZTA gateways information disclosure (CVE-2024-22024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab denial of service (CVE-2024-1066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab denial of service (CVE-2024-6386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab security bypass (CVE-2024-6840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
  
 
 # HK-CERT
