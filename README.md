@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/02/2024 14:16:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/02/2024 15:17:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,29 +83,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
- |[Multiples vulnérabilités dans Fortinet FortiSIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/)|De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
- |[Vulnérabilité dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/)|Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 février 2024|
- |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 8 février 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.|Publié le 7 février 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
  |[Multiples vulnérabilités dans VMware Aria Operations pour les réseaux](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Qolsys IQ Panel 4 and Qolsys IQ4 Hub information disclosure (CVE-2024-0242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Fortinet FortiOS code execution (CVE-2024-21762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[Ivanti Connect Secure, Policy Secure and ZTA gateways information disclosure (CVE-2024-22024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab denial of service (CVE-2024-1066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab denial of service (CVE-2024-6386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
- |[GitLab security bypass (CVE-2024-6840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[Multiples vulnérabilités dans Veeam Recovery Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
+ |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0095/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 février 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
+ |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
  
 
 # OBS-Vigilance
@@ -124,6 +111,19 @@
  |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Qolsys IQ Panel 4 and Qolsys IQ4 Hub information disclosure (CVE-2024-0242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Fortinet FortiOS code execution (CVE-2024-21762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[Ivanti Connect Secure, Policy Secure and ZTA gateways information disclosure (CVE-2024-22024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab denial of service (CVE-2024-1066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab denial of service (CVE-2024-6386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ |[GitLab security bypass (CVE-2024-6840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -137,23 +137,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
- |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
- |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
- |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
- |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
- |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
- |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
- |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
- |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
- |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
- |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
  
 
 # EU-CERT
@@ -187,11 +170,29 @@
  |[(Pwn2Own) Canon imageCLASS MF753Cdw CADM rmSetFileName Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-089/)|Visit link for details|2024-02-06|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
+ |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
+ |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
+ |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
+ |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
+ |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
+ |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
+ |[Dell security advisory (AV24-066)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-066)|Visit link for details|2024-02-05|
+ |[[Control systems] CISA ICS security advisories (AV24-065)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-065)|Visit link for details|2024-02-05|
+ |[Red Hat security advisory (AV24-064)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-064)|Visit link for details|2024-02-05|
+ |[IBM security advisory (AV24-063)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-063)|Visit link for details|2024-02-05|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet a publié un avis de sécurité pour corriger une vulnérabilité critique affectant les versions susmentionnées de FortiOS. L’exploitation de cette faille peut permettre à un attaquant distant…| 09 février 2024|
+ |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
+ |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
  |[ 45930802/24 - Vulnérabilité critique affectant plusieurs distributions de Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-plusieurs-distributions-de-linux)| Une nouvelle vulnérabilité critique  a été corrigée au niveau de plusieurs distributions de Linux. Cette   vulnérabilité qui  concerne particulièrement le chargeur d’amorçage  « Shim » peut   …| 08 février 2024|
  |[ 45940802/24 - Vulnérabilités critiques affectant Cisco Expressway Series et ClamAV ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-cisco-expressway-series-et-clamav)| Cisco annonce la correction de plusieurs vulnérabilités critiques affectant ses produits Cisco Expressway Series et ClamAV. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant de…| 08 février 2024|
  |[ 45920802/24 - Vulnérabilités dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de FortiSIEM. L’exploitation de ces failles peut permettre à un attaquant distant non…| 08 février 2024|
@@ -200,5 +201,4 @@
  |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
  |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
  |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
- |[ 45853101/24 - Vulnérabilités dans les produits Spring ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-spring-0)| Deux vulnérabilités ont été corrigées dans les produits Spring. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité. | 31 janvier 2024|
  
