@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/02/2024 16:12:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/02/2024 17:27:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,22 +78,6 @@
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217" class="noirorange"><b>Mozilla Firefox  Thunderbird  SeaMonkey</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird  SeaMonkey...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210" class="noirorange"><b>SAP</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,17 +95,20 @@
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiAnalyzer, FortiAnalyzer-BigData, and FortiManager information disclosure (CVE-2023-44253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr file upload (CVE-2023-50386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217" class="noirorange"><b>Mozilla Firefox  Thunderbird  SeaMonkey</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird  SeaMonkey...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210" class="noirorange"><b>SAP</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
  
 
 # HK-CERT
@@ -137,6 +124,20 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[X.Org Server DeviceFocusEvent Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-123/)|Visit link for details|2024-02-09|
+ |[X.Org Server XIQueryPointer Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-122/)|Visit link for details|2024-02-09|
+ |[X.Org Server DeliverStateNotifyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-121/)|Visit link for details|2024-02-09|
+ |[X.Org Server XISendDeviceHierarchyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-120/)|Visit link for details|2024-02-09|
+ |[X.Org Server DisableDevice Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-119/)|Visit link for details|2024-02-09|
+ |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
+ |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
+ |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
  
 
 # EU-CERT
@@ -156,18 +157,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[X.Org Server DeviceFocusEvent Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-123/)|Visit link for details|2024-02-09|
- |[X.Org Server XIQueryPointer Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-122/)|Visit link for details|2024-02-09|
- |[X.Org Server DeliverStateNotifyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-121/)|Visit link for details|2024-02-09|
- |[X.Org Server XISendDeviceHierarchyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-120/)|Visit link for details|2024-02-09|
- |[X.Org Server DisableDevice Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-119/)|Visit link for details|2024-02-09|
- |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
- |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
- |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
+ |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
+ |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
+ |[ 45930802/24 - Vulnérabilité critique affectant plusieurs distributions de Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-plusieurs-distributions-de-linux)| Une nouvelle vulnérabilité critique  a été corrigée au niveau de plusieurs distributions de Linux. Cette   vulnérabilité qui  concerne particulièrement le chargeur d’amorçage  « Shim » peut   …| 08 février 2024|
+ |[ 45940802/24 - Vulnérabilités critiques affectant Cisco Expressway Series et ClamAV ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-cisco-expressway-series-et-clamav)| Cisco annonce la correction de plusieurs vulnérabilités critiques affectant ses produits Cisco Expressway Series et ClamAV. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant de…| 08 février 2024|
+ |[ 45920802/24 - Vulnérabilités dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de FortiSIEM. L’exploitation de ces failles peut permettre à un attaquant distant non…| 08 février 2024|
+ |[ 45910802/24 - Vulnérabilités dans VMware Aria Operations pour les réseaux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-pour-les-reseaux)| VMware a publié des correctifs de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une…| 08 février 2024|
+ |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
+ |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
+ |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
+ |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
  
 
 # CA-CCS
@@ -187,18 +190,15 @@
  |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
  
 
-# MA-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
- |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
- |[ 45930802/24 - Vulnérabilité critique affectant plusieurs distributions de Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-plusieurs-distributions-de-linux)| Une nouvelle vulnérabilité critique  a été corrigée au niveau de plusieurs distributions de Linux. Cette   vulnérabilité qui  concerne particulièrement le chargeur d’amorçage  « Shim » peut   …| 08 février 2024|
- |[ 45940802/24 - Vulnérabilités critiques affectant Cisco Expressway Series et ClamAV ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-cisco-expressway-series-et-clamav)| Cisco annonce la correction de plusieurs vulnérabilités critiques affectant ses produits Cisco Expressway Series et ClamAV. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant de…| 08 février 2024|
- |[ 45920802/24 - Vulnérabilités dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de FortiSIEM. L’exploitation de ces failles peut permettre à un attaquant distant non…| 08 février 2024|
- |[ 45910802/24 - Vulnérabilités dans VMware Aria Operations pour les réseaux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-pour-les-reseaux)| VMware a publié des correctifs de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une…| 08 février 2024|
- |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
- |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
- |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
- |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
+ |[Fortinet FortiAnalyzer, FortiAnalyzer-BigData, and FortiManager information disclosure (CVE-2023-44253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Apache Solr information disclosure (CVE-2023-50291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Apache Solr information disclosure (CVE-2023-50292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Apache Solr information disclosure (CVE-2023-50298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Apache Solr file upload (CVE-2023-50386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Open vSwitch Geneve denial of service (CVE-2023-3966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  
