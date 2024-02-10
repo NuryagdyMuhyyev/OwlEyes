@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/02/2024 14:15:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/02/2024 15:16:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 06, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
+ |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
+ |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
+ |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
+ |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,23 +91,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
- |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
- |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
- |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
- |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
- |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
- |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
- |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
- |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -137,22 +137,6 @@
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217" class="noirorange"><b>Mozilla Firefox  Thunderbird  SeaMonkey</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird  SeaMonkey...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210" class="noirorange"><b>SAP</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -168,6 +152,22 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-May-2023-41220)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217" class="noirorange"><b>Mozilla Firefox  Thunderbird  SeaMonkey</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-SeaMonkey-multiple-vulnerabilities-41217)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird  SeaMonkey...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210" class="noirorange"><b>SAP</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2023-41210)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41208)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
  
 
 # MA-CERT
