@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/02/2024 20:14:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/02/2024 21:20:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
- |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
- |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
- |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
- |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
- |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 06, 2024|
- 
 
 # LINUX-SEC
 
@@ -95,6 +79,22 @@
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
+ |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
+ |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
+ |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 06, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 06, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -115,13 +115,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra code execution (CVE-2024-22505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra code execution (CVE-2024-22506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  |[Fortinet FortiAnalyzer, FortiAnalyzer-BigData, and FortiManager information disclosure (CVE-2023-44253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Dell EMC AppSync information disclosure (CVE-2024-22464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr information disclosure (CVE-2023-50298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Apache Solr file upload (CVE-2023-50386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  
 
 # HK-CERT
@@ -156,18 +156,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[X.Org Server DeviceFocusEvent Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-123/)|Visit link for details|2024-02-09|
- |[X.Org Server XIQueryPointer Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-122/)|Visit link for details|2024-02-09|
- |[X.Org Server DeliverStateNotifyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-121/)|Visit link for details|2024-02-09|
- |[X.Org Server XISendDeviceHierarchyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-120/)|Visit link for details|2024-02-09|
- |[X.Org Server DisableDevice Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-119/)|Visit link for details|2024-02-09|
- |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
- |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
- |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
+ |[Vulnerabilities impacting Fortinet FortiOS](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-02-09|
+ |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
+ |[Ivanti security advisory (AV24-075)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-075)|Visit link for details|2024-02-09|
+ |[Fortinet security advisory (AV24-074)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-074)|Visit link for details|2024-02-09|
+ |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
+ |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
+ |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
+ |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
+ |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
+ |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
+ |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
  
 
 # MA-CERT
@@ -186,19 +189,16 @@
  |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnerabilities impacting Fortinet FortiOS](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-02-09|
- |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
- |[Ivanti security advisory (AV24-075)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-075)|Visit link for details|2024-02-09|
- |[Fortinet security advisory (AV24-074)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-074)|Visit link for details|2024-02-09|
- |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
- |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
- |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
- |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
- |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
- |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
- |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
+ |[X.Org Server DeviceFocusEvent Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-123/)|Visit link for details|2024-02-09|
+ |[X.Org Server XIQueryPointer Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-122/)|Visit link for details|2024-02-09|
+ |[X.Org Server DeliverStateNotifyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-121/)|Visit link for details|2024-02-09|
+ |[X.Org Server XISendDeviceHierarchyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-120/)|Visit link for details|2024-02-09|
+ |[X.Org Server DisableDevice Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-119/)|Visit link for details|2024-02-09|
+ |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
+ |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
+ |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
  
