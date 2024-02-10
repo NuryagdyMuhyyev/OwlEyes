@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/02/2024 21:20:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/02/2024 22:15:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
- |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
- |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
- |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
- |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
- |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
- |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
- |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
- |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -60,23 +43,6 @@
  |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
- |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
- |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
- |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
- |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
- |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
- |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
 # US-CERT
@@ -95,6 +61,36 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 06, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
+ |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
+ |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
+ |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
+ |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service privilege escalation (CVE-2023-50957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -111,17 +107,21 @@
  |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra code execution (CVE-2024-22505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra code execution (CVE-2024-22506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Fortinet FortiAnalyzer, FortiAnalyzer-BigData, and FortiManager information disclosure (CVE-2023-44253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
+ |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
+ |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
+ |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
+ |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
 # HK-CERT
