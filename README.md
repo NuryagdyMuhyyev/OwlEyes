@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/02/2024 19:14:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/02/2024 20:17:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
- |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
- |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
- |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
- |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
- |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
- |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
- |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
- |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
- |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
- 
 
 # US-CERT
 
@@ -78,37 +61,6 @@
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system.|Release Date: 9 Feb 2024 |
- |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 9 Feb 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 8 Feb 2024 |
- |[Cisco ClamAV Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/cisco-clamav-denial-of-service-vulnerability_20240208)|A vulnerability was identified in Cisco ClamAV. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 8 Feb 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 8 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -126,6 +78,23 @@
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
+ |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
+ |[USN-6625-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6625-2-linux-kernel-gcp-vulnerabilities.48595/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6627-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6627-1-libde265-vulnerabilities.48594/)|Visit link for details.|Feb 8, 2024|
+ |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
+ |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
+ |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
+ |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -137,6 +106,21 @@
  |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system.|Release Date: 9 Feb 2024 |
+ |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 9 Feb 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 8 Feb 2024 |
+ |[Cisco ClamAV Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/cisco-clamav-denial-of-service-vulnerability_20240208)|A vulnerability was identified in Cisco ClamAV. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 8 Feb 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 8 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
  
 
 # EU-CERT
@@ -168,6 +152,22 @@
  |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
  |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
 # CA-CCS
