@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/02/2024 21:20:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/02/2024 22:14:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -91,23 +91,6 @@
  |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
- |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
- |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
- |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
- |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
- |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
- |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -135,6 +118,23 @@
  |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
  |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
+ |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
+ |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
+ |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
+ |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
  
 
 # OBS-Vigilance
