@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/02/2024 17:27:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/02/2024 18:17:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
- |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
- |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
- |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
- |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
- |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
- |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2024|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -137,6 +104,55 @@
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
+ |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
+ |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
+ |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
+ |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
+ |[SonicWall - CVE-2024-22394](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-22394-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
+ |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-07)|Visit link for details.|07/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
+ |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2024|
+ |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -154,20 +170,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# OBS-Vigilance
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smbCalcSize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smbCalcSize-43045)|An attacker can force a read at an invalid memory address of the Linux kernel, via smbCalcSize(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041" class="noirorange"><b>IBM Informix Dynamic Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-three-vulnerabilities-43041)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2023-41221)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[Vulnerabilities impacting Fortinet FortiOS](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-02-09|
+ |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
+ |[Ivanti security advisory (AV24-075)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-075)|Visit link for details|2024-02-09|
+ |[Fortinet security advisory (AV24-074)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-074)|Visit link for details|2024-02-09|
+ |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
+ |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
+ |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
+ |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
+ |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
+ |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
+ |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
  
 
 # MA-CERT
@@ -184,21 +201,4 @@
  |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
  |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
  |[ 45860102/24 - Vulnérabilités critiques affectant des produits d’Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-divanti)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités critiques affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 01 février 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnerabilities impacting Fortinet FortiOS](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-02-09|
- |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
- |[Ivanti security advisory (AV24-075)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-075)|Visit link for details|2024-02-09|
- |[Fortinet security advisory (AV24-074)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-074)|Visit link for details|2024-02-09|
- |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
- |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
- |[Google Chrome security advisory (AV24-071)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-071)|Visit link for details|2024-02-07|
- |[VMWare security advisory (AV24-070)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-070)|Visit link for details|2024-02-06|
- |[HPE security advisory (AV24-069)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-069)|Visit link for details|2024-02-06|
- |[Android security advisory – February 2024 monthly rollup (AV24-068)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2024-monthly-rollup-av24-068)|Visit link for details|2024-02-05|
- |[[Control systems] B&R security advisory (AV24-067)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-067)|Visit link for details|2024-02-05|
  
