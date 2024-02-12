@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/02/2024 19:15:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/02/2024 20:16:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
  |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
  |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
@@ -42,13 +43,14 @@
  |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
  |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 06, 2024|
  
 
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6631-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6631-1-webkitgtk-vulnerabilities.48640/)|Visit link for details.|Feb 12, 2024|
+ |[USN-6630-1: Glance_store vulnerability](https://www.linux.org/threads/usn-6630-1-glance_store-vulnerability.48639/)|Visit link for details.|Feb 12, 2024|
  |[USN-6628-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-1-linux-kernel-intel-iotg-vulnerabilities.48614/)|Visit link for details.|Feb 10, 2024|
  |[DSA-5619-1 libgit2 - security update](https://www.linux.org/threads/dsa-5619-1-libgit2-security-update.48613/)|Visit link for details.|Feb 10, 2024|
  |[DSA-5618-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5618-1-webkit2gtk-security-update.48603/)|Visit link for details.|Feb 9, 2024|
@@ -58,8 +60,6 @@
  |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
  |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
  |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
- |[LSN-0100-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0100-1-kernel-live-patch-security-notice.48577/)|Visit link for details.|Feb 7, 2024|
- |[USN-6610-2: Firefox regressions](https://www.linux.org/threads/usn-6610-2-firefox-regressions.48569/)|Visit link for details.|Feb 7, 2024|
  
 
 # CERT-FR
@@ -78,24 +78,12 @@
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service privilege escalation (CVE-2023-50957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
  |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|12/02/2024|
+ |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|12/02/2024|
  |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|09/02/2024|
  |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
  |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
@@ -105,7 +93,6 @@
  |[Red Hat Shim - CVE-2023-40547](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-shim-cve-2023-40547-2024-02-08)|Visit link for details.|08/02/2024|
  |[Ivanti - CVE-2023-46263](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46263-2024-02-08)|Visit link for details.|08/02/2024|
  |[Cisco - CVE-2024-20254](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20254-2024-02-08)|Visit link for details.|08/02/2024|
- |[Cisco - CVE-2024-20252](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20252-2024-02-08)|Visit link for details.|08/02/2024|
  
 
 # HK-CERT
@@ -123,6 +110,35 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[IBM Storage Defender - Resiliency Service privilege escalation (CVE-2023-50957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
+ |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -135,22 +151,6 @@
  |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
  |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via IORING_SETUP_NO_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # EU-CERT
