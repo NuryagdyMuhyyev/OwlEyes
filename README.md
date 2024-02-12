@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/02/2024 02:13:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/02/2024 03:15:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,19 +62,6 @@
  |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -92,6 +79,22 @@
  |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
+ |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2024|
+ |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -107,18 +110,31 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[X.Org Server DeviceFocusEvent Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-123/)|Visit link for details|2024-02-09|
- |[X.Org Server XIQueryPointer Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-122/)|Visit link for details|2024-02-09|
- |[X.Org Server DeliverStateNotifyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-121/)|Visit link for details|2024-02-09|
- |[X.Org Server XISendDeviceHierarchyEvent Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-120/)|Visit link for details|2024-02-09|
- |[X.Org Server DisableDevice Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-119/)|Visit link for details|2024-02-09|
- |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
- |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
- |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD CATPART File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-161/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-160/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-159/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD IGES File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-158/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-157/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-156/)|Visit link for details|2024-02-12|
  
 
 # OBS-Vigilance
@@ -135,22 +151,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2024|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
  
 
 # EU-CERT
