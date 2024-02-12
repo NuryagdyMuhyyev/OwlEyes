@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/02/2024 21:21:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/02/2024 22:14:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6624-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6624-1-linux-kernel-vulnerabilities.48582/)|Visit link for details.|Feb 8, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
+ |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
+ |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
+ |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -62,20 +78,21 @@
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
- |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
- |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
- |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
- |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
- |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 06, 2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
+ |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|12/02/2024|
+ |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|12/02/2024|
+ |[Zoho ManageEngine - CVE-2024-0253](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0253-2024-02-06)|Visit link for details.|12/02/2024|
+ |[VMware - CVE-2024-22237](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22237-2024-02-07)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
  
 
 # HK-CERT
@@ -93,34 +110,33 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Simple School Management System SQL injection (CVE-2024-25312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Managment System security bypass (CVE-2024-25313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Hotel Management System SQL injection (CVE-2024-25314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Hotel Management System SQL injection (CVE-2024-25315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Hotel Management System SQL injection (CVE-2024-25316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Hotel Management System SQL injection (CVE-2024-25318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
  |[IBM Semeru Runtime information disclosure (CVE-2024-22361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2024-22312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[IBM Storage Defender - Resiliency Service privilege escalation (CVE-2023-50957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2024|
- |[Allegra directory traversal (CVE-2024-22507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- |[Allegra directory traversal (CVE-2024-22504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
- |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
- |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|12/02/2024|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|12/02/2024|
- |[Zoho ManageEngine - CVE-2024-0253](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0253-2024-02-06)|Visit link for details.|12/02/2024|
- |[VMware - CVE-2024-22237](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22237-2024-02-07)|Visit link for details.|12/02/2024|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|12/02/2024|
- |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|09/02/2024|
- |[D-Link - CVE-2024-24321](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-24321-2024-02-09)|Visit link for details.|09/02/2024|
- |[ClamAV - CVE-2024-20290](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2024-20290-2024-02-09)|Visit link for details.|09/02/2024|
- |[HTTP/2 - CVE-2023-44487](https://www.cyberveille-sante.gouv.fr/alertes/http2-cve-2023-44487-2023-10-12)|Visit link for details.|09/02/2024|
  
 
 # EU-CERT
@@ -152,22 +168,6 @@
  |[Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-118/)|Visit link for details|2024-02-09|
  |[Centreon updateGroups SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-117/)|Visit link for details|2024-02-09|
  |[Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-116/)|Visit link for details|2024-02-09|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
  
 
 # CA-CCS
