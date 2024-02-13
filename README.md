@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/02/2024 18:19:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/02/2024 19:15:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
+ |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
+ |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
+ |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
+ 
 
 # LINUX-SEC
 
@@ -62,19 +78,6 @@
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -90,6 +93,19 @@
  |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|12/02/2024|
  |[Zoho ManageEngine - CVE-2024-0253](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0253-2024-02-06)|Visit link for details.|12/02/2024|
  |[VMware - CVE-2024-22237](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22237-2024-02-07)|Visit link for details.|12/02/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
  
 
 # HK-CERT
@@ -119,38 +135,6 @@
  |[(0Day) Autodesk AutoCAD IGES File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-158/)|Visit link for details|2024-02-12|
  |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-157/)|Visit link for details|2024-02-12|
  |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-156/)|Visit link for details|2024-02-12|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
- |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
- |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
- |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
- |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
- |[VMware Releases Security Advisory for Aria Operations for Networks](https://www.cisa.gov/news-events/alerts/2024/02/07/vmware-releases-security-advisory-aria-operations-networks)|Visit link for details.|Feb 07, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069" class="noirorange"><b>FreeBSD</b>: information disclosure via NFS Client</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069)|An attacker can bypass access restrictions to data of FreeBSD, via NFS Client, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via gdev_prn_open_printer_seekable()</a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -185,6 +169,22 @@
  |[Fortinet security advisory (AV24-074)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-074)|Visit link for details|2024-02-09|
  |[SonicWall security advisory (AV24-073)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-073)|Visit link for details|2024-02-08|
  |[Cisco security advisory (AV24-072)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-072)|Visit link for details|2024-02-07|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082" class="noirorange"><b>TYPO3 femanager</b>: write access via Edit User Component</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082)|An attacker can bypass access restrictions of TYPO3 femanager, via Edit User Component, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081" class="noirorange"><b>TYPO3 Content Consent</b>: information disclosure via Direct Object Reference</a>](https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081)|An attacker can bypass access restrictions to data of TYPO3 Content Consent, via Direct Object Reference, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069" class="noirorange"><b>FreeBSD</b>: information disclosure via NFS Client</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069)|An attacker can bypass access restrictions to data of FreeBSD, via NFS Client, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
