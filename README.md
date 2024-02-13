@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/02/2024 08:18:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/02/2024 09:18:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,19 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059" class="noirorange"><b>SIMATIC</b>: denial of service via Port 102/tcp</a>](https://vigilance.fr/vulnerability/SIMATIC-denial-of-service-via-Port-102-tcp-43059)|An attacker can cause a fatal error of SIMATIC, via Port 102/tcp, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,18 +126,17 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD CATPART File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-161/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD STP File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-160/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-159/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD IGES File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-158/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-157/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-156/)|Visit link for details|2024-02-12|
+ |[Event Student Attendance System SQL injection (CVE-2024-25302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System security bypass (CVE-2024-25305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Cinema Seat Reservation System SQL injection (CVE-2024-25307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
+ |[Simple School Management System SQL injection (CVE-2024-25309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2024|
  
 
 # EU-CERT
@@ -168,6 +154,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD CATPART File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-161/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-160/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-159/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD IGES File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-158/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-157/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-156/)|Visit link for details|2024-02-12|
  
 
 # MA-CERT
