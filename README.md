@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/02/2024 21:21:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/02/2024 22:14:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,6 +66,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
  |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
@@ -75,7 +76,23 @@
  |[CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package)|Visit link for details.|Feb 08, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 08, 2024|
  |[Cisco Releases Security Advisory for Vulnerabilities in Cisco Expressway Series](https://www.cisa.gov/news-events/alerts/2024/02/08/cisco-releases-security-advisory-vulnerabilities-cisco-expressway-series)|Visit link for details.|Feb 08, 2024|
- |[CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land)|Visit link for details.|Feb 07, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
+ |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
+ |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
+ |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
+ |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
  
 
 # HK-CERT
@@ -91,6 +108,22 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 7 Feb 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_conntrack_dccp_packet()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082" class="noirorange"><b>TYPO3 femanager</b>: write access via Edit User Component</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082)|An attacker can bypass access restrictions of TYPO3 femanager, via Edit User Component, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081" class="noirorange"><b>TYPO3 Content Consent</b>: information disclosure via Direct Object Reference</a>](https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081)|An attacker can bypass access restrictions to data of TYPO3 Content Consent, via Direct Object Reference, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -135,39 +168,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082" class="noirorange"><b>TYPO3 femanager</b>: write access via Edit User Component</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-write-access-via-Edit-User-Component-43082)|An attacker can bypass access restrictions of TYPO3 femanager, via Edit User Component, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081" class="noirorange"><b>TYPO3 Content Consent</b>: information disclosure via Direct Object Reference</a>](https://vigilance.fr/vulnerability/TYPO3-Content-Consent-information-disclosure-via-Direct-Object-Reference-43081)|An attacker can bypass access restrictions to data of TYPO3 Content Consent, via Direct Object Reference, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
- |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
- |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
- |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
- |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
- |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
- |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
- |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
- |[Ivanti - CVE-2024-21893](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21893-2024-01-31)|Visit link for details.|12/02/2024|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|12/02/2024|
  
 
 # CA-CCS
