@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/02/2024 04:16:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/02/2024 06:10:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
- |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
- |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
- |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
- |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
- |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
- |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
- |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
- |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
- |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -114,13 +97,30 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Simcenter Femap code execution (CVE-2024-24920)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Siemens Simcenter Femap code execution (CVE-2024-24921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Siemens Simcenter Femap code execution (CVE-2024-24922)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Siemens Simcenter Femap code execution (CVE-2024-24923)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Siemens Simcenter Femap code execution (CVE-2024-24924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[SAP ABA security bypass (CVE-2024-22131)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Siemens Simcenter Femap code execution (CVE-2024-24925)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products privilege escalation (CVE-2024-24691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products denial of service (CVE-2024-24690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products code execution (CVE-2024-24697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
+ |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
+ |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
+ |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
+ |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
  
 
 # OBS-Vigilance
@@ -156,18 +156,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
- |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
+ |[ 45961202/24 - Vulnérabilité dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postgresql-1)| Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.| 12 février 2024|
+ |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
+ |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
+ |[ 45930802/24 - Vulnérabilité critique affectant plusieurs distributions de Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-plusieurs-distributions-de-linux)| Une nouvelle vulnérabilité critique  a été corrigée au niveau de plusieurs distributions de Linux. Cette   vulnérabilité qui  concerne particulièrement le chargeur d’amorçage  « Shim » peut   …| 08 février 2024|
+ |[ 45940802/24 - Vulnérabilités critiques affectant Cisco Expressway Series et ClamAV ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-cisco-expressway-series-et-clamav)| Cisco annonce la correction de plusieurs vulnérabilités critiques affectant ses produits Cisco Expressway Series et ClamAV. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant de…| 08 février 2024|
+ |[ 45920802/24 - Vulnérabilités dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de FortiSIEM. L’exploitation de ces failles peut permettre à un attaquant distant non…| 08 février 2024|
+ |[ 45910802/24 - Vulnérabilités dans VMware Aria Operations pour les réseaux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-pour-les-reseaux)| VMware a publié des correctifs de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une…| 08 février 2024|
+ |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
+ |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
+ |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
  
 
 # CA-CCS
@@ -187,18 +189,16 @@
  |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 45961202/24 - Vulnérabilité dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postgresql-1)| Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.| 12 février 2024|
- |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
- |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
- |[ 45930802/24 - Vulnérabilité critique affectant plusieurs distributions de Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-plusieurs-distributions-de-linux)| Une nouvelle vulnérabilité critique  a été corrigée au niveau de plusieurs distributions de Linux. Cette   vulnérabilité qui  concerne particulièrement le chargeur d’amorçage  « Shim » peut   …| 08 février 2024|
- |[ 45940802/24 - Vulnérabilités critiques affectant Cisco Expressway Series et ClamAV ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-cisco-expressway-series-et-clamav)| Cisco annonce la correction de plusieurs vulnérabilités critiques affectant ses produits Cisco Expressway Series et ClamAV. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant de…| 08 février 2024|
- |[ 45920802/24 - Vulnérabilités dans FortiSIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-fortisiem)| Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de FortiSIEM. L’exploitation de ces failles peut permettre à un attaquant distant non…| 08 février 2024|
- |[ 45910802/24 - Vulnérabilités dans VMware Aria Operations pour les réseaux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-pour-les-reseaux)| VMware a publié des correctifs de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une…| 08 février 2024|
- |[ 45900602/24 - Vulnérabilités critiques dans les produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-qnap)| QNAP Systems a publié des correctifs de sécurité pour des vulnérabilités de haute sévérité (CVE-2023-45025, CVE- 2023-39297 et CVE-2023-47564) affectant ses systèmes d'exploitation QTS et Qsync…| 06 février 2024|
- |[ 45870202/24 - Vulnérabilités dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-juniper-4)| Juniper annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire…| 02 février 2024|
- |[ 45870202/24 - Vulnérabilités critiques affectant les plugins «SEEDPROD» et «Cookie… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-plugins-seedprod-et-cookie-information-pour)| WordPress  annonce la correction de deux vulnérabilités affectant les plugins   «SEEDPROD» et «Cookie Information». Ces vulnérabilités peuvent permettre à un attaquant distant  de modifier des donnés…| 02 février 2024|
+ |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
+ |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
  
