@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/02/2024 09:20:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/02/2024 10:16:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
- 
 
 # US-CERT
 
@@ -76,6 +60,22 @@
  |[DSA-5617-1 chromium - security update](https://www.linux.org/threads/dsa-5617-1-chromium-security-update.48589/)|Visit link for details.|Feb 8, 2024|
  |[USN-6626-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-1-linux-kernel-vulnerabilities.48584/)|Visit link for details.|Feb 8, 2024|
  |[USN-6625-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6625-1-linux-kernel-vulnerabilities.48583/)|Visit link for details.|Feb 8, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
+ |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoom products privilege escalation (CVE-2024-24691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products denial of service (CVE-2024-24690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products information disclosure (CVE-2024-24699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products information disclosure (CVE-2024-24698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products code execution (CVE-2024-24697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products information disclosure (CVE-2024-24696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- |[Zoom products information disclosure (CVE-2024-24695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -138,6 +125,19 @@
  |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 9 Feb 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 8 Feb 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoom products privilege escalation (CVE-2024-24691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products denial of service (CVE-2024-24690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products code execution (CVE-2024-24697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
+ |[Zoom products information disclosure (CVE-2024-24695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
  
 
 # EU-CERT
