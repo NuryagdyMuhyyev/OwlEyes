@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/02/2024 19:16:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/02/2024 20:16:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
- |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
- 
 
 # LINUX-SEC
 
@@ -78,6 +62,22 @@
  |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -107,6 +107,23 @@
  |[Zoom products information disclosure (CVE-2024-24695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
+ |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
+ |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
+ |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
+ |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
+ |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -125,6 +142,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094" class="noirorange"><b>PAN-OS</b>: code execution via XML API OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094)|An attacker can use a vulnerability of PAN-OS, via XML API OS Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface DOM-Based</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface DOM-Based, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -134,24 +152,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_conntrack_dccp_packet()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
- |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
- |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
- |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
- |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
- |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|12/02/2024|
- |[IBM - CVE-2023-50957](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2023-50957-2024-02-12)|Visit link for details.|12/02/2024|
- |[Fortinet - CVE-2023-45581](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-45581-2024-02-12)|Visit link for details.|12/02/2024|
- |[Cisco - CVE-2024-20255](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20255-2024-02-12)|Visit link for details.|12/02/2024|
- |[Centreon - CVE-2024-23119](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-23119-2024-02-12)|Visit link for details.|12/02/2024|
  
 
 # EU-CERT
@@ -192,6 +192,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome security advisory (AV24-087)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-087)|Visit link for details|2024-02-14|
+ |[Adobe security advisory (AV24-086)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-086)|Visit link for details|2024-02-14|
  |[[Control systems] Siemens security advisory (AV24-085)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-085)|Visit link for details|2024-02-13|
  |[Microsoft security advisory – February 2024 monthly rollup (AV24-084)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2024-monthly-rollup-av24-084)|Visit link for details|2024-02-13|
  |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
@@ -201,6 +203,4 @@
  |[IBM security advisory (AV24-079)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-079)|Visit link for details|2024-02-12|
  |[Dell security advisory (AV24-078)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-078)|Visit link for details|2024-02-12|
  |[Ubuntu security advisory (AV24-077)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-077)|Visit link for details|2024-02-12|
- |[Vulnerabilities impacting Fortinet FortiOS](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-02-09|
- |[Microsoft Edge security advisory (AV24-076)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-076)|Visit link for details|2024-02-09|
  
