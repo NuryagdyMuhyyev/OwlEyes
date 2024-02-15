@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/02/2024 00:14:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/02/2024 01:15:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,20 @@
  |[USN-6626-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-2-linux-kernel-vulnerabilities.48669/)|Visit link for details.|Feb 14, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
+ |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/)|Une vulnérabilité a été découverte dans |Publié le 15 février 2024|
+ |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans Nginx](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 février 2024|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/)|Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
  
 
 # CERT-SANTE
@@ -79,33 +95,17 @@
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 février 2024|
- |[Multiples vulnérabilités dans SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 février 2024|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[CKEditor 4 LTS - WYSIWYG HTML editor module for Drupal cross-site scripting (CVE-2024-24815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Simple Admin Panel cross-site scripting (CVE-2024-25226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Redaxo CMS cross-site scripting (CVE-2024-25300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Redaxo CMS code execution (CVE-2024-25301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Node.js security bypass (CVE-2024-21890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Node.js security bypass (CVE-2024-21891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Node.js information disclosure (CVE-2023-46809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js directory traversal (CVE-2024-21896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  
 
 # OBS-Vigilance
@@ -140,18 +140,21 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
+ |[SAP security advisory – February 2024 monthly rollup (AV24-090)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2024-monthly-rollup-av24-090)|Visit link for details|2024-02-14|
+ |[HPE security advisory (AV24-089)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-089)|Visit link for details|2024-02-14|
+ |[[Control systems] B&R security advisory (AV24-088)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-088)|Visit link for details|2024-02-14|
+ |[Google Chrome security advisory (AV24-087)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-087)|Visit link for details|2024-02-14|
+ |[Adobe security advisory (AV24-086)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-086)|Visit link for details|2024-02-14|
+ |[[Control systems] Siemens security advisory (AV24-085)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-085)|Visit link for details|2024-02-13|
+ |[Microsoft security advisory – February 2024 monthly rollup (AV24-084)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2024-monthly-rollup-av24-084)|Visit link for details|2024-02-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
+ |[HPE security advisory (AV24-082)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-082)|Visit link for details|2024-02-13|
+ |[[Control systems] CISA ICS security advisories (AV24-081)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-081)|Visit link for details|2024-02-12|
  
 
 # EU-CERT
@@ -171,6 +174,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[ 46031402/24 - Vulnérabilité critique dans Microsoft Exchange Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-patch-tuesday-fevrier-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant de réussir une…| 14 février 2024|
  |[ 46021402/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 14 février 2024|
  |[ 46011402/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 14 février 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
- |[SAP security advisory – February 2024 monthly rollup (AV24-090)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2024-monthly-rollup-av24-090)|Visit link for details|2024-02-14|
- |[HPE security advisory (AV24-089)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-089)|Visit link for details|2024-02-14|
- |[[Control systems] B&R security advisory (AV24-088)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-088)|Visit link for details|2024-02-14|
- |[Google Chrome security advisory (AV24-087)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-087)|Visit link for details|2024-02-14|
- |[Adobe security advisory (AV24-086)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-086)|Visit link for details|2024-02-14|
- |[[Control systems] Siemens security advisory (AV24-085)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-085)|Visit link for details|2024-02-13|
- |[Microsoft security advisory – February 2024 monthly rollup (AV24-084)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2024-monthly-rollup-av24-084)|Visit link for details|2024-02-13|
- |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
- |[HPE security advisory (AV24-082)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-082)|Visit link for details|2024-02-13|
- |[[Control systems] CISA ICS security advisories (AV24-081)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-081)|Visit link for details|2024-02-12|
  
