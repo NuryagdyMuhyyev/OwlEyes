@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/02/2024 11:21:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/02/2024 12:14:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,6 +95,22 @@
  |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109" class="noirorange"><b>Microsoft Edge Chromium</b>: write access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109)|An attacker can bypass access restrictions of Microsoft Edge Chromium, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -124,36 +140,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094" class="noirorange"><b>PAN-OS</b>: code execution via XML API OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094)|An attacker can use a vulnerability of PAN-OS, via XML API OS Command Injection, in order to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
- |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
+ |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
  
 
 # CA-CCS
