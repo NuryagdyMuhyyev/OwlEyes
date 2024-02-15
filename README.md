@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/02/2024 13:20:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/02/2024 14:19:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,22 +111,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 9 Feb 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109" class="noirorange"><b>Microsoft Edge Chromium</b>: write access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109)|An attacker can bypass access restrictions of Microsoft Edge Chromium, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -154,6 +138,22 @@
  |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109" class="noirorange"><b>Microsoft Edge Chromium</b>: write access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109)|An attacker can bypass access restrictions of Microsoft Edge Chromium, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -171,6 +171,23 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
+ |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
+ |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
+ |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
+ |[ 46041402/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 14 février 2024|
+ |[ 46031402/24 - Vulnérabilité critique dans Microsoft Exchange Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-patch-tuesday-fevrier-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant de réussir une…| 14 février 2024|
+ |[ 46021402/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 14 février 2024|
+ |[ 46011402/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 14 février 2024|
+ |[ 46001402/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Février 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 14 février 2024|
+ |[ 45961202/24 - Vulnérabilité dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postgresql-1)| Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.| 12 février 2024|
+ |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,21 +203,4 @@
  |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
  |[HPE security advisory (AV24-082)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-082)|Visit link for details|2024-02-13|
  |[[Control systems] CISA ICS security advisories (AV24-081)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-081)|Visit link for details|2024-02-12|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
- |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- |[ 46041402/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 14 février 2024|
- |[ 46031402/24 - Vulnérabilité critique dans Microsoft Exchange Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-patch-tuesday-fevrier-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant de réussir une…| 14 février 2024|
- |[ 46021402/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 14 février 2024|
- |[ 46011402/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 14 février 2024|
- |[ 46001402/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Février 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 14 février 2024|
- |[ 45961202/24 - Vulnérabilité dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-postgresql-1)| Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.| 12 février 2024|
- |[ 45950902/24 - Nouvelle vulnérabilité affectant les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/nouvelle-vulnerabilite-affectant-les-produits-ivanti)| Ivanti a publié une mise à jour de sécurité pour corriger une vulnérabilité (CVE-2024-22024) affectant les passerelles Connect Secure, Policy Secure et ZTA. L'exploitation réussie de cette…| 09 février 2024|
- |[ 45940902/24 - Vulnérabilité critique dans FortiOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-fortios)| Fortinet avertit qu'une nouvelle vulnérabilité critique d'exécution de code à distance dans FortiOS SSL VPN est potentiellement exploitée dans des attaques. L'exploitation de la faille (CVE-2024-21762…| 09 février 2024|
  
