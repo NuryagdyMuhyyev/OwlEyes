@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/02/2024 18:17:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/02/2024 19:14:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
+ |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,21 @@
  |[USN-6626-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-2-linux-kernel-vulnerabilities.48669/)|Visit link for details.|Feb 14, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- |[Fortinet Releases Security Advisories for FortiOS](https://www.cisa.gov/news-events/alerts/2024/02/09/fortinet-releases-security-advisories-fortios)|Visit link for details.|Feb 09, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/09/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 09, 2024|
- |[JetBrains Releases Security Advisory for TeamCity On-Premises ](https://www.cisa.gov/news-events/alerts/2024/02/09/jetbrains-releases-security-advisory-teamcity-premises)|Visit link for details.|Feb 09, 2024|
+ |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|14/02/2024|
+ |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|14/02/2024|
+ |[Microsoft - CVE-2024-21410](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21410-2024-02-14)|Visit link for details.|14/02/2024|
+ |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|14/02/2024|
+ |[Zoom - CVE-2024-24691](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-24691-2024-02-14)|Visit link for details.|14/02/2024|
+ |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
+ |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
+ |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
+ |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
+ |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
  
 
 # CERT-FR
@@ -78,21 +95,17 @@
  |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|14/02/2024|
- |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|14/02/2024|
- |[Microsoft - CVE-2024-21410](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21410-2024-02-14)|Visit link for details.|14/02/2024|
- |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|14/02/2024|
- |[Zoom - CVE-2024-24691](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-24691-2024-02-14)|Visit link for details.|14/02/2024|
- |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
- |[SAP - CVE-2024-22131](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22131-2024-02-13)|Visit link for details.|13/02/2024|
- |[ManageEngine - CVE-2023-48792](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2023-48792-2024-02-13)|Visit link for details.|13/02/2024|
- |[Dell - CVE-2024-22454](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-22454-2024-02-13)|Visit link for details.|13/02/2024|
- |[Centreon - CVE-2024-0637](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-0637-2024-02-13)|Visit link for details.|13/02/2024|
- |[D-Link - CVE-2024-22853](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-22853-2024-02-06)|Visit link for details.|13/02/2024|
+ |[Node.js security bypass (CVE-2024-21890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js security bypass (CVE-2024-21891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js information disclosure (CVE-2023-46809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js directory traversal (CVE-2024-21896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js denial of service (CVE-2024-22019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js privilege escalation (CVE-2024-22017)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Node.js privilege escalation (CVE-2024-21892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  
 
 # HK-CERT
@@ -127,17 +140,18 @@
  |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Node.js security bypass (CVE-2024-21890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js security bypass (CVE-2024-21891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js information disclosure (CVE-2023-46809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js directory traversal (CVE-2024-21896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js denial of service (CVE-2024-22019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js privilege escalation (CVE-2024-22017)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Node.js privilege escalation (CVE-2024-21892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
+ |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
+ |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
+ |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
  
 
 # EU-CERT
@@ -155,20 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Audition AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-169/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-168/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-167/)|Visit link for details|2024-02-13|
- |[Adobe Acrobat Pro DC AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-166/)|Visit link for details|2024-02-13|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-165/)|Visit link for details|2024-02-13|
- |[Microsoft Office Word PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-164/)|Visit link for details|2024-02-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-163/)|Visit link for details|2024-02-12|
- |[(0Day) Autodesk AutoCAD X_T File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-162/)|Visit link for details|2024-02-12|
  
 
 # CA-CCS
