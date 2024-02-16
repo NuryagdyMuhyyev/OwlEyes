@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/02/2024 13:20:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/02/2024 14:16:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[USN-6608-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6608-2-linux-kernel-nvidia-vulnerabilities.48670/)|Visit link for details.|Feb 14, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/)|Une vulnérabilité a été découverte dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Multiples vulnérabilités dans Nginx](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 février 2024|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/)|Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,20 +79,33 @@
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
- |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240216)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 16 Feb 2024 |
- |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2024-22024.| Release Date: 9 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240215)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service, security restriction bypass, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Feb 2024 |
- |[QNAP NAS Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerabilities_20240214)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 14 Feb 2024 |
- |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Magento and Adobe Commerce Medium RiskCross-site ScriptingRemote Code ExecutionDenial of ServiceSecurity Restriction Bypass ...|Release Date: 14 Feb 2024 |
- |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code Execution Azure Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Developer Tools Medium Risk...|Release Date: 14 Feb 2024 |
- |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20240214)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 14 Feb 2024 |
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Yonyou space-time enterprise information integration platform SQL injection (CVE-2024-24256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
+ |[Siemens CP343-1 Devices denial of service (CVE-2023-51440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Siemens SIMATIC WinCC and OpenPCS denial of service (CVE-2023-48364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Siemens SIMATIC WinCC and OpenPCS denial of service (CVE-2023-48363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Siemens Polarion ALM privilege escalation (CVE-2023-50236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[CKEditor 4 LTS - WYSIWYG HTML editor module for Drupal cross-site scripting (CVE-2024-24815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[Mastodon security bypass (CVE-2024-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  
 
 # OBS-Vigilance
@@ -127,17 +124,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Yonyou space-time enterprise information integration platform SQL injection (CVE-2024-24256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
- |[Siemens CP343-1 Devices denial of service (CVE-2023-51440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Siemens SIMATIC WinCC and OpenPCS denial of service (CVE-2023-48364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Siemens SIMATIC WinCC and OpenPCS denial of service (CVE-2023-48363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Siemens Polarion ALM privilege escalation (CVE-2023-50236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[CKEditor 4 LTS - WYSIWYG HTML editor module for Drupal cross-site scripting (CVE-2024-24815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Mastodon security bypass (CVE-2024-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
+ |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240216)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 16 Feb 2024 |
+ |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2024-22024.| Release Date: 9 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240215)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service, security restriction bypass, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 15 Feb 2024 |
+ |[QNAP NAS Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerabilities_20240214)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 14 Feb 2024 |
+ |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Magento and Adobe Commerce Medium RiskCross-site ScriptingRemote Code ExecutionDenial of ServiceSecurity Restriction Bypass ...|Release Date: 14 Feb 2024 |
+ |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskRemote Code Execution Azure Medium RiskRemote Code ExecutionElevation of PrivilegeSpoofing Developer Tools Medium Risk...|Release Date: 14 Feb 2024 |
+ |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20240214)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 14 Feb 2024 |
  
 
 # EU-CERT
