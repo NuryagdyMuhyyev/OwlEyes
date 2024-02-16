@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/02/2024 07:21:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/02/2024 08:18:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,39 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6639-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6639-1-linux-kernel-oem-vulnerabilities.48689/)|Visit link for details.|Feb 15, 2024|
- |[USN-6628-2: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-2-linux-kernel-intel-iotg-vulnerabilities.48688/)|Visit link for details.|Feb 15, 2024|
- |[USN-6638-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-6638-1-edk-ii-vulnerabilities.48687/)|Visit link for details.|Feb 15, 2024|
- |[USN-6629-3: UltraJSON vulnerabilities](https://www.linux.org/threads/usn-6629-3-ultrajson-vulnerabilities.48686/)|Visit link for details.|Feb 15, 2024|
- |[DSA-5624-1 edk2 - security update](https://www.linux.org/threads/dsa-5624-1-edk2-security-update.48685/)|Visit link for details.|Feb 15, 2024|
- |[DSA-5623-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5623-1-postgresql-15-security-update.48684/)|Visit link for details.|Feb 15, 2024|
- |[DSA-5622-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5622-1-postgresql-13-security-update.48683/)|Visit link for details.|Feb 15, 2024|
- |[USN-6636-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-6636-1-clamav-vulnerabilities.48678/)|Visit link for details.|Feb 14, 2024|
- |[USN-6635-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6635-1-linux-kernel-gcp-vulnerabilities.48671/)|Visit link for details.|Feb 14, 2024|
- |[USN-6608-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6608-2-linux-kernel-nvidia-vulnerabilities.48670/)|Visit link for details.|Feb 14, 2024|
- |[USN-6626-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6626-2-linux-kernel-vulnerabilities.48669/)|Visit link for details.|Feb 14, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/)|Une vulnérabilité a été découverte dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Multiples vulnérabilités dans Nginx](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 février 2024|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/)|Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -78,20 +45,37 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118" class="noirorange"><b>Stormshield Network Security</b>: denial of service via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118)|An attacker can cause a fatal error of Stormshield Network Security, via IPSEC Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117" class="noirorange"><b>WordPress Team Circle Image Slider With Lightbox</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117)|An attacker can trigger a Cross Site Scripting of WordPress Team Circle Image Slider With Lightbox, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116" class="noirorange"><b>IBM i</b>: information disclosure via Web Browser Clients</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116)|An attacker can bypass access restrictions to data of IBM i, via Web Browser Clients, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115" class="noirorange"><b>PyDrive2</b>: code execution via YAML Deserilization</a>](https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115)|An attacker can use a vulnerability of PyDrive2, via YAML Deserilization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114" class="noirorange"><b>Centreon Web</b>: code execution via SENDTRAPCFG</a>](https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114)|An attacker can use a vulnerability of Centreon Web, via SENDTRAPCFG, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[USN-6640-1: shadow vulnerability](https://www.linux.org/threads/usn-6640-1-shadow-vulnerability.48706/)|Visit link for details.|Feb 16, 2024|
+ |[USN-6639-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6639-1-linux-kernel-oem-vulnerabilities.48689/)|Visit link for details.|Feb 15, 2024|
+ |[USN-6628-2: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6628-2-linux-kernel-intel-iotg-vulnerabilities.48688/)|Visit link for details.|Feb 15, 2024|
+ |[USN-6638-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-6638-1-edk-ii-vulnerabilities.48687/)|Visit link for details.|Feb 15, 2024|
+ |[USN-6629-3: UltraJSON vulnerabilities](https://www.linux.org/threads/usn-6629-3-ultrajson-vulnerabilities.48686/)|Visit link for details.|Feb 15, 2024|
+ |[DSA-5624-1 edk2 - security update](https://www.linux.org/threads/dsa-5624-1-edk2-security-update.48685/)|Visit link for details.|Feb 15, 2024|
+ |[DSA-5623-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5623-1-postgresql-15-security-update.48684/)|Visit link for details.|Feb 15, 2024|
+ |[DSA-5622-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5622-1-postgresql-13-security-update.48683/)|Visit link for details.|Feb 15, 2024|
+ |[USN-6636-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-6636-1-clamav-vulnerabilities.48678/)|Visit link for details.|Feb 14, 2024|
+ |[USN-6635-1: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6635-1-linux-kernel-gcp-vulnerabilities.48671/)|Visit link for details.|Feb 14, 2024|
+ |[USN-6608-2: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-6608-2-linux-kernel-nvidia-vulnerabilities.48670/)|Visit link for details.|Feb 14, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
  
 
 # CERT-SANTE
@@ -109,6 +93,22 @@
  |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|14/02/2024|
  |[Zoom - CVE-2024-24691](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-24691-2024-02-14)|Visit link for details.|14/02/2024|
  |[SolarWinds - CVE-2023-50395](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-50395-2024-02-13)|Visit link for details.|13/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118" class="noirorange"><b>Stormshield Network Security</b>: denial of service via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118)|An attacker can cause a fatal error of Stormshield Network Security, via IPSEC Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117" class="noirorange"><b>WordPress Team Circle Image Slider With Lightbox</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-Team-Circle-Image-Slider-With-Lightbox-Cross-Site-Scripting-43117)|An attacker can trigger a Cross Site Scripting of WordPress Team Circle Image Slider With Lightbox, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116" class="noirorange"><b>IBM i</b>: information disclosure via Web Browser Clients</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116)|An attacker can bypass access restrictions to data of IBM i, via Web Browser Clients, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115" class="noirorange"><b>PyDrive2</b>: code execution via YAML Deserilization</a>](https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115)|An attacker can use a vulnerability of PyDrive2, via YAML Deserilization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114" class="noirorange"><b>Centreon Web</b>: code execution via SENDTRAPCFG</a>](https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114)|An attacker can use a vulnerability of Centreon Web, via SENDTRAPCFG, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -131,13 +131,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens Polarion ALM privilege escalation (CVE-2023-50236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[CKEditor 4 LTS - WYSIWYG HTML editor module for Drupal cross-site scripting (CVE-2024-24815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Mastodon security bypass (CVE-2024-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[a-blog cms open redirect (CVE-2024-25559)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Squid denial of service (CVE-2024-25617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Mastodon information disclosure (CVE-2024-25619)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  |[Helm directory traversal (CVE-2024-25620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
- |[Dell Unity command execution (CVE-2024-0164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2024|
  
 
 # EU-CERT
@@ -157,21 +157,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
- |[ 46071602/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
- |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
- |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
- |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
- |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- |[ 46041402/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 14 février 2024|
- |[ 46031402/24 - Vulnérabilité critique dans Microsoft Exchange Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-patch-tuesday-fevrier-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant de réussir une…| 14 février 2024|
- |[ 46021402/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 14 février 2024|
- |[ 46011402/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 14 février 2024|
+ |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
  
 
 # CA-CCS
@@ -191,16 +188,19 @@
  |[[Control systems] CISA ICS security advisories (AV24-081)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-081)|Visit link for details|2024-02-12|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
+ |[ 46071602/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
+ |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
+ |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
+ |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
+ |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
+ |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
+ |[ 46041402/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 14 février 2024|
+ |[ 46031402/24 - Vulnérabilité critique dans Microsoft Exchange Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-patch-tuesday-fevrier-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant de réussir une…| 14 février 2024|
+ |[ 46021402/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 14 février 2024|
+ |[ 46011402/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 14 février 2024|
  
