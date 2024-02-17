@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/02/2024 00:13:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/02/2024 01:16:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/)|Une vulnérabilité a été découverte dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Multiples vulnérabilités dans Nginx](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans|Publié le 15 février 2024|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/)|Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
- 
 
 # US-CERT
 
@@ -78,17 +62,20 @@
  |[USN-6636-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-6636-1-clamav-vulnerabilities.48678/)|Visit link for details.|Feb 14, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Shelly TRV backdoor (CVE-2023-42143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[Shelly TRV information disclosure (CVE-2023-42144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2023-50951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[Apache Xerces C++ XML parser code execution (CVE-2024-23807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 février 2024|
+ |[Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0142/)|Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 février 2024|
+ |[Vulnérabilité dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
  
 
 # CERT-SANTE
@@ -124,18 +111,17 @@
  |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20240214)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 14 Feb 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ |[Shelly TRV backdoor (CVE-2023-42143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[Shelly TRV information disclosure (CVE-2023-42144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2023-50951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[Apache Xerces C++ XML parser code execution (CVE-2024-23807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
  
 
 # OBS-Vigilance
@@ -152,6 +138,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118" class="noirorange"><b>Stormshield Network Security</b>: denial of service via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-IPSEC-Daemon-43118)|An attacker can cause a fatal error of Stormshield Network Security, via IPSEC Daemon, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
  
 
 # EU-CERT
