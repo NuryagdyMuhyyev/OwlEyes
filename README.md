@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/02/2024 09:18:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/02/2024 10:14:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ 
 
 # LINUX-SEC
 
@@ -60,22 +76,6 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
  |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
  
 
 # CERT-SANTE
@@ -124,20 +124,18 @@
  |[Honeywell Niagara Framework on Windows, Linux and QNX denial of service (CVE-2024-1309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_build_iovec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_execute_request()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via __nvmet_req_complete()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
  
 
 # EU-CERT
@@ -157,35 +155,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds security advisory (AV24-093)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-093)|Visit link for details|2024-02-16|
- |[ISC BIND security advisory (AV24-092)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-092)|Visit link for details|2024-02-16|
- |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
- |[SAP security advisory – February 2024 monthly rollup (AV24-090)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2024-monthly-rollup-av24-090)|Visit link for details|2024-02-14|
- |[HPE security advisory (AV24-089)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-089)|Visit link for details|2024-02-14|
- |[[Control systems] B&R security advisory (AV24-088)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-088)|Visit link for details|2024-02-14|
- |[Google Chrome security advisory (AV24-087)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-087)|Visit link for details|2024-02-14|
- |[Adobe security advisory (AV24-086)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-086)|Visit link for details|2024-02-14|
- |[[Control systems] Siemens security advisory (AV24-085)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-085)|Visit link for details|2024-02-13|
- |[Microsoft security advisory – February 2024 monthly rollup (AV24-084)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2024-monthly-rollup-av24-084)|Visit link for details|2024-02-13|
- |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
+ |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_build_iovec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_execute_request()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via __nvmet_req_complete()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -203,4 +186,21 @@
  |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
  |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
  |[ 46041402/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 14 février 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds security advisory (AV24-093)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-093)|Visit link for details|2024-02-16|
+ |[ISC BIND security advisory (AV24-092)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-092)|Visit link for details|2024-02-16|
+ |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
+ |[SAP security advisory – February 2024 monthly rollup (AV24-090)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2024-monthly-rollup-av24-090)|Visit link for details|2024-02-14|
+ |[HPE security advisory (AV24-089)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-089)|Visit link for details|2024-02-14|
+ |[[Control systems] B&R security advisory (AV24-088)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-088)|Visit link for details|2024-02-14|
+ |[Google Chrome security advisory (AV24-087)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-087)|Visit link for details|2024-02-14|
+ |[Adobe security advisory (AV24-086)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-086)|Visit link for details|2024-02-14|
+ |[[Control systems] Siemens security advisory (AV24-085)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-085)|Visit link for details|2024-02-13|
+ |[Microsoft security advisory – February 2024 monthly rollup (AV24-084)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2024-monthly-rollup-av24-084)|Visit link for details|2024-02-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-083)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-083)|Visit link for details|2024-02-13|
  
