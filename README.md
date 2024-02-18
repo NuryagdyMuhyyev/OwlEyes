@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/02/2024 14:15:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/02/2024 15:17:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,21 +62,20 @@
  |[USN-6636-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-6636-1-clamav-vulnerabilities.48678/)|Visit link for details.|Feb 14, 2024|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-23479](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23479-2024-02-16)|Visit link for details.|16/02/2024|
- |[SolarWinds - CVE-2024-23476](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23476-2024-02-16)|Visit link for details.|16/02/2024|
- |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/02/2024|
- |[Grafana - CVE-2023-5123](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2023-5123-2024-02-16)|Visit link for details.|16/02/2024|
- |[FreeBSD - CVE-2022-23088](https://www.cyberveille-sante.gouv.fr/alertes/freebsd-cve-2022-23088-2024-02-16)|Visit link for details.|16/02/2024|
- |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|16/02/2024|
- |[Dell - CVE-2023-28078](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28078-2023-08-18)|Visit link for details.|16/02/2024|
- |[Dell - CVE-2023-32462](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32462-2023-08-17)|Visit link for details.|16/02/2024|
- |[Dell - CVE-2023-32484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32484-2023-08-18)|Visit link for details.|16/02/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|16/02/2024|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|16/02/2024|
+ |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_build_iovec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_execute_request()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via __nvmet_req_complete()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
  
 
 # CERT-FR
@@ -95,19 +94,6 @@
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Shelly TRV backdoor (CVE-2023-42143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[Shelly TRV information disclosure (CVE-2023-42144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2023-50951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
- |[Honeywell Niagara Framework on Windows, Linux and QNX denial of service (CVE-2024-1309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -124,20 +110,34 @@
  |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20240214)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 14 Feb 2024 |
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121" class="noirorange"><b>Fish</b>: denial of service via UFDD2HOME</a>](https://vigilance.fr/vulnerability/Fish-denial-of-service-via-UFDD2HOME-43121)|An attacker can cause a fatal error of Fish, via UFDD2HOME, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_build_iovec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-build-iovec-43431)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_tcp_execute_request()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-tcp-execute-request-43430)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via __nvmet_req_complete()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-req-complete-43429)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[SolarWinds - CVE-2024-23479](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23479-2024-02-16)|Visit link for details.|16/02/2024|
+ |[SolarWinds - CVE-2024-23476](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23476-2024-02-16)|Visit link for details.|16/02/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/02/2024|
+ |[Grafana - CVE-2023-5123](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2023-5123-2024-02-16)|Visit link for details.|16/02/2024|
+ |[FreeBSD - CVE-2022-23088](https://www.cyberveille-sante.gouv.fr/alertes/freebsd-cve-2022-23088-2024-02-16)|Visit link for details.|16/02/2024|
+ |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|16/02/2024|
+ |[Dell - CVE-2023-28078](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28078-2023-08-18)|Visit link for details.|16/02/2024|
+ |[Dell - CVE-2023-32462](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32462-2023-08-17)|Visit link for details.|16/02/2024|
+ |[Dell - CVE-2023-32484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32484-2023-08-18)|Visit link for details.|16/02/2024|
+ |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|16/02/2024|
+ |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|16/02/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Shelly TRV backdoor (CVE-2023-42143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[Shelly TRV information disclosure (CVE-2023-42144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2023-50951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 16, 2024|
+ |[Honeywell Niagara Framework on Windows, Linux and QNX denial of service (CVE-2024-1309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 15, 2024|
  
 
 # ZERODAYINITIATIVE
