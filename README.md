@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/02/2024 04:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/02/2024 06:11:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5623-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5623-1-postgresql-15-security-update.48684/)|Visit link for details.|Feb 15, 2024|
  |[DSA-5622-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5622-1-postgresql-13-security-update.48683/)|Visit link for details.|Feb 15, 2024|
  |[USN-6636-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-6636-1-clamav-vulnerabilities.48678/)|Visit link for details.|Feb 14, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
  
 
 # CERT-FR
@@ -111,6 +111,22 @@
  |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20240214)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 14 Feb 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133" class="noirorange"><b>Zabbix</b>: code execution via Zabbix_agent2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133)|An attacker can use a vulnerability of Zabbix, via Zabbix_agent2 Smartctl Plugin, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -136,22 +152,6 @@
  |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
  |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
  |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135" class="noirorange"><b>NCurse</b>: memory corruption via _nc_wrap_entry()</a>](https://vigilance.fr/vulnerability/NCurse-memory-corruption-via-nc-wrap-entry-43135)|An attacker can trigger a memory corruption of NCurse, via _nc_wrap_entry(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134" class="noirorange"><b>OpenSSH</b>: weak encryption via Terrapin Prefix Truncation</a>](https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134)|An attacker can access data on OpenSSH, via Terrapin Prefix Truncation, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133" class="noirorange"><b>Zabbix</b>: code execution via Zabbix_agent2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Zabbix-agent2-Smartctl-Plugin-43133)|An attacker can use a vulnerability of Zabbix, via Zabbix_agent2 Smartctl Plugin, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132" class="noirorange"><b>Zabbix</b>: code execution via icmpping()</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-icmpping-43132)|An attacker can use a vulnerability of Zabbix, via icmpping(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131" class="noirorange"><b>Dell NetWorker Virtual Edition</b>: weak encryption via SSH Deprecated Cryptographic</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Virtual-Edition-weak-encryption-via-SSH-Deprecated-Cryptographic-43131)|An attacker can access data on Dell NetWorker Virtual Edition, via SSH Deprecated Cryptographic, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
