@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/02/2024 20:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/02/2024 21:22:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
+ |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
+ 
 
 # LINUX-SEC
 
@@ -62,26 +78,14 @@
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 15 février 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 13, 2024|
- |[Priorities of the Joint Cyber Defense Collaborative for 2024](https://www.cisa.gov/news-events/alerts/2024/02/12/priorities-joint-cyber-defense-collaborative-2024)|Visit link for details.|Feb 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[cURL/IBM Db2 - CVE-2022-27782](https://www.cyberveille-sante.gouv.fr/alertes/curlibm-db2-cve-2022-27782-2024-02-19)|Visit link for details.|19/02/2024|
+ |[VMware - CVE-2023-34062](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-34062-2023-11-23)|Visit link for details.|19/02/2024|
+ |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|19/02/2024|
+ |[OpenSSL - CVE-2023-0215](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-0215-2023-02-27)|Visit link for details.|19/02/2024|
  |[SolarWinds - CVE-2024-23479](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23479-2024-02-16)|Visit link for details.|16/02/2024|
  |[SolarWinds - CVE-2024-23476](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23476-2024-02-16)|Visit link for details.|16/02/2024|
  |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/02/2024|
@@ -89,10 +93,6 @@
  |[FreeBSD - CVE-2022-23088](https://www.cyberveille-sante.gouv.fr/alertes/freebsd-cve-2022-23088-2024-02-16)|Visit link for details.|16/02/2024|
  |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|16/02/2024|
  |[Dell - CVE-2023-28078](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-28078-2023-08-18)|Visit link for details.|16/02/2024|
- |[Dell - CVE-2023-32462](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32462-2023-08-17)|Visit link for details.|16/02/2024|
- |[Dell - CVE-2023-32484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32484-2023-08-18)|Visit link for details.|16/02/2024|
- |[Ivanti - CVE-2024-21887](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21887-2024-01-11)|Visit link for details.|16/02/2024|
- |[Ivanti - CVE-2024-22024](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22024-2024-02-09)|Visit link for details.|16/02/2024|
  
 
 # HK-CERT
@@ -109,22 +109,6 @@
  |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2024-22024.| Release Date: 9 Feb 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284" class="noirorange"><b>Kitty</b>: code execution via Application/x-sh Mime Type</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284)|An attacker can use a vulnerability of Kitty, via Application/x-sh Mime Type, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -152,6 +136,22 @@
  |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
  |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
  |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284" class="noirorange"><b>Kitty</b>: code execution via Application/x-sh Mime Type</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284)|An attacker can use a vulnerability of Kitty, via Application/x-sh Mime Type, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141" class="noirorange"><b>PyInstaller</b>: file deletion</a>](https://vigilance.fr/vulnerability/PyInstaller-file-deletion-43141)|An attacker can bypass access restrictions of PyInstaller, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_placeholder()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-placeholder-43140)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43139)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138" class="noirorange"><b>libsass</b>: buffer overflow via CompoundSelector::has_real_parent_ref()</a>](https://vigilance.fr/vulnerability/libsass-buffer-overflow-via-CompoundSelector-has-real-parent-ref-43138)|An attacker can trigger a buffer overflow of libsass, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278" class="noirorange"><b>cups-filters</b>: code execution via Backend Error Handler</a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278)|An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp Unconfigured CODEC</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-Unconfigured-CODEC-43137)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp Unconfigured CODEC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
