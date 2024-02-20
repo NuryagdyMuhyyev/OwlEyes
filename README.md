@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/02/2024 15:17:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/02/2024 16:14:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/)|Une vulnérabilité a été découverte dans |Publié le 19 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 février 2024|
- |[Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0142/)|Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 février 2024|
- |[Vulnérabilité dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 février 2024|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -110,6 +94,35 @@
  |[Ivanti Products Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-security-restriction-bypass-vulnerability_20240209)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2024-22024.| Release Date: 9 Feb 2024 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/)|Une vulnérabilité a été découverte dans |Publié le 19 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 février 2024|
+ |[Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0142/)|Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 février 2024|
+ |[Vulnérabilité dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 février 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 février 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Commons Compress denial of service (CVE-2024-25710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Apache Commons Compress denial of service (CVE-2024-26308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Apache Camel code execution (CVE-2024-22369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Apache Camel code execution (CVE-2024-23114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Huawei HarmonyOS and EMUI security bypass (CVE-2023-52360)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Huawei HarmonyOS security bypass (CVE-2023-52361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ |[Huawei HarmonyOS and EMUI denial of service (CVE-2023-52362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -124,19 +137,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via form_post.jwt</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-form-post-jwt-43142)|An attacker can trigger a Cross Site Scripting of Keycloak, via form_post.jwt, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Commons Compress denial of service (CVE-2024-25710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Apache Commons Compress denial of service (CVE-2024-26308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Apache Camel code execution (CVE-2024-22369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Apache Camel code execution (CVE-2024-23114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Huawei HarmonyOS and EMUI security bypass (CVE-2023-52360)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Huawei HarmonyOS security bypass (CVE-2023-52361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
- |[Huawei HarmonyOS and EMUI denial of service (CVE-2023-52362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 18, 2024|
  
 
 # ZERODAYINITIATIVE
