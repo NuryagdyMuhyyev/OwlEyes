@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/02/2024 23:20:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/02/2024 00:12:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
+ 
 
 # LINUX-SEC
 
@@ -62,6 +78,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166" class="noirorange"><b>SMTP</b>: spoofing via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166)|An attacker can create spoofed data on SMTP, via SMTP Smuggling, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Adding New Devices</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161)|An attacker can trigger a Cross Site Scripting of Cacti, via Adding New Devices, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Data Sources Debug Mode</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160)|An attacker can trigger a Cross Site Scripting of Cacti, via Data Sources Debug Mode, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159" class="noirorange"><b>Cacti</b>: SQL injection via SNMP Notification Receivers</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159)|An attacker can use a SQL injection of Cacti, via SNMP Notification Receivers, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,51 +111,6 @@
  |[SolarWinds - CVE-2023-40057](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40057-2024-02-19)|Visit link for details.|19/02/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166" class="noirorange"><b>SMTP</b>: spoofing via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166)|An attacker can create spoofed data on SMTP, via SMTP Smuggling, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Adding New Devices</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161)|An attacker can trigger a Cross Site Scripting of Cacti, via Adding New Devices, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Data Sources Debug Mode</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160)|An attacker can trigger a Cross Site Scripting of Cacti, via Data Sources Debug Mode, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159" class="noirorange"><b>Cacti</b>: SQL injection via SNMP Notification Receivers</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159)|An attacker can use a SQL injection of Cacti, via SNMP Notification Receivers, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/02/13/isc-releases-security-advisories-bind-9)|Visit link for details.|Feb 13, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[PostgreSQL JDBC Driver (PgJDBC) SQL injection (CVE-2024-1597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -137,6 +124,19 @@
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
  |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240216)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 16 Feb 2024 |
  |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PostgreSQL JDBC Driver (PgJDBC) SQL injection (CVE-2024-1597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
  
 
 # EU-CERT
